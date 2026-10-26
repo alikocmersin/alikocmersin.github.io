@@ -1992,102 +1992,142 @@
       {
         "kart": 23,
         "soru": "Zorunlu Deprem Sigortası (DASK) poliçesi olmadan konut kredisi kullandırılabilir mi?",
-        "cevap": "HAYIR. Konut finansmanı ve konut kredisi kullandırımında DASK poliçesinin bulunması KANUNİ ZORUNLULUKTUR."
+        "cevap": "HAYIR. Konut finansmanı ve konut kredisi kullandırımında DASK poliçesinin bulunması KANUNİ ZORUNLULUKTUR.",
+        "q_end": 5.71,
+        "a_start": 9.01
       },
       {
         "kart": 24,
         "soru": "Tarım Sigortaları Havuzu (TARSİM) kapsamında Devlet Prim Desteği oranı genel olarak yüzde kaçtır?",
-        "cevap": "TARSİM sigorta priminin %50'si (don riskinde %60'a kadar) Devlet tarafından hibe olarak karşılanır."
+        "cevap": "TARSİM sigorta priminin %50'si (don riskinde %60'a kadar) Devlet tarafından hibe olarak karşılanır.",
+        "q_end": 6.24,
+        "a_start": 9.54
       },
       {
         "kart": 25,
         "soru": "Bireysel Emeklilik Sisteminde (BES) Devlet Katkısı oranı yüzde kaçtır ve bir yılda alınabilecek azami katkı sınırı nedir?",
-        "cevap": "Katılımcının ödediği katkı payının %30'u oranında Devlet Katkısı ödenir. Yıllık azami devlet katkısı tutarı o yılki YILLIK BRÜT ASGARİ ÜCRETİN %30'UNU AŞAMAZ."
+        "cevap": "Katılımcının ödediği katkı payının %30'u oranında Devlet Katkısı ödenir. Yıllık azami devlet katkısı tutarı o yılki YILLIK BRÜT ASGARİ ÜCRETİN %30'UNU AŞAMAZ.",
+        "q_end": 7.97,
+        "a_start": 11.27
       },
       {
         "kart": 26,
         "soru": "BES'te Devlet Katkısının tamamına (%100) hak kazanabilmek için sistemde aranan şartlar nelerdir?",
-        "cevap": "Sistemde en az 10 YIL kalmak ve 56 YAŞINI DOLDURMAKTIR (veya vefat/maluliyet hali)."
+        "cevap": "Sistemde en az 10 YIL kalmak ve 56 YAŞINI DOLDURMAKTIR (veya vefat/maluliyet hali).",
+        "q_end": 7.08,
+        "a_start": 10.38
       },
       {
         "kart": 27,
         "soru": "BES'te devlet katkısı kademeli hakediş oranları 3., 6. ve 10. yıllarda yüzde kaçtır?",
-        "cevap": "3 yıl kalanlar: %15 | 6 yıl kalanlar: %35 | 10 yıl kalanlar (56 yaş dolmadan): %60 hakediş elde eder."
+        "cevap": "3 yıl kalanlar: %15 | 6 yıl kalanlar: %35 | 10 yıl kalanlar (56 yaş dolmadan): %60 hakediş elde eder.",
+        "q_end": 6.5,
+        "a_start": 9.8
       },
       {
         "kart": 28,
         "soru": "BES katılımcısının 1 takvim yılı içinde kaç kez fon dağılımı değiştirme hakkı vardır?",
-        "cevap": "Katılımcının 1 yılda AZAMİ 12 KEZ fon dağılımını değiştirme hakkı bulunmaktadır."
+        "cevap": "Katılımcının 1 yılda AZAMİ 12 KEZ fon dağılımını değiştirme hakkı bulunmaktadır.",
+        "q_end": 6.07,
+        "a_start": 9.37
       },
       {
         "kart": 29,
         "soru": "BES Otomatik Katılım Sistemine (OKS) kimler dahil edilir ve maaştan kesinti oranı nedir?",
-        "cevap": "45 yaşını doldurmamış tüm çalışanlar işverenleri aracılığıyla otomatik dahil edilir. Çalışanın prime esas kazancının (PEK) EN AZ %3'Ü oranında kesinti yapılır."
+        "cevap": "45 yaşını doldurmamış tüm çalışanlar işverenleri aracılığıyla otomatik dahil edilir. Çalışanın prime esas kazancının (PEK) EN AZ %3'Ü oranında kesinti yapılır.",
+        "q_end": 6.82,
+        "a_start": 10.12
       },
       {
         "kart": 30,
         "soru": "BES Otomatik Katılım Sisteminde (OKS) çalışanın sistemden 'Cayma Hakkı' süresi kaç aydır?",
-        "cevap": "Çalışanın sisteme dahil edildiği bildirimden itibaren 2 AY içinde cayma hakkı bulunmaktadır (2 ay içinde cayarsa kesintiler iade edilir)."
+        "cevap": "Çalışanın sisteme dahil edildiği bildirimden itibaren 2 AY içinde cayma hakkı bulunmaktadır (2 ay içinde cayarsa kesintiler iade edilir).",
+        "q_end": 6.74,
+        "a_start": 10.04
       },
       {
         "kart": 31,
         "soru": "Bireysel Kredilerde 'Kredi Tahsis Ücreti / Dosya Masrafı' iadesi hangi durumlarda talep edilebilir?",
-        "cevap": "Kanuni binde 5 (%0,5) tavanı aşan tutarlar veya haksız alınan masraflar Tüketici Hakem Heyeti veya mahkeme kararıyla iade alınabilir."
+        "cevap": "Kanuni binde 5 (%0,5) tavanı aşan tutarlar veya haksız alınan masraflar Tüketici Hakem Heyeti veya mahkeme kararıyla iade alınabilir.",
+        "q_end": 7.37,
+        "a_start": 10.67
       },
       {
         "kart": 32,
         "soru": "Tüketici Hakem Heyetine başvuru kararları bağlayıcı mıdır?",
-        "cevap": "EVET. Tüketici Hakem Heyetlerinin kararları ilam (mahkeme kararı) niteliğindedir ve taraflar için bağlayıcıdır; 15 gün içinde Tüketici Mahkemesine itiraz edilebilir."
+        "cevap": "EVET. Tüketici Hakem Heyetlerinin kararları ilam (mahkeme kararı) niteliğindedir ve taraflar için bağlayıcıdır; 15 gün içinde Tüketici Mahkemesine itiraz edilebilir.",
+        "q_end": 4.13,
+        "a_start": 7.43
       },
       {
         "kart": 33,
         "soru": "İhtiyaç Kredilerinde BDDK tarafından belirlenen azami vade sınırları kredinin tutarına göre nasıl uygulanır?",
-        "cevap": "BDDK kararları doğrultusunda kredi tutarına göre (örneğin 50 bin TL altı 36 ay, 50-100 bin TL arası 24 ay, 100 bin TL üzeri 12 ay) azami vade sınırları uygulanır."
+        "cevap": "BDDK kararları doğrultusunda kredi tutarına göre (örneğin 50 bin TL altı 36 ay, 50-100 bin TL arası 24 ay, 100 bin TL üzeri 12 ay) azami vade sınırları uygulanır.",
+        "q_end": 7.32,
+        "a_start": 10.62
       },
       {
         "kart": 34,
         "soru": "Eşit taksitli tüketici kredisi ödeme planlarında ilk taksitlerde ve son taksitlerde anapara/faiz dağılımı nasıldır?",
-        "cevap": "İlk taksitlerde toplam borç yüksek olduğu için faiz payı yüksek anapara payı düşüktür; sona doğru anapara düştükçe faiz payı azalır ve anapara payı yükselir."
+        "cevap": "İlk taksitlerde toplam borç yüksek olduğu için faiz payı yüksek anapara payı düşüktür; sona doğru anapara düştükçe faiz payı azalır ve anapara payı yükselir.",
+        "q_end": 8.11,
+        "a_start": 11.41
       },
       {
         "kart": 35,
         "soru": "Kredi kartından veya KMH'dan Nakit Avans çekildiğinde faiz ne zaman işlemeye başlar?",
-        "cevap": "Nakit çekimin yapıldığı GÜNDEN İTİBAREN günlük faiz işletilmeye başlar."
+        "cevap": "Nakit çekimin yapıldığı GÜNDEN İTİBAREN günlük faiz işletilmeye başlar.",
+        "q_end": 5.71,
+        "a_start": 9.01
       },
       {
         "kart": 36,
         "soru": "Konut Finansmanında Değişken Faizli Kredi seçeneğinde faiz oranları neye göre güncellenir?",
-        "cevap": "TCMB veya TÜİK tarafından ilan edilen resmi endekslere (TÜFE/Yİ-ÜFE) bağlı olarak sözleşmede belirlenen periyotlarda güncellenir."
+        "cevap": "TCMB veya TÜİK tarafından ilan edilen resmi endekslere (TÜFE/Yİ-ÜFE) bağlı olarak sözleşmede belirlenen periyotlarda güncellenir.",
+        "q_end": 6.7,
+        "a_start": 10.0
       },
       {
         "kart": 37,
         "soru": "İkinci el taşıt kredisinde kaskolu araçların kredi tutarı oranları kaskonun değerine göre nasıl uygulanır?",
-        "cevap": "BDDK kararları doğrultusunda aracın kasko değerine göre kademeli (örneğin 400 bin TL'ye kadar %70, üzeri için düşen oranlarda) kredi kullandırılır."
+        "cevap": "BDDK kararları doğrultusunda aracın kasko değerine göre kademeli (örneğin 400 bin TL'ye kadar %70, üzeri için düşen oranlarda) kredi kullandırılır.",
+        "q_end": 6.6,
+        "a_start": 9.9
       },
       {
         "kart": 38,
         "soru": "Bireysel Kredi borçlusunun vefatı halinde Kredi Hayat Sigortası yoksa borç kime kalır?",
-        "cevap": "Vefat eden kişinin borcu yasal mirasçılarına geçer (Mirasçılar reddi miras yapmamışsa borçtan sorumludurlar)."
+        "cevap": "Vefat eden kişinin borcu yasal mirasçılarına geçer (Mirasçılar reddi miras yapmamışsa borçtan sorumludurlar).",
+        "q_end": 5.93,
+        "a_start": 9.23
       },
       {
         "kart": 39,
         "soru": "Tüketici Kredisi Ön Bilgilendirme Formunun verilmesi sözleşme yapma zorunluluğu getirir mi?",
-        "cevap": "HAYIR. Ön bilgilendirme formu tüketiciye teklif niteliğindedir; tüketiciyi sözleşme yapmaya zorlamaz."
+        "cevap": "HAYIR. Ön bilgilendirme formu tüketiciye teklif niteliğindedir; tüketiciyi sözleşme yapmaya zorlamaz.",
+        "q_end": 5.95,
+        "a_start": 9.25
       },
       {
         "kart": 40,
         "soru": "Konut Kredilerinde 'Dain-i Mürtehin' kaydı poliçede ne sağlar?",
-        "cevap": "Hasar veya vefat durumunda sigorta tazminatının öncelikle kredi alacaklısı olan Bankaya ödenmesini sağlar."
+        "cevap": "Hasar veya vefat durumunda sigorta tazminatının öncelikle kredi alacaklısı olan Bankaya ödenmesini sağlar.",
+        "q_end": 4.37,
+        "a_start": 7.67
       },
       {
         "kart": 41,
         "soru": "KMH borcunun ödenmemesi durumunda hesaba uygulanan faiz oranı nedir?",
-        "cevap": "KMH borcunun ödenmeyen kısmı için TCMB tarafından belirlenen azami gecikme faizi uygulanır."
+        "cevap": "KMH borcunun ödenmeyen kısmı için TCMB tarafından belirlenen azami gecikme faizi uygulanır.",
+        "q_end": 5.71,
+        "a_start": 9.01
       },
       {
         "kart": 42,
         "soru": "Bireysel Kredilerde Hakem Heyetine e-Devlet üzerinden hangi sistemle başvuru yapılır?",
-        "cevap": "Tüketici Bilgi Sistemi (TÜBİS) üzerinden e-Devlet kapısıyla başvuru yapılır."
+        "cevap": "Tüketici Bilgi Sistemi (TÜBİS) üzerinden e-Devlet kapısıyla başvuru yapılır.",
+        "q_end": 5.74,
+        "a_start": 9.04
       },
       {
         "kart": 43,
