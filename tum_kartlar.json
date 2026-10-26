@@ -1270,12 +1270,16 @@
       {
         "kart": 1,
         "soru": "Para Piyasaları ile Sermaye Piyasaları arasındaki temel vade farkı nedir?",
-        "cevap": "Para Piyasası: Kısa vadeli (1 yıla kadar) likidite piyasalarıdır. Sermaye Piyasası: Orta ve uzun vadeli (1 yıldan uzun) fon kaynakları piyasasıdır."
+        "cevap": "Para Piyasası: Kısa vadeli (1 yıla kadar) likidite piyasalarıdır. Sermaye Piyasası: Orta ve uzun vadeli (1 yıldan uzun) fon kaynakları piyasasıdır.",
+        "q_end": 5.52,
+        "a_start": 8.82
       },
       {
         "kart": 2,
         "soru": "Repo ve Ters Repo işlemlerinin tanımı nasıldır?",
-        "cevap": "Repo: Menkul kıymetin geri alma taahhüdüyle satılmasıdır. Ters Repo: Menkul kıymetin geri satma taahhüdüyle alınmasıdır."
+        "cevap": "Repo: Menkul kıymetin geri alma taahhüdüyle satılmasıdır. Ters Repo: Menkul kıymetin geri satma taahhüdüyle alınmasıdır.",
+        "q_end": 3.72,
+        "a_start": 7.02
       },
       {
         "kart": 3,
