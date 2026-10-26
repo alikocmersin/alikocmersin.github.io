@@ -148,102 +148,142 @@
       {
         "kart": 21,
         "soru": "Bağlı ortaklık ve iştiraklerin kaç tanesi finans sektöründe, kaç tanesi finans sektörü dışındadır?",
-        "cevap": "13'ü finans sektöründe, 12'si finans sektörü dışında yer almaktadır."
+        "cevap": "13'ü finans sektöründe, 12'si finans sektörü dışında yer almaktadır.",
+        "q_end": 7.08,
+        "a_start": 10.38
       },
       {
         "kart": 22,
         "soru": "Bağlı Ortaklık tanımı nedir?",
-        "cevap": "Bankamızın sermaye koyarak ortak olduğu, yönetim ve/veya sermaye kontrolü bulunan şirketlerdir."
+        "cevap": "Bankamızın sermaye koyarak ortak olduğu, yönetim ve/veya sermaye kontrolü bulunan şirketlerdir.",
+        "q_end": 2.59,
+        "a_start": 5.89
       },
       {
         "kart": 23,
         "soru": "İştirak tanımı nedir?",
-        "cevap": "Sermaye ve yönetim kontrolü bulunmamakla birlikte, şirketin finansal ve faaliyet kararlarına katılma gücünün (önemli etkinliğin) olduğu şirketlerdir."
+        "cevap": "Sermaye ve yönetim kontrolü bulunmamakla birlikte, şirketin finansal ve faaliyet kararlarına katılma gücünün (önemli etkinliğin) olduğu şirketlerdir.",
+        "q_end": 2.21,
+        "a_start": 5.51
       },
       {
         "kart": 24,
         "soru": "VakıfBank International AG'nin kuruluşu amacı ve genel merkezi nerededir?",
-        "cevap": "Yurt dışı faaliyetleri artırmak ve dışa açılma politikaları doğrultusunda kurulmuştur; genel merkezi Viyana / Avusturya'dadır."
+        "cevap": "Yurt dışı faaliyetleri artırmak ve dışa açılma politikaları doğrultusunda kurulmuştur; genel merkezi Viyana / Avusturya'dadır.",
+        "q_end": 5.16,
+        "a_start": 8.46
       },
       {
         "kart": 25,
         "soru": "Halka açılan ilk leasing şirketi olma unvanına sahip VakıfBank bağlı ortaklığı hangisidir?",
-        "cevap": "Vakıf Finansal Kiralama A.Ş."
+        "cevap": "Vakıf Finansal Kiralama A.Ş.",
+        "q_end": 5.88,
+        "a_start": 9.18
       },
       {
         "kart": 26,
         "soru": "Yurt içi ve yurt dışı her türlü ticari işleme yönelik faktoring hizmeti veren borsada işlem gören bağlı ortaklık hangisidir?",
-        "cevap": "Vakıf Faktoring A.Ş."
+        "cevap": "Vakıf Faktoring A.Ş.",
+        "q_end": 7.73,
+        "a_start": 11.03
       },
       {
         "kart": 27,
         "soru": "Vakıf Yatırım Menkul Değerler A.Ş. sermaye piyasası faaliyetlerini hangi kanalla Türkiye çapında yürütmektedir?",
-        "cevap": "Genel Müdürlüğü, şubeleri ve VakıfBank şubeleri ile yapılan emir iletimine aracılık sözleşmesi kapsamında yürütmektedir."
+        "cevap": "Genel Müdürlüğü, şubeleri ve VakıfBank şubeleri ile yapılan emir iletimine aracılık sözleşmesi kapsamında yürütmektedir.",
+        "q_end": 7.01,
+        "a_start": 10.31
       },
       {
         "kart": 28,
         "soru": "Türkiye'nin ilk menkul kıymet yatırım ortaklığı şirketi hangisidir?",
-        "cevap": "Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş."
+        "cevap": "Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 29,
         "soru": "Sektördeki ilk gayrimenkul yatırım ortaklığı şirketi hangisidir?",
-        "cevap": "Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş."
+        "cevap": "Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.",
+        "q_end": 4.56,
+        "a_start": 7.86
       },
       {
         "kart": 30,
         "soru": "Vakıf Elektronik Para ve Ödeme Hizmetleri A.Ş. hangi kurumun izinleri doğrultusunda kurulmuştur?",
-        "cevap": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) vereceği izinler doğrultusunda kurulmuştur."
+        "cevap": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) vereceği izinler doğrultusunda kurulmuştur.",
+        "q_end": 6.19,
+        "a_start": 9.49
       },
       {
         "kart": 31,
         "soru": "Vakıf Pazarlama Sanayi ve Ticaret A.Ş. faaliyet alanları nelerdir?",
-        "cevap": "Personel temini ile firmalara destek/temizlik hizmeti, araç kiralama, yemek hizmeti ve satışı alanlarında faaliyet gösterir."
+        "cevap": "Personel temini ile firmalara destek/temizlik hizmeti, araç kiralama, yemek hizmeti ve satışı alanlarında faaliyet gösterir.",
+        "q_end": 4.87,
+        "a_start": 8.17
       },
       {
         "kart": 32,
         "soru": "Vakıf Gayrimenkul Değerleme A.Ş. kuruluş amacı nedir?",
-        "cevap": "Her türlü gayrimenkulün ekspertiz ve değerleme işlemini yapmaktır."
+        "cevap": "Her türlü gayrimenkulün ekspertiz ve değerleme işlemini yapmaktır.",
+        "q_end": 4.01,
+        "a_start": 7.31
       },
       {
         "kart": 33,
         "soru": "Taksim Otelcilik A.Ş. portföyünde hangi oteller bulunmaktadır?",
-        "cevap": "Abant Palace Oteli, Abant Köşk Oteli ve Çeşme Oteli."
+        "cevap": "Abant Palace Oteli, Abant Köşk Oteli ve Çeşme Oteli.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 34,
         "soru": "Vakıf Enerji ve Madencilik A.Ş.'nin hali hazırda sınai ve ticari faaliyeti var mıdır?",
-        "cevap": "Hali hazırda herhangi bir sınai ve ticari faaliyeti bulunmamaktadır."
+        "cevap": "Hali hazırda herhangi bir sınai ve ticari faaliyeti bulunmamaktadır.",
+        "q_end": 6.62,
+        "a_start": 9.92
       },
       {
         "kart": 35,
         "soru": "Kıbrıs Vakıflar Bankası Ltd. kimin tarafından ve nerede kurulmuştur?",
-        "cevap": "Kıbrıs Vakıflar İdaresi tarafından Kuzey Kıbrıs Türk Cumhuriyeti'nde (K.K.T.C) kurulmuştur."
+        "cevap": "Kıbrıs Vakıflar İdaresi tarafından Kuzey Kıbrıs Türk Cumhuriyeti'nde (K.K.T.C) kurulmuştur.",
+        "q_end": 4.99,
+        "a_start": 8.29
       },
       {
         "kart": 36,
         "soru": "Orta ve büyük ölçekli yatırım projelerine uzun vadeli kaynak sağlayan ve yatırım bankacılığı yapan iştirak hangisidir?",
-        "cevap": "Türkiye Sınai Kalkınma Bankası A.Ş. (TSKB)."
+        "cevap": "Türkiye Sınai Kalkınma Bankası A.Ş. (TSKB).",
+        "q_end": 7.54,
+        "a_start": 10.84
       },
       {
         "kart": 37,
         "soru": "İstanbul Takas ve Saklama Bankası A.Ş. (Takasbank) temel işlevi nedir?",
-        "cevap": "Türkiye Sermaye Piyasalarında üyelere takas, saklama, mutabakat, merkezi karşı taraf ve bankacılık hizmetleri sunar."
+        "cevap": "Türkiye Sermaye Piyasalarında üyelere takas, saklama, mutabakat, merkezi karşı taraf ve bankacılık hizmetleri sunar.",
+        "q_end": 5.42,
+        "a_start": 8.72
       },
       {
         "kart": 38,
         "soru": "Kredi Garanti Fonu A.Ş. (KGF) lehtar kitleleri kimlerdir?",
-        "cevap": "KOBİ, çiftçi, esnaf ve sanatkarlar ile serbest meslek mensuplarıdır."
+        "cevap": "KOBİ, çiftçi, esnaf ve sanatkarlar ile serbest meslek mensuplarıdır.",
+        "q_end": 4.7,
+        "a_start": 8.0
       },
       {
         "kart": 39,
         "soru": "Birleşik İpotek Finansmanı A.Ş. kuruluş amacı nedir?",
-        "cevap": "Konut ve varlık finansmanı kapsamında varlıkların devralınması, yönetimi ve sermaye piyasası aracı ihracıdır."
+        "cevap": "Konut ve varlık finansmanı kapsamında varlıkların devralınması, yönetimi ve sermaye piyasası aracı ihracıdır.",
+        "q_end": 3.94,
+        "a_start": 7.24
       },
       {
         "kart": 40,
         "soru": "Birleşim Varlık Yönetim A.Ş. kuruluş amacı nedir?",
-        "cevap": "TMSF, bankalar ve mali kurumların alacaklarını satın almak, tahsil etmek ve yeniden yapılandırmaktır."
+        "cevap": "TMSF, bankalar ve mali kurumların alacaklarını satın almak, tahsil etmek ve yeniden yapılandırmaktır.",
+        "q_end": 3.72,
+        "a_start": 7.02
       },
       {
         "kart": 41,
