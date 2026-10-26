@@ -1971,6 +1971,7 @@
       currentTopicCount.textContent = `${TOPICS_DATA[idx].count} Kart`;
       renderDropdown();
       updateCardDisplay();
+      saveToCloudDB();
       if (autoplay) startCardPlayback();
     }
 
@@ -2363,6 +2364,7 @@
         else currentCardIndex = 0;
       }
       localStorage.setItem('vb_last_card', currentCardIndex);
+      saveToCloudDB();
       updateCardDisplay(animType || 'from-right');
       if (autoplay) startCardPlayback();
     }
@@ -2373,6 +2375,7 @@
       if (currentCardIndex > 0) currentCardIndex--;
       else currentCardIndex = cards.length - 1;
       localStorage.setItem('vb_last_card', currentCardIndex);
+      saveToCloudDB();
       updateCardDisplay(animType || 'from-left');
       if (autoplay) startCardPlayback();
     }
@@ -2385,6 +2388,7 @@
       userStats[`${topicId}_${card.kart}`] = st;
       localStorage.setItem('vb_iphone_stats', JSON.stringify(userStats));
       updateCardDisplay(animType);
+      saveToCloudDB();
       nextCard(animType);
     }
 
@@ -2660,6 +2664,222 @@
     document.querySelectorAll('#thinkingSegmented .seg-btn').forEach(b => {
       b.classList.toggle('active', parseFloat(b.dataset.sec) === thinkingDuration);
     });
+
+    // ========================================================
+    // BULUT VERİTABANI MOTORU (Firebase Firestore emir33)
+    // ========================================================
+    const FIRESTORE_DOC_URL = "https://firestore.googleapis.com/v1/projects/emir33/databases/(default)/documents/vakifbank_kartlar/user_3333";
+    let isCloudSyncing = false;
+    let cloudSyncDebounceTimer = null;
+
+    function updateCloudPill(status, text) {
+      const pill = document.getElementById('headerCloudPill');
+      if (!pill) return;
+      if (status === 'syncing') {
+        pill.className = 'header-cloud-pill syncing';
+        pill.innerHTML = `⏳ ${text || 'Kaydediliyor...'}`;
+      } else if (status === 'synced') {
+        pill.className = 'header-cloud-pill';
+        pill.innerHTML = `☁️ ${text || 'Bulut Aktif'}`;
+      } else if (status === 'error') {
+        pill.className = 'header-cloud-pill';
+        pill.style.background = 'rgba(239, 68, 68, 0.12)';
+        pill.style.color = '#ef4444';
+        pill.innerHTML = `⚠️ Çevrimdışı`;
+      }
+    }
+
+    // 1. ÖNCE ESKİ OTURUMU ÇEK (PULL FIRST - Asla boş durumla ezme!)
+    async function loadFromCloudDB() {
+      updateCloudPill('syncing', 'Yükleniyor...');
+      try {
+        const resp = await fetch(FIRESTORE_DOC_URL);
+        if (resp.ok) {
+          const data = await resp.json();
+          if (data && data.fields) {
+            const f = data.fields;
+            let remoteStats = {};
+            if (f.userStats && f.userStats.stringValue) {
+              try {
+                remoteStats = JSON.parse(f.userStats.stringValue);
+              } catch(e) { console.warn("Parse userStats err:", e); }
+            }
+            const remoteTopic = f.lastTopic ? parseInt(f.lastTopic.integerValue || 0, 10) : null;
+            const remoteCard = f.lastCard ? parseInt(f.lastCard.integerValue || 0, 10) : null;
+
+            // AKILLI BİRLEŞTİRME (MERGE):
+            // Uzak veritabanındaki kayıtları yerel hafıza ile birleştiriyoruz.
+            // Uzak kayıtlar önceliklidir (böylece farklı cihazdan girince eski kayıtlar asla silinmez!).
+            userStats = Object.assign({}, userStats, remoteStats);
+            localStorage.setItem('vb_iphone_stats', JSON.stringify(userStats));
+
+            if (remoteTopic !== null && remoteTopic >= 0 && remoteTopic < TOPICS_DATA.length) {
+              currentTopicIndex = remoteTopic;
+              localStorage.setItem('vb_last_topic', currentTopicIndex);
+            }
+            if (remoteCard !== null && remoteCard >= 0) {
+              currentCardIndex = remoteCard;
+              localStorage.setItem('vb_last_card', currentCardIndex);
+            }
+
+            renderDropdown();
+            currentTopicTitle.textContent = TOPICS_DATA[currentTopicIndex].title;
+            currentTopicCount.textContent = `${TOPICS_DATA[currentTopicIndex].count} Kart`;
+            updateCardDisplay();
+
+            const knownCount = Object.values(userStats).filter(v => v === 'known').length;
+            const unknownCount = Object.values(userStats).filter(v => v === 'unknown').length;
+            console.log(`✅ Bulut verileri başarıyla yüklendi! (${knownCount} Biliyorum, ${unknownCount} Bilmiyorum)`);
+            updateCloudPill('synced', 'Senkronize');
+            return true;
+          }
+        } else if (resp.status === 404) {
+          console.log("Bulutta henüz kayıt yok, mevcut yerel durum kaydedilecek.");
+          await saveToCloudDB(true);
+          updateCloudPill('synced', 'Senkronize');
+          return true;
+        }
+      } catch (err) {
+        console.warn("Bulut verisi çekme hatası (çevrimdışı mod kullanılacak):", err);
+        updateCloudPill('error');
+      }
+      return false;
+    }
+
+    // 2. DEĞİŞİKLİKLERİ BULUTA KAYDET (DEBOUNCED PATCH)
+    async function saveToCloudDB(immediate = false) {
+      if (cloudSyncDebounceTimer) clearTimeout(cloudSyncDebounceTimer);
+
+      const doSave = async () => {
+        updateCloudPill('syncing', 'Kaydediliyor...');
+        try {
+          const body = {
+            fields: {
+              passcode: { stringValue: "3333" },
+              userStats: { stringValue: JSON.stringify(userStats) },
+              lastTopic: { integerValue: String(currentTopicIndex) },
+              lastCard: { integerValue: String(currentCardIndex) },
+              updatedAt: { stringValue: new Date().toISOString() }
+            }
+          };
+
+          const resp = await fetch(FIRESTORE_DOC_URL, {
+            method: "PATCH",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(body)
+          });
+
+          if (resp.ok) {
+            updateCloudPill('synced', 'Senkronize');
+          } else {
+            updateCloudPill('error');
+          }
+        } catch (err) {
+          console.warn("Buluta kaydetme hatası:", err);
+          updateCloudPill('error');
+        }
+      };
+
+      if (immediate) {
+        await doSave();
+      } else {
+        cloudSyncDebounceTimer = setTimeout(doSave, 800);
+      }
+    }
+
+    // ========================================================
+    // iOS ŞİFRE PANELİ KONTROLLERİ (Passcode: 3333)
+    // ========================================================
+    const PASSCODE_TARGET = '3333';
+    let enteredPasscode = '';
+    const passcodeOverlay = document.getElementById('passcodeOverlay');
+    const passcodeDots = document.querySelectorAll('.passcode-dot');
+    const passcodeDotsRow = document.getElementById('passcodeDots');
+    const passcodeStatus = document.getElementById('passcodeStatus');
+    const keypadButtons = document.querySelectorAll('.keypad-btn[data-key]');
+    const keypadBackBtn = document.getElementById('keypadBackBtn');
+
+    function updatePasscodeDots() {
+      passcodeDots.forEach((dot, idx) => {
+        dot.classList.toggle('filled', idx < enteredPasscode.length);
+      });
+    }
+
+    async function handlePasscodeDigit(num) {
+      if (enteredPasscode.length >= 4) return;
+      enteredPasscode += num;
+      updatePasscodeDots();
+
+      if (enteredPasscode.length === 4) {
+        if (enteredPasscode === PASSCODE_TARGET) {
+          // Doğru şifre!
+          passcodeStatus.textContent = 'Giriş Başarılı • Oturum Yükleniyor...';
+          passcodeStatus.className = 'passcode-subtitle success';
+
+          // Önce eski bulut oturum bilgilerini çek
+          await loadFromCloudDB();
+
+          // Kilit ekranını akıcı animasyonla kaldır
+          sessionStorage.setItem('vb_passcode_auth', '3333');
+          setTimeout(() => {
+            passcodeOverlay.classList.add('unlocked');
+            unlockIOSAudio();
+          }, 450);
+        } else {
+          // Hatalı şifre - Ekranda kal ve salla! (Asla yönlendirme yapma)
+          passcodeStatus.textContent = 'Hatalı Parola • Lütfen Tekrar Deneyin';
+          passcodeStatus.className = 'passcode-subtitle error';
+          passcodeDotsRow.classList.add('shake');
+
+          if (navigator.vibrate) navigator.vibrate([60, 40, 60]);
+
+          setTimeout(() => {
+            enteredPasscode = '';
+            updatePasscodeDots();
+            passcodeDotsRow.classList.remove('shake');
+          }, 450);
+        }
+      }
+    }
+
+    keypadButtons.forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        const key = btn.getAttribute('data-key');
+        handlePasscodeDigit(key);
+      });
+    });
+
+    if (keypadBackBtn) {
+      keypadBackBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        if (enteredPasscode.length > 0) {
+          enteredPasscode = enteredPasscode.slice(0, -1);
+          updatePasscodeDots();
+          passcodeStatus.textContent = 'Giriş için parolayı girin';
+          passcodeStatus.className = 'passcode-subtitle';
+        }
+      });
+    }
+
+    // Fiziksel klavye tuşları desteği
+    window.addEventListener('keydown', (e) => {
+      if (passcodeOverlay.classList.contains('unlocked')) return;
+      if (e.key >= '0' && e.key <= '9') {
+        handlePasscodeDigit(e.key);
+      } else if (e.key === 'Backspace') {
+        if (enteredPasscode.length > 0) {
+          enteredPasscode = enteredPasscode.slice(0, -1);
+          updatePasscodeDots();
+        }
+      }
+    });
+
+    // Oturum kontrolü: Daha önce bu sekmede girildiyse tekrar sorma
+    if (sessionStorage.getItem('vb_passcode_auth') === '3333') {
+      passcodeOverlay.classList.add('unlocked');
+      loadFromCloudDB();
+    }
 
     // Başlangıç Yüklemesi
     renderDropdown();
