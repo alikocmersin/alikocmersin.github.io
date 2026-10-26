@@ -3408,102 +3408,142 @@
       {
         "kart": 23,
         "soru": "Avans Teminat Mektubu nakde çevrilirse ne garanti edilmiş olur?",
-        "cevap": "Müteahhide verilen ön avansın amacına uygun kullanılacağını veya iş yapılmazsa avansın iade edileceğini garanti eder."
+        "cevap": "Müteahhide verilen ön avansın amacına uygun kullanılacağını veya iş yapılmazsa avansın iade edileceğini garanti eder.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 24,
         "soru": "Gümrük Teminat Mektubu nerede kullanılır?",
-        "cevap": "İthalat işlemlerinde doğacak gümrük vergisi ve resimlerin ödenmesini garanti etmek amacıyla gümrük idarelerine verilir."
+        "cevap": "İthalat işlemlerinde doğacak gümrük vergisi ve resimlerin ödenmesini garanti etmek amacıyla gümrük idarelerine verilir.",
+        "q_end": 3.19,
+        "a_start": 6.49
       },
       {
         "kart": 25,
         "soru": "Akreditifli Ödemede (L/C) Amir, Lehtar ve Amir Banka kimlerdir?",
-        "cevap": "Amir: İthalatçı. Lehtar: İhracatçı. Amir Banka: İthalatçı adına akreditifi açan ve şartlar sağlandığında ödeme garantisi veren bankadır."
+        "cevap": "Amir: İthalatçı. Lehtar: İhracatçı. Amir Banka: İthalatçı adına akreditifi açan ve şartlar sağlandığında ödeme garantisi veren bankadır.",
+        "q_end": 5.74,
+        "a_start": 9.04
       },
       {
         "kart": 26,
         "soru": "Kabul Kredili Akreditifte bankanın üstlendiği sorumluluk nedir?",
-        "cevap": "İhracatçı tarafından çekilen vadeli poliçeyi imzalayarak (kabul ederek) vadede poliçe bedelini kayıtsız şartsız ödeyeceğini taahhüt etmesidir."
+        "cevap": "İhracatçı tarafından çekilen vadeli poliçeyi imzalayarak (kabul ederek) vadede poliçe bedelini kayıtsız şartsız ödeyeceğini taahhüt etmesidir.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 27,
         "soru": "Anapara İpoteği ile Üst Sınır İpoteği arasındaki hukuki fark nedir?",
-        "cevap": "Anapara İpoteği: Borç tutarı kesin olarak belli olan alacaklar için kurulur. Üst Sınır İpoteği: İleride doğacak, dalgalanan borçlar için azami bir limit belirlenerek kurulur."
+        "cevap": "Anapara İpoteği: Borç tutarı kesin olarak belli olan alacaklar için kurulur. Üst Sınır İpoteği: İleride doğacak, dalgalanan borçlar için azami bir limit belirlenerek kurulur.",
+        "q_end": 4.94,
+        "a_start": 8.24
       },
       {
         "kart": 28,
         "soru": "Gayrimenkul İpoteklerinde banka lehine tesis edilecek kredilerde azami kredi ekspertiz oranı yüzde kaçtır?",
-        "cevap": "Gayrimenkulün ekspertiz değerinin en fazla %75'i oranında kredi tahsis edilebilir."
+        "cevap": "Gayrimenkulün ekspertiz değerinin en fazla %75'i oranında kredi tahsis edilebilir.",
+        "q_end": 7.03,
+        "a_start": 10.33
       },
       {
         "kart": 29,
         "soru": "Ticari İşletme Rehni (TİRK) hangi sicile tescil edilerek kurulur ve neleri kapsar?",
-        "cevap": "Ticaret Siciline tescil edilerek kurulur. İşletmenin unvanı, tesisatı, araçları, makine/teçhizatı ve sınai mülkiyet haklarını kapsar."
+        "cevap": "Ticaret Siciline tescil edilerek kurulur. İşletmenin unvanı, tesisatı, araçları, makine/teçhizatı ve sınai mülkiyet haklarını kapsar.",
+        "q_end": 5.66,
+        "a_start": 8.96
       },
       {
         "kart": 30,
         "soru": "Taşınır Rehni (Menkul Rehni) kurulmasında zilyetlik kuralı nedir?",
-        "cevap": "Kural olarak taşınır rehninin geçerli olması için rehne konu malın zilyetliğinin alacaklı bankaya devredilmesi gerekir (Sicilli rehinler hariç)."
+        "cevap": "Kural olarak taşınır rehninin geçerli olması için rehne konu malın zilyetliğinin alacaklı bankaya devredilmesi gerekir (Sicilli rehinler hariç).",
+        "q_end": 4.7,
+        "a_start": 8.0
       },
       {
         "kart": 31,
         "soru": "Müteselsil Kefalet yükümlülüğünde banka asıl borçluya başvurmadan kefile gidebilir mi? Eşin yazılı rızası şart mıdır?",
-        "cevap": "EVET, banka asıl borçluya başvurmadan doğrudan müteselsil kefilden borcun tamamını isteyebilir. Borçlar Kanunu uyarınca kefalette EŞİN YAZILI RIZASI ZORUNLUDUR."
+        "cevap": "EVET, banka asıl borçluya başvurmadan doğrudan müteselsil kefilden borcun tamamını isteyebilir. Borçlar Kanunu uyarınca kefalette EŞİN YAZILI RIZASI ZORUNLUDUR.",
+        "q_end": 8.47,
+        "a_start": 11.77
       },
       {
         "kart": 32,
         "soru": "Adi Kefalet ile Müteselsil Kefalet arasındaki temel fark nedir?",
-        "cevap": "Adi kefalette banka önce asıl borçluya başvurup icra takibi yapmak zorundadır. Müteselsil kefalette ise doğrudan kefile başvurulabilir."
+        "cevap": "Adi kefalette banka önce asıl borçluya başvurup icra takibi yapmak zorundadır. Müteselsil kefalette ise doğrudan kefile başvurulabilir.",
+        "q_end": 4.87,
+        "a_start": 8.17
       },
       {
         "kart": 33,
         "soru": "Genel Kredi Sözleşmesi (GKS) temel niteliği nedir?",
-        "cevap": "Banka ile kredi müşterisi arasında imzalanan, açılacak tüm kredi türlerinin genel şartlarını, teminatlarını ve borçlu yükümlülüklerini kapsayan çerçeve sözleşmedir."
+        "cevap": "Banka ile kredi müşterisi arasında imzalanan, açılacak tüm kredi türlerinin genel şartlarını, teminatlarını ve borçlu yükümlülüklerini kapsayan çerçeve sözleşmedir.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 34,
         "soru": "Kredi sözleşmelerinde yer alan 'Cevaz Maddesi' ne imkan tanır?",
-        "cevap": "Bankaya krediyi dilediği zaman geri çağırma, dondurma ve limitleri iptal etme yetkisi verir."
+        "cevap": "Bankaya krediyi dilediği zaman geri çağırma, dondurma ve limitleri iptal etme yetkisi verir.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 35,
         "soru": "Kredi Sözleşmelerinde yer alan 'Covenant' kısıtlamaları ihlal edilirse bankanın hakkı nedir?",
-        "cevap": "Covenant ihlali durumunda banka krediyi muaccel kılma (derhal geri çağırma) ve teminatları paraya çevirme hakkına sahip olur."
+        "cevap": "Covenant ihlali durumunda banka krediyi muaccel kılma (derhal geri çağırma) ve teminatları paraya çevirme hakkına sahip olur.",
+        "q_end": 6.67,
+        "a_start": 9.97
       },
       {
         "kart": 36,
         "soru": "Kredilerin Sınıflandırılması Yönetmeliği uyarınca 1. Grup (Standart Krediler) gecikme süresi sınır nedir?",
-        "cevap": "Anapara veya faiz ödemesi vadesinden itibaren gecikmesi olmayan veya en fazla 30 güne kadar geciken kredilerdir."
+        "cevap": "Anapara veya faiz ödemesi vadesinden itibaren gecikmesi olmayan veya en fazla 30 güne kadar geciken kredilerdir.",
+        "q_end": 7.34,
+        "a_start": 10.64
       },
       {
         "kart": 37,
         "soru": "Kredilerin Sınıflandırılması Yönetmeliği uyarınca 2. Grup (Yakın İzlemedeki Krediler) gecikme süresi kaç gündür?",
-        "cevap": "Anapara veya faiz ödemesi vadesinden itibaren 31 GÜN İLE 90 GÜN ARASINDA geciken krediler 2. Gruba aktarılır."
+        "cevap": "Anapara veya faiz ödemesi vadesinden itibaren 31 GÜN İLE 90 GÜN ARASINDA geciken krediler 2. Gruba aktarılır.",
+        "q_end": 7.49,
+        "a_start": 10.79
       },
       {
         "kart": 38,
         "soru": "Tahsili Gecikmiş Alacak (Takipteki Kredi / NPL) statüsü kaç günlük gecikmeyle başlar ve kaçıncı gruba aktarılır?",
-        "cevap": "Gecikme süresi 90 GÜNÜ AŞTIĞINDA başlar ve kredi 3. Gruba (Tahsil İmkânı Sınırlı Krediler) aktarılır."
+        "cevap": "Gecikme süresi 90 GÜNÜ AŞTIĞINDA başlar ve kredi 3. Gruba (Tahsil İmkânı Sınırlı Krediler) aktarılır.",
+        "q_end": 7.51,
+        "a_start": 10.81
       },
       {
         "kart": 39,
         "soru": "Kredi Sınıflandırmasında 4. Grup Kredilerin tanımı ve gecikme süresi nedir?",
-        "cevap": "Tahsili Şüpheli Krediler olup gecikme süresi 181 GÜN İLE 365 GÜN ARASINDA olan kredilerdir."
+        "cevap": "Tahsili Şüpheli Krediler olup gecikme süresi 181 GÜN İLE 365 GÜN ARASINDA olan kredilerdir.",
+        "q_end": 6.12,
+        "a_start": 9.42
       },
       {
         "kart": 40,
         "soru": "Kredi Sınıflandırmasında 5. Grup 'Zarar Niteliğindeki Krediler' gecikme süresi ne kadardır ve ayrılacak özel karşılık oranı yüzde kaçtır?",
-        "cevap": "Gecikme süresi 1 YILI AŞAN kredilerdir ve bu krediler için %100 ÖZEL KARŞILIK ayrılması zorunludur."
+        "cevap": "Gecikme süresi 1 YILI AŞAN kredilerdir ve bu krediler için %100 ÖZEL KARŞILIK ayrılması zorunludur.",
+        "q_end": 8.74,
+        "a_start": 12.04
       },
       {
         "kart": 41,
         "soru": "Bankaların ayırdığı 'Özel Karşılıklar' Kurumlar Vergisi matrahından gider yazılabilir mi?",
-        "cevap": "EVET. BDDK yönetmeliğine göre ayrılan özel karşılık tutarları Kurumlar Vergisi matrahının tespitinde gider olarak indirilebilir."
+        "cevap": "EVET. BDDK yönetmeliğine göre ayrılan özel karşılık tutarları Kurumlar Vergisi matrahının tespitinde gider olarak indirilebilir.",
+        "q_end": 5.78,
+        "a_start": 9.08
       },
       {
         "kart": 42,
         "soru": "Faktoring işleminde 'Rüculu Faktoring' ile 'Rücusuz Faktoring' farkı nedir?",
-        "cevap": "Rüculu Faktoring: Alacağın ödenmeme riskinin satıcı firmaya ait olduğu faktoringtir. Rücusuz Faktoring: Alacağın ödenmeme riskini faktoring şirketinin üstlendiği türdür."
+        "cevap": "Rüculu Faktoring: Alacağın ödenmeme riskinin satıcı firmaya ait olduğu faktoringtir. Rücusuz Faktoring: Alacağın ödenmeme riskini faktoring şirketinin üstlendiği türdür.",
+        "q_end": 5.02,
+        "a_start": 8.32
       },
       {
         "kart": 43,
