@@ -4824,102 +4824,142 @@
       {
         "kart": 35,
         "soru": "Nakit Yönetimi ürünü olan DBS (Doğrudan Borçlandırma Sistemi) mekanizmasında Garanti Kredi Limiti kime tahsis edilir?",
-        "cevap": "Garanti Kredi Limiti ana firmaya değil, ana firmadan mal alan BAYİYE / ALICIYA tahsis edilir."
+        "cevap": "Garanti Kredi Limiti ana firmaya değil, ana firmadan mal alan BAYİYE / ALICIYA tahsis edilir.",
+        "q_end": 7.97,
+        "a_start": 11.27
       },
       {
         "kart": 36,
         "soru": "Havuz Yönetimi (Cash Sweeping / Zero Balancing) sisteminde gün sonunda alt hesaplardaki bakiyeler nasıl işleme tabi tutulur?",
-        "cevap": "Grup şirketlerinin alt hesaplarındaki tüm artı bakiyeler otomatik olarak ana toplama hesabına aktarılır (sıfırlanır) ve tek merkezden nemalandırılır."
+        "cevap": "Grup şirketlerinin alt hesaplarındaki tüm artı bakiyeler otomatik olarak ana toplama hesabına aktarılır (sıfırlanır) ve tek merkezden nemalandırılır.",
+        "q_end": 7.87,
+        "a_start": 11.17
       },
       {
         "kart": 37,
         "soru": "Tedarikçi Finansmanı (Reverse Factoring) sisteminde ana alıcı firmanın bankaya sağladığı avantaj nedir?",
-        "cevap": "Ana alıcı firmanın yüksek kredisinden yararlanılarak, tedarikçi firmaların alacak faturalarını vadesinden önce düşük iskonto oranıyla tahsil etmesini sağlar."
+        "cevap": "Ana alıcı firmanın yüksek kredisinden yararlanılarak, tedarikçi firmaların alacak faturalarını vadesinden önce düşük iskonto oranıyla tahsil etmesini sağlar.",
+        "q_end": 7.37,
+        "a_start": 10.67
       },
       {
         "kart": 38,
         "soru": "Sanal Hesap (Virtual Account) uygulamasının kurumsal şirketlere sağladığı temel operasyonel fayda nedir?",
-        "cevap": "Ana hesaba bağlı tanımlanan sanal alt hesap numaraları sayesinde, bayi veya müşterilerden gelen havale/EFT'lerin anında otomatik muhasebe eşleştirmesinin yapılmasıdır."
+        "cevap": "Ana hesaba bağlı tanımlanan sanal alt hesap numaraları sayesinde, bayi veya müşterilerden gelen havale/EFT'lerin anında otomatik muhasebe eşleştirmesinin yapılmasıdır.",
+        "q_end": 7.2,
+        "a_start": 10.5
       },
       {
         "kart": 39,
         "soru": "Nakit Yönetiminde Otomatik Maaş Ödeme Protokolü çerçevesinde kurum çalışanlarına sağlanan imkanlar nelerdir?",
-        "cevap": "Maaş promosyonu, muafiyetli hesap/kart hizmetleri ve maaş gününde otomatik toplu hesaba geçiş imkanlarıdır."
+        "cevap": "Maaş promosyonu, muafiyetli hesap/kart hizmetleri ve maaş gününde otomatik toplu hesaba geçiş imkanlarıdır.",
+        "q_end": 7.34,
+        "a_start": 10.64
       },
       {
         "kart": 40,
         "soru": "Türk Eximbank tarafından ihracatçılara sağlanan sevk öncesi ve sevk sonrası kredilerde bankaların rolü nedir?",
-        "cevap": "Bankalar Eximbank kaynaklı kredilerde aracı kurum olarak risk üstlenir ve ihracatçıya krediyi kullandırır."
+        "cevap": "Bankalar Eximbank kaynaklı kredilerde aracı kurum olarak risk üstlenir ve ihracatçıya krediyi kullandırır.",
+        "q_end": 8.23,
+        "a_start": 11.53
       },
       {
         "kart": 41,
         "soru": "Sınır Ticareti kapsamında yapılan ithalat ve ihracatta yetkili kılınan organ hangisidir?",
-        "cevap": "Sınır komşusu illerde valilikler bünyesindeki Sınır Ticareti Yetkili Kurulları ve yetkili gümrük kapılarıdır."
+        "cevap": "Sınır komşusu illerde valilikler bünyesindeki Sınır Ticareti Yetkili Kurulları ve yetkili gümrük kapılarıdır.",
+        "q_end": 6.12,
+        "a_start": 9.42
       },
       {
         "kart": 42,
         "soru": "Serbest Bölgelerde (Free Zone) yapılan üretim ve ihracat faaliyetlerinin sağladığı vergi avantajları nelerdir?",
-        "cevap": "Üretilen ürünlerin ihracatından doğan kazançlar Kurumlar/Gelir Vergisinden, gümrük vergisinden ve KDV'den muaftır."
+        "cevap": "Üretilen ürünlerin ihracatından doğan kazançlar Kurumlar/Gelir Vergisinden, gümrük vergisinden ve KDV'den muaftır.",
+        "q_end": 7.66,
+        "a_start": 10.96
       },
       {
         "kart": 43,
         "soru": "İhracat Bedellerinin TCMB'ye Satış Zorunluluğu oranını belirleme yetkisi kime aittir?",
-        "cevap": "Hazine ve Maliye Bakanlığı ile Türkiye Cumhuriyet Merkez Bankası'na (TCMB) aittir."
+        "cevap": "Hazine ve Maliye Bakanlığı ile Türkiye Cumhuriyet Merkez Bankası'na (TCMB) aittir.",
+        "q_end": 5.98,
+        "a_start": 9.28
       },
       {
         "kart": 44,
         "soru": "Incoterms 2020 kuralı uyarınca deniz yoluna özel teslim şekilleri hangileridir?",
-        "cevap": "FAS, FOB, CFR ve CIF teslim şekilleri sadece deniz ve iç su yolu taşımacılığında kullanılır."
+        "cevap": "FAS, FOB, CFR ve CIF teslim şekilleri sadece deniz ve iç su yolu taşımacılığında kullanılır.",
+        "q_end": 6.22,
+        "a_start": 9.52
       },
       {
         "kart": 45,
         "soru": "Multimodal (çok araçlı) taşımacılıkta kullanılan Incoterms kuralları hangileridir?",
-        "cevap": "EXW, FCA, CPT, CIP, DAP, DPU ve DDP tüm taşıma türlerinde ve multimodal taşımada kullanılır."
+        "cevap": "EXW, FCA, CPT, CIP, DAP, DPU ve DDP tüm taşıma türlerinde ve multimodal taşımada kullanılır.",
+        "q_end": 5.35,
+        "a_start": 8.65
       },
       {
         "kart": 46,
         "soru": "Akreditifte 'Teyit Bankası (Confirming Bank)' sorumluluğu nedir?",
-        "cevap": "Amir bankanın ödeme taahhüdüne ek olarak lehtara karşı birinci dereceden bağımsız ve kesin ödeme garantisi üstlenen bankadır."
+        "cevap": "Amir bankanın ödeme taahhüdüne ek olarak lehtara karşı birinci dereceden bağımsız ve kesin ödeme garantisi üstlenen bankadır.",
+        "q_end": 4.42,
+        "a_start": 7.72
       },
       {
         "kart": 47,
         "soru": "Akreditif İştira (Negotiation) İşlemi ne demektir?",
-        "cevap": "Gerekli vesaiki ibraz eden lehtara poliçe veya vesaik bedelinin teyit/iştira bankası tarafından vade öncesinde iskonto edilerek ödenmesidir."
+        "cevap": "Gerekli vesaiki ibraz eden lehtara poliçe veya vesaik bedelinin teyit/iştira bankası tarafından vade öncesinde iskonto edilerek ödenmesidir.",
+        "q_end": 3.89,
+        "a_start": 7.19
       },
       {
         "kart": 48,
         "soru": "Vesaik Mukabili (CAD) ödemede ithalatçı vesaiki alıp malı çekmezse doğacak risk kime aittir?",
-        "cevap": "Tüm navlun, ardiye, tasfiye ve geri getirme riskleri İHRACATÇIYA aittir (Banka ödeme garantisi vermez)."
+        "cevap": "Tüm navlun, ardiye, tasfiye ve geri getirme riskleri İHRACATÇIYA aittir (Banka ödeme garantisi vermez).",
+        "q_end": 6.84,
+        "a_start": 10.14
       },
       {
         "kart": 49,
         "soru": "Poliçede 'Keşideci (Drawer)', 'Muhatap (Drawee)' ve 'Lehtar (Payee)' kimlerdir?",
-        "cevap": "Keşideci: Poliçeyi düzenleyen (İhracatçı). Muhatap: Poliçeyi ödeyecek olan (İthalatçı/Banka). Lehtar: Poliçe bedelini tahsil edecek olan kişidir."
+        "cevap": "Keşideci: Poliçeyi düzenleyen (İhracatçı). Muhatap: Poliçeyi ödeyecek olan (İthalatçı/Banka). Lehtar: Poliçe bedelini tahsil edecek olan kişidir.",
+        "q_end": 5.3,
+        "a_start": 8.6
       },
       {
         "kart": 50,
         "soru": "SWIFT sisteminde 'BİK Kodu (Bank Identifier Code)' kaç karakterden oluşur?",
-        "cevap": "8 veya 11 karakterden oluşur (Banka kodu, ülke kodu, şehir kodu ve şube kodu)."
+        "cevap": "8 veya 11 karakterden oluşur (Banka kodu, ülke kodu, şehir kodu ve şube kodu).",
+        "q_end": 5.33,
+        "a_start": 8.63
       },
       {
         "kart": 51,
         "soru": "Nakit Yönetiminde 'Likidite Yönetimi' bankaya ve kuruma ne sağlar?",
-        "cevap": "Atıl fonların minimuma indirilmesini, nakit açığı/fazlasının anlık optimize edilerek faiz maliyetlerinin düşürülmesini sağlar."
+        "cevap": "Atıl fonların minimuma indirilmesini, nakit açığı/fazlasının anlık optimize edilerek faiz maliyetlerinin düşürülmesini sağlar.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 52,
         "soru": "Doğrudan Borçlandırma Sisteminde (DBS) fatura ödeme günü geldiğinde bayinin hesabında para yoksa ne olur?",
-        "cevap": "Bayiye tahsis edilen DBS Garanti Kredi Limiti otomatik devreye girer ve fatura tutarı ana firmaya ödenir."
+        "cevap": "Bayiye tahsis edilen DBS Garanti Kredi Limiti otomatik devreye girer ve fatura tutarı ana firmaya ödenir.",
+        "q_end": 7.13,
+        "a_start": 10.43
       },
       {
         "kart": 53,
         "soru": "Akreditifte 'İkame Vesaik (Substituted Documents)' kullanımı hangi akreditif türünde görülür?",
-        "cevap": "Devredilebilir (Transferable) ve Back-to-Back akreditiflerde ilk lehtarın kendi faturasını ve poliçesini koyması işlemidir."
+        "cevap": "Devredilebilir (Transferable) ve Back-to-Back akreditiflerde ilk lehtarın kendi faturasını ve poliçesini koyması işlemidir.",
+        "q_end": 5.98,
+        "a_start": 9.28
       },
       {
         "kart": 54,
         "soru": "İhracat Kredisi Garanti Sigortası (Eximbank İhracat Sigortası) hangi riskleri kapsar?",
-        "cevap": "Ticari riskleri (alıcının iflası/ödememesi) ve Politik riskleri (savaş, kamulaştırma, transfer yasağı) kapsar."
+        "cevap": "Ticari riskleri (alıcının iflası/ödememesi) ve Politik riskleri (savaş, kamulaştırma, transfer yasağı) kapsar.",
+        "q_end": 6.24,
+        "a_start": 9.54
       },
       {
         "kart": 55,
