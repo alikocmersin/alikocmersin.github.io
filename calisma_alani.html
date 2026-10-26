@@ -1899,7 +1899,6 @@
       resetFeedbackBadges();
 
     // 1. TIKLAMA / DOKUNMA ALGILAMA:
-      // "eğer cevap ekrana gelmediyse tıklayınca cevap gelsin sonraki tıklamada sonraki soruya geçsin. eğer cevap ekrana geldiyse sonraki soruya geçsin"
       if (absDx < 12 && absDy < 12 && elapsed < 400) {
         cardElement.style.transition = 'transform 0.12s ease';
         cardElement.style.transform = 'scale(0.97)';
@@ -1907,14 +1906,23 @@
           cardElement.style.transform = 'scale(1)';
         }, 120);
 
-        const isAnswerShowing = answerBox.classList.contains('show');
-        if (!isAnswerShowing) {
-          // Cevap henüz ekranda değil: Cevabı anında ekrana getir
-          revealAnswer();
-        } else {
-          // Cevap zaten ekranda: Sonraki soruya geç
-          nextCard('from-right');
+        // Durum 1: Ses henüz başlamamışsa ve cevap da görünmüyorsa:
+        // Kullanıcı karta dokundu: Soruyu seslendirmeye başla!
+        if (!isPlaying && !answerBox.classList.contains('show')) {
+          startCardPlayback();
+          return;
         }
+
+        // Durum 2: Soru okunuyor veya düşünme süresinde (cevap henüz ekranda değil):
+        // Kullanıcı dokundu: Cevap kutusu hemen açılsın ve doğrudan cevaba atlasın!
+        if (!answerBox.classList.contains('show')) {
+          revealAnswer();
+          return;
+        }
+
+        // Durum 3: Cevap zaten ekranda:
+        // Kullanıcı dokundu: Sonraki soruya geç!
+        nextCard('from-right');
         return;
       }
 
@@ -1970,7 +1978,7 @@
     cardElement.addEventListener('pointerup', handlePointerEnd);
     cardElement.addEventListener('pointercancel', handlePointerEnd);
 
-    // Cevabı Hemen Ekrana Getirme (İlk Tıklamada)
+    // Cevabı Hemen Ekrana Getirme (Karta Dokunulduğunda)
     function revealAnswer() {
       answerBox.classList.add('show');
       thinkingBanner.classList.remove('show');
@@ -1982,11 +1990,17 @@
       const cards = getActiveCards();
       if (!cards.length) return;
       const card = cards[currentCardIndex];
+      const aStart = card.a_start || 6.5;
 
-      // Eğer stüdyo kaydı çalıyorsa ve henüz soru veya düşünme payındaysa, doğrudan cevaba (5.2s) atla
-      if (currentAudioObj && currentAudioObj.duration && currentAudioObj.currentTime < 5.2) {
-        currentAudioObj.currentTime = 5.2;
-        speakerLabel.textContent = 'Ahmet (Cevap)';
+      // Eğer stüdyo kaydı çalıyorsa ve henüz cevap kısmına gelinmediyse, tam cevabın başladığı saniyeye atla
+      if (currentAudioObj && currentAudioObj.duration) {
+        if (currentAudioObj.currentTime < aStart) {
+          currentAudioObj.currentTime = aStart;
+        }
+        speakerLabel.textContent = 'Uzman Anlatıcı (Cevap)';
+        if (currentAudioObj.paused) {
+          currentAudioObj.play().catch(e => console.warn(e));
+        }
       } else if (isPlaying && window.speechSynthesis) {
         // Eğer ses sentezi çalıyorsa doğrudan cevaba geç
         window.speechSynthesis.cancel();
@@ -2086,8 +2100,6 @@
       updatePlayBtnUI(true);
       voiceStatus.classList.add('speaking');
 
-      if (isMusicActive) startAlphaWaves();
-
       const cards = getActiveCards();
       if (!cards.length) return;
       const card = cards[currentCardIndex];
@@ -2104,16 +2116,29 @@
 
       speakerLabel.textContent = 'Emel (Soru)';
       answerBox.classList.remove('show');
-      thinkingBanner.classList.add('show');
+      thinkingBanner.classList.remove('show');
+
+      const aStart = card.a_start || 6.5;
+      const qEnd = card.q_end || (aStart - 3.1);
 
       currentAudioObj.ontimeupdate = () => {
         if (currentAudioObj && currentAudioObj.duration) {
           const pct = (currentAudioObj.currentTime / currentAudioObj.duration) * 100;
           timelineFill.style.width = `${pct}%`;
-          if (currentAudioObj.currentTime > 5 && !answerBox.classList.contains('show')) {
-            answerBox.classList.add('show');
-            thinkingBanner.classList.remove('show');
-            speakerLabel.textContent = 'Ahmet (Cevap)';
+
+          if (currentAudioObj.currentTime >= aStart) {
+            if (!answerBox.classList.contains('show')) {
+              answerBox.classList.add('show');
+              thinkingBanner.classList.remove('show');
+              speakerLabel.textContent = 'Uzman Anlatıcı (Cevap)';
+            }
+          } else if (currentAudioObj.currentTime >= qEnd) {
+            if (!thinkingBanner.classList.contains('show') && !answerBox.classList.contains('show')) {
+              thinkingBanner.classList.add('show');
+              speakerLabel.textContent = 'Düşünme Payı';
+            }
+          } else {
+            speakerLabel.textContent = 'Emel (Soru)';
           }
         }
       };
@@ -2141,8 +2166,8 @@
       };
 
       currentAudioObj.play().catch(e => {
-        console.warn("Audio autoplay blocked by Safari, falling back to synthesis.");
-        playSynthesisFlow(card);
+        console.warn("Audio autoplay blocked by Safari, waiting for user interaction.");
+        updatePlayBtnUI(false);
       });
     }
 
