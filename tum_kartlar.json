@@ -2412,92 +2412,128 @@
       {
         "kart": 83,
         "soru": "Bireysel Emeklilik Sisteminde 'Devlet Katkısı Hesabı' fonları nasıl yatırıma yönlendirilir?",
-        "cevap": "Devlet katkısı fonları Hazine borçlanma araçları ve TL mevduat/katılım hesaplarından oluşan güvenli devlet katkısı fonlarında değerlendirilir."
+        "cevap": "Devlet katkısı fonları Hazine borçlanma araçları ve TL mevduat/katılım hesaplarından oluşan güvenli devlet katkısı fonlarında değerlendirilir.",
+        "q_end": 6.22,
+        "a_start": 9.52
       },
       {
         "kart": 84,
         "soru": "BES'te 'Toplu Para' yerine 'Yıllık Gelir Sigortası' seçilirse avantajı nedir?",
-        "cevap": "Katılımcıya ömür boyu veya belirli bir süre düzenli emekli aylığı ödenmesini garanti eder."
+        "cevap": "Katılımcıya ömür boyu veya belirli bir süre düzenli emekli aylığı ödenmesini garanti eder.",
+        "q_end": 5.33,
+        "a_start": 8.63
       },
       {
         "kart": 85,
         "soru": "Kredi Kartından çekilen 'Taksitli Nakit Avans' ihtiyaç kredisi sayılır mı?",
-        "cevap": "Tüketici Kanunu uyarınca taksitli nakit avans işlemleri tüketici kredisi hükümlerine tabidir."
+        "cevap": "Tüketici Kanunu uyarınca taksitli nakit avans işlemleri tüketici kredisi hükümlerine tabidir.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 86,
         "soru": "Bireysel Kredide 'Vefat Eden Borçlunun Borcu' Hayat Sigortası limitini aşarsa ne olur?",
-        "cevap": "Aşan borç kısmı yasal mirasçılara kalır."
+        "cevap": "Aşan borç kısmı yasal mirasçılara kalır.",
+        "q_end": 5.83,
+        "a_start": 9.13
       },
       {
         "kart": 87,
         "soru": "Konut Kredisi kullandırımında tapuda 'İpotek Tesis Ücreti' alınabilir mi?",
-        "cevap": "Yalnızca Tapu Müdürlüğü'ne 3. şahıs resmi masrafı olarak ödenen döner sermaye harcı tüketiciden alınır."
+        "cevap": "Yalnızca Tapu Müdürlüğü'ne 3. şahıs resmi masrafı olarak ödenen döner sermaye harcı tüketiciden alınır.",
+        "q_end": 4.87,
+        "a_start": 8.17
       },
       {
         "kart": 88,
         "soru": "Tüketici Kredilerinde 'Erken Kapama Dekontunda' BSMV ve KKDF nasıl yer alır?",
-        "cevap": "Erken kapama anındaki net anapara ve işleyen günün faizi üzerinden vergi ve fon tahakkuk ettirilir."
+        "cevap": "Erken kapama anındaki net anapara ve işleyen günün faizi üzerinden vergi ve fon tahakkuk ettirilir.",
+        "q_end": 6.14,
+        "a_start": 9.44
       },
       {
         "kart": 89,
         "soru": "Bireysel Müşterinin bankaya beyan ettiği adresin 'MERNİS Adresi' ile uyuşması şart mıdır?",
-        "cevap": "Hesap ve kredi açılışlarında MERNİS adresi resmi yerleşim yeri adresi olarak esas alınır."
+        "cevap": "Hesap ve kredi açılışlarında MERNİS adresi resmi yerleşim yeri adresi olarak esas alınır.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 90,
         "soru": "Tüketici Kredisinde 'Kullanım Tarihi ile İlk Taktis Tarihi' arasındaki azami süre kaç gündür?",
-        "cevap": "İlk taksit tarihi genellikle kredi kullanım tarihinden itibaren azami 30 ila 45 gün sonrası olarak belirlenir."
+        "cevap": "İlk taksit tarihi genellikle kredi kullanım tarihinden itibaren azami 30 ila 45 gün sonrası olarak belirlenir.",
+        "q_end": 6.79,
+        "a_start": 10.09
       },
       {
         "kart": 91,
         "soru": "Konut Finansmanı kredilerinde gayrimenkulün 'Mesken / Konut' ruhsatlı olması şart mıdır?",
-        "cevap": "Evet. Tapuda mesken/konut niteliği taşımayan büro/arsa gibi gayrimenkullere konut kredisi verilemez."
+        "cevap": "Evet. Tapuda mesken/konut niteliği taşımayan büro/arsa gibi gayrimenkullere konut kredisi verilemez.",
+        "q_end": 6.26,
+        "a_start": 9.56
       },
       {
         "kart": 92,
         "soru": "Tüketici Hakem Heyetine başvuruda zaman aşımı süresi var mıdır?",
-        "cevap": "Tüketici işlemlerinden doğan uyuşmazlıklarda genel hak arama zamanaşımı süreleri uygulanır."
+        "cevap": "Tüketici işlemlerinden doğan uyuşmazlıklarda genel hak arama zamanaşımı süreleri uygulanır.",
+        "q_end": 4.56,
+        "a_start": 7.86
       },
       {
         "kart": 93,
         "soru": "Bireysel Kredilerde 'Maaş Muvafakatı' icra dairesi olmaksızın geçerli midir?",
-        "cevap": "Yargıtay kararları uyarınca kredi ödenirken verilen önceden maaş haczi muvafakatleri geçersizdir; haciz ancak icra takibi aşamasında konulabilir."
+        "cevap": "Yargıtay kararları uyarınca kredi ödenirken verilen önceden maaş haczi muvafakatleri geçersizdir; haciz ancak icra takibi aşamasında konulabilir.",
+        "q_end": 5.88,
+        "a_start": 9.18
       },
       {
         "kart": 94,
         "soru": "BES Otomatik Katılım Sisteminde çalışan katkı payını artırabilir mi?",
-        "cevap": "Evet. Çalışan dilerse maaşından kesilecek katkı payı oranını %3'ün üzerine çıkarabilir."
+        "cevap": "Evet. Çalışan dilerse maaşından kesilecek katkı payı oranını %3'ün üzerine çıkarabilir.",
+        "q_end": 4.58,
+        "a_start": 7.88
       },
       {
         "kart": 95,
         "soru": "Taşıt Kredisi ile alınan ticari araçlar bireysel tüketici kredisi sayılır mı?",
-        "cevap": "Hayır. Ruhsatında ticari araç yazan veya şirket adına alınan araçlar Ticari Taşıt Kredisi sayılır."
+        "cevap": "Hayır. Ruhsatında ticari araç yazan veya şirket adına alınan araçlar Ticari Taşıt Kredisi sayılır.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 96,
         "soru": "Konut Kredilerinde gayrimenkulün üzerinde başka bir hipotek varsa kredi verilebilir mi?",
-        "cevap": "Kural olarak 1. derece ve 1. sırada ipotek tesis edilmesi şarttır; önceki ipotek kapatılmadan kredi kullandırılmaz."
+        "cevap": "Kural olarak 1. derece ve 1. sırada ipotek tesis edilmesi şarttır; önceki ipotek kapatılmadan kredi kullandırılmaz.",
+        "q_end": 5.69,
+        "a_start": 8.99
       },
       {
         "kart": 97,
         "soru": "Bireysel Kredi Ödeme Planının bir nüshası müşteriye ücretsiz verilmek zorunda mıdır?",
-        "cevap": "Evet. Ödeme planı sözleşmenin ayrılmaz parçası olup müşteriye ücretsiz verilmesi zorunludur."
+        "cevap": "Evet. Ödeme planı sözleşmenin ayrılmaz parçası olup müşteriye ücretsiz verilmesi zorunludur.",
+        "q_end": 5.95,
+        "a_start": 9.25
       },
       {
         "kart": 98,
         "soru": "BES sisteminde fon değişikliği talebi kaç gün içinde gerçekleşir?",
-        "cevap": "Seçilen fonun valör yapısına göre (T+1 veya T+2) fon alım/satımı gerçekleşir."
+        "cevap": "Seçilen fonun valör yapısına göre (T+1 veya T+2) fon alım/satımı gerçekleşir.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 99,
         "soru": "Tüketici Kredisinde 'Cayma Hakkı' kullanan tüketiciden hediye/puan geri alınır mı?",
-        "cevap": "Evet. Kredi kullanımı nedeniyle verilen ödül, puan veya promosyonlar cayma durumunda iade alınır."
+        "cevap": "Evet. Kredi kullanımı nedeniyle verilen ödül, puan veya promosyonlar cayma durumunda iade alınır.",
+        "q_end": 5.52,
+        "a_start": 8.82
       },
       {
         "kart": 100,
         "soru": "VakıfBank Bireysel Bankacılık vizyonu nedir?",
-        "cevap": "Müşterilerin tüm finansal ihtiyaçlarına doğru zamanda, esnek ödeme koşullarıyla ve dijital kolaylıkla ulaşmalarını sağlamaktır."
+        "cevap": "Müşterilerin tüm finansal ihtiyaçlarına doğru zamanda, esnek ödeme koşullarıyla ve dijital kolaylıkla ulaşmalarını sağlamaktır.",
+        "q_end": 3.53,
+        "a_start": 6.83
       }
     ]
   },
