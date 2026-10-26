@@ -3828,82 +3828,114 @@
       {
         "kart": 83,
         "soru": "KGF Kefaletli Kredilerde temerrüt durumunda tazmin talebi kime yapılır?",
-        "cevap": "Banka kanuni takibe başladıktan sonra kefalet tutarı kadar ödeme yapılması için KGF'ye başvurur."
+        "cevap": "Banka kanuni takibe başladıktan sonra kefalet tutarı kadar ödeme yapılması için KGF'ye başvurur.",
+        "q_end": 5.02,
+        "a_start": 8.32
       },
       {
         "kart": 84,
         "soru": "Ticari İşletme Rehninde (TİRK) işletmenin hammadde ve mamul stokları rehne dahil edilebilir mi?",
-        "cevap": "Evet, sözleşmede açıkça belirtilmek kaydıyla stoklar da rehne dahil edilebilir."
+        "cevap": "Evet, sözleşmede açıkça belirtilmek kaydıyla stoklar da rehne dahil edilebilir.",
+        "q_end": 6.5,
+        "a_start": 9.8
       },
       {
         "kart": 85,
         "soru": "Kredi Müşterisinin Şahıs Şirketi olması durumunda ortakların sorumluluğu nasıldır?",
-        "cevap": "Kolektif şirket ortakları şirket borçlarından şahsen ve sınırsız müteselsilen sorumludur."
+        "cevap": "Kolektif şirket ortakları şirket borçlarından şahsen ve sınırsız müteselsilen sorumludur.",
+        "q_end": 5.47,
+        "a_start": 8.77
       },
       {
         "kart": 86,
         "soru": "Limited Şirket ortaklarının şirket borçlarından sorumluluk sınırı nedir?",
-        "cevap": "Ortaklar şirket borçlarından sadece koymayı taahhüt ettikleri sermaye payı kadar sorumludur (Kamu borçları hariç)."
+        "cevap": "Ortaklar şirket borçlarından sadece koymayı taahhüt ettikleri sermaye payı kadar sorumludur (Kamu borçları hariç).",
+        "q_end": 5.11,
+        "a_start": 8.41
       },
       {
         "kart": 87,
         "soru": "Anonim Şirketlerde yönetim kurulu üyelerinin amme alacaklarından (vergi/SGK) sorumluluğu nasıldır?",
-        "cevap": "A.Ş. yönetim kurulu üyeleri kanuni temsilci sıfatıyla ödenmeyen kamu borçlarından şahsen sorumludur."
+        "cevap": "A.Ş. yönetim kurulu üyeleri kanuni temsilci sıfatıyla ödenmeyen kamu borçlarından şahsen sorumludur.",
+        "q_end": 7.34,
+        "a_start": 10.64
       },
       {
         "kart": 88,
         "soru": "Kredilerde 'Karşılıklı İbraname' ne zaman düzenlenir?",
-        "cevap": "Kredi borcunun ve ferilerinin tamamen tasfiye edilip teminatların iade edilmesinden sonra tarafların birbiriyle alacak kalmadığını tevsik etmesidir."
+        "cevap": "Kredi borcunun ve ferilerinin tamamen tasfiye edilip teminatların iade edilmesinden sonra tarafların birbiriyle alacak kalmadığını tevsik etmesidir.",
+        "q_end": 4.01,
+        "a_start": 7.31
       },
       {
         "kart": 89,
         "soru": "Ticari Kredilerde 'Kur Riski' kimin üzerindedir?",
-        "cevap": "Dövizli ve dövize endeksli kredilerde kur riski tamamen borçlu firmanın üzerindedir."
+        "cevap": "Dövizli ve dövize endeksli kredilerde kur riski tamamen borçlu firmanın üzerindedir.",
+        "q_end": 3.74,
+        "a_start": 7.04
       },
       {
         "kart": 90,
         "soru": "Kredilerde 'Faiz Riski' banka açısından nasıl ortaya çıkar?",
-        "cevap": "Sabit faizli uzun vadeli kredilerin maliyetlerinin piyasa faiz artışları nedeniyle yükselmesi sonucu doğar."
+        "cevap": "Sabit faizli uzun vadeli kredilerin maliyetlerinin piyasa faiz artışları nedeniyle yükselmesi sonucu doğar.",
+        "q_end": 4.42,
+        "a_start": 7.72
       },
       {
         "kart": 91,
         "soru": "BDDK Kredi Riski Yönetmeliğinde 'Stres Testi' ne amaçla uygulanır?",
-        "cevap": "Olağanüstü makroekonomik şokların (kur/faiz artışı) banka kredi portföyü üzerindeki olası zararlarını simüle etmek amacıyla uygulanır."
+        "cevap": "Olağanüstü makroekonomik şokların (kur/faiz artışı) banka kredi portföyü üzerindeki olası zararlarını simüle etmek amacıyla uygulanır.",
+        "q_end": 5.16,
+        "a_start": 8.46
       },
       {
         "kart": 92,
         "soru": "Kredi Sözleşmelerinde 'Damga Vergisi' muafiyeti var mıdır?",
-        "cevap": "Ticari kredi sözleşmeleri ve teminat belgeleri Damga Vergisinden KANUNEN MUAFTIR."
+        "cevap": "Ticari kredi sözleşmeleri ve teminat belgeleri Damga Vergisinden KANUNEN MUAFTIR.",
+        "q_end": 4.37,
+        "a_start": 7.67
       },
       {
         "kart": 93,
         "soru": "Müteahhitlik / Taahhüt İşlerinde 'Hakediş Blokesi / Temliki' ne demektir?",
-        "cevap": "Yüklenicinin idareden alacağı gelecekteki hakediş ödemelerini bankaya kredi teminatı olarak devretmesidir (temlik)."
+        "cevap": "Yüklenicinin idareden alacağı gelecekteki hakediş ödemelerini bankaya kredi teminatı olarak devretmesidir (temlik).",
+        "q_end": 5.54,
+        "a_start": 8.84
       },
       {
         "kart": 94,
         "soru": "Kredilendirmede 'Grup Riski' izlemesi neden zorunludur?",
-        "cevap": "Aynı kontrol altında bulunan grup şirketlerinin birindeki mali krizin tüm gruba sıçrama riskini (bulaşma riski) engellemek için zorunludur."
+        "cevap": "Aynı kontrol altında bulunan grup şirketlerinin birindeki mali krizin tüm gruba sıçrama riskini (bulaşma riski) engellemek için zorunludur.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 95,
         "soru": "Ticari Kredi Tahsisinde 'Nakit Akış Projeksiyonu' neyi gösterir?",
-        "cevap": "Firmanın gelecek dönemlerdeki tahmini nakit giriş ve çıkışlarını göstererek kredinin geri ödeme kapasitesini tevsik eder."
+        "cevap": "Firmanın gelecek dönemlerdeki tahmini nakit giriş ve çıkışlarını göstererek kredinin geri ödeme kapasitesini tevsik eder.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 96,
         "soru": "Kreditör Bankanın 'Hapis Hakkı' ne demektir?",
-        "cevap": "Müşterinin banka nezdindeki mevduat, menkul kıymet ve alacakları üzerinde borç ödeninceye kadar el koyma/alıkoyma hakkıdır."
+        "cevap": "Müşterinin banka nezdindeki mevduat, menkul kıymet ve alacakları üzerinde borç ödeninceye kadar el koyma/alıkoyma hakkıdır.",
+        "q_end": 3.43,
+        "a_start": 6.73
       },
       {
         "kart": 97,
         "soru": "Kredi Müşterisine 'İflas Erteleme / Konkordato' ilanında bankaca ayrılacak karşılık oranı ne olur?",
-        "cevap": "Gecikme süresine ve risk grubuna göre 3., 4. veya 5. grup özel karşılık oranları uygulanır."
+        "cevap": "Gecikme süresine ve risk grubuna göre 3., 4. veya 5. grup özel karşılık oranları uygulanır.",
+        "q_end": 6.67,
+        "a_start": 9.97
       },
       {
         "kart": 98,
         "soru": "VakıfBank Ticari Kredi Tahsis Biriminin ana ilkesi nedir?",
-        "cevap": "Ülke ekonomisine, üretime ve ihracata katma değer sağlayan firmaların finansman ihtiyacını basiretli bankacılık ilkeleriyle karşılamaktır."
+        "cevap": "Ülke ekonomisine, üretime ve ihracata katma değer sağlayan firmaların finansman ihtiyacını basiretli bankacılık ilkeleriyle karşılamaktır.",
+        "q_end": 4.44,
+        "a_start": 7.74
       }
     ]
   },
