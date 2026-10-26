@@ -1,0 +1,327 @@
+================================================================================
+VAKIFBANK ÜNVANDA YÜKSELME VE YETERLİK SINAVI 2026
+BÖLÜM III: HAZİNE VE YATIRIM ÜRÜN VE HİZMETLERİ (GÜNCEL MASTER REHBER - 80 SORU)
+KİTAPÇIKTAKİ SAYFA VE PARAGRAF SIRASINA BİREBİR UYGUN MÜKEMMEL SINAV REHBERİ
+TOPLAM DETAYLI SORU SAYISI: 80
+================================================================================
+
+SORU 1: Para Piyasaları ile Sermaye Piyasaları arasındaki temel vade farkı nedir?
+CEVAP 1: Para Piyasası: Kısa vadeli (1 yıla kadar) likidite piyasalarıdır. Sermaye Piyasası: Orta ve uzun vadeli (1 yıldan uzun) fon kaynakları piyasasıdır.
+------------------------------------------------------------
+
+SORU 2: Repo ve Ters Repo işlemlerinin tanımı nasıldır?
+CEVAP 2: Repo: Menkul kıymetin geri alma taahhüdüyle satılmasıdır. Ters Repo: Menkul kıymetin geri satma taahhüdüyle alınmasıdır.
+------------------------------------------------------------
+
+SORU 3: Devlet Tahvili ile Hazine Bonosu arasındaki temel fark nedir?
+CEVAP 3: Vadesi 1 yıldan kısa olanlar Hazine Bonosu, vadesi 1 yıl ve daha uzun olanlar Devlet Tahvilidir.
+------------------------------------------------------------
+
+SORU 4: Eurobond nedir ve kupon ödemeleri hangi döviz cinsleriyle yapılır?
+CEVAP 4: Devlet veya şirketlerin kendi ülkeleri dışında, yabancı para cinsinden (USD/EUR) ihraç ettikleri uzun vadeli borçlanma araçlarıdır.
+------------------------------------------------------------
+
+SORU 5: Forward, Swap ve Opsiyon türev sözleşmelerinin kısa tanımları nelerdir?
+CEVAP 5: Forward: Gelecekteki tarihte önceden anlaşılan fiyattan alım/satım zorunluluğudur (OTC). Swap: Faiz veya döviz akışlarının takasıdır. Opsiyon: Alıcıya belirli fiyattan alma/satma hakkı veren sözleşmedir.
+------------------------------------------------------------
+
+SORU 6: VİOP nerede faaliyet gösterir ve takas kurumu kimdir?
+CEVAP 6: Borsa İstanbul bünyesinde faaliyet gösteren organize piyasadır. Takas ve saklama işlemlerini Takasbank yürütür.
+------------------------------------------------------------
+
+SORU 7: Borsa İstanbul Pay Piyasası pazarları nelerdir?
+CEVAP 7: Yıldız Pazar, Ana Pazar, Alt Pazar, Yakın İzleme Pazarı.
+------------------------------------------------------------
+
+SORU 8: Call Option ile Put Option alıcısının hakları nelerdir?
+CEVAP 8: Call Option: Satın alma hakkı verir. Put Option: Satma hakkı verir.
+------------------------------------------------------------
+
+SORU 9: Amerikan Tipi Opsiyon ile Avrupa Tipi Opsiyon farkı nedir?
+CEVAP 9: Amerikan Tipi: Vade sonuna kadar istenen herhangi bir günde kullanılabilir. Avrupa Tipi: Yalnızca vade gününde kullanılabilir.
+------------------------------------------------------------
+
+SORU 10: Kira Sertifikası (Sukuk) nedir?
+CEVAP 10: Bir varlığın veya hakkın mülkiyetine ortaklık sağlayan, faizsiz finans ilkelerine uygun sermaye piyasası aracıdır.
+------------------------------------------------------------
+
+SORU 11: Yatırım Fonlarında 'Hisse Senedi Yoğun' fon kriteri nedir?
+CEVAP 11: Portföyünün en az %51'i devamlı olarak yerli şirketlerin hisse senetlerinden oluşan fonlardır.
+------------------------------------------------------------
+
+SORU 12: Girişim Sermayesi Yatırım Fonu (GSYF) nedir?
+CEVAP 12: Nitelikli yatırımcılardan toplanan paralarla, büyüme potansiyeli olan anonim şirketlere sermaye aktaran fonlardır.
+------------------------------------------------------------
+
+SORU 13: MKK (Merkezi Kayıt Kuruluşu) temel görevi nedir?
+CEVAP 13: Sermaye piyasası araçlarının kaydi olarak ihracı, saklanması ve hak sahipliklerinin izlenmesini sağlayan kuruluştur.
+------------------------------------------------------------
+
+SORU 14: VİOP'ta 'Başlangıç Teminatı' ve 'Sürdürme Teminatı' nedir?
+CEVAP 14: Başlangıç Teminatı: Pozisyon açmak için yatırılan asgari tutardır. Sürdürme Teminatı: Teminatın düşebileceği alt sınırdır.
+------------------------------------------------------------
+
+SORU 15: Tezgahüstü Piyasalar (OTC) ile Organize Piyasalar farkı nedir?
+CEVAP 15: Organize Piyasalar: Kuralları, yeri ve takas kurumu olan piyasadır. OTC: Borsa dışında serbestçe yapılan piyasadır.
+------------------------------------------------------------
+
+SORU 16: Repo işlemlerinde mülkiyet devri gerçekleşir mi?
+CEVAP 16: Evet. Repo işleminde satılan menkul kıymetin mülkiyeti alıcıya geçer, ancak geri alım taahhüdü bulunur.
+------------------------------------------------------------
+
+SORU 17: Likit Fon (Para Piyasası Fonu) portföy sınırlaması nedir?
+CEVAP 17: Portföyünün tamamı devamlı olarak vadesine en fazla 184 gün kalmış likit araçlardan oluşur.
+------------------------------------------------------------
+
+SORU 18: Döviz Swapı işleminde ilk bacak ve ikinci bacak ne anlama gelir?
+CEVAP 18: İki farklı para biriminin spot kurdan takas edilmesi (ilk bacak) ve vadeli kurdan geri takas edilmesidir (ikinci bacak).
+------------------------------------------------------------
+
+SORU 19: Hisse Senedi alım-satımında BIST'te takas süresi (T+) kaçtır?
+CEVAP 19: Takas süresi T+2'dir (İşlem gününü takip eden 2. iş günü takas tamamlanır).
+------------------------------------------------------------
+
+SORU 20: Açığa Satış işlemi nedir?
+CEVAP 20: Sahip olunmayan sermaye piyasası araçlarının, fiyat düşüş beklentisiyle borçlanılarak satılması işlemidir.
+------------------------------------------------------------
+
+SORU 21: Kaldıraçlı İşlemler (Forex) SPK kısıtlaması nedir?
+CEVAP 21: Azami kaldıraç oranı 1:10 ile sınırlandırılmıştır.
+------------------------------------------------------------
+
+SORU 22: Altın hesaplarında Bankalarca uygulanan saflık derecesi nedir?
+CEVAP 22: 1000/1000 saflıktaki gram altın esasına göre işlem yapılır.
+------------------------------------------------------------
+
+SORU 23: Nitelikli Yatırımcı kimdir?
+CEVAP 23: SPK düzenlemelerine göre belirli bir finansal varlık büyüklüğüne (örneğin 1 Milyon TL üzeri varlık) sahip profesyonel yatırımcılardır.
+------------------------------------------------------------
+
+SORU 24: Sermaye Piyasası Kurulu (SPK) temel amacı nedir?
+CEVAP 24: Sermaye piyasasının güvenli, şeffaf, etkin ve adil işlemesini sağlamak, yatırımcı haklarını korumaktır.
+------------------------------------------------------------
+
+SORU 25: Hazine İhalelerine 'Piyasa Yapıcısı' (PY) banka olmanın avantajı nedir?
+CEVAP 25: Hazine ihraçlarında rekabetçi olmayan teklif (ROT) verme ve ihale dışı alım hakkına sahip olmaktır.
+------------------------------------------------------------
+
+SORU 26: Varlık Kiralama Şirketi (VKŞ) nedir?
+CEVAP 26: Kira sertifikası (sukuk) ihraç etmek amacıyla münhasıran kurulan özel bünyeli anonim şirkettir.
+------------------------------------------------------------
+
+SORU 27: Bono ihraçlarında vade sınırı nedir?
+CEVAP 27: Hazine bonolarında 1 yıldan az; özel sektör bonolarında 30 günden az, 365 günden fazla olamaz.
+------------------------------------------------------------
+
+SORU 28: TÜFE'ye Endeksli Devlet Tahvili ne sağlar?
+CEVAP 28: Anapara ve kupon ödemelerinin enflasyona (TÜFE) göre güncellenerek reel getirinin korunmasını sağlar.
+------------------------------------------------------------
+
+SORU 29: Opsiyon Primi (Option Premium) nedir?
+CEVAP 29: Opsiyon alıcısının, opsiyon hakkını satın almak için opsiyon satıcısına ödediği ücrettir.
+------------------------------------------------------------
+
+SORU 30: Açık Piyasa İşlemleri (APİ) kim tarafından yürütülür?
+CEVAP 30: Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından piyasa likiditesini düzenlemek amacıyla yürütülür.
+------------------------------------------------------------
+
+SORU 31: Repo Piyasasında 'Ters Repo' yapan taraf faiz kazanır mı?
+CEVAP 31: Evet. Ters repo yapan taraf nakit verdiği için vade sonunda faiz kazanır.
+------------------------------------------------------------
+
+SORU 32: Hisse senetlerinde 'Rüçhan Hakkı' nedir?
+CEVAP 32: Mevcut ortakların, şirketin sermaye artırımına öncelikle katılma hakkıdır.
+------------------------------------------------------------
+
+SORU 33: Temettü (Kâr Payı) nedir?
+CEVAP 33: Şirketlerin elde ettikleri net kârın ortaklarına hisseleri oranında dağıtılmasıdır.
+------------------------------------------------------------
+
+SORU 34: BIST 100 Endeksi nedir?
+CEVAP 34: Pay Piyasası'nda işlem gören hacmi ve piyasa değeri en yüksek 100 hisse senedinin performans endeksidir.
+------------------------------------------------------------
+
+SORU 35: VİOP'ta 'Sözleşme Büyüklüğü' ne demektir?
+CEVAP 35: Bir vadeli işlem sözleşmesinin temsil ettiği dayanak varlık miktarıdır.
+------------------------------------------------------------
+
+SORU 36: Eurobond'larda stopaj oranı genel olarak yüzde kaçtır?
+CEVAP 36: Devlet Eurobond ihraçlarında bireysel yatırımcılar için kupon gelirlerinde stopaj oranı %0'dır.
+------------------------------------------------------------
+
+SORU 37: Serbest Yatırım Fonu kimlere satılabilir?
+CEVAP 37: Yalnızca Nitelikli Yatırımcılara satılabilen fon türüdür.
+------------------------------------------------------------
+
+SORU 38: Borsa İstanbul Borçlanma Araçları Piyasası (BAP) pazarları nelerdir?
+CEVAP 38: Kesin Alım Satım Pazarı, Repo-Ters Repo Pazarı, Nitelikli Yatırımcıya İhraç Pazarı.
+------------------------------------------------------------
+
+SORU 39: İç Verim Oranı (IRR) finansal analizde neyi gösterir?
+CEVAP 39: Yatırımın nakit girişlerinin bugünkü değerini nakit çıkışlarına eşitleyen iskonto oranıdır.
+------------------------------------------------------------
+
+SORU 40: Döviz Kuru riskinden korunmak amacıyla yapılan işleme ne ad verilir?
+CEVAP 40: Hedging (Riske karşı korunma) işlemi ad verilir.
+------------------------------------------------------------
+
+SORU 41: Valör (İşlem Valörü) ne demektir?
+CEVAP 41: İşlemin yapıldığı tarih ile tutarın hesaba geçtiği veya faizin işlemeye başladığı tarih arasındaki farktır.
+------------------------------------------------------------
+
+SORU 42: Tezgahüstü türev işlemlerde 'ISDA Sözleşmesi' nedir?
+CEVAP 42: Uluslararası Türev Araçlar ve Swap Kurumu tarafından hazırlanan, tezgahüstü türev işlemlerde kullanılan çerçeve sözleşmedir.
+------------------------------------------------------------
+
+SORU 43: Borsa İstanbul Hisse Senedi Piyasasında 'Taban / Tavan Fiyat' sınırı yüzde kaçtır?
+CEVAP 43: Bir hisse senedinin bir seansta işlem görebileceği azami fiyat değişimi %10 alt ve %10 üst sınırla belirlenmiştir.
+------------------------------------------------------------
+
+SORU 44: Devre Kesici (Circuit Breaker) ne zaman tetiklenir?
+CEVAP 44: Bir hisse senedinde veya endekste kısa sürede aşırı fiyat oynaklığı olduğunda işlemlerin geçici durdurulmasıdır.
+------------------------------------------------------------
+
+SORU 45: Açık Pozisyon (Open Position) riski nedir?
+CEVAP 45: Döviz, faiz veya emtiada yükümlülükler ile varlıkların birbirini dengelememesi sonucu oluşan kur/faiz riskidir.
+------------------------------------------------------------
+
+SORU 46: Hazine Bonosu iskonto esasına göre mi ihraç edilir?
+CEVAP 46: Evet. Hazine bonoları kuponsuz olup nominal bedelinden iskonto edilerek (düşük fiyattan) ihraç edilir.
+------------------------------------------------------------
+
+SORU 47: Sabit Kuponlu Devlet Tahvili ile Değişken Kuponlu Devlet Tahvili farkı nedir?
+CEVAP 47: Sabit Kuponlu: Kupon faiz oranı vade boyunca sabittir. Değişken Kuponlu: Kupon faizi Hazine ihalelerine göre güncellenir.
+------------------------------------------------------------
+
+SORU 48: Finansman Bonosu ihraç eden kurumlar kimlerdir?
+CEVAP 48: Anonim şirketler, finansal kiralama ve faktoring şirketleri ile bankalar ihraç edebilir.
+------------------------------------------------------------
+
+SORU 49: Borsa Yatırım Fonu (BYF / ETF) nedir?
+CEVAP 49: Bir endeksi takip eden ve payları borsa pay piyasasında hisse senedi gibi alınıp satılan yatırım fonudur.
+------------------------------------------------------------
+
+SORU 50: Faiz Oranı Swapında (IRS) sabit faiz ödeyen tarafın beklentisi nedir?
+CEVAP 50: Piyasada faiz oranlarının yükseleceği beklentisiyle sabit faiz ödeyip değişken faiz alır.
+------------------------------------------------------------
+
+SORU 51: Fon Portföy Yöneticisi kimdir ve sorumluluğu nedir?
+CEVAP 51: SPK'dan portföy yöneticiliği yetki belgesi almış, fon varlıklarını fon içtüzüğüne göre yöneten profesyonel kişi veya kurumdur.
+------------------------------------------------------------
+
+SORU 52: Yatırım Fonu Katılma Payı (Fon Biri) değeri nasıl hesaplanır?
+CEVAP 52: Fonun toplam net varlık değerinin, toplam dolaşımdaki fon pay sayısına bölünmesiyle günlük hesaplanır.
+------------------------------------------------------------
+
+SORU 53: Borsa İstanbul VİOP işlemlerinde fiziki teslimat var mıdır?
+CEVAP 53: Bazı sözleşmelerde (örneğin döviz/emtia) nakdi uzlaşma, bazılarında ise fiziki teslimat esası uygulanır.
+------------------------------------------------------------
+
+SORU 54: Para Piyasası Fonlarının portföy ortalama vadesi azami kaç gündür?
+CEVAP 54: Portföyün ağırlıklı ortalama vadesi en fazla 45 gün olabilir.
+------------------------------------------------------------
+
+SORU 55: Hazine İhalelerinde 'Teklif Verme Türleri' nelerdir?
+CEVAP 55: Rekabetçi Teklif (Fiyat belirtilerek) ve Rekabetçi Olmayan Teklif (ROT - İhale ortalama fiyatından).
+------------------------------------------------------------
+
+SORU 56: Swap İşleminde 'Yeniden Fiyatlama (Mark-to-Market)' ne anlama gelir?
+CEVAP 56: Swap sözleşmesinin piyasadaki cari faiz/kur değişimlerine göre günlük olarak değerlenip kâr/zararın tespiti işlemidir.
+------------------------------------------------------------
+
+SORU 57: Eurobond'larda Vade Yapısı genellikle kaç yıldır?
+CEVAP 57: Eurobond'lar genellikle 5, 10, 20 veya 30 yıl gibi orta ve uzun vadeli ihraç edilir.
+------------------------------------------------------------
+
+SORU 58: Yatırım Ortaklıkları (YO) ile Yatırım Fonları arasındaki temel fark nedir?
+CEVAP 58: Yatırım Ortaklığı bir anonim şirkettir; Yatırım Fonu ise tüzel kişiliği olmayan malvarlığı birikimidir.
+------------------------------------------------------------
+
+SORU 59: Türev Araçlarda 'Kaldıraç Etkisi (Leverage)' nedir?
+CEVAP 59: Küçük bir teminat yatırarak daha büyük hacimli finansal pozisyon kontrol etme ve yüksek kazanç/kayıp imkanı sağlamaktır.
+------------------------------------------------------------
+
+SORU 60: Gelişen İşletmeler Pazarı (GİP) BIST'te kimler içindir?
+CEVAP 60: Gelişme potansiyeli yüksek, henüz borsa kotasyon şartlarını tam karşılamayan KOBİ niteliğindeki şirketlerin hisse ihraç pazarıdır.
+------------------------------------------------------------
+
+SORU 61: BIST Pay Piyasasında 'Brüt Takas' uygulaması ne anlama gelir?
+CEVAP 61: Aynı gün içinde alınan hissenin aynı gün satılamaması ve kredili/açığa satış işlemlerinin yasaklanması tedbiridir.
+------------------------------------------------------------
+
+SORU 62: MKK Kaydi Sisteminde Hisse Senetleri şifreli mi izlenir?
+CEVAP 62: Evet. MKK nezdinde tüm yatırımcıların hesapları TC Kimlik / VKN numaraları üzerinden kaydi olarak izlenir.
+------------------------------------------------------------
+
+SORU 63: Banka Hazine Bölümünün 'ALM (Aktif-Pasif Yönetimi)' Komitesi temel görevi nedir?
+CEVAP 63: Bankanın faiz, likidite ve kur risklerini yönetmek, bilançonun kârlılığını ve dengesini sağlamaktır.
+------------------------------------------------------------
+
+SORU 64: Libor / SOFR / TLREF ne anlama gelir?
+CEVAP 64: Uluslararası ve ulusal para piyasalarında kullanılan gösterge (referans) faiz oranlarıdır (TLREF: Türk Lirası Gecelik Referans Faiz Oranı).
+------------------------------------------------------------
+
+SORU 65: Devlet Tahvillerinde 'Kupon Ödeme Frekansı' genellikle nasıldır?
+CEVAP 65: Genellikle 6 ayda bir (yılda 2 kez) veya 3 ayda bir kupon ödemesi yapılır.
+------------------------------------------------------------
+
+SORU 66: Ters Repo işleminde fon veren banka bilanço aktifinde hangi hesabı çalıştırır?
+CEVAP 66: Ters Repo İşlemlerinden Alacaklar hesabını (aktif hesap) çalıştırır.
+------------------------------------------------------------
+
+SORU 67: Repo yapan banka bilanço pasifinde hangi hesabı çalıştırır?
+CEVAP 67: Repo İşlemlerinden Borçlar hesabını (pasif hesap) çalıştırır.
+------------------------------------------------------------
+
+SORU 68: Türev sözleşmede 'Kullanım Fiyatı (Strike Price)' nedir?
+CEVAP 68: Opsiyon hakkı kullanıldığında dayanak varlığın alınacağı veya satılacağı önceden sabitlenmiş fiyattır.
+------------------------------------------------------------
+
+SORU 69: Avrupa Tipi Opsiyonun Amerikan Tipi Opsiyona göre prim fiyatı genellikle nasıldır?
+CEVAP 69: Kullanım esnekliği daha az olduğu için Avrupa tipi opsiyon primi genellikle Amerikan tipine göre daha düşüktür.
+------------------------------------------------------------
+
+SORU 70: Sermaye Piyasası Araçlarının 'Halka Arz' edilmesinde onay makamı neresidir?
+CEVAP 70: Sermaye Piyasası Kurulu'dur (SPK İzahname Onayı).
+------------------------------------------------------------
+
+SORU 71: Özel Sektör Tahvillerinde Anapara ve Kupon ödemesinde şirketin temerrüde düşmesi riskine ne ad verilir?
+CEVAP 71: Kredi / İhraççı Riski (Default Risk) adı verilir.
+------------------------------------------------------------
+
+SORU 72: Borsa İstanbul VİOP'ta sürdürme teminatının altına düşüldüğünde çağrı süresi ne kadardır?
+CEVAP 72: Teminat tamamlama çağrısı (Margin Call) yapıldığında ertesi iş günü saat 15:00'e kadar teminatın tamamlanması zorunludur.
+------------------------------------------------------------
+
+SORU 73: Döviz Kuru riskini tamamen ortadan kaldırmak için hangi türev araç birleştirilebilir?
+CEVAP 73: Forward veya Currency Swap işlemleriyle kur riski tamamen sabitlenerek elimine edilebilir.
+------------------------------------------------------------
+
+SORU 74: Serbest Fonlarda yatırımcı sayısı sınırı var mıdır?
+CEVAP 74: SPK mevzuatına göre serbest fonlarda belirli nitelikli yatırımcı adedi sınırlamaları uygulanabilir.
+------------------------------------------------------------
+
+SORU 75: Hisse senetlerinde 'Bedelli Sermaye Artırımı' ile 'Bedelsiz Sermaye Artırımı' farkı nedir?
+CEVAP 75: Bedelli: Ortaklardan nakit para karşılığı sermaye artırımı. Bedelsiz: İç kaynaklardan ortaklara ücretsiz hisse dağıtılarak sermaye artırımıdır.
+------------------------------------------------------------
+
+SORU 76: BIST'te 'Ağırlıklı Ortalama Fiyat' nasıl hesaplanır?
+CEVAP 76: Bir seansta gerçekleşen tüm işlemlerin toplam tutarının toplam işlem miktarına bölünmesiyle hesaplanır.
+------------------------------------------------------------
+
+SORU 77: Banka Hazine Bölümünde 'Front Office' ile 'Back Office' farkı nedir?
+CEVAP 77: Front Office: Piyasada aktif alım-satım yapan birim. Back Office: İşlemlerin onayını, takasını ve muhasebeleştirmesini yapan operasyon birimidir.
+------------------------------------------------------------
+
+SORU 78: VİOP Pozisyon Limitleri neyi engeller?
+CEVAP 78: Piyasada tek bir yatırımcının veya grubun aşırı hakimiyet kurup piyasa manipülasyonu yapmasını engeller.
+------------------------------------------------------------
+
+SORU 79: Eurobond alım-satımında temiz fiyat (Clean Price) ve kirli fiyat (Dirty Price) farkı nedir?
+CEVAP 79: Temiz Fiyat: İşlemiş kupon faizi hariç fiyat. Kirli Fiyat: İşlemiş kupon faizi eklenmiş takas fiyatıdır.
+------------------------------------------------------------
+
+SORU 80: Devlet Borçlanma Senetlerinde (DİBS) 'İç Borçlanma' yetkisi kanunen kime aittir?
+CEVAP 80: Hazine ve Maliye Bakanlığı'na aittir.
+------------------------------------------------------------
+

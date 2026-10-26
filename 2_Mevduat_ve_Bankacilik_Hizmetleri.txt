@@ -1,0 +1,327 @@
+================================================================================
+VAKIFBANK ÜNVANDA YÜKSELME VE YETERLİK SINAVI 2026
+BÖLÜM II: MEVDUAT VE BANKACILIK HİZMETLERİ (GÜNCEL MASTER REHBER - 80 SORU)
+KİTAPÇIKTAKİ SAYFA VE PARAGRAF SIRASINA BİREBİR UYGUN MÜKEMMEL SINAV REHBERİ
+TOPLAM DETAYLI SORU SAYISI: 80
+================================================================================
+
+SORU 1: Mevduat hesaplarında zamanaşımı süresi kaç yıldır ve ne zaman başlar?
+CEVAP 1: Zamanaşımı süresi 10 yıldır. Hak sahibinin en son talebinden, işleminden veya yazılı talimatından itibaren başlar.
+------------------------------------------------------------
+
+SORU 2: 5411 sayılı Kanun Madde 62 gereğince zamanaşımına uğrayan mevduat nereye devredilir?
+CEVAP 2: Tasarruf Mevduatı Sigorta Fonu’na (TMSF) devredilir.
+------------------------------------------------------------
+
+SORU 3: Bankalar zamanaşımına uğrayan 1.000 TL ve üzerindeki hesaplar için ne zaman bildirim ve ilan yapar?
+CEVAP 3: Şubat ayının başından itibaren banka internet sitesinde 4 ay ilan edilir. 15 Haziran’a kadar çekilmeyenler TMSF’ye devredilir.
+------------------------------------------------------------
+
+SORU 4: Üzerine yetkili mercilerce bloke konulan hesaplarda zamanaşımı nasıl işler?
+CEVAP 4: Bloke konduğu tarihte durur. Bloke kalktığında kaldığı yerden işlemeye devam eder.
+------------------------------------------------------------
+
+SORU 5: Kiralık Kasalarda zamanaşımı süresi ne zaman başlar?
+CEVAP 5: Kasa kira bedelinin en son tahsil edildiği veya kasanın en son açıldığı tarihten itibaren başlar (10 yıldır).
+------------------------------------------------------------
+
+SORU 6: Müştereken (Ortak) kiralanan kiralık kasalarda ortaklardan birinin vefatı halinde ne yapılır?
+CEVAP 6: Sağ kalan ortak tek başına kasayı açamaz. Tüm mirasçıların rızası ve Veraset Dairesi temsilcisi nezdinde sayımla açılabilir.
+------------------------------------------------------------
+
+SORU 7: Havale işleminde amir (gönderici) havaleden ne zamana kadar vazgeçebilir?
+CEVAP 7: Havale alıcısının hesabına geçirilinceye veya alıcıya ödeninceye kadar vazgeçebilir.
+------------------------------------------------------------
+
+SORU 8: FAST sisteminin EFT’den temel farkları nelerdir?
+CEVAP 8: 1. 7/24 kesintisiz çalışır. 2. Fon transferi saniyeler içinde gerçekleşir. 3. KOLAS kullanımıyla IBAN'sız işlem yapılır.
+------------------------------------------------------------
+
+SORU 9: KOLAS (Kolay Adres) sisteminde IBAN ile eşleştirilebilen bilgiler nelerdir?
+CEVAP 9: TCKN, VKN, YKN, Cep Telefonu Numarası, E-posta Adresi, Pasaport Numarası.
+------------------------------------------------------------
+
+SORU 10: Şubede tespit edilen Sahte Banknotlar için yapılması gereken işlem nedir?
+CEVAP 10: Müşteriye iade edilmez. Üzerine 'SAHTEDİR' kaşesi basılır, rapor düzenlenerek Emniyet/Jandarma veya TCMB'ye teslim edilir.
+------------------------------------------------------------
+
+SORU 11: İhbarlı Mevduat nedir ve çekim kuralı nasıldır?
+CEVAP 11: Çekileceği tarihten 7 gün önce yazılı ihbar verilmek suretiyle çekilebilen mevduattır.
+------------------------------------------------------------
+
+SORU 12: TCMB FAST Sisteminde A01, H31, T01 mesaj kodları neleri ifade eder?
+CEVAP 12: A01: Anlık Ödeme İşlemi | H31: İade İsteği | T01: Katılımcı İşlem Teyidi.
+------------------------------------------------------------
+
+SORU 13: Birikimli Mevduatın temel özelliği nedir?
+CEVAP 13: Belirlenen vadede (en az 3-5 yıl) aylık/3 aylık dönemlerde hesaba düzenli para yatırılarak birikim sağlanan mevduattır.
+------------------------------------------------------------
+
+SORU 14: YUVAM Hesabı nedir ve kimlere yöneliktir?
+CEVAP 14: Yurt dışında yaşayan kişilerin ve şirketlerin döviz birikimlerini Türkiye'de TL mevduat olarak değerlendirmelerini sağlayan kur korumalı hesaptır.
+------------------------------------------------------------
+
+SORU 15: Müşteri kimlik doğrulamasında MERNİS sorgulaması zorunlu mudur?
+CEVAP 15: Evet. Hesap açılışlarında ibraz edilen nüfus cüzdanı bilgileri MERNİS kayıtlarıyla doğrulanmak zorundadır.
+------------------------------------------------------------
+
+SORU 16: Yıpranmış / Eskimiş banknotların bankalarca kabulü ve değişimi kuralı nasıldır?
+CEVAP 16: Yüzeyinin yarısından fazlası eksik olmayan, seri numarası okunabilen banknotlar bankalarca kabul edilir ve yenisiyle değiştirilir.
+------------------------------------------------------------
+
+SORU 17: Çekte ibraz süreleri nelerdir?
+CEVAP 17: Düzenlendiği yerde: 10 gün | Başka yerde: 1 Ay | Farklı kıtalarda: 3 Ay.
+------------------------------------------------------------
+
+SORU 18: Çekte zamanaşımı süresi ne kadardır?
+CEVAP 18: İbraz süresinin bitiminden itibaren 3 yıldır.
+------------------------------------------------------------
+
+SORU 19: İbraz süresi geçen çekte hamilin hakları ne olur?
+CEVAP 19: Çek kıymetli evrak niteliğini kaybeder, keşideci çekten cayabilir, müracaat hakkı düşer.
+------------------------------------------------------------
+
+SORU 20: Karekodlu Çek nedir ve hamile ne sağlar?
+CEVAP 20: Karekod okutularak keşidecinin geçmiş çek ödeme performansının ve Risk Merkezi raporunun görülebileceği çek türüdür.
+------------------------------------------------------------
+
+SORU 21: Kiralık Kasa borcu ödenmeyen durumlarda kasanın çilingirle açılması şartı nedir?
+CEVAP 21: Noter huzurunda açılır, içindeki değerler tutanakla tespit edilerek saklamaya alınır.
+------------------------------------------------------------
+
+SORU 22: EFT işlemlerinde mesaj hatası veya iade durumlarında kullanılan sistem hangisidir?
+CEVAP 22: TCMB EMKT ve EFT mutabakat sistemleridir.
+------------------------------------------------------------
+
+SORU 23: Mevduatta BSMV oranı tasarruf hesaplarında yüzde kaçtır?
+CEVAP 23: Mevduat faizleri BSMV’den muaftır, yalnızca gelir vergisi stopajı kesilir.
+------------------------------------------------------------
+
+SORU 24: Vadesiz mevduat hesabına faiz işletilebilir mi?
+CEVAP 24: Vadesiz mevduat hesaplarına kural olarak faiz işletilmez.
+------------------------------------------------------------
+
+SORU 25: Müştereken açılan vadesiz hesaplarda para çekme yetkisi nasıldır?
+CEVAP 25: Aksi belirtilmedikçe (Müşterek/Münferit) ortaklardan her biri hesaptan tek başına para çekebilir.
+------------------------------------------------------------
+
+SORU 26: Gece Kapanış Saati sonrası yapılan EFT/FAST işlemleri muhasebeye nasıl yansır?
+CEVAP 26: FAST anında hesaba geçer; EFT ise ilk iş gününün valörüyle işleme alınır.
+------------------------------------------------------------
+
+SORU 27: Görüntülü Görüşme ile Uzaktan Müşteri Edinimi şartları nelerdir?
+CEVAP 27: TCKN çipli kimlik kartı, NFC doğrulama ve canlılık testiyle müşteri edinimi yapılabilir.
+------------------------------------------------------------
+
+SORU 28: Resmi Daireler Mevduatı nedir?
+CEVAP 28: Genel ve özel bütçeli dairelerin, il özel idarelerinin ve belediyelerin paralarının yatırıldığı mevduat türüdür.
+------------------------------------------------------------
+
+SORU 29: Ticari Kuruluşlar Mevduatı neyi kapsar?
+CEVAP 29: Her türlü ticari şirket, ortaklık ve ticari işletmelerin hesaplarını kapsar.
+------------------------------------------------------------
+
+SORU 30: Kasa Noksanı tespit edildiğinde muhasebe kaydı nasıl yapılır?
+CEVAP 30: Kasa noksanı geçici olarak 'Kasa Noksanları / Kasa Zimmet' hesabına alınır, nedeni araştırılır.
+------------------------------------------------------------
+
+SORU 31: Kasa Fazlası tespit edildiğinde ne yapılır?
+CEVAP 31: Gerekçesi netleşene kadar 'Kasa Fazlaları' hesabında geçici tutulur, süresi içinde hak sahibi çıkmazsa gelire kaydedilir.
+------------------------------------------------------------
+
+SORU 32: Banka Zırhlı Araçlarıyla Para Nakli güvenliği kuralı nedir?
+CEVAP 32: Çift personelli, silahlı güvenlik eşliğinde ve sigortalı taşıma araçlarıyla yapılır.
+------------------------------------------------------------
+
+SORU 33: Sahte Para Bildirimi yapılmazsa banka personelinin sorumluluğu nedir?
+CEVAP 33: Sahte banknotu bile bile piyasaya sürmek veya bildirmemek TCK uyarınca suç teşkil eder.
+------------------------------------------------------------
+
+SORU 34: EFT İptal Talebi mesajı (H01/H02) ne zamana kadar verilebilir?
+CEVAP 34: İşlem alıcı bankanın hesabına geçmeden önce iletilirse gerçekleşebilir.
+------------------------------------------------------------
+
+SORU 35: KOLAS iptali veya güncellemesi nasıl yapılır?
+CEVAP 35: Müşteri mobil/internet bankacılığı veya şube kanalıyla Kolay Adresini anında silebilir veya değiştirebilir.
+------------------------------------------------------------
+
+SORU 36: Mevduat Katılım Fonu Sigorta Limiti kişi başı kaç TL'dir?
+CEVAP 36: TMSF sigorta limiti her bir kişi için her bir bankada 650.000 TL'ye (güncellenen tutar) kadar güvence altındadır.
+------------------------------------------------------------
+
+SORU 37: TMSF Sigortası kapsamına girmeyen mevduatlar hangileridir?
+CEVAP 37: Banka hakim ortaklarının ve yöneticilerinin mevduatları, suç gelirleriyle ilgili mevduatlar sigorta kapsamı dışındadır.
+------------------------------------------------------------
+
+SORU 38: Vadesiz hesaptan otomatik fatura ödenmesinde 'Yetersiz Bakiye' durumu ne yaratır?
+CEVAP 38: KMH yoksa fatura ödenmez, varsa KMH kullanılarak ödeme tamamlanır.
+------------------------------------------------------------
+
+SORU 39: Gelen EFT mesajında hesap numarası ve alıcı adı uyuşmazsa ne yapılır?
+CEVAP 39: İşlem hesaba geçirilmez, gönderici bankaya iade edilir veya teyit sorulur.
+------------------------------------------------------------
+
+SORU 40: Kiralık Kasaya patlayıcı veya yasaklı madde konulabilir mi?
+CEVAP 40: Yasal olarak kesinlikle yasaktır; tespitinde sözleşme derhal feshedilip kolluğa haber verilir.
+------------------------------------------------------------
+
+SORU 41: Hesap Açılışında Unvan değişikliği veya Vefat durumu bankaya nasıl belgelenir?
+CEVAP 41: Ticaret Sicil Gazetesi veya Nüfus kayıt örneği ve Veraset İlamı ibraz edilerek belgelenir.
+------------------------------------------------------------
+
+SORU 42: Mevduat cüzdanı veya hesap özeti delil niteliği taşır mı?
+CEVAP 42: Evet. Müşteriye verilen onaylı hesap cüzdanı ve dekontlar bankayla müşteri arasındaki ilişkiyi tevsik eden resmi belgedir.
+------------------------------------------------------------
+
+SORU 43: Reşit olmayan küçüklerin adına mevduat hesabı kim tarafından açılabilir?
+CEVAP 43: Kanuni temsilcileri (veli veya vasisi) tarafından açılabilir.
+------------------------------------------------------------
+
+SORU 44: Okuma yazma bilmeyenlerin banka hesap açılış ve işlem kuralı nedir?
+CEVAP 44: İki tanık huzurunda okutulup onaylatılarak parmak bastırılır veya noter onaylı imza sirküleriyle yapılır.
+------------------------------------------------------------
+
+SORU 45: Kör ve görme engelli müşterilerin bankacılık işlemlerindeki kuralı nedir?
+CEVAP 45: Müşterinin talebi halinde tanık aranmaksızın tek başına imza atarak işlem yapma hakkı mevcuttur.
+------------------------------------------------------------
+
+SORU 46: Sınırlı ehliyetsiz kişilerin mevduat tasarruf yetkisi nedir?
+CEVAP 46: Kendi kişisel çabasıyla kazandığı mallar ve serbest bırakılan mallar üzerinde tasarruf edebilirler.
+------------------------------------------------------------
+
+SORU 47: Hükümlülerin banka hesabı üzerindeki tasarruf yetkisi kime geçer?
+CEVAP 47: 1 yıldan fazla hapis cezası alan hükümlülere atanan Vasi tarafından yürütülür.
+------------------------------------------------------------
+
+SORU 48: Vefat eden müşterinin hesabındaki paranın mirasçılara ödenme şartı nedir?
+CEVAP 48: Veraset İlamı (veya Noterlik Mirasçılık Belgesi) ve Veraset Vergisi Dairesi ilişiksiz belgesi ibrazıyla ödenir.
+------------------------------------------------------------
+
+SORU 49: Kasa Anahtarı kaybolduğunda kiralık kasa kilit değiştirme masrafı kime aittir?
+CEVAP 49: Kasa kilit değiştirme ve yeni anahtar temin masrafı kiracı müşteriye aittir.
+------------------------------------------------------------
+
+SORU 50: İflas eden müşterinin mevduat hesabı üzerindeki tasarruf yetkisi kime geçer?
+CEVAP 50: İflasın açılmasıyla tasarruf yetkisi İflas Masasına geçer.
+------------------------------------------------------------
+
+SORU 51: Mevduat Hesabı üzerine haciz müzekkeresi geldiğinde banka ne yapmakla yükümlüdür?
+CEVAP 51: İcra dairesinden gelen haciz müzekkeresi uyarınca müşterinin hesabına belirtilen tutarda derhal bloke koymak ve bildirmekle yükümlüdür.
+------------------------------------------------------------
+
+SORU 52: Hesap açılışında müşteriden alınan 'İmza Beyannamesi' ne amaçla saklanır?
+CEVAP 52: Müşterinin sonraki talimatlarındaki imza tatbikatını doğrulayarak sahtecilik ve yetkisiz işlemleri önlemek amacıyla saklanır.
+------------------------------------------------------------
+
+SORU 53: Vadesiz Döviz Tevdiat Hesaplarına (DTH) faiz işletilir mi?
+CEVAP 53: Kural olarak vadesiz DTH hesaplarına faiz işletilmez; vadeli DTH hesaplarında faiz uygulanır.
+------------------------------------------------------------
+
+SORU 54: Mevduat Faiz oranları serbestçe belirlenebilir mi?
+CEVAP 54: Bankalar mevduat faiz oranlarını TCMB düzenlemeleri ve piyasa koşulları çerçevesinde serbestçe belirler ve ilan ederler.
+------------------------------------------------------------
+
+SORU 55: Kiralık kasa kiralayan müşterinin kasadaki kıymetleri sigortalanır mı?
+CEVAP 55: Kiralık kasadaki içerik kural olarak bankanın genel sigortasına dahil değildir; müşteri kendi adına özel kasa sigortası yaptırabilir.
+------------------------------------------------------------
+
+SORU 56: Bankacılıkta 'Valör' kavramı mevduat yatırma ve çekme işlemlerinde nasıl uygulanır?
+CEVAP 56: Mevduat yatırıldığında faiz işlemeye başladığı gün; para çekildiğinde ise faizin kesildiği gündür.
+------------------------------------------------------------
+
+SORU 57: TCMB Zorunlu Karşılıklar düzenlemesi mevduatı nasıl etkiler?
+CEVAP 57: Bankalar topladıkları mevduatların belirli bir yüzdesini TCMB nezdinde zorunlu karşılık olarak tutmak zorundadır.
+------------------------------------------------------------
+
+SORU 58: Yabancı Para Mevduatlarda 'Kur Farkı' gelirleri vergilendirmeye tabi midir?
+CEVAP 58: Bireysel müşterilerde kur farkları gelir vergisi stopajına tabi tutulur veya mevzuat şartlarına göre vergilendirilir.
+------------------------------------------------------------
+
+SORU 59: Mevduat Hesabına yanlışlıkla aktarılan parayı çeken müşterinin hukuki durumu nedir?
+CEVAP 59: Sebepsiz zenginleşme hükümlerine göre parayı iade etmekle yükümlüdür.
+------------------------------------------------------------
+
+SORU 60: Tasarruf Mevduatının tanımı nedir?
+CEVAP 60: Gerçek kişiler tarafından açılan ve ticari işlemlere konu olmayan mevduat hesaplarıdır.
+------------------------------------------------------------
+
+SORU 61: Mevduat Cüzdanının kaybolması durumunda müşteriye yeni cüzdan nasıl verilir?
+CEVAP 61: Müşterinin yazılı talebi ve kimlik doğrulaması üzerine eski cüzdan iptal edilerek yenisi verilir.
+------------------------------------------------------------
+
+SORU 62: Kasalarda bulunan kilit mekanizmasında kaç anahtar bulunur ve kimlerde durur?
+CEVAP 62: Kiralık kasalarda iki anahtar bulunur; biri bankada, diğeri müşteride durur; ikisi birleşmeden kasa açılamaz.
+------------------------------------------------------------
+
+SORU 63: Kiralık Kasada müşterinin vekalet verdiği kişinin yetki sınırı nedir?
+CEVAP 63: Vekaletnamede kiralık kasayı açmaya ve içindekileri almaya açıkça yetki verilmişse vekil kasayı açabilir.
+------------------------------------------------------------
+
+SORU 64: Veraset ve İntikal Vergisi Dairesi ilişiksiz belgesi alınmadan vefat eden müşterinin parasının ödenmesi durumunda bankanın sorumluluğu nedir?
+CEVAP 64: Banka ödediği tutar üzerinden doğacak Veraset ve İntikal Vergisinden müteselsilen sorumlu olur.
+------------------------------------------------------------
+
+SORU 65: Gözaltı / El Koyma kararı olan kişilerin hesaplarında bankaca ne yapılır?
+CEVAP 65: Mahkeme veya Cumhuriyet Savcılığı kararı uyarınca hesaptaki tüm işlemler durdurulur ve bloke konulur.
+------------------------------------------------------------
+
+SORU 66: EFT işlemlerinde 'Geçerli Sorumluluk' kuralı nedir?
+CEVAP 66: Hatalı IBAN veya hesap numarası girilmesi durumunda gönderen bankanın ve müşterinin sorumluluk sınırları düzenlenmiştir.
+------------------------------------------------------------
+
+SORU 67: ATM'de para sıkışması durumunda müşteriye iade nasıl yapılır?
+CEVAP 67: ATM kasa sayımı (gün sonu mutabakatı) yapılarak kasa fazlası tespit edildiğinde müşteri hesabına aktarılır.
+------------------------------------------------------------
+
+SORU 68: FAST işlemlerinde alıcı IBAN'ı hatalı girilirse işlem iptal edilebilir mi?
+CEVAP 68: FAST anlık tamamlandığı için iptal edilemez; ancak H31 mesaj kodu ile karşı bankadan iade talebinde bulunulabilir.
+------------------------------------------------------------
+
+SORU 69: KOLAS adresinin başka bir bankaya taşınması nasıl yapılır?
+CEVAP 69: Müşteri yeni bankasından tanımlama yaptığında eski bankadaki KOLAS eşleşmesi otomatik olarak silinir.
+------------------------------------------------------------
+
+SORU 70: Banka Personelinin müşteri hesabından yetkisiz para çekmesi ne suçu oluşturur?
+CEVAP 70: 5411 sayılı Bankacılık Kanunu uyarınca Zimmet suçunu oluşturur ve ağır hapis cezası gerektirir.
+------------------------------------------------------------
+
+SORU 71: Sürekli Mevduat Hesabı İşletim Şartları sözleşmede nasıl belirtilir?
+CEVAP 71: Tüketici veya ticari mevduat sözleşmelerinde hesap işletim şartları açıkça yer alır.
+------------------------------------------------------------
+
+SORU 72: Günü geçmiş Vadesiz Mevduat Bakiyelerinde bankaca bildirim zorunluluğu var mıdır?
+CEVAP 72: Banka belirli periyotlarda hesap ekstresi ve bilgilendirme yapmakla yükümlüdür.
+------------------------------------------------------------
+
+SORU 73: Mevduat Hesaplarında 'Bloke' konma türleri nelerdir?
+CEVAP 73: Adli bloke, icra blokesi, teminat blokesi ve banka alacak blokesi.
+------------------------------------------------------------
+
+SORU 74: Kasa Anahtarının müşteride kalan nüshasının taklidi yapılabilir mi?
+CEVAP 74: Banka tarafından taklit anahtar yapılması engellenir; tek nüsha müşteriye teslim edilir.
+------------------------------------------------------------
+
+SORU 75: Vefat eden müşterinin kiralık kasasında vasiyetname çıkarsa ne yapılır?
+CEVAP 75: Noter veya mahkeme hakimi huzurunda tespit edilerek yetkili makama teslim edilir.
+------------------------------------------------------------
+
+SORU 76: Döviz Tevdiat Hesabı (DTH) açılışında efektif para kabulü kuralı nedir?
+CEVAP 76: Sahtelik ve orijinallik kontrolü yapılarak sisteme kabul edilir.
+------------------------------------------------------------
+
+SORU 77: Mevduat Müşterisinin adres değişikliğini bildirme yükümlülüğü nedir?
+CEVAP 77: Müşteri adres değişikliklerini bankaya bildirmekle yükümlüdür; aksi halde eski adrese yapılan tebligatlar geçerli sayılır.
+------------------------------------------------------------
+
+SORU 78: Mevduat hesabının yetkisiz 3. kişilere kullandırılması yasal mıdır?
+CEVAP 78: MASAK mevzuatı uyarınca başkası hesabına hareket edildiğinin beyan edilmemesi suç teşkil eder.
+------------------------------------------------------------
+
+SORU 79: Mevduat Faiz Hesaplamasında kullanılan formül esası nedir?
+CEVAP 79: (Anapara x Faiz Oranı x Gün Sayısı) / 36500 (TL için 365 gün esası).
+------------------------------------------------------------
+
+SORU 80: Mevduat Cüzdanında tahrifat yapılması durumunda bankaca ne uygulanır?
+CEVAP 80: Hesap cüzdanı geçersiz sayılır, sistem kayıtları esas alınır ve savcılığa suç duyurusunda bulunulur.
+------------------------------------------------------------
+
