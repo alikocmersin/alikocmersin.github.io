@@ -716,102 +716,142 @@
       {
         "kart": 3,
         "soru": "Bankalar zamanaşımına uğrayan 1.000 TL ve üzerindeki hesaplar için ne zaman bildirim ve ilan yapar?",
-        "cevap": "Şubat ayının başından itibaren banka internet sitesinde 4 ay ilan edilir. 15 Haziran’a kadar çekilmeyenler TMSF’ye devredilir."
+        "cevap": "Şubat ayının başından itibaren banka internet sitesinde 4 ay ilan edilir. 15 Haziran’a kadar çekilmeyenler TMSF’ye devredilir.",
+        "q_end": 6.91,
+        "a_start": 10.21
       },
       {
         "kart": 4,
         "soru": "Üzerine yetkili mercilerce bloke konulan hesaplarda zamanaşımı nasıl işler?",
-        "cevap": "Bloke konduğu tarihte durur. Bloke kalktığında kaldığı yerden işlemeye devam eder."
+        "cevap": "Bloke konduğu tarihte durur. Bloke kalktığında kaldığı yerden işlemeye devam eder.",
+        "q_end": 5.21,
+        "a_start": 8.51
       },
       {
         "kart": 5,
         "soru": "Kiralık Kasalarda zamanaşımı süresi ne zaman başlar?",
-        "cevap": "Kasa kira bedelinin en son tahsil edildiği veya kasanın en son açıldığı tarihten itibaren başlar (10 yıldır)."
+        "cevap": "Kasa kira bedelinin en son tahsil edildiği veya kasanın en son açıldığı tarihten itibaren başlar (10 yıldır).",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 6,
         "soru": "Müştereken (Ortak) kiralanan kiralık kasalarda ortaklardan birinin vefatı halinde ne yapılır?",
-        "cevap": "Sağ kalan ortak tek başına kasayı açamaz. Tüm mirasçıların rızası ve Veraset Dairesi temsilcisi nezdinde sayımla açılabilir."
+        "cevap": "Sağ kalan ortak tek başına kasayı açamaz. Tüm mirasçıların rızası ve Veraset Dairesi temsilcisi nezdinde sayımla açılabilir.",
+        "q_end": 6.19,
+        "a_start": 9.49
       },
       {
         "kart": 7,
         "soru": "Havale işleminde amir (gönderici) havaleden ne zamana kadar vazgeçebilir?",
-        "cevap": "Havale alıcısının hesabına geçirilinceye veya alıcıya ödeninceye kadar vazgeçebilir."
+        "cevap": "Havale alıcısının hesabına geçirilinceye veya alıcıya ödeninceye kadar vazgeçebilir.",
+        "q_end": 5.59,
+        "a_start": 8.89
       },
       {
         "kart": 8,
         "soru": "FAST sisteminin EFT’den temel farkları nelerdir?",
-        "cevap": "1. 7/24 kesintisiz çalışır. 2. Fon transferi saniyeler içinde gerçekleşir. 3. KOLAS kullanımıyla IBAN'sız işlem yapılır."
+        "cevap": "1. 7/24 kesintisiz çalışır. 2. Fon transferi saniyeler içinde gerçekleşir. 3. KOLAS kullanımıyla IBAN'sız işlem yapılır.",
+        "q_end": 3.72,
+        "a_start": 7.02
       },
       {
         "kart": 9,
         "soru": "KOLAS (Kolay Adres) sisteminde IBAN ile eşleştirilebilen bilgiler nelerdir?",
-        "cevap": "TCKN, VKN, YKN, Cep Telefonu Numarası, E-posta Adresi, Pasaport Numarası."
+        "cevap": "TCKN, VKN, YKN, Cep Telefonu Numarası, E-posta Adresi, Pasaport Numarası.",
+        "q_end": 5.5,
+        "a_start": 8.8
       },
       {
         "kart": 10,
         "soru": "Şubede tespit edilen Sahte Banknotlar için yapılması gereken işlem nedir?",
-        "cevap": "Müşteriye iade edilmez. Üzerine 'SAHTEDİR' kaşesi basılır, rapor düzenlenerek Emniyet/Jandarma veya TCMB'ye teslim edilir."
+        "cevap": "Müşteriye iade edilmez. Üzerine 'SAHTEDİR' kaşesi basılır, rapor düzenlenerek Emniyet/Jandarma veya TCMB'ye teslim edilir.",
+        "q_end": 5.57,
+        "a_start": 8.87
       },
       {
         "kart": 11,
         "soru": "İhbarlı Mevduat nedir ve çekim kuralı nasıldır?",
-        "cevap": "Çekileceği tarihten 7 gün önce yazılı ihbar verilmek suretiyle çekilebilen mevduattır."
+        "cevap": "Çekileceği tarihten 7 gün önce yazılı ihbar verilmek suretiyle çekilebilen mevduattır.",
+        "q_end": 3.7,
+        "a_start": 7.0
       },
       {
         "kart": 12,
         "soru": "TCMB FAST Sisteminde A01, H31, T01 mesaj kodları neleri ifade eder?",
-        "cevap": "A01: Anlık Ödeme İşlemi | H31: İade İsteği | T01: Katılımcı İşlem Teyidi."
+        "cevap": "A01: Anlık Ödeme İşlemi | H31: İade İsteği | T01: Katılımcı İşlem Teyidi.",
+        "q_end": 6.86,
+        "a_start": 10.16
       },
       {
         "kart": 13,
         "soru": "Birikimli Mevduatın temel özelliği nedir?",
-        "cevap": "Belirlenen vadede (en az 3-5 yıl) aylık/3 aylık dönemlerde hesaba düzenli para yatırılarak birikim sağlanan mevduattır."
+        "cevap": "Belirlenen vadede (en az 3-5 yıl) aylık/3 aylık dönemlerde hesaba düzenli para yatırılarak birikim sağlanan mevduattır.",
+        "q_end": 3.43,
+        "a_start": 6.73
       },
       {
         "kart": 14,
         "soru": "YUVAM Hesabı nedir ve kimlere yöneliktir?",
-        "cevap": "Yurt dışında yaşayan kişilerin ve şirketlerin döviz birikimlerini Türkiye'de TL mevduat olarak değerlendirmelerini sağlayan kur korumalı hesaptır."
+        "cevap": "Yurt dışında yaşayan kişilerin ve şirketlerin döviz birikimlerini Türkiye'de TL mevduat olarak değerlendirmelerini sağlayan kur korumalı hesaptır.",
+        "q_end": 3.48,
+        "a_start": 6.78
       },
       {
         "kart": 15,
         "soru": "Müşteri kimlik doğrulamasında MERNİS sorgulaması zorunlu mudur?",
-        "cevap": "Evet. Hesap açılışlarında ibraz edilen nüfus cüzdanı bilgileri MERNİS kayıtlarıyla doğrulanmak zorundadır."
+        "cevap": "Evet. Hesap açılışlarında ibraz edilen nüfus cüzdanı bilgileri MERNİS kayıtlarıyla doğrulanmak zorundadır.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 16,
         "soru": "Yıpranmış / Eskimiş banknotların bankalarca kabulü ve değişimi kuralı nasıldır?",
-        "cevap": "Yüzeyinin yarısından fazlası eksik olmayan, seri numarası okunabilen banknotlar bankalarca kabul edilir ve yenisiyle değiştirilir."
+        "cevap": "Yüzeyinin yarısından fazlası eksik olmayan, seri numarası okunabilen banknotlar bankalarca kabul edilir ve yenisiyle değiştirilir.",
+        "q_end": 5.93,
+        "a_start": 9.23
       },
       {
         "kart": 17,
         "soru": "Çekte ibraz süreleri nelerdir?",
-        "cevap": "Düzenlendiği yerde: 10 gün | Başka yerde: 1 Ay | Farklı kıtalarda: 3 Ay."
+        "cevap": "Düzenlendiği yerde: 10 gün | Başka yerde: 1 Ay | Farklı kıtalarda: 3 Ay.",
+        "q_end": 2.88,
+        "a_start": 6.18
       },
       {
         "kart": 18,
         "soru": "Çekte zamanaşımı süresi ne kadardır?",
-        "cevap": "İbraz süresinin bitiminden itibaren 3 yıldır."
+        "cevap": "İbraz süresinin bitiminden itibaren 3 yıldır.",
+        "q_end": 3.19,
+        "a_start": 6.49
       },
       {
         "kart": 19,
         "soru": "İbraz süresi geçen çekte hamilin hakları ne olur?",
-        "cevap": "Çek kıymetli evrak niteliğini kaybeder, keşideci çekten cayabilir, müracaat hakkı düşer."
+        "cevap": "Çek kıymetli evrak niteliğini kaybeder, keşideci çekten cayabilir, müracaat hakkı düşer.",
+        "q_end": 3.67,
+        "a_start": 6.97
       },
       {
         "kart": 20,
         "soru": "Karekodlu Çek nedir ve hamile ne sağlar?",
-        "cevap": "Karekod okutularak keşidecinin geçmiş çek ödeme performansının ve Risk Merkezi raporunun görülebileceği çek türüdür."
+        "cevap": "Karekod okutularak keşidecinin geçmiş çek ödeme performansının ve Risk Merkezi raporunun görülebileceği çek türüdür.",
+        "q_end": 3.5,
+        "a_start": 6.8
       },
       {
         "kart": 21,
         "soru": "Kiralık Kasa borcu ödenmeyen durumlarda kasanın çilingirle açılması şartı nedir?",
-        "cevap": "Noter huzurunda açılır, içindeki değerler tutanakla tespit edilerek saklamaya alınır."
+        "cevap": "Noter huzurunda açılır, içindeki değerler tutanakla tespit edilerek saklamaya alınır.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 22,
         "soru": "EFT işlemlerinde mesaj hatası veya iade durumlarında kullanılan sistem hangisidir?",
-        "cevap": "TCMB EMKT ve EFT mutabakat sistemleridir."
+        "cevap": "TCMB EMKT ve EFT mutabakat sistemleridir.",
+        "q_end": 6.31,
+        "a_start": 9.61
       },
       {
         "kart": 23,
