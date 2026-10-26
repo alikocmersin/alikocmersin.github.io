@@ -3120,92 +3120,128 @@
       {
         "kart": 83,
         "soru": "Üye İşyeri Sözleşmesinde 'Sorumluluk Maddesi' üye işyerine ne yükler?",
-        "cevap": "İşyerinin sahte kart kullanılmasına göz yumması veya şifresiz işlem yapması durumunda doğacak tüm zararı tazmin etme yükümlülüğü yükler."
+        "cevap": "İşyerinin sahte kart kullanılmasına göz yumması veya şifresiz işlem yapması durumunda doğacak tüm zararı tazmin etme yükümlülüğü yükler.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 84,
         "soru": "Kredi Kartı Yıllık Ücreti (Aidat) yasal mıdır?",
-        "cevap": "Yargıtay ve Tüketici Mevzuatı uyarınca sözleşmede açıkça belirtilmek ve aidatsız bir kart seçeneği sunulmak kaydıyla kart aidatı alınması yasaldır."
+        "cevap": "Yargıtay ve Tüketici Mevzuatı uyarınca sözleşmede açıkça belirtilmek ve aidatsız bir kart seçeneği sunulmak kaydıyla kart aidatı alınması yasaldır.",
+        "q_end": 3.89,
+        "a_start": 7.19
       },
       {
         "kart": 85,
         "soru": "Kredi Kartı Ekstresi geciktiğinde müşterinin 'Ekstre Gelmedi' gerekçesiyle faizden muafiyet talebi kabul edilir mi?",
-        "cevap": "Hayır. Kart hamili ekstre eline ulaşmasa dahi son ödeme tarihini ve borcunu takip etmekle yükümlüdür."
+        "cevap": "Hayır. Kart hamili ekstre eline ulaşmasa dahi son ödeme tarihini ve borcunu takip etmekle yükümlüdür.",
+        "q_end": 7.18,
+        "a_start": 10.48
       },
       {
         "kart": 86,
         "soru": "Banka Kartı (Debit Card) ile internetten alışveriş yapmak için ne gereklidir?",
-        "cevap": "Kartın internet alışverişi yetkisinin (e-ticaret onayı) açık olması gereklidir."
+        "cevap": "Kartın internet alışverişi yetkisinin (e-ticaret onayı) açık olması gereklidir.",
+        "q_end": 5.26,
+        "a_start": 8.56
       },
       {
         "kart": 87,
         "soru": "Kartlı Ödeme Sistemlerinde '3D Secure 2.0' sürümü ne getirmiştir?",
-        "cevap": "Biyometrik doğrulama (yüz tanıma/parmak izi) ve daha hızlı arka plan risk analizi imkanı getirmiştir."
+        "cevap": "Biyometrik doğrulama (yüz tanıma/parmak izi) ve daha hızlı arka plan risk analizi imkanı getirmiştir.",
+        "q_end": 5.57,
+        "a_start": 8.87
       },
       {
         "kart": 88,
         "soru": "Üye işyerinin POS cihazını başka bir firmaya devretmesi yasal mıdır?",
-        "cevap": "YASAKTIR. Üye işyeri kendisine tahsis edilen POS cihazını veya sanal POS anahtarlarını üçüncü kişilere devredemez veya kiralayamaz."
+        "cevap": "YASAKTIR. Üye işyeri kendisine tahsis edilen POS cihazını veya sanal POS anahtarlarını üçüncü kişilere devredemez veya kiralayamaz.",
+        "q_end": 4.82,
+        "a_start": 8.12
       },
       {
         "kart": 89,
         "soru": "Kredi Kartı 'Sanal Limit' düşürüldüğünde genel limit etkilenir mi?",
-        "cevap": "Hayır. Sanal limitin düşürülmesi veya sıfırlanması fiziki kartın genel limitini etkilemez."
+        "cevap": "Hayır. Sanal limitin düşürülmesi veya sıfırlanması fiziki kartın genel limitini etkilemez.",
+        "q_end": 4.32,
+        "a_start": 7.62
       },
       {
         "kart": 90,
         "soru": "Ön Ödemeli Kartlara (Prepaid) para yükleme kanalları nelerdir?",
-        "cevap": "ATM, mobil bankacılık, internet bankacılığı ve yetkili yükleme noktalarından nakit veya hesaptan transferle para yüklenebilir."
+        "cevap": "ATM, mobil bankacılık, internet bankacılığı ve yetkili yükleme noktalarından nakit veya hesaptan transferle para yüklenebilir.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 91,
         "soru": "Kredi Kartı Asgari Ödeme Oranı %40 hangi limit seviyesindeki kartlar için uygulanır?",
-        "cevap": "BDDK kararları uyarınca genellikle yüksek limitli (örneğin 50.000 TL ve üzeri) kredi kartlarında asgari ödeme oranı %40 olarak uygulanır."
+        "cevap": "BDDK kararları uyarınca genellikle yüksek limitli (örneğin 50.000 TL ve üzeri) kredi kartlarında asgari ödeme oranı %40 olarak uygulanır.",
+        "q_end": 6.31,
+        "a_start": 9.61
       },
       {
         "kart": 92,
         "soru": "Kredi Kartı ile Yapılan Harcamanın 'İptal' edilmesi durumunda limit ne zaman açılır?",
-        "cevap": "POS cihazından yapılan iptal işlemi anında karta yansır ve harcanan limit anında tekrar kullanıma açılır."
+        "cevap": "POS cihazından yapılan iptal işlemi anında karta yansır ve harcanan limit anında tekrar kullanıma açılır.",
+        "q_end": 5.23,
+        "a_start": 8.53
       },
       {
         "kart": 93,
         "soru": "İade işlemlerinde para doğrudan nakit verilebilir mi?",
-        "cevap": "Hayır. Kartla yapılan alışverişlerin iadesi kart kuralları gereğince harcamanın yapıldığı karta geri yatırılmak zorundadır."
+        "cevap": "Hayır. Kartla yapılan alışverişlerin iadesi kart kuralları gereğince harcamanın yapıldığı karta geri yatırılmak zorundadır.",
+        "q_end": 3.94,
+        "a_start": 7.24
       },
       {
         "kart": 94,
         "soru": "Kredi Kartı borcundan dolayı 'Kanuni Takip' başlatılan müşterinin VakıfBank'taki diğer hesaplarına ne yapılır?",
-        "cevap": "GKS ve Kredi Kartı Sözleşmesi uyarınca bankanın takas, mahsup ve hapis hakkı devreye girerek diğer hesaplara bloke konulabilir."
+        "cevap": "GKS ve Kredi Kartı Sözleşmesi uyarınca bankanın takas, mahsup ve hapis hakkı devreye girerek diğer hesaplara bloke konulabilir.",
+        "q_end": 6.77,
+        "a_start": 10.07
       },
       {
         "kart": 95,
         "soru": "Üye işyerinin 'Gözaltı / Sahtecilik' şüphesiyle takibe alınması durumunda POS blokesi ne kadar sürer?",
-        "cevap": "İnceleme ve hukuki tahkikat tamamlanıncaya kadar POS ciroları ve cihaz kullanımı süresiz bloke edilebilir."
+        "cevap": "İnceleme ve hukuki tahkikat tamamlanıncaya kadar POS ciroları ve cihaz kullanımı süresiz bloke edilebilir.",
+        "q_end": 6.7,
+        "a_start": 10.0
       },
       {
         "kart": 96,
         "soru": "Kredi Kartı harcamalarında 'Valörlü Taksit' uygulaması nedir?",
-        "cevap": "İşlemin üye işyeri hesabına hemen geçmeyip belirlenen vadeli taksit tarihlerinde aşamalı aktarılmasıdır."
+        "cevap": "İşlemin üye işyeri hesabına hemen geçmeyip belirlenen vadeli taksit tarihlerinde aşamalı aktarılmasıdır.",
+        "q_end": 4.3,
+        "a_start": 7.6
       },
       {
         "kart": 97,
         "soru": "Kart üzerindeki 16 haneli 'PAN (Primary Account Number)' neyi temsil eder?",
-        "cevap": "Kartın bin kodu, müşteri hesap bilgisi ve kontrol rakamını içeren benzersiz kart numarasıdır."
+        "cevap": "Kartın bin kodu, müşteri hesap bilgisi ve kontrol rakamını içeren benzersiz kart numarasıdır.",
+        "q_end": 5.47,
+        "a_start": 8.77
       },
       {
         "kart": 98,
         "soru": "Kredi Kartı teslimatında teslim alan kişinin kimlik kontrolü zorunlu mudur?",
-        "cevap": "Evet. Kart sadece kart sahibine veya yetkili kılınan kişiye kimlik doğrulaması yapılarak imza karşılığı teslim edilir."
+        "cevap": "Evet. Kart sadece kart sahibine veya yetkili kılınan kişiye kimlik doğrulaması yapılarak imza karşılığı teslim edilir.",
+        "q_end": 4.99,
+        "a_start": 8.29
       },
       {
         "kart": 99,
         "soru": "Üye İşyeri POS cihazında 'Şifre Girilmeden' işlem yapılması durumunda tüm sahtecilik riski kime aittir?",
-        "cevap": "Tüm sahtecilik ve ters ibraz (chargeback) riski kuralları ihlal eden ÜYE İŞYERİNE aittir."
+        "cevap": "Tüm sahtecilik ve ters ibraz (chargeback) riski kuralları ihlal eden ÜYE İŞYERİNE aittir.",
+        "q_end": 6.74,
+        "a_start": 10.04
       },
       {
         "kart": 100,
         "soru": "VakıfBank Ödeme Sistemleri ana vizyonu nedir?",
-        "cevap": "Müşterilere en son teknolojiye sahip, hızlı, güvenli, çevre dostu ve kesintisiz ödeme çözümleri sunmaktır."
+        "cevap": "Müşterilere en son teknolojiye sahip, hızlı, güvenli, çevre dostu ve kesintisiz ödeme çözümleri sunmaktır.",
+        "q_end": 3.67,
+        "a_start": 6.97
       }
     ]
   },
