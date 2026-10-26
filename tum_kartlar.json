@@ -856,102 +856,142 @@
       {
         "kart": 23,
         "soru": "Mevduatta BSMV oranı tasarruf hesaplarında yüzde kaçtır?",
-        "cevap": "Mevduat faizleri BSMV’den muaftır, yalnızca gelir vergisi stopajı kesilir."
+        "cevap": "Mevduat faizleri BSMV’den muaftır, yalnızca gelir vergisi stopajı kesilir.",
+        "q_end": 4.63,
+        "a_start": 7.93
       },
       {
         "kart": 24,
         "soru": "Vadesiz mevduat hesabına faiz işletilebilir mi?",
-        "cevap": "Vadesiz mevduat hesaplarına kural olarak faiz işletilmez."
+        "cevap": "Vadesiz mevduat hesaplarına kural olarak faiz işletilmez.",
+        "q_end": 3.89,
+        "a_start": 7.19
       },
       {
         "kart": 25,
         "soru": "Müştereken açılan vadesiz hesaplarda para çekme yetkisi nasıldır?",
-        "cevap": "Aksi belirtilmedikçe (Müşterek/Münferit) ortaklardan her biri hesaptan tek başına para çekebilir."
+        "cevap": "Aksi belirtilmedikçe (Müşterek/Münferit) ortaklardan her biri hesaptan tek başına para çekebilir.",
+        "q_end": 4.87,
+        "a_start": 8.17
       },
       {
         "kart": 26,
         "soru": "Gece Kapanış Saati sonrası yapılan EFT/FAST işlemleri muhasebeye nasıl yansır?",
-        "cevap": "FAST anında hesaba geçer; EFT ise ilk iş gününün valörüyle işleme alınır."
+        "cevap": "FAST anında hesaba geçer; EFT ise ilk iş gününün valörüyle işleme alınır.",
+        "q_end": 5.93,
+        "a_start": 9.23
       },
       {
         "kart": 27,
         "soru": "Görüntülü Görüşme ile Uzaktan Müşteri Edinimi şartları nelerdir?",
-        "cevap": "TCKN çipli kimlik kartı, NFC doğrulama ve canlılık testiyle müşteri edinimi yapılabilir."
+        "cevap": "TCKN çipli kimlik kartı, NFC doğrulama ve canlılık testiyle müşteri edinimi yapılabilir.",
+        "q_end": 4.61,
+        "a_start": 7.91
       },
       {
         "kart": 28,
         "soru": "Resmi Daireler Mevduatı nedir?",
-        "cevap": "Genel ve özel bütçeli dairelerin, il özel idarelerinin ve belediyelerin paralarının yatırıldığı mevduat türüdür."
+        "cevap": "Genel ve özel bütçeli dairelerin, il özel idarelerinin ve belediyelerin paralarının yatırıldığı mevduat türüdür.",
+        "q_end": 3.12,
+        "a_start": 6.42
       },
       {
         "kart": 29,
         "soru": "Ticari Kuruluşlar Mevduatı neyi kapsar?",
-        "cevap": "Her türlü ticari şirket, ortaklık ve ticari işletmelerin hesaplarını kapsar."
+        "cevap": "Her türlü ticari şirket, ortaklık ve ticari işletmelerin hesaplarını kapsar.",
+        "q_end": 3.48,
+        "a_start": 6.78
       },
       {
         "kart": 30,
         "soru": "Kasa Noksanı tespit edildiğinde muhasebe kaydı nasıl yapılır?",
-        "cevap": "Kasa noksanı geçici olarak 'Kasa Noksanları / Kasa Zimmet' hesabına alınır, nedeni araştırılır."
+        "cevap": "Kasa noksanı geçici olarak 'Kasa Noksanları / Kasa Zimmet' hesabına alınır, nedeni araştırılır.",
+        "q_end": 4.22,
+        "a_start": 7.52
       },
       {
         "kart": 31,
         "soru": "Kasa Fazlası tespit edildiğinde ne yapılır?",
-        "cevap": "Gerekçesi netleşene kadar 'Kasa Fazlaları' hesabında geçici tutulur, süresi içinde hak sahibi çıkmazsa gelire kaydedilir."
+        "cevap": "Gerekçesi netleşene kadar 'Kasa Fazlaları' hesabında geçici tutulur, süresi içinde hak sahibi çıkmazsa gelire kaydedilir.",
+        "q_end": 3.31,
+        "a_start": 6.61
       },
       {
         "kart": 32,
         "soru": "Banka Zırhlı Araçlarıyla Para Nakli güvenliği kuralı nedir?",
-        "cevap": "Çift personelli, silahlı güvenlik eşliğinde ve sigortalı taşıma araçlarıyla yapılır."
+        "cevap": "Çift personelli, silahlı güvenlik eşliğinde ve sigortalı taşıma araçlarıyla yapılır.",
+        "q_end": 4.27,
+        "a_start": 7.57
       },
       {
         "kart": 33,
         "soru": "Sahte Para Bildirimi yapılmazsa banka personelinin sorumluluğu nedir?",
-        "cevap": "Sahte banknotu bile bile piyasaya sürmek veya bildirmemek TCK uyarınca suç teşkil eder."
+        "cevap": "Sahte banknotu bile bile piyasaya sürmek veya bildirmemek TCK uyarınca suç teşkil eder.",
+        "q_end": 4.99,
+        "a_start": 8.29
       },
       {
         "kart": 34,
         "soru": "EFT İptal Talebi mesajı (H01/H02) ne zamana kadar verilebilir?",
-        "cevap": "İşlem alıcı bankanın hesabına geçmeden önce iletilirse gerçekleşebilir."
+        "cevap": "İşlem alıcı bankanın hesabına geçmeden önce iletilirse gerçekleşebilir.",
+        "q_end": 6.07,
+        "a_start": 9.37
       },
       {
         "kart": 35,
         "soru": "KOLAS iptali veya güncellemesi nasıl yapılır?",
-        "cevap": "Müşteri mobil/internet bankacılığı veya şube kanalıyla Kolay Adresini anında silebilir veya değiştirebilir."
+        "cevap": "Müşteri mobil/internet bankacılığı veya şube kanalıyla Kolay Adresini anında silebilir veya değiştirebilir.",
+        "q_end": 3.62,
+        "a_start": 6.92
       },
       {
         "kart": 36,
         "soru": "Mevduat Katılım Fonu Sigorta Limiti kişi başı kaç TL'dir?",
-        "cevap": "TMSF sigorta limiti her bir kişi için her bir bankada 650.000 TL'ye (güncellenen tutar) kadar güvence altındadır."
+        "cevap": "TMSF sigorta limiti her bir kişi için her bir bankada 650.000 TL'ye (güncellenen tutar) kadar güvence altındadır.",
+        "q_end": 4.15,
+        "a_start": 7.45
       },
       {
         "kart": 37,
         "soru": "TMSF Sigortası kapsamına girmeyen mevduatlar hangileridir?",
-        "cevap": "Banka hakim ortaklarının ve yöneticilerinin mevduatları, suç gelirleriyle ilgili mevduatlar sigorta kapsamı dışındadır."
+        "cevap": "Banka hakim ortaklarının ve yöneticilerinin mevduatları, suç gelirleriyle ilgili mevduatlar sigorta kapsamı dışındadır.",
+        "q_end": 4.7,
+        "a_start": 8.0
       },
       {
         "kart": 38,
         "soru": "Vadesiz hesaptan otomatik fatura ödenmesinde 'Yetersiz Bakiye' durumu ne yaratır?",
-        "cevap": "KMH yoksa fatura ödenmez, varsa KMH kullanılarak ödeme tamamlanır."
+        "cevap": "KMH yoksa fatura ödenmez, varsa KMH kullanılarak ödeme tamamlanır.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 39,
         "soru": "Gelen EFT mesajında hesap numarası ve alıcı adı uyuşmazsa ne yapılır?",
-        "cevap": "İşlem hesaba geçirilmez, gönderici bankaya iade edilir veya teyit sorulur."
+        "cevap": "İşlem hesaba geçirilmez, gönderici bankaya iade edilir veya teyit sorulur.",
+        "q_end": 5.18,
+        "a_start": 8.48
       },
       {
         "kart": 40,
         "soru": "Kiralık Kasaya patlayıcı veya yasaklı madde konulabilir mi?",
-        "cevap": "Yasal olarak kesinlikle yasaktır; tespitinde sözleşme derhal feshedilip kolluğa haber verilir."
+        "cevap": "Yasal olarak kesinlikle yasaktır; tespitinde sözleşme derhal feshedilip kolluğa haber verilir.",
+        "q_end": 4.3,
+        "a_start": 7.6
       },
       {
         "kart": 41,
         "soru": "Hesap Açılışında Unvan değişikliği veya Vefat durumu bankaya nasıl belgelenir?",
-        "cevap": "Ticaret Sicil Gazetesi veya Nüfus kayıt örneği ve Veraset İlamı ibraz edilerek belgelenir."
+        "cevap": "Ticaret Sicil Gazetesi veya Nüfus kayıt örneği ve Veraset İlamı ibraz edilerek belgelenir.",
+        "q_end": 5.54,
+        "a_start": 8.84
       },
       {
         "kart": 42,
         "soru": "Mevduat cüzdanı veya hesap özeti delil niteliği taşır mı?",
-        "cevap": "Evet. Müşteriye verilen onaylı hesap cüzdanı ve dekontlar bankayla müşteri arasındaki ilişkiyi tevsik eden resmi belgedir."
+        "cevap": "Evet. Müşteriye verilen onaylı hesap cüzdanı ve dekontlar bankayla müşteri arasındaki ilişkiyi tevsik eden resmi belgedir.",
+        "q_end": 4.08,
+        "a_start": 7.38
       },
       {
         "kart": 43,
