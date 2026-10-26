@@ -4964,102 +4964,142 @@
       {
         "kart": 55,
         "soru": "Kambiyo Senetlerinde 'Protesto (Ödememe Protestosu)' çekilmesi neden gereklidir?",
-        "cevap": "Poliçe veya bononun vadesinde ödenmemesi durumunda hamilin müracaat hakkını (keşideci ve cirantalara başvurma hakkını) koruması için noterden çekilmesi zorunludur."
+        "cevap": "Poliçe veya bononun vadesinde ödenmemesi durumunda hamilin müracaat hakkını (keşideci ve cirantalara başvurma hakkını) koruması için noterden çekilmesi zorunludur.",
+        "q_end": 5.95,
+        "a_start": 9.25
       },
       {
         "kart": 56,
         "soru": "Dış ticarette 'Konsinye İhracat' nedir?",
-        "cevap": "Kesin satışı yapılmaksızın, yurt dışındaki alıcıya veya komisyoncuya satılmak üzere mal gönderilmesi işlemidir (1 yıl içinde satılması esastır)."
+        "cevap": "Kesin satışı yapılmaksızın, yurt dışındaki alıcıya veya komisyoncuya satılmak üzere mal gönderilmesi işlemidir (1 yıl içinde satılması esastır).",
+        "q_end": 3.48,
+        "a_start": 6.78
       },
       {
         "kart": 57,
         "soru": "Incoterms FCA (Free Carrier) kuralında teslim yeri neresidir?",
-        "cevap": "Satıcının malı kendi tesislerinde veya belirlenen başka bir yerde alıcının taşıyıcısına teslim etmesidir."
+        "cevap": "Satıcının malı kendi tesislerinde veya belirlenen başka bir yerde alıcının taşıyıcısına teslim etmesidir.",
+        "q_end": 4.82,
+        "a_start": 8.12
       },
       {
         "kart": 58,
         "soru": "Incoterms CPT (Carriage Paid To) kuralında navlun ve sigorta kime aittir?",
-        "cevap": "Navlunu satıcı öder; taşıma sigortası yaptırma yükümlülüğü alıcıya aittir."
+        "cevap": "Navlunu satıcı öder; taşıma sigortası yaptırma yükümlülüğü alıcıya aittir.",
+        "q_end": 5.47,
+        "a_start": 8.77
       },
       {
         "kart": 59,
         "soru": "Konşimentoda 'Clean Bill of Lading (Temiz Konşimento)' ne anlama gelir?",
-        "cevap": "Kaptanın malların dış ambalajında veya durumunda hiçbir hasar veya kusur olmadığını belirten şerhsiz konşimentodur."
+        "cevap": "Kaptanın malların dış ambalajında veya durumunda hiçbir hasar veya kusur olmadığını belirten şerhsiz konşimentodur.",
+        "q_end": 4.99,
+        "a_start": 8.29
       },
       {
         "kart": 60,
         "soru": "Gümrük Antreposu nedir?",
-        "cevap": "Gümrük gözetimi altındaki eşyanın konulduğu, gümrük vergileri ödenmeden malların muhafaza edildiği izinli depolardır."
+        "cevap": "Gümrük gözetimi altındaki eşyanın konulduğu, gümrük vergileri ödenmeden malların muhafaza edildiği izinli depolardır.",
+        "q_end": 2.47,
+        "a_start": 5.77
       },
       {
         "kart": 61,
         "soru": "Dış ticarette 'Ordino (Delivery Order)' belgesi ne işe yarar?",
-        "cevap": "Taşıyanın (acentenin) gümrükteki malın ithalatçıya teslim edilmesine izin verdiğini gösteren teslim talimatıdır."
+        "cevap": "Taşıyanın (acentenin) gümrükteki malın ithalatçıya teslim edilmesine izin verdiğini gösteren teslim talimatıdır.",
+        "q_end": 4.63,
+        "a_start": 7.93
       },
       {
         "kart": 62,
         "soru": "Akreditifte 'Kabul Akreditifi (Acceptance L/C)' ne demektir?",
-        "cevap": "Ödemenin vesaik ibrazında değil, ibraz edilen vadeli poliçenin bankaca kabul edilerek vadesinde yapıldığı akreditiftir."
+        "cevap": "Ödemenin vesaik ibrazında değil, ibraz edilen vadeli poliçenin bankaca kabul edilerek vadesinde yapıldığı akreditiftir.",
+        "q_end": 4.94,
+        "a_start": 8.24
       },
       {
         "kart": 63,
         "soru": "Akreditifte 'Gayri Kabili Rucu (Irrevocable)' kuralı uyarınca akreditif şartları nasıl değiştirilebilir?",
-        "cevap": "Amir banka, teyit bankası ve lehtarın (tüm tarafların) OY BİRLİĞİ VE ONAYI ile değiştirilebilir."
+        "cevap": "Amir banka, teyit bankası ve lehtarın (tüm tarafların) OY BİRLİĞİ VE ONAYI ile değiştirilebilir.",
+        "q_end": 6.58,
+        "a_start": 9.88
       },
       {
         "kart": 64,
         "soru": "Gümrük Beyannamesi kapanma tarihi neyi ifade eder?",
-        "cevap": "İhracatta malın fiilen gümrük hattını terk ettiğini ve fiili ihracın gerçekleştiğini tevsik eden tarihtir."
+        "cevap": "İhracatta malın fiilen gümrük hattını terk ettiğini ve fiili ihracın gerçekleştiğini tevsik eden tarihtir.",
+        "q_end": 4.03,
+        "a_start": 7.33
       },
       {
         "kart": 65,
         "soru": "Dış Ticarette 'Bedelsiz İhracat' ne demektir?",
-        "cevap": "Karşılığında yurda döviz getirme zorunluluğu olmayan numune, hediye veya garanti kapsamındaki parça gönderimleridir."
+        "cevap": "Karşılığında yurda döviz getirme zorunluluğu olmayan numune, hediye veya garanti kapsamındaki parça gönderimleridir.",
+        "q_end": 3.86,
+        "a_start": 7.16
       },
       {
         "kart": 66,
         "soru": "SWIFT sisteminde 'MT700' mesaj tipi ne için kullanılır?",
-        "cevap": "Uluslararası Akreditif Açılış Mesajı (Issue of a Documentary Credit) için kullanılır."
+        "cevap": "Uluslararası Akreditif Açılış Mesajı (Issue of a Documentary Credit) için kullanılır.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 67,
         "soru": "SWIFT sisteminde 'MT760' mesaj tipi ne amaçla çekilir?",
-        "cevap": "Uluslararası Garanti Mektubu / Teminat Akreditifi (Issue of a Guarantee / Standby L/C) düzenleme mesajıdır."
+        "cevap": "Uluslararası Garanti Mektubu / Teminat Akreditifi (Issue of a Guarantee / Standby L/C) düzenleme mesajıdır.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 68,
         "soru": "Nakit Yönetiminde 'Konsolide Hesap Özeti' ne sağlar?",
-        "cevap": "Farklı bankalardaki tüm şirket hesaplarının tek ekrandan anlık izlenmesini sağlar."
+        "cevap": "Farklı bankalardaki tüm şirket hesaplarının tek ekrandan anlık izlenmesini sağlar.",
+        "q_end": 3.96,
+        "a_start": 7.26
       },
       {
         "kart": 69,
         "soru": "DBS sisteminde ana firma sisteme fatura yüklemesini en geç ne zaman yapmalıdır?",
-        "cevap": "Fatura son ödeme tarihinden önce bankaca belirlenen son yükleme saatine kadar yapmakla yükümlüdür."
+        "cevap": "Fatura son ödeme tarihinden önce bankaca belirlenen son yükleme saatine kadar yapmakla yükümlüdür.",
+        "q_end": 6.26,
+        "a_start": 9.56
       },
       {
         "kart": 70,
         "soru": "İhracat bedelinin tahsilinde 'Terkin' sınırı nedir?",
-        "cevap": "Mevzuat uyarınca belirli bir tutara kadar (örneğin 15.000 USD'ye kadar) eksik getirilen ihracat bedelleri bankalarca terkin edilerek kapatılabilir."
+        "cevap": "Mevzuat uyarınca belirli bir tutara kadar (örneğin 15.000 USD'ye kadar) eksik getirilen ihracat bedelleri bankalarca terkin edilerek kapatılabilir.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 71,
         "soru": "Kredili İthalatta matraha eklenen KKDF kesintisi Gümrük Vergisini etkiler mi?",
-        "cevap": "EVET. Ödenen %6 KKDF tutarı ithalatta Gümrük KDV'si ve gümrük vergisi matrahına eklenir."
+        "cevap": "EVET. Ödenen %6 KKDF tutarı ithalatta Gümrük KDV'si ve gümrük vergisi matrahına eklenir.",
+        "q_end": 5.66,
+        "a_start": 8.96
       },
       {
         "kart": 72,
         "soru": "A.TR Dolaşım Belgesi sadece AB ülkeleri için mi geçerlidir?",
-        "cevap": "Evet. Türkiye-AB Gümrük Birliği sanayi ürünleri kapsasındaki ticarette geçerlidir (Tarım ve işlenmiş tarım ürünlerinde EUR.1 kullanılır)."
+        "cevap": "Evet. Türkiye-AB Gümrük Birliği sanayi ürünleri kapsasındaki ticarette geçerlidir (Tarım ve işlenmiş tarım ürünlerinde EUR.1 kullanılır).",
+        "q_end": 5.76,
+        "a_start": 9.06
       },
       {
         "kart": 73,
         "soru": "Gümrük Birliği kapsamında 'Serbest Dolaşımdaki Eşya' ne demektir?",
-        "cevap": "Türkiye veya AB'de üretilen ya da üçüncü ülkelerden ithal edilip gümrük vergileri ödenmiş eşyadır."
+        "cevap": "Türkiye veya AB'de üretilen ya da üçüncü ülkelerden ithal edilip gümrük vergileri ödenmiş eşyadır.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 74,
         "soru": "Dış Ticarette 'Navlun Faturası' ne zaman düzenlenir?",
-        "cevap": "Taşıma ücretinin (navlun) ödendiğini tevsik etmek amacıyla taşıyan veya nakliyeci tarafından düzenlenir."
+        "cevap": "Taşıma ücretinin (navlun) ödendiğini tevsik etmek amacıyla taşıyan veya nakliyeci tarafından düzenlenir.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 75,
