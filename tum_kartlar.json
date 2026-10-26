@@ -4536,32 +4536,44 @@
       {
         "kart": 85,
         "soru": "Sermaye Yedekleri kaleminde hangi hesaplar yer alır?",
-        "cevap": "Hisse Senedi İhraç Primleri, Hisse Senedi İptal Kârları ve Yeniden Değerleme Değer Artış Fonları."
+        "cevap": "Hisse Senedi İhraç Primleri, Hisse Senedi İptal Kârları ve Yeniden Değerleme Değer Artış Fonları.",
+        "q_end": 3.96,
+        "a_start": 7.26
       },
       {
         "kart": 86,
         "soru": "Kâr Yedekleri kaleminde nelerin bulunması zorunludur?",
-        "cevap": "I. ve II. Tertip Kanuni Yedek Akçeler, Statü Yedekleri ve Olağanüstü Yedek Akçeler."
+        "cevap": "I. ve II. Tertip Kanuni Yedek Akçeler, Statü Yedekleri ve Olağanüstü Yedek Akçeler.",
+        "q_end": 3.79,
+        "a_start": 7.09
       },
       {
         "kart": 87,
         "soru": "Banka Mali Tablolarında 'Karşılaştırılabilirlik' ne demektir?",
-        "cevap": "Finansal tabloların önceki dönemlerle ve diğer bankaların tablolarıyla kıyaslanabilir standartta hazırlanmasıdır."
+        "cevap": "Finansal tabloların önceki dönemlerle ve diğer bankaların tablolarıyla kıyaslanabilir standartta hazırlanmasıdır.",
+        "q_end": 4.42,
+        "a_start": 7.72
       },
       {
         "kart": 88,
         "soru": "Vergi Mevzuatına göre 'Yenileme Fonu' pasifte kaç yıl tutulabilir?",
-        "cevap": "Satılan duran varlığın yenisini almak amacıyla ayrılan kâr fonu pasifte AZAMİ 3 YIL tutulabilir; 3 yıl içinde kullanılmazsa kâra eklenir."
+        "cevap": "Satılan duran varlığın yenisini almak amacıyla ayrılan kâr fonu pasifte AZAMİ 3 YIL tutulabilir; 3 yıl içinde kullanılmazsa kâra eklenir.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 89,
         "soru": "Bankacılıkta 'Operasyonel Risk Karşılığı' SYR hesaplamasına dahil edilir mi?",
-        "cevap": "Evet. Risk Ağırlıklı Varlıklar hesaplanırken Kredi Riski, Piyasa Riski ve Operasyonel Risk için sermaye yükümlülüğü hesaplanır."
+        "cevap": "Evet. Risk Ağırlıklı Varlıklar hesaplanırken Kredi Riski, Piyasa Riski ve Operasyonel Risk için sermaye yükümlülüğü hesaplanır.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 90,
         "soru": "VakıfBank Muhasebe ve Mali İşler Başkanlığı ana hedefi nedir?",
-        "cevap": "Bankanın tüm finansal işlemlerini BDDK, VUK ve TFRS standartlarına uygun, doğru, şeffaf ve zamanında muhasebeleştirip raporlamaktır."
+        "cevap": "Bankanın tüm finansal işlemlerini BDDK, VUK ve TFRS standartlarına uygun, doğru, şeffaf ve zamanında muhasebeleştirip raporlamaktır.",
+        "q_end": 4.82,
+        "a_start": 8.12
       }
     ]
   },
