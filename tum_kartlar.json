@@ -1284,102 +1284,142 @@
       {
         "kart": 3,
         "soru": "Devlet Tahvili ile Hazine Bonosu arasındaki temel fark nedir?",
-        "cevap": "Vadesi 1 yıldan kısa olanlar Hazine Bonosu, vadesi 1 yıl ve daha uzun olanlar Devlet Tahvilidir."
+        "cevap": "Vadesi 1 yıldan kısa olanlar Hazine Bonosu, vadesi 1 yıl ve daha uzun olanlar Devlet Tahvilidir.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 4,
         "soru": "Eurobond nedir ve kupon ödemeleri hangi döviz cinsleriyle yapılır?",
-        "cevap": "Devlet veya şirketlerin kendi ülkeleri dışında, yabancı para cinsinden (USD/EUR) ihraç ettikleri uzun vadeli borçlanma araçlarıdır."
+        "cevap": "Devlet veya şirketlerin kendi ülkeleri dışında, yabancı para cinsinden (USD/EUR) ihraç ettikleri uzun vadeli borçlanma araçlarıdır.",
+        "q_end": 4.54,
+        "a_start": 7.84
       },
       {
         "kart": 5,
         "soru": "Forward, Swap ve Opsiyon türev sözleşmelerinin kısa tanımları nelerdir?",
-        "cevap": "Forward: Gelecekteki tarihte önceden anlaşılan fiyattan alım/satım zorunluluğudur (OTC). Swap: Faiz veya döviz akışlarının takasıdır. Opsiyon: Alıcıya belirli fiyattan alma/satma hakkı veren sözleşmedir."
+        "cevap": "Forward: Gelecekteki tarihte önceden anlaşılan fiyattan alım/satım zorunluluğudur (OTC). Swap: Faiz veya döviz akışlarının takasıdır. Opsiyon: Alıcıya belirli fiyattan alma/satma hakkı veren sözleşmedir.",
+        "q_end": 5.3,
+        "a_start": 8.6
       },
       {
         "kart": 6,
         "soru": "VİOP nerede faaliyet gösterir ve takas kurumu kimdir?",
-        "cevap": "Borsa İstanbul bünyesinde faaliyet gösteren organize piyasadır. Takas ve saklama işlemlerini Takasbank yürütür."
+        "cevap": "Borsa İstanbul bünyesinde faaliyet gösteren organize piyasadır. Takas ve saklama işlemlerini Takasbank yürütür.",
+        "q_end": 4.15,
+        "a_start": 7.45
       },
       {
         "kart": 7,
         "soru": "Borsa İstanbul Pay Piyasası pazarları nelerdir?",
-        "cevap": "Yıldız Pazar, Ana Pazar, Alt Pazar, Yakın İzleme Pazarı."
+        "cevap": "Yıldız Pazar, Ana Pazar, Alt Pazar, Yakın İzleme Pazarı.",
+        "q_end": 3.79,
+        "a_start": 7.09
       },
       {
         "kart": 8,
         "soru": "Call Option ile Put Option alıcısının hakları nelerdir?",
-        "cevap": "Call Option: Satın alma hakkı verir. Put Option: Satma hakkı verir."
+        "cevap": "Call Option: Satın alma hakkı verir. Put Option: Satma hakkı verir.",
+        "q_end": 3.86,
+        "a_start": 7.16
       },
       {
         "kart": 9,
         "soru": "Amerikan Tipi Opsiyon ile Avrupa Tipi Opsiyon farkı nedir?",
-        "cevap": "Amerikan Tipi: Vade sonuna kadar istenen herhangi bir günde kullanılabilir. Avrupa Tipi: Yalnızca vade gününde kullanılabilir."
+        "cevap": "Amerikan Tipi: Vade sonuna kadar istenen herhangi bir günde kullanılabilir. Avrupa Tipi: Yalnızca vade gününde kullanılabilir.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 10,
         "soru": "Kira Sertifikası (Sukuk) nedir?",
-        "cevap": "Bir varlığın veya hakkın mülkiyetine ortaklık sağlayan, faizsiz finans ilkelerine uygun sermaye piyasası aracıdır."
+        "cevap": "Bir varlığın veya hakkın mülkiyetine ortaklık sağlayan, faizsiz finans ilkelerine uygun sermaye piyasası aracıdır.",
+        "q_end": 2.95,
+        "a_start": 6.25
       },
       {
         "kart": 11,
         "soru": "Yatırım Fonlarında 'Hisse Senedi Yoğun' fon kriteri nedir?",
-        "cevap": "Portföyünün en az %51'i devamlı olarak yerli şirketlerin hisse senetlerinden oluşan fonlardır."
+        "cevap": "Portföyünün en az %51'i devamlı olarak yerli şirketlerin hisse senetlerinden oluşan fonlardır.",
+        "q_end": 4.32,
+        "a_start": 7.62
       },
       {
         "kart": 12,
         "soru": "Girişim Sermayesi Yatırım Fonu (GSYF) nedir?",
-        "cevap": "Nitelikli yatırımcılardan toplanan paralarla, büyüme potansiyeli olan anonim şirketlere sermaye aktaran fonlardır."
+        "cevap": "Nitelikli yatırımcılardan toplanan paralarla, büyüme potansiyeli olan anonim şirketlere sermaye aktaran fonlardır.",
+        "q_end": 4.18,
+        "a_start": 7.48
       },
       {
         "kart": 13,
         "soru": "MKK (Merkezi Kayıt Kuruluşu) temel görevi nedir?",
-        "cevap": "Sermaye piyasası araçlarının kaydi olarak ihracı, saklanması ve hak sahipliklerinin izlenmesini sağlayan kuruluştur."
+        "cevap": "Sermaye piyasası araçlarının kaydi olarak ihracı, saklanması ve hak sahipliklerinin izlenmesini sağlayan kuruluştur.",
+        "q_end": 3.94,
+        "a_start": 7.24
       },
       {
         "kart": 14,
         "soru": "VİOP'ta 'Başlangıç Teminatı' ve 'Sürdürme Teminatı' nedir?",
-        "cevap": "Başlangıç Teminatı: Pozisyon açmak için yatırılan asgari tutardır. Sürdürme Teminatı: Teminatın düşebileceği alt sınırdır."
+        "cevap": "Başlangıç Teminatı: Pozisyon açmak için yatırılan asgari tutardır. Sürdürme Teminatı: Teminatın düşebileceği alt sınırdır.",
+        "q_end": 4.22,
+        "a_start": 7.52
       },
       {
         "kart": 15,
         "soru": "Tezgahüstü Piyasalar (OTC) ile Organize Piyasalar farkı nedir?",
-        "cevap": "Organize Piyasalar: Kuralları, yeri ve takas kurumu olan piyasadır. OTC: Borsa dışında serbestçe yapılan piyasadır."
+        "cevap": "Organize Piyasalar: Kuralları, yeri ve takas kurumu olan piyasadır. OTC: Borsa dışında serbestçe yapılan piyasadır.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 16,
         "soru": "Repo işlemlerinde mülkiyet devri gerçekleşir mi?",
-        "cevap": "Evet. Repo işleminde satılan menkul kıymetin mülkiyeti alıcıya geçer, ancak geri alım taahhüdü bulunur."
+        "cevap": "Evet. Repo işleminde satılan menkul kıymetin mülkiyeti alıcıya geçer, ancak geri alım taahhüdü bulunur.",
+        "q_end": 3.72,
+        "a_start": 7.02
       },
       {
         "kart": 17,
         "soru": "Likit Fon (Para Piyasası Fonu) portföy sınırlaması nedir?",
-        "cevap": "Portföyünün tamamı devamlı olarak vadesine en fazla 184 gün kalmış likit araçlardan oluşur."
+        "cevap": "Portföyünün tamamı devamlı olarak vadesine en fazla 184 gün kalmış likit araçlardan oluşur.",
+        "q_end": 4.2,
+        "a_start": 7.5
       },
       {
         "kart": 18,
         "soru": "Döviz Swapı işleminde ilk bacak ve ikinci bacak ne anlama gelir?",
-        "cevap": "İki farklı para biriminin spot kurdan takas edilmesi (ilk bacak) ve vadeli kurdan geri takas edilmesidir (ikinci bacak)."
+        "cevap": "İki farklı para biriminin spot kurdan takas edilmesi (ilk bacak) ve vadeli kurdan geri takas edilmesidir (ikinci bacak).",
+        "q_end": 4.75,
+        "a_start": 8.05
       },
       {
         "kart": 19,
         "soru": "Hisse Senedi alım-satımında BIST'te takas süresi (T+) kaçtır?",
-        "cevap": "Takas süresi T+2'dir (İşlem gününü takip eden 2. iş günü takas tamamlanır)."
+        "cevap": "Takas süresi T+2'dir (İşlem gününü takip eden 2. iş günü takas tamamlanır).",
+        "q_end": 4.82,
+        "a_start": 8.12
       },
       {
         "kart": 20,
         "soru": "Açığa Satış işlemi nedir?",
-        "cevap": "Sahip olunmayan sermaye piyasası araçlarının, fiyat düşüş beklentisiyle borçlanılarak satılması işlemidir."
+        "cevap": "Sahip olunmayan sermaye piyasası araçlarının, fiyat düşüş beklentisiyle borçlanılarak satılması işlemidir.",
+        "q_end": 2.52,
+        "a_start": 5.82
       },
       {
         "kart": 21,
         "soru": "Kaldıraçlı İşlemler (Forex) SPK kısıtlaması nedir?",
-        "cevap": "Azami kaldıraç oranı 1:10 ile sınırlandırılmıştır."
+        "cevap": "Azami kaldıraç oranı 1:10 ile sınırlandırılmıştır.",
+        "q_end": 4.22,
+        "a_start": 7.52
       },
       {
         "kart": 22,
         "soru": "Altın hesaplarında Bankalarca uygulanan saflık derecesi nedir?",
-        "cevap": "1000/1000 saflıktaki gram altın esasına göre işlem yapılır."
+        "cevap": "1000/1000 saflıktaki gram altın esasına göre işlem yapılır.",
+        "q_end": 4.78,
+        "a_start": 8.08
       },
       {
         "kart": 23,
