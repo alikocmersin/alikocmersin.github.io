@@ -8,27 +8,37 @@
       {
         "kart": 1,
         "soru": "VakıfBank'ın 2020 yıl sonundan itibaren bankacılık sektöründeki aktif büyüklük sırası nedir?",
-        "cevap": "2020 yıl sonundan itibaren aktif büyüklükte Türkiye'nin en büyük 2. bankasıdır."
+        "cevap": "2020 yıl sonundan itibaren aktif büyüklükte Türkiye'nin en büyük 2. bankasıdır.",
+        "q_end": 7.08,
+        "a_start": 10.38
       },
       {
         "kart": 2,
         "soru": "Mart 2026 itibarıyla VakıfBank'ın toplam varlıkları (aktif büyüklüğü) kaç TL'ye yükselmiştir?",
-        "cevap": "5.550 milyar TL seviyesine yükselmiştir (%3,0 artış)."
+        "cevap": "5.550 milyar TL seviyesine yükselmiştir (%3,0 artış).",
+        "q_end": 6.86,
+        "a_start": 10.16
       },
       {
         "kart": 3,
         "soru": "VakıfBank'ın varlık dağılımında en büyük paya sahip olan kalem hangisidir ve toplam varlıklar içindeki oranı kaçtır?",
-        "cevap": "En büyük pay %56 oranıyla Canlı Krediler kalemine aittir (3.087 milyar TL)."
+        "cevap": "En büyük pay %56 oranıyla Canlı Krediler kalemine aittir (3.087 milyar TL).",
+        "q_end": 7.18,
+        "a_start": 10.48
       },
       {
         "kart": 4,
         "soru": "VakıfBank'ın canlı kredileri yıllık bazda yüzde kaç oranında artmıştır?",
-        "cevap": "Yıllık bazda %38 oranında artış göstererek 3.087 milyar TL'ye ulaşmıştır."
+        "cevap": "Yıllık bazda %38 oranında artış göstererek 3.087 milyar TL'ye ulaşmıştır.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 5,
         "soru": "VakıfBank'ın Mart 2026 sonu itibarıyla Takibe Dönüşüm Oranı (NPL) yüzde kaçtır?",
-        "cevap": "Takibe dönüşüm oranı %3,1 olarak gerçekleşmiştir."
+        "cevap": "Takibe dönüşüm oranı %3,1 olarak gerçekleşmiştir.",
+        "q_end": 6.46,
+        "a_start": 9.76
       },
       {
         "kart": 6,
