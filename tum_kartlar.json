@@ -3688,102 +3688,142 @@
       {
         "kart": 63,
         "soru": "Kredilerin Revizyonunda (Yenilenmesinde) kararı hangi merci verir?",
-        "cevap": "Krediyi ilk tahsis eden yetkili kredi komitesi veya onay mercii verir."
+        "cevap": "Krediyi ilk tahsis eden yetkili kredi komitesi veya onay mercii verir.",
+        "q_end": 4.87,
+        "a_start": 8.17
       },
       {
         "kart": 64,
         "soru": "Kredilerin Kanuni Takibe aktarılması kararını kim onaylar?",
-        "cevap": "Kredi Takip ve Hukuk birimleri değerlendirmesiyle yetkili Kredi Komitesi/Yönetim Kurulu onaylar."
+        "cevap": "Kredi Takip ve Hukuk birimleri değerlendirmesiyle yetkili Kredi Komitesi/Yönetim Kurulu onaylar.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 65,
         "soru": "Kredi Risk Kayıtları hangi kurum nezdinde toplanır?",
-        "cevap": "Türkiye Bankalar Birliği Risk Merkezi nezdinde toplanır."
+        "cevap": "Türkiye Bankalar Birliği Risk Merkezi nezdinde toplanır.",
+        "q_end": 3.79,
+        "a_start": 7.09
       },
       {
         "kart": 66,
         "soru": "Çek karnesi verilen ticari müşterilerin karşılıksız çek incelemesi nereden yapılır?",
-        "cevap": "TCMB ve TBB Risk Merkezi karşılıksız çek sorgulama sistemlerinden yapılır."
+        "cevap": "TCMB ve TBB Risk Merkezi karşılıksız çek sorgulama sistemlerinden yapılır.",
+        "q_end": 5.57,
+        "a_start": 8.87
       },
       {
         "kart": 67,
         "soru": "Müteselsil Kefilin borçtan kurtulma zamanaşımı süresi kaç yıldır?",
-        "cevap": "Borçlar Kanunu uyarınca kefaletten doğan borçlarda zamanaşımı genel kural olarak 10 yıldır."
+        "cevap": "Borçlar Kanunu uyarınca kefaletten doğan borçlarda zamanaşımı genel kural olarak 10 yıldır.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 68,
         "soru": "İpotek tesisinde Tapu Müdürlüğüne giden banka yetkilisinin yetkisi nasıl tevsik edilir?",
-        "cevap": "Bankanın imza sirküleri ve yetki belgesi ile tevsik edilir."
+        "cevap": "Bankanın imza sirküleri ve yetki belgesi ile tevsik edilir.",
+        "q_end": 6.17,
+        "a_start": 9.47
       },
       {
         "kart": 69,
         "soru": "Ticari Kredi Tahsisinde 'Karşılık Ayırma' işlemi banka kârlılığını nasıl etkiler?",
-        "cevap": "Ayrılan karşılıklar gider yazıldığı için bankanın dönem net kârını doğrudan azaltır."
+        "cevap": "Ayrılan karşılıklar gider yazıldığı için bankanın dönem net kârını doğrudan azaltır.",
+        "q_end": 5.38,
+        "a_start": 8.68
       },
       {
         "kart": 70,
         "soru": "Firma mali tablolarının 'Bağımsız Denetim'den geçmiş olması neyi garantiler?",
-        "cevap": "Mali tabloların Kamu Gözetimi Kurumu (KGK) ve TFRS standartlarına uygun, doğru ve güvenilir olduğunu tevsik eder."
+        "cevap": "Mali tabloların Kamu Gözetimi Kurumu (KGK) ve TFRS standartlarına uygun, doğru ve güvenilir olduğunu tevsik eder.",
+        "q_end": 5.06,
+        "a_start": 8.36
       },
       {
         "kart": 71,
         "soru": "Kredilendirmede 'Konsantrasyon Riski' nedir?",
-        "cevap": "Kredilerin tek bir sektöre, gruba veya firmaya aşırı yoğunlaşması sonucu oluşan risktir."
+        "cevap": "Kredilerin tek bir sektöre, gruba veya firmaya aşırı yoğunlaşması sonucu oluşan risktir.",
+        "q_end": 3.67,
+        "a_start": 6.97
       },
       {
         "kart": 72,
         "soru": "Kredi Tahsisinde 'Çapraz Satış' imkanı bankaya ne sağlar?",
-        "cevap": "Müşteriye kredi yanında POS, dışı ticaret, sigorta ve maaş protokolü satarak toplam müşteri getirisini artırmayı sağlar."
+        "cevap": "Müşteriye kredi yanında POS, dışı ticaret, sigorta ve maaş protokolü satarak toplam müşteri getirisini artırmayı sağlar.",
+        "q_end": 4.25,
+        "a_start": 7.55
       },
       {
         "kart": 73,
         "soru": "Teminat Mektubunda 'Hükümsüzlük / İbra' ne demektir?",
-        "cevap": "Mektup süresinin dolması veya taahhüdün tamamlanması üzerine muhatabın mektup aslı iade ederek bankayı riski ihraç etmesidir."
+        "cevap": "Mektup süresinin dolması veya taahhüdün tamamlanması üzerine muhatabın mektup aslı iade ederek bankayı riski ihraç etmesidir.",
+        "q_end": 4.13,
+        "a_start": 7.43
       },
       {
         "kart": 74,
         "soru": "Gümrük Teminat Mektubu nerede kullanılır?",
-        "cevap": "İthalat işlemlerinde doğacak gümrük vergisi ve resimlerin ödenmesini garanti etmek için gümrük idarelerine verilir."
+        "cevap": "İthalat işlemlerinde doğacak gümrük vergisi ve resimlerin ödenmesini garanti etmek için gümrük idarelerine verilir.",
+        "q_end": 3.19,
+        "a_start": 6.49
       },
       {
         "kart": 75,
         "soru": "Kredi Müşterisinin İflas etmesi durumunda bankanın alacağı ne olur?",
-        "cevap": "Tüm krediler muaccel hale gelir ve banka alacağını İflas Masasına kaydettirir; rehincilerin önceliği vardır."
+        "cevap": "Tüm krediler muaccel hale gelir ve banka alacağını İflas Masasına kaydettirir; rehincilerin önceliği vardır.",
+        "q_end": 4.51,
+        "a_start": 7.81
       },
       {
         "kart": 76,
         "soru": "Kredi Müşterisine 'Konkordato Mühleti' verilirse banka icra takibi yapabilir mi?",
-        "cevap": "Geçici veya kesin konkordato mühleti içinde borçluya karşı kural olarak yeni icra takibi yapılamaz ve başlamış takipler durur."
+        "cevap": "Geçici veya kesin konkordato mühleti içinde borçluya karşı kural olarak yeni icra takibi yapılamaz ve başlamış takipler durur.",
+        "q_end": 5.5,
+        "a_start": 8.8
       },
       {
         "kart": 77,
         "soru": "İpotekli Gayrimenkulün Sigortalanmasında 'Dain-i Mürtehin' kaydı kime düşülür?",
-        "cevap": "Krediyi veren Banka adına düşülür; yangın/afet anında tazminat öncelikle bankaya ödenir."
+        "cevap": "Krediyi veren Banka adına düşülür; yangın/afet anında tazminat öncelikle bankaya ödenir.",
+        "q_end": 5.21,
+        "a_start": 8.51
       },
       {
         "kart": 78,
         "soru": "Ticari Kredilerde 'Faiz Reeskontu' muhasebe kaydı ne zaman yapılır?",
-        "cevap": "Dönem sonlarında (örneğin ay veya üç aylık bilanço dönemlerinde) henüz tahsil edilmeyen işlemiş faizler için yapılır."
+        "cevap": "Dönem sonlarında (örneğin ay veya üç aylık bilanço dönemlerinde) henüz tahsil edilmeyen işlemiş faizler için yapılır.",
+        "q_end": 4.82,
+        "a_start": 8.12
       },
       {
         "kart": 79,
         "soru": "Gayrinakdi Kredi Limitleri nakdi krediye dönüştürülebilir mi?",
-        "cevap": "Yetkili kredi komitesi onayı alınmak kaydıyla gayrinakdi kredi limitleri nakdi kredi limitine çevrilebilir."
+        "cevap": "Yetkili kredi komitesi onayı alınmak kaydıyla gayrinakdi kredi limitleri nakdi kredi limitine çevrilebilir.",
+        "q_end": 4.22,
+        "a_start": 7.52
       },
       {
         "kart": 80,
         "soru": "Kreditör Bankalar Konsorsiyumu tarafından sağlanan Kredi Kulübü (Club Loan) nedir?",
-        "cevap": "Sendikasyona göre daha az sayıda bankanın katılımıyla sağlanan ortak ticari kredidir."
+        "cevap": "Sendikasyona göre daha az sayıda bankanın katılımıyla sağlanan ortak ticari kredidir.",
+        "q_end": 6.12,
+        "a_start": 9.42
       },
       {
         "kart": 81,
         "soru": "Kredi Tahsisinde 'Memleket İçi İtibar' ne anlama gelir?",
-        "cevap": "Firmanın piyasadaki tedarikçilerine, bankalara ve rakiplerine karşı ödeme ahlakı ve güvenirliğidir."
+        "cevap": "Firmanın piyasadaki tedarikçilerine, bankalara ve rakiplerine karşı ödeme ahlakı ve güvenirliğidir.",
+        "q_end": 4.01,
+        "a_start": 7.31
       },
       {
         "kart": 82,
         "soru": "Finansal Kiralama (Leasing) Kredilerinde KDV teşviki var mıdır?",
-        "cevap": "Evet. Bazı yatırım mallarının leasingle alımında indirimli KDV oranları uygulanır."
+        "cevap": "Evet. Bazı yatırım mallarının leasingle alımında indirimli KDV oranları uygulanır.",
+        "q_end": 5.93,
+        "a_start": 9.23
       },
       {
         "kart": 83,
