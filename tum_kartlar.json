@@ -1136,92 +1136,128 @@
       {
         "kart": 63,
         "soru": "Kiralık Kasada müşterinin vekalet verdiği kişinin yetki sınırı nedir?",
-        "cevap": "Vekaletnamede kiralık kasayı açmaya ve içindekileri almaya açıkça yetki verilmişse vekil kasayı açabilir."
+        "cevap": "Vekaletnamede kiralık kasayı açmaya ve içindekileri almaya açıkça yetki verilmişse vekil kasayı açabilir.",
+        "q_end": 5.14,
+        "a_start": 8.44
       },
       {
         "kart": 64,
         "soru": "Veraset ve İntikal Vergisi Dairesi ilişiksiz belgesi alınmadan vefat eden müşterinin parasının ödenmesi durumunda bankanın sorumluluğu nedir?",
-        "cevap": "Banka ödediği tutar üzerinden doğacak Veraset ve İntikal Vergisinden müteselsilen sorumlu olur."
+        "cevap": "Banka ödediği tutar üzerinden doğacak Veraset ve İntikal Vergisinden müteselsilen sorumlu olur.",
+        "q_end": 8.95,
+        "a_start": 12.25
       },
       {
         "kart": 65,
         "soru": "Gözaltı / El Koyma kararı olan kişilerin hesaplarında bankaca ne yapılır?",
-        "cevap": "Mahkeme veya Cumhuriyet Savcılığı kararı uyarınca hesaptaki tüm işlemler durdurulur ve bloke konulur."
+        "cevap": "Mahkeme veya Cumhuriyet Savcılığı kararı uyarınca hesaptaki tüm işlemler durdurulur ve bloke konulur.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 66,
         "soru": "EFT işlemlerinde 'Geçerli Sorumluluk' kuralı nedir?",
-        "cevap": "Hatalı IBAN veya hesap numarası girilmesi durumunda gönderen bankanın ve müşterinin sorumluluk sınırları düzenlenmiştir."
+        "cevap": "Hatalı IBAN veya hesap numarası girilmesi durumunda gönderen bankanın ve müşterinin sorumluluk sınırları düzenlenmiştir.",
+        "q_end": 4.08,
+        "a_start": 7.38
       },
       {
         "kart": 67,
         "soru": "ATM'de para sıkışması durumunda müşteriye iade nasıl yapılır?",
-        "cevap": "ATM kasa sayımı (gün sonu mutabakatı) yapılarak kasa fazlası tespit edildiğinde müşteri hesabına aktarılır."
+        "cevap": "ATM kasa sayımı (gün sonu mutabakatı) yapılarak kasa fazlası tespit edildiğinde müşteri hesabına aktarılır.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 68,
         "soru": "FAST işlemlerinde alıcı IBAN'ı hatalı girilirse işlem iptal edilebilir mi?",
-        "cevap": "FAST anlık tamamlandığı için iptal edilemez; ancak H31 mesaj kodu ile karşı bankadan iade talebinde bulunulabilir."
+        "cevap": "FAST anlık tamamlandığı için iptal edilemez; ancak H31 mesaj kodu ile karşı bankadan iade talebinde bulunulabilir.",
+        "q_end": 5.16,
+        "a_start": 8.46
       },
       {
         "kart": 69,
         "soru": "KOLAS adresinin başka bir bankaya taşınması nasıl yapılır?",
-        "cevap": "Müşteri yeni bankasından tanımlama yaptığında eski bankadaki KOLAS eşleşmesi otomatik olarak silinir."
+        "cevap": "Müşteri yeni bankasından tanımlama yaptığında eski bankadaki KOLAS eşleşmesi otomatik olarak silinir.",
+        "q_end": 4.13,
+        "a_start": 7.43
       },
       {
         "kart": 70,
         "soru": "Banka Personelinin müşteri hesabından yetkisiz para çekmesi ne suçu oluşturur?",
-        "cevap": "5411 sayılı Bankacılık Kanunu uyarınca Zimmet suçunu oluşturur ve ağır hapis cezası gerektirir."
+        "cevap": "5411 sayılı Bankacılık Kanunu uyarınca Zimmet suçunu oluşturur ve ağır hapis cezası gerektirir.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 71,
         "soru": "Sürekli Mevduat Hesabı İşletim Şartları sözleşmede nasıl belirtilir?",
-        "cevap": "Tüketici veya ticari mevduat sözleşmelerinde hesap işletim şartları açıkça yer alır."
+        "cevap": "Tüketici veya ticari mevduat sözleşmelerinde hesap işletim şartları açıkça yer alır.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 72,
         "soru": "Günü geçmiş Vadesiz Mevduat Bakiyelerinde bankaca bildirim zorunluluğu var mıdır?",
-        "cevap": "Banka belirli periyotlarda hesap ekstresi ve bilgilendirme yapmakla yükümlüdür."
+        "cevap": "Banka belirli periyotlarda hesap ekstresi ve bilgilendirme yapmakla yükümlüdür.",
+        "q_end": 6.0,
+        "a_start": 9.3
       },
       {
         "kart": 73,
         "soru": "Mevduat Hesaplarında 'Bloke' konma türleri nelerdir?",
-        "cevap": "Adli bloke, icra blokesi, teminat blokesi ve banka alacak blokesi."
+        "cevap": "Adli bloke, icra blokesi, teminat blokesi ve banka alacak blokesi.",
+        "q_end": 3.77,
+        "a_start": 7.07
       },
       {
         "kart": 74,
         "soru": "Kasa Anahtarının müşteride kalan nüshasının taklidi yapılabilir mi?",
-        "cevap": "Banka tarafından taklit anahtar yapılması engellenir; tek nüsha müşteriye teslim edilir."
+        "cevap": "Banka tarafından taklit anahtar yapılması engellenir; tek nüsha müşteriye teslim edilir.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 75,
         "soru": "Vefat eden müşterinin kiralık kasasında vasiyetname çıkarsa ne yapılır?",
-        "cevap": "Noter veya mahkeme hakimi huzurunda tespit edilerek yetkili makama teslim edilir."
+        "cevap": "Noter veya mahkeme hakimi huzurunda tespit edilerek yetkili makama teslim edilir.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 76,
         "soru": "Döviz Tevdiat Hesabı (DTH) açılışında efektif para kabulü kuralı nedir?",
-        "cevap": "Sahtelik ve orijinallik kontrolü yapılarak sisteme kabul edilir."
+        "cevap": "Sahtelik ve orijinallik kontrolü yapılarak sisteme kabul edilir.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 77,
         "soru": "Mevduat Müşterisinin adres değişikliğini bildirme yükümlülüğü nedir?",
-        "cevap": "Müşteri adres değişikliklerini bankaya bildirmekle yükümlüdür; aksi halde eski adrese yapılan tebligatlar geçerli sayılır."
+        "cevap": "Müşteri adres değişikliklerini bankaya bildirmekle yükümlüdür; aksi halde eski adrese yapılan tebligatlar geçerli sayılır.",
+        "q_end": 4.8,
+        "a_start": 8.1
       },
       {
         "kart": 78,
         "soru": "Mevduat hesabının yetkisiz 3. kişilere kullandırılması yasal mıdır?",
-        "cevap": "MASAK mevzuatı uyarınca başkası hesabına hareket edildiğinin beyan edilmemesi suç teşkil eder."
+        "cevap": "MASAK mevzuatı uyarınca başkası hesabına hareket edildiğinin beyan edilmemesi suç teşkil eder.",
+        "q_end": 5.14,
+        "a_start": 8.44
       },
       {
         "kart": 79,
         "soru": "Mevduat Faiz Hesaplamasında kullanılan formül esası nedir?",
-        "cevap": "(Anapara x Faiz Oranı x Gün Sayısı) / 36500 (TL için 365 gün esası)."
+        "cevap": "(Anapara x Faiz Oranı x Gün Sayısı) / 36500 (TL için 365 gün esası).",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 80,
         "soru": "Mevduat Cüzdanında tahrifat yapılması durumunda bankaca ne uygulanır?",
-        "cevap": "Hesap cüzdanı geçersiz sayılır, sistem kayıtları esas alınır ve savcılığa suç duyurusunda bulunulur."
+        "cevap": "Hesap cüzdanı geçersiz sayılır, sistem kayıtları esas alınır ve savcılığa suç duyurusunda bulunulur.",
+        "q_end": 4.7,
+        "a_start": 8.0
       }
     ]
   },
