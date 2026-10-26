@@ -288,102 +288,142 @@
       {
         "kart": 41,
         "soru": "Türkiye'nin ilk ve tek kredi kayıt bürosu olan iştirak hangisidir?",
-        "cevap": "KKB Kredi Kayıt Bürosu A.Ş."
+        "cevap": "KKB Kredi Kayıt Bürosu A.Ş.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 42,
         "soru": "Kartlı ödeme sistemleri, takas ve provizyon işlemlerini yürütmek üzere kurulan iştirak hangisidir?",
-        "cevap": "Bankalararası Kart Merkezi A.Ş. (BKM)."
+        "cevap": "Bankalararası Kart Merkezi A.Ş. (BKM).",
+        "q_end": 6.38,
+        "a_start": 9.68
       },
       {
         "kart": 43,
         "soru": "TÜRİB (Türkiye Ürün İhtisas Borsası A.Ş.) hangi kanun çerçevesinde kurulmuştur?",
-        "cevap": "5300 sayılı Tarım Ürünleri Lisanslı Depoculuk Kanunu çerçevesinde kurulmuştur."
+        "cevap": "5300 sayılı Tarım Ürünleri Lisanslı Depoculuk Kanunu çerçevesinde kurulmuştur.",
+        "q_end": 5.62,
+        "a_start": 8.92
       },
       {
         "kart": 44,
         "soru": "Derecelendirme faaliyetleri yürüten VakıfBank iştiraki hangisidir?",
-        "cevap": "JCR Avrasya Derecelendirme A.Ş."
+        "cevap": "JCR Avrasya Derecelendirme A.Ş.",
+        "q_end": 4.7,
+        "a_start": 8.0
       },
       {
         "kart": 45,
         "soru": "Dağıtım kanallarına yönelik ATM bakım-onarım, saha, güvenlik ve yazılım hizmeti sunan iştirak hangisidir?",
-        "cevap": "Bileşim Finansal Teknolojiler ve Ödeme Sistemleri A.Ş."
+        "cevap": "Bileşim Finansal Teknolojiler ve Ödeme Sistemleri A.Ş.",
+        "q_end": 6.86,
+        "a_start": 10.16
       },
       {
         "kart": 46,
         "soru": "Türk Silahlı Kuvvetleri'nin ihtiyacı olan roket ve füze sistemlerini imal eden VakıfBank iştiraki hangisidir?",
-        "cevap": "Roketsan Roket Sanayi ve Ticaret A.Ş."
+        "cevap": "Roketsan Roket Sanayi ve Ticaret A.Ş.",
+        "q_end": 7.06,
+        "a_start": 10.36
       },
       {
         "kart": 47,
         "soru": "Tasfiye Halinde World Vakıf UBB Ltd. nerede ve ne zaman kurulmuştur?",
-        "cevap": "1993 yılında K.K.T.C.'de kıyı bankacılığı amacıyla kurulmuştur; tasfiye sürecindedir."
+        "cevap": "1993 yılında K.K.T.C.'de kıyı bankacılığı amacıyla kurulmuştur; tasfiye sürecindedir.",
+        "q_end": 5.3,
+        "a_start": 8.6
       },
       {
         "kart": 48,
         "soru": "VakıfBank Esas Sözleşmesi Madde 4 uyarınca Bankanın amacı nedir?",
-        "cevap": "Bankacılık Kanunu ve ilgili mevzuatta belirtilen yükümlülükler kaydıyla mevduat bankalarının yapabileceği her türlü bankacılık faaliyetini yürütmektir."
+        "cevap": "Bankacılık Kanunu ve ilgili mevzuatta belirtilen yükümlülükler kaydıyla mevduat bankalarının yapabileceği her türlü bankacılık faaliyetini yürütmektir.",
+        "q_end": 5.21,
+        "a_start": 8.51
       },
       {
         "kart": 49,
         "soru": "VakıfBank yetkili organları Esas Sözleşme Madde 8 uyarınca hangileridir?",
-        "cevap": "Genel Kurul, Yönetim Kurulu ve Genel Müdürdür."
+        "cevap": "Genel Kurul, Yönetim Kurulu ve Genel Müdürdür.",
+        "q_end": 5.74,
+        "a_start": 9.04
       },
       {
         "kart": 50,
         "soru": "Olağan Genel Kurul toplantısı ne zaman yapılır? (Madde 9)",
-        "cevap": "Hesap dönemi sonundan itibaren 3 ay içinde ve en az yılda bir kere toplanır."
+        "cevap": "Hesap dönemi sonundan itibaren 3 ay içinde ve en az yılda bir kere toplanır.",
+        "q_end": 4.8,
+        "a_start": 8.1
       },
       {
         "kart": 51,
         "soru": "Olağan Genel Kurul gündeminde yer alan 5 temel husus nedir? (Madde 13)",
-        "cevap": "1. Organların seçimi | 2. Finansal tablolar | 3. YK yıllık raporu | 4. Kâr dağıtımı | 5. YK üyelerinin ibrası."
+        "cevap": "1. Organların seçimi | 2. Finansal tablolar | 3. YK yıllık raporu | 4. Kâr dağıtımı | 5. YK üyelerinin ibrası.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 52,
         "soru": "Bankayı idare ve temsil yetkisi Esas Sözleşme uyarınca kime aittir?",
-        "cevap": "Yönetim Kurulu'na aittir."
+        "cevap": "Yönetim Kurulu'na aittir.",
+        "q_end": 5.16,
+        "a_start": 8.46
       },
       {
         "kart": 53,
         "soru": "Çalışana uygulanacak İkramiye Kesintisi Cezasının miktar bazında yetki sınırları nedir?",
-        "cevap": "3 ikramiyeye kadar Genel Müdür resen kesebilir; 3 ikramiyeyi aşan tutarlarda yetki Yönetim Kurulu’na aittir."
+        "cevap": "3 ikramiyeye kadar Genel Müdür resen kesebilir; 3 ikramiyeyi aşan tutarlarda yetki Yönetim Kurulu’na aittir.",
+        "q_end": 6.48,
+        "a_start": 9.78
       },
       {
         "kart": 54,
         "soru": "Banka personelinin başka resmi veya özel kuruluşlarda görev almama yasağının istisnaları nelerdir?",
-        "cevap": "Banka organlarınca iştiraklerde/tasfiyelerde görev verilmesi; kooperatif, vakıf, dernek ve yardım sandıklarında tayin/seçimle görev alınması."
+        "cevap": "Banka organlarınca iştiraklerde/tasfiyelerde görev verilmesi; kooperatif, vakıf, dernek ve yardım sandıklarında tayin/seçimle görev alınması.",
+        "q_end": 6.96,
+        "a_start": 10.26
       },
       {
         "kart": 55,
         "soru": "Banka personelinin doğrudan veya dolaylı olarak Bankadan borç alma kuralı nedir?",
-        "cevap": "Bankacılık Kanunu'nun izin verdiği miktarın dışında borç alamazlar."
+        "cevap": "Bankacılık Kanunu'nun izin verdiği miktarın dışında borç alamazlar.",
+        "q_end": 6.12,
+        "a_start": 9.42
       },
       {
         "kart": 56,
         "soru": "Siyasi partilere üye olma ve siyasi faaliyette bulunma kuralı nedir?",
-        "cevap": "Siyasi partilere üye olamazlar, faal görev alamazlar ve siyasal faaliyette bulunamazlar."
+        "cevap": "Siyasi partilere üye olamazlar, faal görev alamazlar ve siyasal faaliyette bulunamazlar.",
+        "q_end": 5.42,
+        "a_start": 8.72
       },
       {
         "kart": 57,
         "soru": "Genel Müdürlük izni olmadan yayın organlarında yazı yazma veya demeç verme durumu nedir?",
-        "cevap": "İzin olmadıkça yazı yazamaz, bilgi veremez, demeç veremez ve kitap bastıramazlar."
+        "cevap": "İzin olmadıkça yazı yazamaz, bilgi veremez, demeç veremez ve kitap bastıramazlar.",
+        "q_end": 6.58,
+        "a_start": 9.88
       },
       {
         "kart": 58,
         "soru": "Banka personeli hususunda kurum içi veya dışı kişileri aracı kullanma durumu nasıl değerlendirilir?",
-        "cevap": "Aracı kullanma usullere aykırı hareket sayılır; bu teşebbüsler değerlendirmeye alınmaz ve İnsan Kaynakları Başkanlığı’nca takip edilir."
+        "cevap": "Aracı kullanma usullere aykırı hareket sayılır; bu teşebbüsler değerlendirmeye alınmaz ve İnsan Kaynakları Başkanlığı’nca takip edilir.",
+        "q_end": 6.62,
+        "a_start": 9.92
       },
       {
         "kart": 59,
         "soru": "VakıfBank Toplumsal Cinsiyet Eşitliğine Duyarlı Dil Rehberi temel amacı nedir?",
-        "cevap": "Kurum içinde ayrımcı ve ötekileştirici dil yerine kapsayıcı iletişim yöntemlerinin kullanılmasını sağlamaktır."
+        "cevap": "Kurum içinde ayrımcı ve ötekileştirici dil yerine kapsayıcı iletişim yöntemlerinin kullanılmasını sağlamaktır.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 60,
         "soru": "Banka çalışanı hakkında disiplin cezalarını önermek amacıyla kurulan kurul hangisidir?",
-        "cevap": "Disiplin Kurulu’dur."
+        "cevap": "Disiplin Kurulu’dur.",
+        "q_end": 5.74,
+        "a_start": 9.04
       },
       {
         "kart": 61,
