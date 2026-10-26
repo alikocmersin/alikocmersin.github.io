@@ -3268,102 +3268,142 @@
       {
         "kart": 3,
         "soru": "5411 sayılı Bankacılık Kanunu Madde 54 uyarınca bir bankanın bir gerçek veya tüzel kişiye verebileceği kredi sınırı özkaynaklarının yüzde kaçıdır?",
-        "cevap": "Bir gerçek veya tüzel kişiye verilecek kredi tutarı banka özkaynaklarının %25'ini AŞAMAZ."
+        "cevap": "Bir gerçek veya tüzel kişiye verilecek kredi tutarı banka özkaynaklarının %25'ini AŞAMAZ.",
+        "q_end": 10.46,
+        "a_start": 13.76
       },
       {
         "kart": 4,
         "soru": "5411 sayılı Kanun uyarınca 'Risk Grubu'na verilebilecek kredi sınırı özkaynakların yüzde kaçıdır?",
-        "cevap": "Bir Risk Grubuna verilebilecek kredi tutarı banka özkaynaklarının %20'sini AŞAMAZ."
+        "cevap": "Bir Risk Grubuna verilebilecek kredi tutarı banka özkaynaklarının %20'sini AŞAMAZ.",
+        "q_end": 7.25,
+        "a_start": 10.55
       },
       {
         "kart": 5,
         "soru": "Bankacılık Kanunu uyarınca 'Büyük Kredi' ne demektir ve bir bankanın verebileceği büyük kredilerin toplamı özkaynakların kaç katını aşamaz?",
-        "cevap": "Banka özkaynaklarının %10'u veya daha fazlasını teşkil eden krediler 'Büyük Kredi' sayılır. Büyük kredilerin toplamı banka özkaynaklarının 8 KATINI AŞAMAZ."
+        "cevap": "Banka özkaynaklarının %10'u veya daha fazlasını teşkil eden krediler 'Büyük Kredi' sayılır. Büyük kredilerin toplamı banka özkaynaklarının 8 KATINI AŞAMAZ.",
+        "q_end": 8.54,
+        "a_start": 11.84
       },
       {
         "kart": 6,
         "soru": "Kredilendirmede 5C Kuralı neleri ifade eder?",
-        "cevap": "1. Character (Karakter/Niyet) | 2. Capacity (Kapasite/Nakit Akışı) | 3. Capital (Sermaye/Özkaynak) | 4. Collateral (Teminat) | 5. Conditions (Ekonomik Koşullar)."
+        "cevap": "1. Character (Karakter/Niyet) | 2. Capacity (Kapasite/Nakit Akışı) | 3. Capital (Sermaye/Özkaynak) | 4. Collateral (Teminat) | 5. Conditions (Ekonomik Koşullar).",
+        "q_end": 3.96,
+        "a_start": 7.26
       },
       {
         "kart": 7,
         "soru": "Kredilendirmede 5P Kuralı bileşenleri nelerdir?",
-        "cevap": "1. People (İnsanlar/Yönetim) | 2. Purpose (Kredi Amacı) | 3. Payment (Ödeme Kaynağı) | 4. Protection (Güvence/Teminat) | 5. Perspective (Gelecek Vizyonu)."
+        "cevap": "1. People (İnsanlar/Yönetim) | 2. Purpose (Kredi Amacı) | 3. Payment (Ödeme Kaynağı) | 4. Protection (Güvence/Teminat) | 5. Perspective (Gelecek Vizyonu).",
+        "q_end": 3.89,
+        "a_start": 7.19
       },
       {
         "kart": 8,
         "soru": "Kredi Değerlendirmesinde 'İstihbarat Raporu' ne zaman güncellenmelidir?",
-        "cevap": "Kredi müşterilerinin istihbarat raporları en az YILDA 1 KEZ güncellenmek zorundadır."
+        "cevap": "Kredi müşterilerinin istihbarat raporları en az YILDA 1 KEZ güncellenmek zorundadır.",
+        "q_end": 4.99,
+        "a_start": 8.29
       },
       {
         "kart": 9,
         "soru": "Kredi derecelendirmesinde PD (Probability of Default) ne demektir?",
-        "cevap": "Borçlunun 1 yıl içinde borcunu ödeyemeyip temerrüde düşme olasılığıdır."
+        "cevap": "Borçlunun 1 yıl içinde borcunu ödeyemeyip temerrüde düşme olasılığıdır.",
+        "q_end": 5.09,
+        "a_start": 8.39
       },
       {
         "kart": 10,
         "soru": "Kredi derecelendirmesinde EAD (Exposure at Default) ne anlama gelir?",
-        "cevap": "Borçlunun temerrüde düştüğü anda bankaya olan toplam borç ve risk tutarıdır."
+        "cevap": "Borçlunun temerrüde düştüğü anda bankaya olan toplam borç ve risk tutarıdır.",
+        "q_end": 5.38,
+        "a_start": 8.68
       },
       {
         "kart": 11,
         "soru": "Kredi derecelendirmesinde LGD (Loss Given Default) neyi temsil eder?",
-        "cevap": "Temerrüt gerçekleştiğinde teminatlar düşüldükten sonra bankanın uğrayacağı net kayıp yüzdesidir."
+        "cevap": "Temerrüt gerçekleştiğinde teminatlar düşüldükten sonra bankanın uğrayacağı net kayıp yüzdesidir.",
+        "q_end": 5.4,
+        "a_start": 8.7
       },
       {
         "kart": 12,
         "soru": "VakıfBank kredi organizasyonunda kredi tahsis yetki kademeleri nelerdir?",
-        "cevap": "Şube Kredi Yetkilileri, Bölge Kredi Komitesi, Genel Müdürlük Kredi Komitesi ve Yönetim Kurulu'dur."
+        "cevap": "Şube Kredi Yetkilileri, Bölge Kredi Komitesi, Genel Müdürlük Kredi Komitesi ve Yönetim Kurulu'dur.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 13,
         "soru": "Borçlu Cari Hesap (BCH) nakdi kredisinin faiz tahakkuk ve tahsilat dönemleri yılın hangi aylarının sonundadır?",
-        "cevap": "BCH kredilerinde faiz 3 aylık devre sonları olan MART, HAZİRAN, EYLÜL ve ARALIK aylarının sonunda tahakkuk ettirilir."
+        "cevap": "BCH kredilerinde faiz 3 aylık devre sonları olan MART, HAZİRAN, EYLÜL ve ARALIK aylarının sonunda tahakkuk ettirilir.",
+        "q_end": 8.02,
+        "a_start": 11.32
       },
       {
         "kart": 14,
         "soru": "İskonto Kredisi ile İştira Kredisi arasındaki belediye sınırı farkı nedir?",
-        "cevap": "İskonto Kredisi borçlusu bankanın yer aldığı BELEDİYE SINIRLARI İÇİNDE bulunan senetlerin kırılmasıdır. İştira Kredisi ise borçlusu belediye sınırları DIŞINDA bulunan senetlerin satın alınmasıdır."
+        "cevap": "İskonto Kredisi borçlusu bankanın yer aldığı BELEDİYE SINIRLARI İÇİNDE bulunan senetlerin kırılmasıdır. İştira Kredisi ise borçlusu belediye sınırları DIŞINDA bulunan senetlerin satın alınmasıdır.",
+        "q_end": 5.66,
+        "a_start": 8.96
       },
       {
         "kart": 15,
         "soru": "Spot Kredi ile Rotatif (Rotosman) Kredi arasındaki temel faiz ve vade farkı nedir?",
-        "cevap": "Spot Kredi: Anapara, faiz oranı ve vadesi kredi kullanım anında sabitlenen ve vade sonunda tek seferde ödenen kredidir. Rotatif Kredi: Limit dahilinde istenildiği an çekilip kapatılabilen esnek kredidir."
+        "cevap": "Spot Kredi: Anapara, faiz oranı ve vadesi kredi kullanım anında sabitlenen ve vade sonunda tek seferde ödenen kredidir. Rotatif Kredi: Limit dahilinde istenildiği an çekilip kapatılabilen esnek kredidir.",
+        "q_end": 6.43,
+        "a_start": 9.73
       },
       {
         "kart": 16,
         "soru": "Taksitli Ticari Kredilerde (TTK) erken kapatma yapıldığında faiz indirimi yapılır mı?",
-        "cevap": "Evet. Erken kapatılan veya ara ödeme yapılan tutara göre iş işlememiş faiz indirimi yapılarak kredi kapatılır."
+        "cevap": "Evet. Erken kapatılan veya ara ödeme yapılan tutara göre iş işlememiş faiz indirimi yapılarak kredi kapatılır.",
+        "q_end": 5.9,
+        "a_start": 9.2
       },
       {
         "kart": 17,
         "soru": "Dövize Endeksli Kredilerde (DEK) kur artış riski kime aittir ve kredi hangi para biriminde ödenir?",
-        "cevap": "Kredi TL olarak kullandırılır ve TL ödenir; ancak kur artış riski TAMAMEN KREDİ MÜŞTERİSİNE aittir."
+        "cevap": "Kredi TL olarak kullandırılır ve TL ödenir; ancak kur artış riski TAMAMEN KREDİ MÜŞTERİSİNE aittir.",
+        "q_end": 6.91,
+        "a_start": 10.21
       },
       {
         "kart": 18,
         "soru": "Gayrinakdi Kredilerden Teminat Mektubu 'Tazmin Edildiğinde' muhasebe ve kredi riski açısından neye dönüşür?",
-        "cevap": "Muhatabın talebiyle teminat mektubu nakde çevrildiğinde, ödenen tutar banka nezdinde derhal NAKDİ KREDİYE (BCH/Tahsili Gecikmiş Alacak) dönüşür."
+        "cevap": "Muhatabın talebiyle teminat mektubu nakde çevrildiğinde, ödenen tutar banka nezdinde derhal NAKDİ KREDİYE (BCH/Tahsili Gecikmiş Alacak) dönüşür.",
+        "q_end": 6.91,
+        "a_start": 10.21
       },
       {
         "kart": 19,
         "soru": "Kontr-Garanti (Counter-Guarantee) mekanizması ne zaman devreye girer?",
-        "cevap": "Yurt dışındaki bir muhataba verilecek teminat mektubunda, yerel bankanın riskini garanti etmek amacıyla amir bankanın yerel bankaya verdiği karşı garantidir."
+        "cevap": "Yurt dışındaki bir muhataba verilecek teminat mektubunda, yerel bankanın riskini garanti etmek amacıyla amir bankanın yerel bankaya verdiği karşı garantidir.",
+        "q_end": 4.78,
+        "a_start": 8.08
       },
       {
         "kart": 20,
         "soru": "Teminat Mektuplarında 'Süreli (Vadeli)' ile 'Süresiz (Vadesiz)' mektup farkı nedir?",
-        "cevap": "Süreli Mektup: Belirtilen son tarihe kadar tazmin edilmezse mektup hükümsüz kalır. Süresiz Mektup: Vade içermez, muhatap ibra edene kadar geçerliliğini korur."
+        "cevap": "Süreli Mektup: Belirtilen son tarihe kadar tazmin edilmezse mektup hükümsüz kalır. Süresiz Mektup: Vade içermez, muhatap ibra edene kadar geçerliliğini korur.",
+        "q_end": 6.02,
+        "a_start": 9.32
       },
       {
         "kart": 21,
         "soru": "Geçici Teminat Mektubu ne amaçla verilir?",
-        "cevap": "İhaleye katılan firmanın ihaleyi kazanması halinde sözleşmeyi imzalamaktan vazgeçmemesini garanti etmek amacıyla verilir."
+        "cevap": "İhaleye katılan firmanın ihaleyi kazanması halinde sözleşmeyi imzalamaktan vazgeçmemesini garanti etmek amacıyla verilir.",
+        "q_end": 3.48,
+        "a_start": 6.78
       },
       {
         "kart": 22,
         "soru": "Kesin Teminat Mektubu ne amaçla verilir?",
-        "cevap": "İhale kazanıldıktan sonra, taahhüt edilen işin veya sözleşmenin şartlara uygun yerine getirileceğini garanti etmek amacıyla verilir."
+        "cevap": "İhale kazanıldıktan sonra, taahhüt edilen işin veya sözleşmenin şartlara uygun yerine getirileceğini garanti etmek amacıyla verilir.",
+        "q_end": 3.41,
+        "a_start": 6.71
       },
       {
         "kart": 23,
