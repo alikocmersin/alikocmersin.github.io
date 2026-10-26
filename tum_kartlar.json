@@ -2560,102 +2560,142 @@
       {
         "kart": 3,
         "soru": "VakıfBank Worldpuan'ların geçerlilik süresi ve kullanım yeri kuralı nedir?",
-        "cevap": "Kazanılan Worldpuan'lar para yerine World üye işyerlerinde alışverişte kullanılabilir; kampanya kazanımı puanların kullanım süreleri kampanya şartlarında belirtilir."
+        "cevap": "Kazanılan Worldpuan'lar para yerine World üye işyerlerinde alışverişte kullanılabilir; kampanya kazanımı puanların kullanım süreleri kampanya şartlarında belirtilir.",
+        "q_end": 5.42,
+        "a_start": 8.72
       },
       {
         "kart": 4,
         "soru": "Bireysel kredi kartlarında 'Sanal Limit' belirleme kuralı nedir?",
-        "cevap": "Bireysel kredi kartı müşterilerinin sanal limiti kartlarının kullanılabilir genel limitine eşittir; müşteriler bireysel kartlarında genel limitten bağımsız ayrı bir sanal limit belirleyemez."
+        "cevap": "Bireysel kredi kartı müşterilerinin sanal limiti kartlarının kullanılabilir genel limitine eşittir; müşteriler bireysel kartlarında genel limitten bağımsız ayrı bir sanal limit belirleyemez.",
+        "q_end": 4.54,
+        "a_start": 7.84
       },
       {
         "kart": 5,
         "soru": "Genel limitten farklı özel sanal limit belirleme talepleri hangi kart türü için ve nereden gerçekleştirilebilir?",
-        "cevap": "Genel limitten farklı özel sanal limit belirleme talepleri SADECE Ticari Kredi Kartları için Şubelerimizce gerçekleştirilmektedir."
+        "cevap": "Genel limitten farklı özel sanal limit belirleme talepleri SADECE Ticari Kredi Kartları için Şubelerimizce gerçekleştirilmektedir.",
+        "q_end": 7.49,
+        "a_start": 10.79
       },
       {
         "kart": 6,
         "soru": "VakıfBank'ın aidatsız meslek kartları hangileridir ve harcamalardan sosyal sorumluluk payı aktarılan kurumlar nelerdir?",
-        "cevap": "Öğretmenim, ASES ve Kamusen kartlarından yıllık aidat alınmaz. Öğretmenim Kart harcamalarından MEB 'Eğitime %100 Destek' kampanyasına, Kamusen Kart harcamalarından Kamu-Sen'e pay aktarılır."
+        "cevap": "Öğretmenim, ASES ve Kamusen kartlarından yıllık aidat alınmaz. Öğretmenim Kart harcamalarından MEB 'Eğitime %100 Destek' kampanyasına, Kamusen Kart harcamalarından Kamu-Sen'e pay aktarılır.",
+        "q_end": 7.7,
+        "a_start": 11.0
       },
       {
         "kart": 7,
         "soru": "Platinum Plus Metal Kredi Kartı verilebilmesi için kart limitinin en az kaç TL olması şarttır?",
-        "cevap": "Platinum Plus Metal kart verilebilmesi için kart limitinin en az 750.000 TL olması gerekmektedir."
+        "cevap": "Platinum Plus Metal kart verilebilmesi için kart limitinin en az 750.000 TL olması gerekmektedir.",
+        "q_end": 6.72,
+        "a_start": 10.02
       },
       {
         "kart": 8,
         "soru": "Milplus Seyahat Programı kapsamında kart sahiplerine sağlanan temel ayrıcalıklar nelerdir?",
-        "cevap": "Worldpuan'ların seyahatte 2 kat daha değerli kullanılması, avans puan özelliği, ücretsiz tren garı lounge hizmeti ve ücretsiz seyahat sigortası ayrıcalıkları sunulur."
+        "cevap": "Worldpuan'ların seyahatte 2 kat daha değerli kullanılması, avans puan özelliği, ücretsiz tren garı lounge hizmeti ve ücretsiz seyahat sigortası ayrıcalıkları sunulur.",
+        "q_end": 6.26,
+        "a_start": 9.56
       },
       {
         "kart": 9,
         "soru": "VakıfBank'ın sadece Özel Bankacılık müşterileri için tasarladığı üst segment kredi kartı hangisidir?",
-        "cevap": "Private Card / Private Metal Card'dır."
+        "cevap": "Private Card / Private Metal Card'dır.",
+        "q_end": 6.82,
+        "a_start": 10.12
       },
       {
         "kart": 10,
         "soru": "Spor kulüpleri taraftarları için özel olarak çıkarılan ve alışveriş harcamaları üzerinden kulübe pay aktarılan kart ürünü hangisidir?",
-        "cevap": "Taraftar Kredi Kartlarıdır."
+        "cevap": "Taraftar Kredi Kartlarıdır.",
+        "q_end": 8.16,
+        "a_start": 11.46
       },
       {
         "kart": 11,
         "soru": "%100 geri dönüşümlü materyal kullanılarak üretilen çevre dostu VakıfBank kart ürünü hangisidir?",
-        "cevap": "Recycle Card'dır."
+        "cevap": "Recycle Card'dır.",
+        "q_end": 6.62,
+        "a_start": 9.92
       },
       {
         "kart": 12,
         "soru": "Ön Ödemeli Kartlarda (Prepaid Cards) hesap takibi nasıl yapılır ve tanımlama portali hangisidir?",
-        "cevap": "Ürün bazında bir gölge hesaba bağlı olarak kart numarası bazında takip yapılır. Kurum kullanıcıları tarafından VIT Web Portal üzerinden isimsiz veya anında tanımlanır."
+        "cevap": "Ürün bazında bir gölge hesaba bağlı olarak kart numarası bazında takip yapılır. Kurum kullanıcıları tarafından VIT Web Portal üzerinden isimsiz veya anında tanımlanır.",
+        "q_end": 6.48,
+        "a_start": 9.78
       },
       {
         "kart": 13,
         "soru": "Adalet Bakanlığı ceza infaz kurumlarındaki tutuklu ve mahkumlar için çıkarılan Ön Ödemeli Kartlardan para çekme kuralı nedir?",
-        "cevap": "Sadece VakıfBank ATM’lerinden ve TAM ATM’lerden para çekilebilmektedir."
+        "cevap": "Sadece VakıfBank ATM’lerinden ve TAM ATM’lerden para çekilebilmektedir.",
+        "q_end": 8.23,
+        "a_start": 11.53
       },
       {
         "kart": 14,
         "soru": "Farklı bir kişiye 'Ek Bankomat Kart' verilmesi şartı nedir?",
-        "cevap": "Ek Bankomat kart verilecek kişinin VakıfBank müşteri numarasının bulunması şarttır; kart sınırları ve yetkileri sınırlandırılabilir."
+        "cevap": "Ek Bankomat kart verilecek kişinin VakıfBank müşteri numarasının bulunması şarttır; kart sınırları ve yetkileri sınırlandırılabilir.",
+        "q_end": 4.2,
+        "a_start": 7.5
       },
       {
         "kart": 15,
         "soru": "Kredi kartı başvurusu yapan müşteriden alınması gereken zorunlu resmi evrak nedir? İkametgah veya gelir belgesi istenir mi?",
-        "cevap": "Sadece geçerli bir kimlik belgesinin (nüfus cüzdanı, ehliyet, pasaport) aslı görülerek okunaklı fotokopisi alınır. İkametgah, fatura veya gelir belgesi KESİNLİKLE istenmez."
+        "cevap": "Sadece geçerli bir kimlik belgesinin (nüfus cüzdanı, ehliyet, pasaport) aslı görülerek okunaklı fotokopisi alınır. İkametgah, fatura veya gelir belgesi KESİNLİKLE istenmez.",
+        "q_end": 9.38,
+        "a_start": 12.68
       },
       {
         "kart": 16,
         "soru": "BDDK'nın 25.09.2020 tarihli düzenlemesine göre teminatlı (karşılığı nakit/kıymetli maden olan) kredi kartı çıkarılmasında hangi şart aranır?",
-        "cevap": "Karşılık olan tutarı geçmemek kaydıyla müşteriden Rehin Sözleşmesi alınması şartıyla teminatlı kredi kartı çıkarılabilir."
+        "cevap": "Karşılık olan tutarı geçmemek kaydıyla müşteriden Rehin Sözleşmesi alınması şartıyla teminatlı kredi kartı çıkarılabilir.",
+        "q_end": 9.91,
+        "a_start": 13.21
       },
       {
         "kart": 17,
         "soru": "Kart aidatına itiraz eden müşteriler için şube personeli VIT sisteminde hangi menüyü kullanmalıdır?",
-        "cevap": "VIT > Kredi Kartları > İşlem menüsü altında yer alan 'Kart Aidat İtirazı Yap' menüsünden değerlendirme yapılır."
+        "cevap": "VIT > Kredi Kartları > İşlem menüsü altında yer alan 'Kart Aidat İtirazı Yap' menüsünden değerlendirme yapılır.",
+        "q_end": 7.46,
+        "a_start": 10.76
       },
       {
         "kart": 18,
         "soru": "Kredi kartlarında statüsü iptal, kayıp veya normal olan kartlardaki artı bakiyenin müşteriye aktarımı hangi ekrandan yapılır?",
-        "cevap": "VIT > Kredi Kartları > İşlem menüsü altındaki 'Kredi Kartı Artı Bakiye Transferi' ekranından nakit kısıtı veya statüye bakılmaksızın yapılır."
+        "cevap": "VIT > Kredi Kartları > İşlem menüsü altındaki 'Kredi Kartı Artı Bakiye Transferi' ekranından nakit kısıtı veya statüye bakılmaksızın yapılır.",
+        "q_end": 7.82,
+        "a_start": 11.12
       },
       {
         "kart": 19,
         "soru": "Kredi kartlarında son ödeme tarihinde asgari ödeme tutarının ödenmesi halinde kalan dönem borcuna hangi faiz işletilir?",
-        "cevap": "Kalan dönem borcu tutarı için Akdi Faiz (alışveriş faizi) işletilir."
+        "cevap": "Kalan dönem borcu tutarı için Akdi Faiz (alışveriş faizi) işletilir.",
+        "q_end": 7.92,
+        "a_start": 11.22
       },
       {
         "kart": 20,
         "soru": "Asgari ödeme tutarının altında ödeme yapılması veya hiç ödenmemesi durumunda asgari tutarın ödenmeyen kısmına hangi faiz işletilir?",
-        "cevap": "Asgari tutarın ödenmeyen kısmı için Gecikme Faizi işletilir."
+        "cevap": "Asgari tutarın ödenmeyen kısmı için Gecikme Faizi işletilir.",
+        "q_end": 8.69,
+        "a_start": 11.99
       },
       {
         "kart": 21,
         "soru": "Kredi kartı faiz oranlarında (akdi, gecikme, nakit) üst sınır belirleme yetkisi kime aittir?",
-        "cevap": "Türkiye Cumhuriyet Merkez Bankası'na (TCMB) aittir; bankalar TCMB azami oranlarının üzerine çıkamaz."
+        "cevap": "Türkiye Cumhuriyet Merkez Bankası'na (TCMB) aittir; bankalar TCMB azami oranlarının üzerine çıkamaz.",
+        "q_end": 6.48,
+        "a_start": 9.78
       },
       {
         "kart": 22,
         "soru": "Kredi kartı faiz hesaplamalarında bileşik faiz uygulanabilir mi?",
-        "cevap": "KANUNEN YASAKTIR. Kredi kartı faiz hesaplamalarında kesinlikle bileşik faiz uygulanamaz."
+        "cevap": "KANUNEN YASAKTIR. Kredi kartı faiz hesaplamalarında kesinlikle bileşik faiz uygulanamaz.",
+        "q_end": 4.56,
+        "a_start": 7.86
       },
       {
         "kart": 23,
