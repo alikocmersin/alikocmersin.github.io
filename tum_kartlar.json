@@ -4586,72 +4586,100 @@
       {
         "kart": 1,
         "soru": "Dış ticarette ihracatçı (satıcı) açısından en riskli, ithalatçı (alıcı) açısından ise en avantajlı ödeme yöntemi hangisidir?",
-        "cevap": "Mal Mukabili Ödeme (Goods Against Payment). İhracatçı malı gönderir, bedelini mal ithalatçı tarafından çekildikten sonra tahsil eder."
+        "cevap": "Mal Mukabili Ödeme (Goods Against Payment). İhracatçı malı gönderir, bedelini mal ithalatçı tarafından çekildikten sonra tahsil eder.",
+        "q_end": 8.5,
+        "a_start": 11.8
       },
       {
         "kart": 2,
         "soru": "Dış ticarette alıcı ve satıcı arasındaki riski en dengeli bölen, şartlı banka garantisi içeren ödeme yöntemi hangisidir?",
-        "cevap": "Akreditifli Ödeme (Letter of Credit - L/C)."
+        "cevap": "Akreditifli Ödeme (Letter of Credit - L/C).",
+        "q_end": 7.78,
+        "a_start": 11.08
       },
       {
         "kart": 3,
         "soru": "Akreditif işlemlerinde uluslararası geçerli kurallar broşürü hangisidir ve hangi kurum tarafından yayımlanır?",
-        "cevap": "UCP 600 (Uniform Customs and Practice for Documentary Credits) broşürüdür; Milletlerarası Ticaret Odası (ICC) tarafından yayımlanır."
+        "cevap": "UCP 600 (Uniform Customs and Practice for Documentary Credits) broşürüdür; Milletlerarası Ticaret Odası (ICC) tarafından yayımlanır.",
+        "q_end": 7.18,
+        "a_start": 10.48
       },
       {
         "kart": 4,
         "soru": "UCP 600 kurallarına göre Akreditiflerde 'Dönülebilirlik (Revocability)' varsayımı kuralı nasıldır?",
-        "cevap": "UCP 600 uyarınca aksi açıkça belirtilmedikçe tüm akreditifler DÖNÜLEMEZ (Irrevocable) kabul edilir. (Dönülebilir akreditif kavramı kaldırılmıştır)."
+        "cevap": "UCP 600 uyarınca aksi açıkça belirtilmedikçe tüm akreditifler DÖNÜLEMEZ (Irrevocable) kabul edilir. (Dönülebilir akreditif kavramı kaldırılmıştır).",
+        "q_end": 7.03,
+        "a_start": 10.33
       },
       {
         "kart": 5,
         "soru": "Incoterms 2020 teslim şekillerinden EXW (Ex Works - İşyerinde Teslim) kurallarında tüm nakliye, gümrük ve sigorta riski kime aittir?",
-        "cevap": "Tüm taşıma, gümrükleme, sigorta ve hasar riskleri İTHALATÇIYA (Alıcıya) aittir. Satıcı malı kendi fabrikasında alıcının tasarrufuna bırakır."
+        "cevap": "Tüm taşıma, gümrükleme, sigorta ve hasar riskleri İTHALATÇIYA (Alıcıya) aittir. Satıcı malı kendi fabrikasında alıcının tasarrufuna bırakır.",
+        "q_end": 9.55,
+        "a_start": 12.85
       },
       {
         "kart": 6,
         "soru": "Incoterms 2020 kurallarında satıcının azami sorumluluk üstlendiği, ithalat gümrük vergileri dahil malı alıcının kapısına kadar getirdiği teslim şekli hangisidir?",
-        "cevap": "DDP (Delivered Duty Paid - Gümrük Vergileri Ödenmiş Teslim) şeklidir."
+        "cevap": "DDP (Delivered Duty Paid - Gümrük Vergileri Ödenmiş Teslim) şeklidir.",
+        "q_end": 10.01,
+        "a_start": 13.31
       },
       {
         "kart": 7,
         "soru": "Incoterms 2020 teslim şekillerinden CIP ile CIF kurallarında satıcının yaptırmak zorunda olduğu asgari sigorta teminatı oranı yüzde kaçtır?",
-        "cevap": "Satıcı en az mal bedelinin %110'u (Mal bedeli + %10) tutarında geniş teminatlı sigorta poliçesi yaptırmak zorundadır."
+        "cevap": "Satıcı en az mal bedelinin %110'u (Mal bedeli + %10) tutarında geniş teminatlı sigorta poliçesi yaptırmak zorundadır.",
+        "q_end": 9.6,
+        "a_start": 12.9
       },
       {
         "kart": 8,
         "soru": "Incoterms DPU (Delivered at Place Unloaded - Belirlenen Yerde Boşaltılmış Teslim) kuralının diğer 'D'li kurallardan temel farkı nedir?",
-        "cevap": "DPU kuralında satıcı malı varış yerinde taşıma aracından BOŞALTARAK teslim etmekle yükümlüdür (Boşaltma sorumluluğu satıcıdadır)."
+        "cevap": "DPU kuralında satıcı malı varış yerinde taşıma aracından BOŞALTARAK teslim etmekle yükümlüdür (Boşaltma sorumluluğu satıcıdadır).",
+        "q_end": 9.14,
+        "a_start": 12.44
       },
       {
         "kart": 9,
         "soru": "Incoterms FOB (Free on Board) ile CFR (Cost and Freight) teslim şekilleri arasındaki temel fark nedir?",
-        "cevap": "FOB'da navlun (taşıma ücreti) ithalatçıya aittir. CFR'de ise navlunu ihracatçı (satıcı) öder; ancak her ikisinde de deniz taşıma sigortası ithalatçıya aittir."
+        "cevap": "FOB'da navlun (taşıma ücreti) ithalatçıya aittir. CFR'de ise navlunu ihracatçı (satıcı) öder; ancak her ikisinde de deniz taşıma sigortası ithalatçıya aittir.",
+        "q_end": 7.54,
+        "a_start": 10.84
       },
       {
         "kart": 10,
         "soru": "Deniz taşımasında taşıyan tarafından düzenlenen, malların teslim alındığını tevsik eden ve malı temsil eden ciro edilebilir kıymetli evrak niteliğindeki belge hangisidir?",
-        "cevap": "Konşimento (Bill of Lading - B/L)."
+        "cevap": "Konşimento (Bill of Lading - B/L).",
+        "q_end": 10.03,
+        "a_start": 13.33
       },
       {
         "kart": 11,
         "soru": "Charter Party Bill of Lading (C/P B/L) ne tür konşimentodur?",
-        "cevap": "Bir geminin tamamının veya bir kısmının kiralanmasına ilişkin Gemi Kiralama Sözleşmesine (Charter Party) dayalı olarak düzenlenen konşimentodur."
+        "cevap": "Bir geminin tamamının veya bir kısmının kiralanmasına ilişkin Gemi Kiralama Sözleşmesine (Charter Party) dayalı olarak düzenlenen konşimentodur.",
+        "q_end": 5.23,
+        "a_start": 8.53
       },
       {
         "kart": 12,
         "soru": "Türkiye ile Avrupa Birliği arasındaki Gümrük Birliği kapsamındaki sanayi ürünleri ticaretinde gümrük vergisi muafiyetinden yararlanmak için hangi belge düzenlenir?",
-        "cevap": "A.TR Dolaşım Belgesi düzenlenir."
+        "cevap": "A.TR Dolaşım Belgesi düzenlenir.",
+        "q_end": 9.67,
+        "a_start": 12.97
       },
       {
         "kart": 13,
         "soru": "Türkiye'nin Serbest Ticaret Anlaşması (STA) imzaladığı ülkelerle yapılan tercihsiz ticarette gümrük indiriminden yararlanmak için hangi belge düzenlenir?",
-        "cevap": "EUR.1 Dolaşım Sertifikası düzenlenir."
+        "cevap": "EUR.1 Dolaşım Sertifikası düzenlenir.",
+        "q_end": 9.84,
+        "a_start": 13.14
       },
       {
         "kart": 14,
         "soru": "İhraç edilen malın hangi ülkede üretildiğini veya imal edildiğini belgeleyen resmi doküman hangisidir?",
-        "cevap": "Menşe Şahadetnamesi (Certificate of Origin)."
+        "cevap": "Menşe Şahadetnamesi (Certificate of Origin).",
+        "q_end": 7.27,
+        "a_start": 10.57
       },
       {
         "kart": 15,
