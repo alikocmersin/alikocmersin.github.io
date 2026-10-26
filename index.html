@@ -1445,7 +1445,24 @@
     let currentSpeed = parseFloat(localStorage.getItem('vb_speed')) || 1.05;
     let thinkingDuration = parseInt(localStorage.getItem('vb_thinking')) || 3;
     let isShuffle = localStorage.getItem('vb_shuffle') === 'true';
-    let currentAudioObj = null;
+    const masterAudioPlayer = new Audio();
+    masterAudioPlayer.preload = 'auto';
+    masterAudioPlayer.setAttribute('playsinline', '');
+    masterAudioPlayer.setAttribute('webkit-playsinline', '');
+    let currentAudioObj = masterAudioPlayer;
+    let audioContextUnlocked = false;
+
+    function unlockIOSAudio() {
+      if (!audioContextUnlocked) {
+        audioContextUnlocked = true;
+        masterAudioPlayer.play().then(() => {
+          masterAudioPlayer.pause();
+        }).catch(() => {});
+      }
+    }
+    document.addEventListener('touchstart', unlockIOSAudio, { once: true, passive: true });
+    document.addEventListener('click', unlockIOSAudio, { once: true, passive: true });
+
     let speechTimer = null;
     let isPlaying = false;
     let isMuted = false;
@@ -2066,7 +2083,7 @@
       isPlaying = false;
       if (currentAudioObj) {
         currentAudioObj.pause();
-        currentAudioObj = null;
+        currentAudioObj.currentTime = 0;
       }
       if (window.speechSynthesis) {
         window.speechSynthesis.cancel();
@@ -2110,7 +2127,12 @@
     }
 
     function playPreRecordedAudio(url, card, tryCompatFallback) {
-      currentAudioObj = new Audio(url);
+      if (!currentAudioObj) {
+        currentAudioObj = masterAudioPlayer;
+      }
+      currentAudioObj.pause();
+      currentAudioObj.src = url;
+      currentAudioObj.load();
       currentAudioObj.playbackRate = currentSpeed;
       currentAudioObj.muted = isMuted;
 
@@ -2150,9 +2172,10 @@
         speakerLabel.textContent = 'Tamamlandı';
         updatePlayBtnUI(false);
         if (autoplay) {
+          if (speechTimer) clearTimeout(speechTimer);
           speechTimer = setTimeout(() => {
             nextCard('from-right');
-          }, 1200);
+          }, 500);
         }
       };
 
@@ -2165,10 +2188,13 @@
         }
       };
 
-      currentAudioObj.play().catch(e => {
-        console.warn("Audio autoplay blocked by Safari, waiting for user interaction.");
-        updatePlayBtnUI(false);
-      });
+      const playPromise = currentAudioObj.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(e => {
+          console.warn("Audio autoplay blocked by Safari, waiting for user interaction.", e);
+          updatePlayBtnUI(false);
+        });
+      }
     }
 
     function playSynthesisFlow(card) {
