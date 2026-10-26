@@ -3948,22 +3948,30 @@
       {
         "kart": 1,
         "soru": "Banka Muhasebesinin temel amaçları nelerdir?",
-        "cevap": "Bankanın finansal durumunu ve faaliyet sonuçlarını doğru tespit etmek, yönetim kararlarına veri sağlamak, yasal/mali denetimlere esas oluşturmak ve risk yönetimini desteklemektir."
+        "cevap": "Bankanın finansal durumunu ve faaliyet sonuçlarını doğru tespit etmek, yönetim kararlarına veri sağlamak, yasal/mali denetimlere esas oluşturmak ve risk yönetimini desteklemektir.",
+        "q_end": 3.62,
+        "a_start": 6.92
       },
       {
         "kart": 2,
         "soru": "Muhasebenin 'İşletmenin Sürekliliği İlkesi' ne anlama gelir?",
-        "cevap": "İşletmenin faaliyetlerini herhangi bir zaman sınırlamasına tabi olmaksızın süresiz olarak yürüteceği kabulüdür; varlıkların tasfiye değeriyle değil maliyet değeriyle değerlenmesine temel oluşturur."
+        "cevap": "İşletmenin faaliyetlerini herhangi bir zaman sınırlamasına tabi olmaksızın süresiz olarak yürüteceği kabulüdür; varlıkların tasfiye değeriyle değil maliyet değeriyle değerlenmesine temel oluşturur.",
+        "q_end": 4.27,
+        "a_start": 7.57
       },
       {
         "kart": 3,
         "soru": "Muhasebenin 'Dönemsellik İlkesi' uyarınca faaliyet sonuçları nasıl tespit edilir?",
-        "cevap": "İşletmenin sınırsız kabul edilen ömrünün belirli dönemlere (genellikle 1 yıl) bölünmesi ve her dönemin gelir-giderinin diğer dönemlerden bağımsız olarak tespit edilmesidir."
+        "cevap": "İşletmenin sınırsız kabul edilen ömrünün belirli dönemlere (genellikle 1 yıl) bölünmesi ve her dönemin gelir-giderinin diğer dönemlerden bağımsız olarak tespit edilmesidir.",
+        "q_end": 5.59,
+        "a_start": 8.89
       },
       {
         "kart": 4,
         "soru": "Muhasebede 'Tahakkuk Esası' kuralı nedir?",
-        "cevap": "Bir gelir veya giderin miktar ve mahiyet itibariyle kesinleşmiş olması halinde, tahsil edilmese veya ödenmese dahi doğduğu dönemin muhasebe kaydına alınmasıdır."
+        "cevap": "Bir gelir veya giderin miktar ve mahiyet itibariyle kesinleşmiş olması halinde, tahsil edilmese veya ödenmese dahi doğduğu dönemin muhasebe kaydına alınmasıdır.",
+        "q_end": 3.36,
+        "a_start": 6.66
       },
       {
         "kart": 5,
