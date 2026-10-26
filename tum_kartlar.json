@@ -1838,12 +1838,16 @@
       {
         "kart": 1,
         "soru": "6502 sayılı Tüketicinin Korunması Hakkında Kanun (TKK) uyarınca, bireysel kredi kullanan tüketicinin Cayma Hakkı süresi kaç gündür?",
-        "cevap": "Sözleşmenin imzalandığı tarihten itibaren 14 GÜNDÜR. Tüketici hiçbir gerekçe göstermeden ve cezai şart ödemeden sözleşmeden cayabilir."
+        "cevap": "Sözleşmenin imzalandığı tarihten itibaren 14 GÜNDÜR. Tüketici hiçbir gerekçe göstermeden ve cezai şart ödemeden sözleşmeden cayabilir.",
+        "q_end": 9.34,
+        "a_start": 12.64
       },
       {
         "kart": 2,
         "soru": "Tüketici kredisinde cayma hakkını kullanan tüketici, anapara ve işleyen akdi faizi en geç kaç gün içinde bankaya ödemekle yükümlüdür?",
-        "cevap": "Cayma bildirimini bankaya yönelttiği tarihten itibaren EN GEÇ 30 GÜN İÇİNDE anapara ve geçen günlerin akdi faizini ödemek zorundadır."
+        "cevap": "Cayma bildirimini bankaya yönelttiği tarihten itibaren EN GEÇ 30 GÜN İÇİNDE anapara ve geçen günlerin akdi faizini ödemek zorundadır.",
+        "q_end": 8.38,
+        "a_start": 11.68
       },
       {
         "kart": 3,
