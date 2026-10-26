@@ -1704,92 +1704,128 @@
       {
         "kart": 63,
         "soru": "Banka Hazine Bölümünün 'ALM (Aktif-Pasif Yönetimi)' Komitesi temel görevi nedir?",
-        "cevap": "Bankanın faiz, likidite ve kur risklerini yönetmek, bilançonun kârlılığını ve dengesini sağlamaktır."
+        "cevap": "Bankanın faiz, likidite ve kur risklerini yönetmek, bilançonun kârlılığını ve dengesini sağlamaktır.",
+        "q_end": 6.24,
+        "a_start": 9.54
       },
       {
         "kart": 64,
         "soru": "Libor / SOFR / TLREF ne anlama gelir?",
-        "cevap": "Uluslararası ve ulusal para piyasalarında kullanılan gösterge (referans) faiz oranlarıdır (TLREF: Türk Lirası Gecelik Referans Faiz Oranı)."
+        "cevap": "Uluslararası ve ulusal para piyasalarında kullanılan gösterge (referans) faiz oranlarıdır (TLREF: Türk Lirası Gecelik Referans Faiz Oranı).",
+        "q_end": 3.58,
+        "a_start": 6.88
       },
       {
         "kart": 65,
         "soru": "Devlet Tahvillerinde 'Kupon Ödeme Frekansı' genellikle nasıldır?",
-        "cevap": "Genellikle 6 ayda bir (yılda 2 kez) veya 3 ayda bir kupon ödemesi yapılır."
+        "cevap": "Genellikle 6 ayda bir (yılda 2 kez) veya 3 ayda bir kupon ödemesi yapılır.",
+        "q_end": 4.63,
+        "a_start": 7.93
       },
       {
         "kart": 66,
         "soru": "Ters Repo işleminde fon veren banka bilanço aktifinde hangi hesabı çalıştırır?",
-        "cevap": "Ters Repo İşlemlerinden Alacaklar hesabını (aktif hesap) çalıştırır."
+        "cevap": "Ters Repo İşlemlerinden Alacaklar hesabını (aktif hesap) çalıştırır.",
+        "q_end": 5.52,
+        "a_start": 8.82
       },
       {
         "kart": 67,
         "soru": "Repo yapan banka bilanço pasifinde hangi hesabı çalıştırır?",
-        "cevap": "Repo İşlemlerinden Borçlar hesabını (pasif hesap) çalıştırır."
+        "cevap": "Repo İşlemlerinden Borçlar hesabını (pasif hesap) çalıştırır.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 68,
         "soru": "Türev sözleşmede 'Kullanım Fiyatı (Strike Price)' nedir?",
-        "cevap": "Opsiyon hakkı kullanıldığında dayanak varlığın alınacağı veya satılacağı önceden sabitlenmiş fiyattır."
+        "cevap": "Opsiyon hakkı kullanıldığında dayanak varlığın alınacağı veya satılacağı önceden sabitlenmiş fiyattır.",
+        "q_end": 4.15,
+        "a_start": 7.45
       },
       {
         "kart": 69,
         "soru": "Avrupa Tipi Opsiyonun Amerikan Tipi Opsiyona göre prim fiyatı genellikle nasıldır?",
-        "cevap": "Kullanım esnekliği daha az olduğu için Avrupa tipi opsiyon primi genellikle Amerikan tipine göre daha düşüktür."
+        "cevap": "Kullanım esnekliği daha az olduğu için Avrupa tipi opsiyon primi genellikle Amerikan tipine göre daha düşüktür.",
+        "q_end": 5.86,
+        "a_start": 9.16
       },
       {
         "kart": 70,
         "soru": "Sermaye Piyasası Araçlarının 'Halka Arz' edilmesinde onay makamı neresidir?",
-        "cevap": "Sermaye Piyasası Kurulu'dur (SPK İzahname Onayı)."
+        "cevap": "Sermaye Piyasası Kurulu'dur (SPK İzahname Onayı).",
+        "q_end": 5.45,
+        "a_start": 8.75
       },
       {
         "kart": 71,
         "soru": "Özel Sektör Tahvillerinde Anapara ve Kupon ödemesinde şirketin temerrüde düşmesi riskine ne ad verilir?",
-        "cevap": "Kredi / İhraççı Riski (Default Risk) adı verilir."
+        "cevap": "Kredi / İhraççı Riski (Default Risk) adı verilir.",
+        "q_end": 7.27,
+        "a_start": 10.57
       },
       {
         "kart": 72,
         "soru": "Borsa İstanbul VİOP'ta sürdürme teminatının altına düşüldüğünde çağrı süresi ne kadardır?",
-        "cevap": "Teminat tamamlama çağrısı (Margin Call) yapıldığında ertesi iş günü saat 15:00'e kadar teminatın tamamlanması zorunludur."
+        "cevap": "Teminat tamamlama çağrısı (Margin Call) yapıldığında ertesi iş günü saat 15:00'e kadar teminatın tamamlanması zorunludur.",
+        "q_end": 6.72,
+        "a_start": 10.02
       },
       {
         "kart": 73,
         "soru": "Döviz Kuru riskini tamamen ortadan kaldırmak için hangi türev araç birleştirilebilir?",
-        "cevap": "Forward veya Currency Swap işlemleriyle kur riski tamamen sabitlenerek elimine edilebilir."
+        "cevap": "Forward veya Currency Swap işlemleriyle kur riski tamamen sabitlenerek elimine edilebilir.",
+        "q_end": 5.9,
+        "a_start": 9.2
       },
       {
         "kart": 74,
         "soru": "Serbest Fonlarda yatırımcı sayısı sınırı var mıdır?",
-        "cevap": "SPK mevzuatına göre serbest fonlarda belirli nitelikli yatırımcı adedi sınırlamaları uygulanabilir."
+        "cevap": "SPK mevzuatına göre serbest fonlarda belirli nitelikli yatırımcı adedi sınırlamaları uygulanabilir.",
+        "q_end": 3.84,
+        "a_start": 7.14
       },
       {
         "kart": 75,
         "soru": "Hisse senetlerinde 'Bedelli Sermaye Artırımı' ile 'Bedelsiz Sermaye Artırımı' farkı nedir?",
-        "cevap": "Bedelli: Ortaklardan nakit para karşılığı sermaye artırımı. Bedelsiz: İç kaynaklardan ortaklara ücretsiz hisse dağıtılarak sermaye artırımıdır."
+        "cevap": "Bedelli: Ortaklardan nakit para karşılığı sermaye artırımı. Bedelsiz: İç kaynaklardan ortaklara ücretsiz hisse dağıtılarak sermaye artırımıdır.",
+        "q_end": 6.6,
+        "a_start": 9.9
       },
       {
         "kart": 76,
         "soru": "BIST'te 'Ağırlıklı Ortalama Fiyat' nasıl hesaplanır?",
-        "cevap": "Bir seansta gerçekleşen tüm işlemlerin toplam tutarının toplam işlem miktarına bölünmesiyle hesaplanır."
+        "cevap": "Bir seansta gerçekleşen tüm işlemlerin toplam tutarının toplam işlem miktarına bölünmesiyle hesaplanır.",
+        "q_end": 3.7,
+        "a_start": 7.0
       },
       {
         "kart": 77,
         "soru": "Banka Hazine Bölümünde 'Front Office' ile 'Back Office' farkı nedir?",
-        "cevap": "Front Office: Piyasada aktif alım-satım yapan birim. Back Office: İşlemlerin onayını, takasını ve muhasebeleştirmesini yapan operasyon birimidir."
+        "cevap": "Front Office: Piyasada aktif alım-satım yapan birim. Back Office: İşlemlerin onayını, takasını ve muhasebeleştirmesini yapan operasyon birimidir.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 78,
         "soru": "VİOP Pozisyon Limitleri neyi engeller?",
-        "cevap": "Piyasada tek bir yatırımcının veya grubun aşırı hakimiyet kurup piyasa manipülasyonu yapmasını engeller."
+        "cevap": "Piyasada tek bir yatırımcının veya grubun aşırı hakimiyet kurup piyasa manipülasyonu yapmasını engeller.",
+        "q_end": 3.24,
+        "a_start": 6.54
       },
       {
         "kart": 79,
         "soru": "Eurobond alım-satımında temiz fiyat (Clean Price) ve kirli fiyat (Dirty Price) farkı nedir?",
-        "cevap": "Temiz Fiyat: İşlemiş kupon faizi hariç fiyat. Kirli Fiyat: İşlemiş kupon faizi eklenmiş takas fiyatıdır."
+        "cevap": "Temiz Fiyat: İşlemiş kupon faizi hariç fiyat. Kirli Fiyat: İşlemiş kupon faizi eklenmiş takas fiyatıdır.",
+        "q_end": 6.22,
+        "a_start": 9.52
       },
       {
         "kart": 80,
         "soru": "Devlet Borçlanma Senetlerinde (DİBS) 'İç Borçlanma' yetkisi kanunen kime aittir?",
-        "cevap": "Hazine ve Maliye Bakanlığı'na aittir."
+        "cevap": "Hazine ve Maliye Bakanlığı'na aittir.",
+        "q_end": 5.66,
+        "a_start": 8.96
       }
     ]
   },
