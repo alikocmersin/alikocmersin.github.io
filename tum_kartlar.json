@@ -43,77 +43,107 @@
       {
         "kart": 6,
         "soru": "VakıfBank'ın menkul kıymetler portföyü yıllık bazda yüzde kaç artarak kaç TL'ye yükselmiştir?",
-        "cevap": "Yıllık bazda %21 oranında artarak 1.217 milyar TL'ye yükselmiştir."
+        "cevap": "Yıllık bazda %21 oranında artarak 1.217 milyar TL'ye yükselmiştir.",
+        "q_end": 6.29,
+        "a_start": 9.59
       },
       {
         "kart": 7,
         "soru": "VakıfBank'ın ana fonlama kaynağı nedir ve Mart 2026 itibarıyla tutarı ile toplam yükümlülükler içindeki payı kaçtır?",
-        "cevap": "Ana fonlama kaynağı mevduattır. Tutarı 3.404 milyar TL olup toplam yükümlülüklerin içindeki payı %61'dir."
+        "cevap": "Ana fonlama kaynağı mevduattır. Tutarı 3.404 milyar TL olup toplam yükümlülüklerin içindeki payı %61'dir.",
+        "q_end": 7.66,
+        "a_start": 10.96
       },
       {
         "kart": 8,
         "soru": "Mevduat kaleminin vadeli ve vadesiz mevduat oranları nasıldır?",
-        "cevap": "%67'sini vadeli mevduat, %33'ünü vadesiz mevduat oluşturmaktadır."
+        "cevap": "%67'sini vadeli mevduat, %33'ünü vadesiz mevduat oluşturmaktadır.",
+        "q_end": 4.8,
+        "a_start": 8.1
       },
       {
         "kart": 9,
         "soru": "VakıfBank 2025 yılında ne kadar taze uluslararası fonlama sağlamıştır?",
-        "cevap": "12,8 milyar dolar tutarında taze uluslararası fonlama sağlamıştır."
+        "cevap": "12,8 milyar dolar tutarında taze uluslararası fonlama sağlamıştır.",
+        "q_end": 5.69,
+        "a_start": 8.99
       },
       {
         "kart": 10,
         "soru": "Mart 2026 ayında Dünya Bankası üyesi IBRD garantisi ve Hazine Bakanlığı karşı-garantisi ile sağlanan kaynağın adı ve tutarı nedir?",
-        "cevap": "Kalkınma Odaklı Değer Bankacılığı Finansmanı kapsamında 1,5 milyar Euro tutarında kaynak temin edilmiştir."
+        "cevap": "Kalkınma Odaklı Değer Bankacılığı Finansmanı kapsamında 1,5 milyar Euro tutarında kaynak temin edilmiştir.",
+        "q_end": 9.84,
+        "a_start": 13.14
       },
       {
         "kart": 11,
         "soru": "Mart 2026 itibarıyla VakıfBank'ın toplam uluslararası fonlama tutarı kaç milyar dolar seviyesine ulaşmıştır?",
-        "cevap": "24,1 milyar dolar seviyesine ulaşmıştır."
+        "cevap": "24,1 milyar dolar seviyesine ulaşmıştır.",
+        "q_end": 7.7,
+        "a_start": 11.0
       },
       {
         "kart": 12,
         "soru": "Mart 2026 sonu itibarıyla VakıfBank'ın Dönem Net Kârı kaç TL olarak gerçekleşmiştir?",
-        "cevap": "15.031 milyon TL olarak gerçekleşmiştir."
+        "cevap": "15.031 milyon TL olarak gerçekleşmiştir.",
+        "q_end": 6.82,
+        "a_start": 10.12
       },
       {
         "kart": 13,
         "soru": "Mart 2026 dönemi Net Faiz Geliri tutarı kaç TL'dir?",
-        "cevap": "53.849 milyon TL'ye ulaşmıştır."
+        "cevap": "53.849 milyon TL'ye ulaşmıştır.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 14,
         "soru": "Mart 2026 dönemi Net Ücret ve Komisyon Gelirleri kaç TL seviyesindedir?",
-        "cevap": "19.338 milyon TL seviyesine ulaşmıştır."
+        "cevap": "19.338 milyon TL seviyesine ulaşmıştır.",
+        "q_end": 6.29,
+        "a_start": 9.59
       },
       {
         "kart": 15,
         "soru": "Mart 2026 sonu itibarıyla ortalama özkaynak kârlılığı ve ortalama aktif kârlılığı oranları nelerdir?",
-        "cevap": "Ortalama özkaynak kârlılığı %18,4, ortalama aktif kârlılığı ise %1,1'dir."
+        "cevap": "Ortalama özkaynak kârlılığı %18,4, ortalama aktif kârlılığı ise %1,1'dir.",
+        "q_end": 7.2,
+        "a_start": 10.5
       },
       {
         "kart": 16,
         "soru": "01.06.2026 itibarıyla VakıfBank'ın yurt içi şube sayısı kaçtır?",
-        "cevap": "963 yurt içi şubesi bulunmaktadır."
+        "cevap": "963 yurt içi şubesi bulunmaktadır.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 17,
         "soru": "01.06.2026 itibarıyla VakıfBank'ın 6 adet yurt dışı şubesi hangi şehir/ülkelerde yer alır?",
-        "cevap": "Bahreyn, New York, Erbil, Katar Finans Merkezi, Dubai Uluslararası Finans Merkezi (DIFC) ve Londra şubeleridir."
+        "cevap": "Bahreyn, New York, Erbil, Katar Finans Merkezi, Dubai Uluslararası Finans Merkezi (DIFC) ve Londra şubeleridir.",
+        "q_end": 7.56,
+        "a_start": 10.86
       },
       {
         "kart": 18,
         "soru": "01.06.2026 itibarıyla VakıfBank'ın toplam şube sayısı kaçtır?",
-        "cevap": "969 şubedir (963 yurt içi + 6 yurt dışı)."
+        "cevap": "969 şubedir (963 yurt içi + 6 yurt dışı).",
+        "q_end": 5.57,
+        "a_start": 8.87
       },
       {
         "kart": 19,
         "soru": "01.06.2026 itibarıyla VakıfBank'ın toplam çalışan sayısı ve kadın/erkek çalışan oranları nasıldır?",
-        "cevap": "Toplam Çalışan: 19.052 | Kadın Çalışan Oranı: %52 | Erkek Çalışan Oranı: %48."
+        "cevap": "Toplam Çalışan: 19.052 | Kadın Çalışan Oranı: %52 | Erkek Çalışan Oranı: %48.",
+        "q_end": 8.04,
+        "a_start": 11.34
       },
       {
         "kart": 20,
         "soru": "VakıfBank operasyonlarını kaç bağlı ortaklık ve kaç iştirak aracılığıyla sürdürmektedir?",
-        "cevap": "11 bağlı ortaklık ve 14 iştirak (Toplam 25 şirket) aracılığıyla sürdürmektedir."
+        "cevap": "11 bağlı ortaklık ve 14 iştirak (Toplam 25 şirket) aracılığıyla sürdürmektedir.",
+        "q_end": 5.78,
+        "a_start": 9.08
       },
       {
         "kart": 21,
