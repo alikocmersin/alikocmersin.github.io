@@ -218,15 +218,6 @@
       color: var(--danger);
     }
 
-    #musicPill.active .nav-svg-icon {
-      animation: pulseMusic 1.5s infinite alternate ease-in-out;
-    }
-
-    @keyframes pulseMusic {
-      from { transform: scale(0.94); }
-      to { transform: scale(1.10); }
-    }
-
     .nav-svg-icon {
       width: 19px;
       height: 19px;
@@ -391,114 +382,6 @@
 
     .dropdown-item.active .item-check {
       opacity: 1;
-    }
-
-    /* Alt İnce Çubuk (Müzik & Sağ Butonlar) */
-    .sub-bar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding: 0.4rem 1rem;
-      max-width: 650px;
-      margin: 0 auto;
-      width: 100%;
-    }
-
-    .sub-bar-right {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
-
-    .sub-action-pill {
-      height: 36px;
-      padding: 0 0.8rem;
-      border-radius: 18px;
-      background: var(--card-subtle);
-      border: 1.5px solid var(--border);
-      color: var(--text-sec);
-      font-size: 0.77rem;
-      font-weight: 700;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 0.45rem;
-      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
-      box-shadow: 0 2px 6px rgba(0,0,0,0.02);
-      flex-shrink: 0;
-    }
-
-    .sub-action-pill:active {
-      transform: scale(0.93);
-    }
-
-    /* Mute Aktif Durumu */
-    .sub-action-pill.muted {
-      background: var(--danger-light);
-      border-color: var(--danger);
-      color: var(--danger);
-    }
-
-    /* Oto-Akış Aktif Durumu */
-    .sub-action-pill.active {
-      background: var(--success-light);
-      border-color: var(--success);
-      color: var(--success);
-    }
-
-    .sub-action-svg {
-      width: 16px;
-      height: 16px;
-      stroke-width: 2.2;
-      flex-shrink: 0;
-    }
-
-    .music-pill {
-      display: flex;
-      align-items: center;
-      gap: 0.35rem;
-      background: var(--card-subtle);
-      border: 1px solid var(--border);
-      padding: 0.32rem 0.7rem;
-      border-radius: 20px;
-      font-size: 0.76rem;
-      font-weight: 700;
-      color: var(--text-sec);
-      cursor: pointer;
-      transition: all 0.2s ease;
-    }
-
-    .music-pill.active {
-      background: var(--tint-light);
-      border-color: var(--tint);
-      color: var(--tint);
-    }
-
-    .music-eq-dots {
-      display: flex;
-      align-items: center;
-      gap: 2px;
-    }
-
-    .m-dot {
-      width: 3px;
-      height: 8px;
-      background: var(--text-muted);
-      border-radius: 2px;
-    }
-
-    .music-pill.active .m-dot {
-      background: var(--tint);
-      animation: eqDance 0.7s infinite alternate ease-in-out;
-    }
-
-    .music-pill.active .m-dot:nth-child(2) { animation-delay: 0.2s; }
-    .music-pill.active .m-dot:nth-child(3) { animation-delay: 0.4s; }
-
-    @keyframes eqDance {
-      from { height: 4px; }
-      to { height: 13px; }
     }
 
 
@@ -1326,20 +1209,9 @@
           <span class="clear-search-x" id="clearSearchBtn">✕</span>
         </div>
 
-        <!-- Şık İkon Butonları: 432Hz Müzik, Oto-Akış, Ses, Tema, Ayarlar -->
+        <!-- Şık İkon Butonları: Oto-Akış, Ses, Tema, Ayarlar -->
         <div class="nav-actions-group">
-          <!-- 1. 432 Hz Alpha Odaklanma Müziği Butonu -->
-          <button class="nav-circle-btn" id="musicPill" aria-label="432 Hz Alpha Müziği" title="432 Hz Alpha Odaklanma Müziği">
-            <span id="musicIconContainer" style="display:flex;align-items:center;justify-content:center;">
-              <svg class="nav-svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M3 18v-6a9 9 0 0 1 18 0v6"></path>
-                <path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path>
-              </svg>
-            </span>
-            <span id="musicLabel" style="display:none;">432 Hz Alpha</span>
-          </button>
-
-          <!-- 2. Oto-Akış Butonu -->
+          <!-- 1. Oto-Akış Butonu -->
           <button class="nav-circle-btn active" id="autoplayBtn" aria-label="Otomatik Akış" title="Otomatik Akış">
             <span id="autoplayIconContainer" style="display:flex;align-items:center;justify-content:center;">
               <svg class="nav-svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -1352,7 +1224,7 @@
             <span id="autoplayLabel" style="display:none;">Oto-Akış</span>
           </button>
 
-          <!-- 3. Ses Açık / Kapalı (Mute) Butonu -->
+          <!-- 2. Ses Açık / Kapalı (Mute) Butonu -->
           <button class="nav-circle-btn" id="muteBtn" aria-label="Ses Açık / Kapalı" title="Ses Açık / Kapalı">
             <span id="muteIconContainer" style="display:flex;align-items:center;justify-content:center;">
               <svg class="nav-svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -1363,7 +1235,7 @@
             <span id="muteLabel" style="display:none;">Ses Açık</span>
           </button>
 
-          <!-- 4. Tema Değiştirme Butonu (Ay / Güneş İkonu) -->
+          <!-- 3. Tema Değiştirme Butonu (Ay / Güneş İkonu) -->
           <button class="nav-circle-btn" id="themeBtn" aria-label="Temayı Değiştir" title="Temayı Değiştir">
             <span id="themeIconContainer" style="display:flex;align-items:center;justify-content:center;">
               <svg class="nav-svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
@@ -1372,7 +1244,7 @@
             </span>
           </button>
 
-          <!-- 5. Ayarlar Butonu (Şık Çark / Dişli İkonu) -->
+          <!-- 4. Ayarlar Butonu (Şık Çark / Dişli İkonu) -->
           <button class="nav-circle-btn" id="openSettingsBtn" aria-label="Ayarlar" title="Ayarlar">
             <svg class="nav-svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
               <circle cx="12" cy="12" r="3"></circle>
@@ -1529,17 +1401,6 @@
         </div>
       </div>
 
-      <!-- 432 Hz Müzik Ses Seviyesi -->
-      <div class="settings-group">
-        <div class="settings-label">432 Hz Alpha Müziği Ses Düzeyi</div>
-        <div class="segmented-control" id="musicVolSegmented">
-          <button class="seg-btn" data-vol="0.04">%4</button>
-          <button class="seg-btn active" data-vol="0.08">%8</button>
-          <button class="seg-btn" data-vol="0.14">%14</button>
-          <button class="seg-btn" data-vol="0.22">%22</button>
-        </div>
-      </div>
-
       <!-- Yazı Tipi Boyutu -->
       <div class="settings-group">
         <div class="settings-label">Yazı Boyutu</div>
@@ -1584,8 +1445,6 @@
     let currentSpeed = parseFloat(localStorage.getItem('vb_speed')) || 1.05;
     let thinkingDuration = parseInt(localStorage.getItem('vb_thinking')) || 3;
     let isShuffle = localStorage.getItem('vb_shuffle') === 'true';
-    let isMusicActive = false;
-    let musicVol = parseFloat(localStorage.getItem('vb_music_vol')) || 0.08;
     let currentAudioObj = null;
     let speechTimer = null;
     let isPlaying = false;
@@ -1626,10 +1485,6 @@
     const metaThemeColor = document.getElementById('metaThemeColor');
     const timelineFill = document.getElementById('timelineFill');
 
-    // Music Elements
-    const musicPill = document.getElementById('musicPill');
-    const musicLabel = document.getElementById('musicLabel');
-
     // Card Swipe Elements
     const cardElement = document.getElementById('cardElement');
     const feedbackKnown = document.getElementById('feedbackKnown');
@@ -1647,91 +1502,6 @@
     // Filter Chips
     const filterAll = document.getElementById('filterAll');
     const filterUnknown = document.getElementById('filterUnknown');
-
-    // 432 Hz Alpha Wave Audio Context
-    let audioCtx = null;
-    let osc1 = null;
-    let osc2 = null;
-    let gainNode = null;
-    let binauralFilter = null;
-
-    function initAudioContext() {
-      if (!audioCtx) {
-        const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-        if (AudioContextClass) {
-          audioCtx = new AudioContextClass();
-        }
-      }
-      if (audioCtx && audioCtx.state === 'suspended') {
-        audioCtx.resume();
-      }
-    }
-
-    function startAlphaWaves() {
-      try {
-        initAudioContext();
-        if (!audioCtx) return;
-
-        if (osc1) stopAlphaWaves();
-
-        gainNode = audioCtx.createGain();
-        gainNode.gain.setValueAtTime(0.001, audioCtx.currentTime);
-        gainNode.gain.exponentialRampToValueAtTime(musicVol, audioCtx.currentTime + 1.8);
-
-        binauralFilter = audioCtx.createBiquadFilter();
-        binauralFilter.type = 'lowpass';
-        binauralFilter.frequency.setValueAtTime(520, audioCtx.currentTime);
-
-        osc1 = audioCtx.createOscillator();
-        osc1.type = 'sine';
-        osc1.frequency.setValueAtTime(432, audioCtx.currentTime);
-
-        osc2 = audioCtx.createOscillator();
-        osc2.type = 'sine';
-        osc2.frequency.setValueAtTime(442, audioCtx.currentTime);
-
-        const merger = audioCtx.createChannelMerger(2);
-        osc1.connect(merger, 0, 0);
-        osc2.connect(merger, 0, 1);
-
-        merger.connect(binauralFilter);
-        binauralFilter.connect(gainNode);
-        gainNode.connect(audioCtx.destination);
-
-        osc1.start();
-        osc2.start();
-        isMusicActive = true;
-        updateMusicUI();
-      } catch (err) {
-        console.error("Alpha wave error:", err);
-      }
-    }
-
-    function stopAlphaWaves() {
-      try {
-        if (gainNode && audioCtx) {
-          gainNode.gain.setValueAtTime(gainNode.gain.value, audioCtx.currentTime);
-          gainNode.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + 0.8);
-          setTimeout(() => {
-            if (osc1) { osc1.stop(); osc1.disconnect(); osc1 = null; }
-            if (osc2) { osc2.stop(); osc2.disconnect(); osc2 = null; }
-            isMusicActive = false;
-            updateMusicUI();
-          }, 850);
-        } else {
-          isMusicActive = false;
-          updateMusicUI();
-        }
-      } catch (e) {
-        isMusicActive = false;
-        updateMusicUI();
-      }
-    }
-
-    function updateMusicUI() {
-      musicPill.classList.toggle('active', isMusicActive);
-      musicLabel.textContent = isMusicActive ? 'Alpha 432Hz Açık' : '432 Hz Alpha';
-    }
 
     function updateMuteUI() {
       muteBtn.classList.toggle('muted', isMuted);
@@ -1760,11 +1530,6 @@
       if (isMuted && window.speechSynthesis) {
         window.speechSynthesis.cancel();
       }
-    };
-
-    musicPill.onclick = () => {
-      if (isMusicActive) stopAlphaWaves();
-      else startAlphaWaves();
     };
 
     // Active Card Filtering
@@ -2442,19 +2207,6 @@
       };
     });
 
-    // 432 Hz Ses Düzeyi Ayarı
-    document.querySelectorAll('#musicVolSegmented .seg-btn').forEach(btn => {
-      btn.onclick = () => {
-        document.querySelectorAll('#musicVolSegmented .seg-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        musicVol = parseFloat(btn.dataset.vol);
-        localStorage.setItem('vb_music_vol', musicVol);
-        if (gainNode && audioCtx && isMusicActive) {
-          gainNode.gain.setValueAtTime(musicVol, audioCtx.currentTime);
-        }
-      };
-    });
-
     // Yazı Tipi Boyutu Ayarı
     document.querySelectorAll('#fontSegmented .seg-btn').forEach(btn => {
       btn.onclick = () => {
@@ -2497,12 +2249,6 @@
     document.querySelectorAll('#thinkingSegmented .seg-btn').forEach(b => {
       b.classList.toggle('active', parseFloat(b.dataset.sec) === thinkingDuration);
     });
-
-    document.querySelectorAll('#musicVolSegmented .seg-btn').forEach(b => {
-      b.classList.toggle('active', parseFloat(b.dataset.vol) === musicVol);
-    });
-
-    updateMusicUI();
 
     // Başlangıç Yüklemesi
     renderDropdown();
