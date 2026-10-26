@@ -5244,27 +5244,37 @@
       {
         "kart": 95,
         "soru": "DBS sisteminde bayi limiti yetersizse faturanın kısmi ödenmesi mümkün müdür?",
-        "cevap": "Sistem kurgusuna göre bayinin kalan limiti oranında kısmi ödeme yapılabilir veya işlem reddedilebilir."
+        "cevap": "Sistem kurgusuna göre bayinin kalan limiti oranında kısmi ödeme yapılabilir veya işlem reddedilebilir.",
+        "q_end": 6.07,
+        "a_start": 9.37
       },
       {
         "kart": 96,
         "soru": "Kambiyo Senetlerinde 'Aval Veren' kişinin hukuki konumu nedir?",
-        "cevap": "Kefil olduğu kişinin borcundan müteselsilen sorumlu olan kambiyo garantörüdür."
+        "cevap": "Kefil olduğu kişinin borcundan müteselsilen sorumlu olan kambiyo garantörüdür.",
+        "q_end": 4.7,
+        "a_start": 8.0
       },
       {
         "kart": 97,
         "soru": "İhracat bedellerinin yurda getirilmesinde 'İptal / Terkin' yetkisi Hazinece kime verilmiştir?",
-        "cevap": "Belirli limitler dahilinde aracı bankalara ve Vergi Dairelerine verilmiştir."
+        "cevap": "Belirli limitler dahilinde aracı bankalara ve Vergi Dairelerine verilmiştir.",
+        "q_end": 6.55,
+        "a_start": 9.85
       },
       {
         "kart": 98,
         "soru": "Dış Ticarette 'Kombine Taşımacılık (Multimodal)' ne demektir?",
-        "cevap": "En az iki farklı taşıma modunun (Örn: Deniz + Karayolu + Demiryolu) tek bir taşıma sözleşmesiyle kullanılmasıdır."
+        "cevap": "En az iki farklı taşıma modunun (Örn: Deniz + Karayolu + Demiryolu) tek bir taşıma sözleşmesiyle kullanılmasıdır.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 99,
         "soru": "VakıfBank Dış Ticaret ve Nakit Yönetimi birimlerinin ana hedefi nedir?",
-        "cevap": "Müşterilerin uluslararası ticaret risklerini sıfırlamak, küresel nakit akışını optimize etmek ve uçtan uca finansman sağlamaktır."
+        "cevap": "Müşterilerin uluslararası ticaret risklerini sıfırlamak, küresel nakit akışını optimize etmek ve uçtan uca finansman sağlamaktır.",
+        "q_end": 5.23,
+        "a_start": 8.53
       }
     ]
   },
