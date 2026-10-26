@@ -1564,102 +1564,142 @@
       {
         "kart": 43,
         "soru": "Borsa İstanbul Hisse Senedi Piyasasında 'Taban / Tavan Fiyat' sınırı yüzde kaçtır?",
-        "cevap": "Bir hisse senedinin bir seansta işlem görebileceği azami fiyat değişimi %10 alt ve %10 üst sınırla belirlenmiştir."
+        "cevap": "Bir hisse senedinin bir seansta işlem görebileceği azami fiyat değişimi %10 alt ve %10 üst sınırla belirlenmiştir.",
+        "q_end": 5.83,
+        "a_start": 9.13
       },
       {
         "kart": 44,
         "soru": "Devre Kesici (Circuit Breaker) ne zaman tetiklenir?",
-        "cevap": "Bir hisse senedinde veya endekste kısa sürede aşırı fiyat oynaklığı olduğunda işlemlerin geçici durdurulmasıdır."
+        "cevap": "Bir hisse senedinde veya endekste kısa sürede aşırı fiyat oynaklığı olduğunda işlemlerin geçici durdurulmasıdır.",
+        "q_end": 4.01,
+        "a_start": 7.31
       },
       {
         "kart": 45,
         "soru": "Açık Pozisyon (Open Position) riski nedir?",
-        "cevap": "Döviz, faiz veya emtiada yükümlülükler ile varlıkların birbirini dengelememesi sonucu oluşan kur/faiz riskidir."
+        "cevap": "Döviz, faiz veya emtiada yükümlülükler ile varlıkların birbirini dengelememesi sonucu oluşan kur/faiz riskidir.",
+        "q_end": 3.53,
+        "a_start": 6.83
       },
       {
         "kart": 46,
         "soru": "Hazine Bonosu iskonto esasına göre mi ihraç edilir?",
-        "cevap": "Evet. Hazine bonoları kuponsuz olup nominal bedelinden iskonto edilerek (düşük fiyattan) ihraç edilir."
+        "cevap": "Evet. Hazine bonoları kuponsuz olup nominal bedelinden iskonto edilerek (düşük fiyattan) ihraç edilir.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 47,
         "soru": "Sabit Kuponlu Devlet Tahvili ile Değişken Kuponlu Devlet Tahvili farkı nedir?",
-        "cevap": "Sabit Kuponlu: Kupon faiz oranı vade boyunca sabittir. Değişken Kuponlu: Kupon faizi Hazine ihalelerine göre güncellenir."
+        "cevap": "Sabit Kuponlu: Kupon faiz oranı vade boyunca sabittir. Değişken Kuponlu: Kupon faizi Hazine ihalelerine göre güncellenir.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 48,
         "soru": "Finansman Bonosu ihraç eden kurumlar kimlerdir?",
-        "cevap": "Anonim şirketler, finansal kiralama ve faktoring şirketleri ile bankalar ihraç edebilir."
+        "cevap": "Anonim şirketler, finansal kiralama ve faktoring şirketleri ile bankalar ihraç edebilir.",
+        "q_end": 3.82,
+        "a_start": 7.12
       },
       {
         "kart": 49,
         "soru": "Borsa Yatırım Fonu (BYF / ETF) nedir?",
-        "cevap": "Bir endeksi takip eden ve payları borsa pay piyasasında hisse senedi gibi alınıp satılan yatırım fonudur."
+        "cevap": "Bir endeksi takip eden ve payları borsa pay piyasasında hisse senedi gibi alınıp satılan yatırım fonudur.",
+        "q_end": 4.08,
+        "a_start": 7.38
       },
       {
         "kart": 50,
         "soru": "Faiz Oranı Swapında (IRS) sabit faiz ödeyen tarafın beklentisi nedir?",
-        "cevap": "Piyasada faiz oranlarının yükseleceği beklentisiyle sabit faiz ödeyip değişken faiz alır."
+        "cevap": "Piyasada faiz oranlarının yükseleceği beklentisiyle sabit faiz ödeyip değişken faiz alır.",
+        "q_end": 5.86,
+        "a_start": 9.16
       },
       {
         "kart": 51,
         "soru": "Fon Portföy Yöneticisi kimdir ve sorumluluğu nedir?",
-        "cevap": "SPK'dan portföy yöneticiliği yetki belgesi almış, fon varlıklarını fon içtüzüğüne göre yöneten profesyonel kişi veya kurumdur."
+        "cevap": "SPK'dan portföy yöneticiliği yetki belgesi almış, fon varlıklarını fon içtüzüğüne göre yöneten profesyonel kişi veya kurumdur.",
+        "q_end": 3.89,
+        "a_start": 7.19
       },
       {
         "kart": 52,
         "soru": "Yatırım Fonu Katılma Payı (Fon Biri) değeri nasıl hesaplanır?",
-        "cevap": "Fonun toplam net varlık değerinin, toplam dolaşımdaki fon pay sayısına bölünmesiyle günlük hesaplanır."
+        "cevap": "Fonun toplam net varlık değerinin, toplam dolaşımdaki fon pay sayısına bölünmesiyle günlük hesaplanır.",
+        "q_end": 4.32,
+        "a_start": 7.62
       },
       {
         "kart": 53,
         "soru": "Borsa İstanbul VİOP işlemlerinde fiziki teslimat var mıdır?",
-        "cevap": "Bazı sözleşmelerde (örneğin döviz/emtia) nakdi uzlaşma, bazılarında ise fiziki teslimat esası uygulanır."
+        "cevap": "Bazı sözleşmelerde (örneğin döviz/emtia) nakdi uzlaşma, bazılarında ise fiziki teslimat esası uygulanır.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 54,
         "soru": "Para Piyasası Fonlarının portföy ortalama vadesi azami kaç gündür?",
-        "cevap": "Portföyün ağırlıklı ortalama vadesi en fazla 45 gün olabilir."
+        "cevap": "Portföyün ağırlıklı ortalama vadesi en fazla 45 gün olabilir.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 55,
         "soru": "Hazine İhalelerinde 'Teklif Verme Türleri' nelerdir?",
-        "cevap": "Rekabetçi Teklif (Fiyat belirtilerek) ve Rekabetçi Olmayan Teklif (ROT - İhale ortalama fiyatından)."
+        "cevap": "Rekabetçi Teklif (Fiyat belirtilerek) ve Rekabetçi Olmayan Teklif (ROT - İhale ortalama fiyatından).",
+        "q_end": 4.03,
+        "a_start": 7.33
       },
       {
         "kart": 56,
         "soru": "Swap İşleminde 'Yeniden Fiyatlama (Mark-to-Market)' ne anlama gelir?",
-        "cevap": "Swap sözleşmesinin piyasadaki cari faiz/kur değişimlerine göre günlük olarak değerlenip kâr/zararın tespiti işlemidir."
+        "cevap": "Swap sözleşmesinin piyasadaki cari faiz/kur değişimlerine göre günlük olarak değerlenip kâr/zararın tespiti işlemidir.",
+        "q_end": 4.75,
+        "a_start": 8.05
       },
       {
         "kart": 57,
         "soru": "Eurobond'larda Vade Yapısı genellikle kaç yıldır?",
-        "cevap": "Eurobond'lar genellikle 5, 10, 20 veya 30 yıl gibi orta ve uzun vadeli ihraç edilir."
+        "cevap": "Eurobond'lar genellikle 5, 10, 20 veya 30 yıl gibi orta ve uzun vadeli ihraç edilir.",
+        "q_end": 3.77,
+        "a_start": 7.07
       },
       {
         "kart": 58,
         "soru": "Yatırım Ortaklıkları (YO) ile Yatırım Fonları arasındaki temel fark nedir?",
-        "cevap": "Yatırım Ortaklığı bir anonim şirkettir; Yatırım Fonu ise tüzel kişiliği olmayan malvarlığı birikimidir."
+        "cevap": "Yatırım Ortaklığı bir anonim şirkettir; Yatırım Fonu ise tüzel kişiliği olmayan malvarlığı birikimidir.",
+        "q_end": 5.14,
+        "a_start": 8.44
       },
       {
         "kart": 59,
         "soru": "Türev Araçlarda 'Kaldıraç Etkisi (Leverage)' nedir?",
-        "cevap": "Küçük bir teminat yatırarak daha büyük hacimli finansal pozisyon kontrol etme ve yüksek kazanç/kayıp imkanı sağlamaktır."
+        "cevap": "Küçük bir teminat yatırarak daha büyük hacimli finansal pozisyon kontrol etme ve yüksek kazanç/kayıp imkanı sağlamaktır.",
+        "q_end": 4.01,
+        "a_start": 7.31
       },
       {
         "kart": 60,
         "soru": "Gelişen İşletmeler Pazarı (GİP) BIST'te kimler içindir?",
-        "cevap": "Gelişme potansiyeli yüksek, henüz borsa kotasyon şartlarını tam karşılamayan KOBİ niteliğindeki şirketlerin hisse ihraç pazarıdır."
+        "cevap": "Gelişme potansiyeli yüksek, henüz borsa kotasyon şartlarını tam karşılamayan KOBİ niteliğindeki şirketlerin hisse ihraç pazarıdır.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 61,
         "soru": "BIST Pay Piyasasında 'Brüt Takas' uygulaması ne anlama gelir?",
-        "cevap": "Aynı gün içinde alınan hissenin aynı gün satılamaması ve kredili/açığa satış işlemlerinin yasaklanması tedbiridir."
+        "cevap": "Aynı gün içinde alınan hissenin aynı gün satılamaması ve kredili/açığa satış işlemlerinin yasaklanması tedbiridir.",
+        "q_end": 4.3,
+        "a_start": 7.6
       },
       {
         "kart": 62,
         "soru": "MKK Kaydi Sisteminde Hisse Senetleri şifreli mi izlenir?",
-        "cevap": "Evet. MKK nezdinde tüm yatırımcıların hesapları TC Kimlik / VKN numaraları üzerinden kaydi olarak izlenir."
+        "cevap": "Evet. MKK nezdinde tüm yatırımcıların hesapları TC Kimlik / VKN numaraları üzerinden kaydi olarak izlenir.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 63,
