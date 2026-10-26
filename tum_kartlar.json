@@ -568,92 +568,128 @@
       {
         "kart": 81,
         "soru": "Bilgi Güvenliğinin 3 Temel Prensipli Sacayağı (CIA Triad) nedir?",
-        "cevap": "1. Gizlilik (Confidentiality) | 2. Bütünlük (Integrity) | 3. Erişilebilirlik (Availability)."
+        "cevap": "1. Gizlilik (Confidentiality) | 2. Bütünlük (Integrity) | 3. Erişilebilirlik (Availability).",
+        "q_end": 5.33,
+        "a_start": 8.63
       },
       {
         "kart": 82,
         "soru": "'Temiz Masa - Temiz Ekran' politikası neleri kapsar?",
-        "cevap": "Masalarda evrak ve şifre notu bırakılmamasını kilitli tutulmasını; masadan ayrılırken ekranın kilitlenmesini (Win+L) gerektirir."
+        "cevap": "Masalarda evrak ve şifre notu bırakılmamasını kilitli tutulmasını; masadan ayrılırken ekranın kilitlenmesini (Win+L) gerektirir.",
+        "q_end": 3.86,
+        "a_start": 7.16
       },
       {
         "kart": 83,
         "soru": "VakıfBank SOC (Security Operations Center) görevi nedir?",
-        "cevap": "Bilişim altyapısını 7/24 izleyen, siber tehdit ve saldırılara anında müdahale eden Güvenlik Operasyon Merkezidir."
+        "cevap": "Bilişim altyapısını 7/24 izleyen, siber tehdit ve saldırılara anında müdahale eden Güvenlik Operasyon Merkezidir.",
+        "q_end": 4.58,
+        "a_start": 7.88
       },
       {
         "kart": 84,
         "soru": "Sosyal Mühendislik nedir ve en yaygın türü hangisidir?",
-        "cevap": "İnsan güvenini kötüye kullanarak gizli bilgi elde etmektir. En yaygını Oltalama (Phishing) e-postalarıdır."
+        "cevap": "İnsan güvenini kötüye kullanarak gizli bilgi elde etmektir. En yaygını Oltalama (Phishing) e-postalarıdır.",
+        "q_end": 4.22,
+        "a_start": 7.52
       },
       {
         "kart": 85,
         "soru": "Müşteri Deneyiminde NPS (Net Promoter Score) formülü nedir?",
-        "cevap": "NPS = % Destekçiler (9-10) - % Kötüleyenler (0-6). Pasifler (7-8) hesaba katılmaz."
+        "cevap": "NPS = % Destekçiler (9-10) - % Kötüleyenler (0-6). Pasifler (7-8) hesaba katılmaz.",
+        "q_end": 4.85,
+        "a_start": 8.15
       },
       {
         "kart": 86,
         "soru": "Uplift Modeli müşterileri hangi 4 segmente ayırır?",
-        "cevap": "1. Persuadables (İkna Edilebilirler) | 2. Lost Causes (Kayıp kitle) | 3. Sure Things (Zaten alacaklar) | 4. Do Not Disturb (Rahatsız edilmeyecekler)."
+        "cevap": "1. Persuadables (İkna Edilebilirler) | 2. Lost Causes (Kayıp kitle) | 3. Sure Things (Zaten alacaklar) | 4. Do Not Disturb (Rahatsız edilmeyecekler).",
+        "q_end": 3.91,
+        "a_start": 7.21
       },
       {
         "kart": 87,
         "soru": "Müşteri Aktivite Skorlamasında RFM Modeli bileşenleri nelerdir?",
-        "cevap": "R: Recency (Yenilik), F: Frequency (Sıklık), M: Monetary (Parasal Değer)."
+        "cevap": "R: Recency (Yenilik), F: Frequency (Sıklık), M: Monetary (Parasal Değer).",
+        "q_end": 5.09,
+        "a_start": 8.39
       },
       {
         "kart": 88,
         "soru": "VakıfBank Dijital Asistanının adı nedir?",
-        "cevap": "VİBA (VakıfBank İletişim ve Bilgi Asistanı)."
+        "cevap": "VİBA (VakıfBank İletişim ve Bilgi Asistanı).",
+        "q_end": 3.26,
+        "a_start": 6.56
       },
       {
         "kart": 89,
         "soru": "Denetim Komitesi kimlerden oluşur ve kime bağlıdır?",
-        "cevap": "En az 2 icrai görevi olmayan Yönetim Kurulu üyesinden oluşur ve doğrudan Yönetim Kurulu’na raporlama yapar."
+        "cevap": "En az 2 icrai görevi olmayan Yönetim Kurulu üyesinden oluşur ve doğrudan Yönetim Kurulu’na raporlama yapar.",
+        "q_end": 3.89,
+        "a_start": 7.19
       },
       {
         "kart": 90,
         "soru": "Bankalarda İç Denetim Sisteminin 3 Sacayağı nelerdir?",
-        "cevap": "1. Teftiş Kurulu Başkanlığı | 2. İç Kontrol Merkezi Başkanlığı | 3. Risk Yönetimi Başkanlığı."
+        "cevap": "1. Teftiş Kurulu Başkanlığı | 2. İç Kontrol Merkezi Başkanlığı | 3. Risk Yönetimi Başkanlığı.",
+        "q_end": 4.22,
+        "a_start": 7.52
       },
       {
         "kart": 91,
         "soru": "Banka yönetim kurulu üyelerinin ibra edilmesinin hukuki sonucu nedir?",
-        "cevap": "Genel Kurulun YK üyelerinin ilgili faaliyet dönemindeki icraatlarını onaylaması ve sorumluluk davası hakkından vazgeçmesidir."
+        "cevap": "Genel Kurulun YK üyelerinin ilgili faaliyet dönemindeki icraatlarını onaylaması ve sorumluluk davası hakkından vazgeçmesidir.",
+        "q_end": 5.38,
+        "a_start": 8.68
       },
       {
         "kart": 92,
         "soru": "VakıfBank Esas Sözleşmesine göre Genel Müdürün YK'daki statüsü nedir?",
-        "cevap": "Genel Müdür, Yönetim Kurulu'nun doğal (resen) üyesidir."
+        "cevap": "Genel Müdür, Yönetim Kurulu'nun doğal (resen) üyesidir.",
+        "q_end": 5.23,
+        "a_start": 8.53
       },
       {
         "kart": 93,
         "soru": "VakıfBank Etiği uyarınca hediye kabul kuralı nasıldır?",
-        "cevap": "Tarafsızlığı ve kararları etkileyebilecek nitelikteki parasal değeri olan hediye ve menfaatler kabul edilemez."
+        "cevap": "Tarafsızlığı ve kararları etkileyebilecek nitelikteki parasal değeri olan hediye ve menfaatler kabul edilemez.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 94,
         "soru": "ISO 10002 Müşteri Memnuniyeti Yönetim Sistemi neyi taahhüt eder?",
-        "cevap": "Şikayetlerin şeffaf, ücretsiz, hızlı, objektif ve gizlilik içinde ele alınıp çözüme kavuşturulmasını taahhüt eder."
+        "cevap": "Şikayetlerin şeffaf, ücretsiz, hızlı, objektif ve gizlilik içinde ele alınıp çözüme kavuşturulmasını taahhüt eder.",
+        "q_end": 5.26,
+        "a_start": 8.56
       },
       {
         "kart": 95,
         "soru": "Yapay Zekâda 'Churn Tahmini' nedir?",
-        "cevap": "Bankayı terk etme ihtimali yüksek olan müşterilerin önceden tespit edilerek elde tutma aksiyonu alınmasıdır."
+        "cevap": "Bankayı terk etme ihtimali yüksek olan müşterilerin önceden tespit edilerek elde tutma aksiyonu alınmasıdır.",
+        "q_end": 3.0,
+        "a_start": 6.3
       },
       {
         "kart": 96,
         "soru": "VakıfBank New York Şubesi çalışma alanı nedir?",
-        "cevap": "Dış ticaretin finansmanı, muhabir bankacılık ve uluslararası fonlama işlemlerinde yoğunlaşmıştır."
+        "cevap": "Dış ticaretin finansmanı, muhabir bankacılık ve uluslararası fonlama işlemlerinde yoğunlaşmıştır.",
+        "q_end": 3.62,
+        "a_start": 6.92
       },
       {
         "kart": 97,
         "soru": "VakıfBank'ın BIST Sürdürülebilirlik Endeksindeki yeri nedir?",
-        "cevap": "ÇSY kriterlerini üst düzeyde karşılayarak BIST Sürdürülebilirlik Endeksinde sürekli yer almaktadır."
+        "cevap": "ÇSY kriterlerini üst düzeyde karşılayarak BIST Sürdürülebilirlik Endeksinde sürekli yer almaktadır.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 98,
         "soru": "Sürdürülebilir Bankacılık anlayışında ÇSY (ESG) nedir?",
-        "cevap": "Çevresel (Environmental), Sosyal (Social), Yönetişim (Governance) kriterleridir."
+        "cevap": "Çevresel (Environmental), Sosyal (Social), Yönetişim (Governance) kriterleridir.",
+        "q_end": 4.82,
+        "a_start": 8.12
       }
     ]
   },
