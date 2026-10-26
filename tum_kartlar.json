@@ -3976,102 +3976,142 @@
       {
         "kart": 5,
         "soru": "Muhasebenin 'İhtiyatlılık İlkesi' banka bilançosunda kendini nasıl gösterir?",
-        "cevap": "Gelecekte doğabilecek muhtemel riskler ve takipli krediler için Karşılık Ayrılması, gerçekleşmemiş gelirlerin gösterilmemesi esasıyla kendini gösterir."
+        "cevap": "Gelecekte doğabilecek muhtemel riskler ve takipli krediler için Karşılık Ayrılması, gerçekleşmemiş gelirlerin gösterilmemesi esasıyla kendini gösterir.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 6,
         "soru": "Muhasebenin 'Özün Önceliği İlkesi' ne demektir?",
-        "cevap": "İşlemlerin muhasebeleştirilmesinde ve değerlendirilmesinde hukuki biçimlerinden ziyade ekonomik özlerinin ve gerçek mahiyetlerinin esas alınmasıdır."
+        "cevap": "İşlemlerin muhasebeleştirilmesinde ve değerlendirilmesinde hukuki biçimlerinden ziyade ekonomik özlerinin ve gerçek mahiyetlerinin esas alınmasıdır.",
+        "q_end": 3.72,
+        "a_start": 7.02
       },
       {
         "kart": 7,
         "soru": "Muhasebenin 'Tutarlılık İlkesi' neyi zorunlu kılar?",
-        "cevap": "Uygulanan muhasebe politikaları ve değerleme esaslarının yıldan yıla değiştirilmeden sürdürülmesini; değişiklik yapıldığında mali tablo dipnotlarında açıklanmasını gerektirir."
+        "cevap": "Uygulanan muhasebe politikaları ve değerleme esaslarının yıldan yıla değiştirilmeden sürdürülmesini; değişiklik yapıldığında mali tablo dipnotlarında açıklanmasını gerektirir.",
+        "q_end": 3.62,
+        "a_start": 6.92
       },
       {
         "kart": 8,
         "soru": "Muhasebenin 'Önemlilik İlkesi' ne anlama gelir?",
-        "cevap": "Bir kalemin mali tabloda yer almasının veya açıklanmasının, finansal tablo kullanıcılarının kararlarını etkileyecek nicelik veya nitelikte olmasıdır."
+        "cevap": "Bir kalemin mali tabloda yer almasının veya açıklanmasının, finansal tablo kullanıcılarının kararlarını etkileyecek nicelik veya nitelikte olmasıdır.",
+        "q_end": 3.62,
+        "a_start": 6.92
       },
       {
         "kart": 9,
         "soru": "BDDK Tekdüzen Hesap Planı'nda (THP) 1'den 6'ya kadar olan Hesap Sınıfı Kodları sırasıyla neleri temsil eder?",
-        "cevap": "1: Dönen ve Duran Varlıklar (Aktif) 2: Yükümlülükler (Pasif) 3: Özkaynaklar (Pasif) 4: Gelirler 5: Giderler 6: Bilanço Dışı Hesaplar (Nazım Hesaplar)"
+        "cevap": "1: Dönen ve Duran Varlıklar (Aktif) 2: Yükümlülükler (Pasif) 3: Özkaynaklar (Pasif) 4: Gelirler 5: Giderler 6: Bilanço Dışı Hesaplar (Nazım Hesaplar)",
+        "q_end": 7.7,
+        "a_start": 11.0
       },
       {
         "kart": 10,
         "soru": "Tekdüzen Hesap Planı'nda Gayrinakdi Krediler, İpotekli Teminatlar ve Türev İşlemler hangi hesap sınıfında izlenir?",
-        "cevap": "6 no'lu grupta yer alan 'Bilanço Dışı / Nazım Hesaplar' sınıfında izlenir."
+        "cevap": "6 no'lu grupta yer alan 'Bilanço Dışı / Nazım Hesaplar' sınıfında izlenir.",
+        "q_end": 7.66,
+        "a_start": 10.96
       },
       {
         "kart": 11,
         "soru": "Aktifi Düzenleyici Pasif Hesaplar nasıl çalışır ve bilanchoda nasıl gösterilir?",
-        "cevap": "Aktifte yer almalarına rağmen eksi (-) karakterli çalışırlar ve bağlı oldukları aktif varlık kaleminin değerini netleştirirler (Örn: Şüpheli Alacaklar Karşılığı, Amortismanlar)."
+        "cevap": "Aktifte yer almalarına rağmen eksi (-) karakterli çalışırlar ve bağlı oldukları aktif varlık kaleminin değerini netleştirirler (Örn: Şüpheli Alacaklar Karşılığı, Amortismanlar).",
+        "q_end": 5.52,
+        "a_start": 8.82
       },
       {
         "kart": 12,
         "soru": "Banka Bilanço Denklemi nasıldır?",
-        "cevap": "Varlıklar (Aktif) = Yükümlülükler (Borçlar) + Özkaynaklar (Pasif)"
+        "cevap": "Varlıklar (Aktif) = Yükümlülükler (Borçlar) + Özkaynaklar (Pasif)",
+        "q_end": 2.86,
+        "a_start": 6.16
       },
       {
         "kart": 13,
         "soru": "Banka Bilançosunun Aktif tarafında yer alan Dönen Varlıklar ile Duran Varlıklar arasındaki fark nedir?",
-        "cevap": "Dönen Varlıklar: 1 yıl içinde nakde çevrilmesi beklenen varlıklardır (Kasa, Bankalar, Menkul Değerler, Kısa Vadeli Krediler). Duran Varlıklar: 1 yıldan uzun vadeli kullanılan varlıklardır (Binalar, Demirbaşlar, İştirakler)."
+        "cevap": "Dönen Varlıklar: 1 yıl içinde nakde çevrilmesi beklenen varlıklardır (Kasa, Bankalar, Menkul Değerler, Kısa Vadeli Krediler). Duran Varlıklar: 1 yıldan uzun vadeli kullanılan varlıklardır (Binalar, Demirbaşlar, İştirakler).",
+        "q_end": 6.79,
+        "a_start": 10.09
       },
       {
         "kart": 14,
         "soru": "Gelir Tablosunda 'Net Dönem Kârı' hangi işlem adımlarıyla hesaplanır?",
-        "cevap": "Faaliyet Gelirleri - Faaliyet Giderleri = Faaliyet Kârı; Finansman Gelir/Giderleri ve Karşılık/Vergi Giderleri düşüldükten sonra Net Dönem Kârına ulaşılır."
+        "cevap": "Faaliyet Gelirleri - Faaliyet Giderleri = Faaliyet Kârı; Finansman Gelir/Giderleri ve Karşılık/Vergi Giderleri düşüldükten sonra Net Dönem Kârına ulaşılır.",
+        "q_end": 4.73,
+        "a_start": 8.03
       },
       {
         "kart": 15,
         "soru": "Mizan tablosu muhasebede ne amaçla düzenlenir?",
-        "cevap": "Yevmiye defteri kayıtlarının Defter-i Kebir (Büyük Defter) hesaplarına doğru aktarılıp aktarılmadığını denetleyen matematiksel denetim çizelgesidir."
+        "cevap": "Yevmiye defteri kayıtlarının Defter-i Kebir (Büyük Defter) hesaplarına doğru aktarılıp aktarılmadığını denetleyen matematiksel denetim çizelgesidir.",
+        "q_end": 3.96,
+        "a_start": 7.26
       },
       {
         "kart": 16,
         "soru": "Geçici Mizan ile Kesin Mizan arasındaki fark nedir?",
-        "cevap": "Geçici Mizan: Dönem sonu ayarlama ve reeskont kayıtları yapılmadan önce çıkarılan mizan. Kesin Mizan: Dönem sonu envanter ve düzeltme kayıtları tamamlandıktan sonra çıkarılan nihai mizandır."
+        "cevap": "Geçici Mizan: Dönem sonu ayarlama ve reeskont kayıtları yapılmadan önce çıkarılan mizan. Kesin Mizan: Dönem sonu envanter ve düzeltme kayıtları tamamlandıktan sonra çıkarılan nihai mizandır.",
+        "q_end": 4.22,
+        "a_start": 7.52
       },
       {
         "kart": 17,
         "soru": "Nakit Akış Tablosu nakit akımlarını hangi 3 ana faaliyet grubunda gösterir?",
-        "cevap": "1. İşletme (Faaliyet) Nakit Akışları | 2. Yatırım Faaliyetleri Nakit Akışları | 3. Finansman Faaliyetleri Nakit Akışları."
+        "cevap": "1. İşletme (Faaliyet) Nakit Akışları | 2. Yatırım Faaliyetleri Nakit Akışları | 3. Finansman Faaliyetleri Nakit Akışları.",
+        "q_end": 5.18,
+        "a_start": 8.48
       },
       {
         "kart": 18,
         "soru": "Özkaynak Değişim Tablosu neyi gösterir?",
-        "cevap": "Ödenmiş sermaye, kâr/sermaye yedekleri, geçmiş yıl kâr/zararları ve dönem net kârındaki hesap dönemleri arası değişimleri gösterir."
+        "cevap": "Ödenmiş sermaye, kâr/sermaye yedekleri, geçmiş yıl kâr/zararları ve dönem net kârındaki hesap dönemleri arası değişimleri gösterir.",
+        "q_end": 3.17,
+        "a_start": 6.47
       },
       {
         "kart": 19,
         "soru": "BSMV (Banka ve Sigorta Muameleleri Vergisi) mükellefi kimdir ve verginin matrahı nedir?",
-        "cevap": "Mükellef: Bankalardır. Matrah: Bankanın yaptığı işlemler sonucunda kendi lehine aldığı PARA (faiz, komisyon, ücret tutarı) miktarıdır."
+        "cevap": "Mükellef: Bankalardır. Matrah: Bankanın yaptığı işlemler sonucunda kendi lehine aldığı PARA (faiz, komisyon, ücret tutarı) miktarıdır.",
+        "q_end": 6.94,
+        "a_start": 10.24
       },
       {
         "kart": 20,
         "soru": "BSMV Beyannamesi hangi tarihe kadar ve nereye beyan edilip ödenir?",
-        "cevap": "İşlem yapılan ayı takip eden ERTESİ AYIN 15. GÜNÜ AKŞAMINA KADAR yetkili Vergi Dairesine beyan edilir ve ödenir."
+        "cevap": "İşlem yapılan ayı takip eden ERTESİ AYIN 15. GÜNÜ AKŞAMINA KADAR yetkili Vergi Dairesine beyan edilir ve ödenir.",
+        "q_end": 5.62,
+        "a_start": 8.92
       },
       {
         "kart": 21,
         "soru": "İhracat Kredileri ve İhracata ilişkin Gayrinakdi Krediler BSMV ve KKDF'ye tabi midir?",
-        "cevap": "HAYIR. İhracatı teşvik amacıyla ihracat kredileri BSMV ve KKDF'den KANUNEN MUAFTIR."
+        "cevap": "HAYIR. İhracatı teşvik amacıyla ihracat kredileri BSMV ve KKDF'den KANUNEN MUAFTIR.",
+        "q_end": 7.34,
+        "a_start": 10.64
       },
       {
         "kart": 22,
         "soru": "KKDF (Kaynak Kullanımını Destekleme Fonu) oranları Tüketici Kredilerinde ve Kredili İthalatta yüzde kaçtır?",
-        "cevap": "Tüketici Kredilerinde %15; Kredili (Vadeli) İthalat işlemlerinde ise %6 oranında KKDF kesintisi uygulanır."
+        "cevap": "Tüketici Kredilerinde %15; Kredili (Vadeli) İthalat işlemlerinde ise %6 oranında KKDF kesintisi uygulanır.",
+        "q_end": 7.2,
+        "a_start": 10.5
       },
       {
         "kart": 23,
         "soru": "Mevduat Faiz ödemelerinde yapılan Gelir Vergisi Stopajı kim tarafından kesilir ve ödenir?",
-        "cevap": "Banka tarafından faiz tahakkuk anında kaynakta kesilerek (stopaj) ertesi ay Vergi Dairesine ödenir."
+        "cevap": "Banka tarafından faiz tahakkuk anında kaynakta kesilerek (stopaj) ertesi ay Vergi Dairesine ödenir.",
+        "q_end": 6.43,
+        "a_start": 9.73
       },
       {
         "kart": 24,
         "soru": "Damga Vergisi ve Muhtasar Beyanname ertesi ayın hangi gününe kadar beyan edilir ve ödenir?",
-        "cevap": "İzleyen ayın 26. GÜNÜ AKŞAMINA KADAR beyan edilir ve 26. günü akşamına kadar ödenir."
+        "cevap": "İzleyen ayın 26. GÜNÜ AKŞAMINA KADAR beyan edilir ve 26. günü akşamına kadar ödenir.",
+        "q_end": 6.67,
+        "a_start": 9.97
       },
       {
         "kart": 25,
