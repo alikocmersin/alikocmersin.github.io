@@ -1898,14 +1898,23 @@
 
       resetFeedbackBadges();
 
-      // 1. TIKLAMA / DOKUNMA ALGILAMA: "sorunun üzerine tıklayınca hemen başka soruya geçsin"
+    // 1. TIKLAMA / DOKUNMA ALGILAMA:
+      // "eğer cevap ekrana gelmediyse tıklayınca cevap gelsin sonraki tıklamada sonraki soruya geçsin. eğer cevap ekrana geldiyse sonraki soruya geçsin"
       if (absDx < 12 && absDy < 12 && elapsed < 400) {
-        // Karta tıklandı: Hızlı geri bildirim ver ve hemen sonraki soruya geç
         cardElement.style.transition = 'transform 0.12s ease';
         cardElement.style.transform = 'scale(0.97)';
         setTimeout(() => {
-          nextCard('from-right');
+          cardElement.style.transform = 'scale(1)';
         }, 120);
+
+        const isAnswerShowing = answerBox.classList.contains('show');
+        if (!isAnswerShowing) {
+          // Cevap henüz ekranda değil: Cevabı anında ekrana getir
+          revealAnswer();
+        } else {
+          // Cevap zaten ekranda: Sonraki soruya geç
+          nextCard('from-right');
+        }
         return;
       }
 
@@ -1960,6 +1969,47 @@
 
     cardElement.addEventListener('pointerup', handlePointerEnd);
     cardElement.addEventListener('pointercancel', handlePointerEnd);
+
+    // Cevabı Hemen Ekrana Getirme (İlk Tıklamada)
+    function revealAnswer() {
+      answerBox.classList.add('show');
+      thinkingBanner.classList.remove('show');
+      if (speechTimer) {
+        clearTimeout(speechTimer);
+        speechTimer = null;
+      }
+
+      const cards = getActiveCards();
+      if (!cards.length) return;
+      const card = cards[currentCardIndex];
+
+      // Eğer stüdyo kaydı çalıyorsa ve henüz soru veya düşünme payındaysa, doğrudan cevaba (5.2s) atla
+      if (currentAudioObj && currentAudioObj.duration && currentAudioObj.currentTime < 5.2) {
+        currentAudioObj.currentTime = 5.2;
+        speakerLabel.textContent = 'Ahmet (Cevap)';
+      } else if (isPlaying && window.speechSynthesis) {
+        // Eğer ses sentezi çalıyorsa doğrudan cevaba geç
+        window.speechSynthesis.cancel();
+        speakerLabel.textContent = 'Uzman Anlatıcı (Cevap)';
+        const uA = new SpeechSynthesisUtterance(card.cevap);
+        uA.lang = 'tr-TR';
+        uA.rate = currentSpeed;
+        uA.pitch = 0.88;
+        if (isMuted) uA.volume = 0;
+        uA.onstart = () => { timelineFill.style.width = '75%'; };
+        uA.onend = () => {
+          timelineFill.style.width = '100%';
+          speakerLabel.textContent = 'Tamamlandı';
+          updatePlayBtnUI(false);
+          if (autoplay) {
+            speechTimer = setTimeout(() => {
+              nextCard('from-right');
+            }, 1200);
+          }
+        };
+        window.speechSynthesis.speak(uA);
+      }
+    }
 
     // Navigasyon & Hafıza Fonksiyonları
     function nextCard(animType) {
