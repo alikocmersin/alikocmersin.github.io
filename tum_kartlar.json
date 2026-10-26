@@ -4256,102 +4256,142 @@
       {
         "kart": 45,
         "soru": "Muhtasar Beyannamede vergi kesintisi yapılan temel kalemler nelerdir?",
-        "cevap": "Çalışan bordro gelir vergisi kesintileri, kira ödemeleri ve serbest meslek ödemesi stopajlarıdır."
+        "cevap": "Çalışan bordro gelir vergisi kesintileri, kira ödemeleri ve serbest meslek ödemesi stopajlarıdır.",
+        "q_end": 5.3,
+        "a_start": 8.6
       },
       {
         "kart": 46,
         "soru": "E-Defter Beratı GİB sistemine ne zaman yüklenir?",
-        "cevap": "İlgili ayı takip eden 3. ayın son gününe kadar GİB sistemine yüklenmesi zorunludur."
+        "cevap": "İlgili ayı takip eden 3. ayın son gününe kadar GİB sistemine yüklenmesi zorunludur.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 47,
         "soru": "Reeskont İşleminde 'Faiz Reeskontu' bilanço aktifini nasıl etkiler?",
-        "cevap": "Gelecek döneme ait faiz gelirleri aktifteki reeskont hesabıyla düşülerek ilgili dönemin net gelirine dönüştürülür."
+        "cevap": "Gelecek döneme ait faiz gelirleri aktifteki reeskont hesabıyla düşülerek ilgili dönemin net gelirine dönüştürülür.",
+        "q_end": 4.8,
+        "a_start": 8.1
       },
       {
         "kart": 48,
         "soru": "Bankacılıkta 'Sermaye Yeterliliği Rasyosu' hesaplanırken Özkaynaklar hangi sermaye unsurlarından oluşur?",
-        "cevap": "Ana Sermaye (Çekirdek Sermaye + İlave Ana Sermaye) ve Katkı Sermaye unsurlarından oluşur."
+        "cevap": "Ana Sermaye (Çekirdek Sermaye + İlave Ana Sermaye) ve Katkı Sermaye unsurlarından oluşur.",
+        "q_end": 6.98,
+        "a_start": 10.28
       },
       {
         "kart": 49,
         "soru": "Vadesiz Reeskont Karşılığı ayrılması kuralı nedir?",
-        "cevap": "Vadesiz hesaplara faiz işletilmediği için vadesiz mevduatlar reeskont işlemine tabi tutulmaz."
+        "cevap": "Vadesiz hesaplara faiz işletilmediği için vadesiz mevduatlar reeskont işlemine tabi tutulmaz.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 50,
         "soru": "Reeskont İşleminde iskonto faiz oranı olarak hangi oran kullanılır?",
-        "cevap": "TCMB tarafından ilan edilen avans/reoskont faiz oranları veya piyasa cari faiz oranları esas alınır."
+        "cevap": "TCMB tarafından ilan edilen avans/reoskont faiz oranları veya piyasa cari faiz oranları esas alınır.",
+        "q_end": 4.85,
+        "a_start": 8.15
       },
       {
         "kart": 51,
         "soru": "Banka Aktifinde 'Şüpheli Alacaklar' hesabına aktarma kriteri nedir?",
-        "cevap": "Anapara veya faiz ödemesi 90 günden fazla geciken krediler Şüpheli Alacaklar hesabına aktarılır."
+        "cevap": "Anapara veya faiz ödemesi 90 günden fazla geciken krediler Şüpheli Alacaklar hesabına aktarılır.",
+        "q_end": 5.11,
+        "a_start": 8.41
       },
       {
         "kart": 52,
         "soru": "Karşılık Giderleri Gelir Tablosunda hangi grupta yer alır?",
-        "cevap": "Faaliyet Giderleri altında 'Karşılık Giderleri' kalemi olarak izlenir."
+        "cevap": "Faaliyet Giderleri altında 'Karşılık Giderleri' kalemi olarak izlenir.",
+        "q_end": 4.15,
+        "a_start": 7.45
       },
       {
         "kart": 53,
         "soru": "İptal Edilen veya Tahsil Edilen Karşılıklar nereye gelir yazılır?",
-        "cevap": "Daha önce gider yazılan karşılıklar tahsil edildiğinde 'Konusu Kalmayan Karşılıklar' gelir hesabına kaydedilir."
+        "cevap": "Daha önce gider yazılan karşılıklar tahsil edildiğinde 'Konusu Kalmayan Karşılıklar' gelir hesabına kaydedilir.",
+        "q_end": 4.58,
+        "a_start": 7.88
       },
       {
         "kart": 54,
         "soru": "Yabancı Para Hesapların Bilanço Tarihindeki Değerlemesi nasıl yapılır?",
-        "cevap": "TCMB tarafından ilan edilen bilanço günü döviz alış kurları esas alınarak değerlenir ve kur farkı kambiyo kâr/zararına yansıtılır."
+        "cevap": "TCMB tarafından ilan edilen bilanço günü döviz alış kurları esas alınarak değerlenir ve kur farkı kambiyo kâr/zararına yansıtılır.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 55,
         "soru": "Kambiyo Kârı ve Kambiyo Zararı Gelir Tablosunda nerede gösterilir?",
-        "cevap": "Finansal İşlemler Kâr/Zararı altında 'Kambiyo İşlemleri Kârı/Zararı' kaleminde net veya brüt olarak izlenir."
+        "cevap": "Finansal İşlemler Kâr/Zararı altında 'Kambiyo İşlemleri Kârı/Zararı' kaleminde net veya brüt olarak izlenir.",
+        "q_end": 4.85,
+        "a_start": 8.15
       },
       {
         "kart": 56,
         "soru": "Bankalarda 'Menkul Değerler Değerleme Farkları' özkaynaklarda izlenebilir mi?",
-        "cevap": "Evet. Gerçeğe uygun değer farkı özkaynaklara yansıtılan finansal varlıkların değerleme farkları Özkaynaklar altında izlenir."
+        "cevap": "Evet. Gerçeğe uygun değer farkı özkaynaklara yansıtılan finansal varlıkların değerleme farkları Özkaynaklar altında izlenir.",
+        "q_end": 5.11,
+        "a_start": 8.41
       },
       {
         "kart": 57,
         "soru": "Mevduat Reeskontu pasifte nasıl izlenir?",
-        "cevap": "Vadeli mevduatların bilanço gününe kadar işleyen ancak henüz ödenmeyen faizleri pasifte 'Mevduat Faiz Reeskontu' hesabında borç olarak tutulur."
+        "cevap": "Vadeli mevduatların bilanço gününe kadar işleyen ancak henüz ödenmeyen faizleri pasifte 'Mevduat Faiz Reeskontu' hesabında borç olarak tutulur.",
+        "q_end": 3.38,
+        "a_start": 6.68
       },
       {
         "kart": 58,
         "soru": "Kredi Reeskontu aktifte nasıl izlenir?",
-        "cevap": "Kredilerin bilanço gününe kadar işleyen ancak henüz tahsil edilmeyen faizleri aktifte 'Kredi Faiz Reeskontu' hesabında alacak olarak tutulur."
+        "cevap": "Kredilerin bilanço gününe kadar işleyen ancak henüz tahsil edilmeyen faizleri aktifte 'Kredi Faiz Reeskontu' hesabında alacak olarak tutulur.",
+        "q_end": 3.26,
+        "a_start": 6.56
       },
       {
         "kart": 59,
         "soru": "Bankaların 'Kanuni Yedek Akçe' ayırma zorunluluğu Türk Ticaret Kanunu uyarınca nasıldır?",
-        "cevap": "Dönem net kârının %5'i ödenmiş sermayenin %20'sine ulaşıncaya kadar I. Tertip Kanuni Yedek Akçe olarak ayrılır."
+        "cevap": "Dönem net kârının %5'i ödenmiş sermayenin %20'sine ulaşıncaya kadar I. Tertip Kanuni Yedek Akçe olarak ayrılır.",
+        "q_end": 6.19,
+        "a_start": 9.49
       },
       {
         "kart": 60,
         "soru": "II. Tertip Kanuni Yedek Akçe ne zaman ayrılır?",
-        "cevap": "Ortaklara %5 kâr payı dağıtıldıktan sonra dağıtılması kararlaştırılan tutarın %10'u II. Tertip Kanuni Yedek Akçe olarak ayrılır."
+        "cevap": "Ortaklara %5 kâr payı dağıtıldıktan sonra dağıtılması kararlaştırılan tutarın %10'u II. Tertip Kanuni Yedek Akçe olarak ayrılır.",
+        "q_end": 3.94,
+        "a_start": 7.24
       },
       {
         "kart": 61,
         "soru": "Geçmiş Yıllar Kârları sermayeye eklenebilir mi?",
-        "cevap": "Evet. Genel Kurul kararıyla geçmiş yıl kârları sermayeye eklenerek bedelsiz sermaye artırımı yapılabilir."
+        "cevap": "Evet. Genel Kurul kararıyla geçmiş yıl kârları sermayeye eklenerek bedelsiz sermaye artırımı yapılabilir.",
+        "q_end": 3.55,
+        "a_start": 6.85
       },
       {
         "kart": 62,
         "soru": "Banka Maddi Duran Varlıklarında 'Yeniden Değerleme' yapılması durumunda fon nerede izlenir?",
-        "cevap": "Değer artış tutarı Özkaynaklar altında 'Yeniden Değerleme Değer Artış Fonu' hesabında izlenir."
+        "cevap": "Değer artış tutarı Özkaynaklar altında 'Yeniden Değerleme Değer Artış Fonu' hesabında izlenir.",
+        "q_end": 6.22,
+        "a_start": 9.52
       },
       {
         "kart": 63,
         "soru": "Maddi Olmayan Duran Varlıklar (Yazılım, Lisans, Şerefiye) nasıl amorti edilir?",
-        "cevap": "Faydalı ömürleri boyunca itfa (amortisman) payı ayrılarak gider yazılır."
+        "cevap": "Faydalı ömürleri boyunca itfa (amortisman) payı ayrılarak gider yazılır.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 64,
         "soru": "Gelecek Yıllara Ait Giderler (180/280) hesabı aktifte nasıl çalışır?",
-        "cevap": "Peşin ödenen ancak gelecek dönemlere ait olan sigorta, kira vb. giderlerin aktifte bekletilip dönemi geldikçe gider yazılmasıdır."
+        "cevap": "Peşin ödenen ancak gelecek dönemlere ait olan sigorta, kira vb. giderlerin aktifte bekletilip dönemi geldikçe gider yazılmasıdır.",
+        "q_end": 6.34,
+        "a_start": 9.64
       },
       {
         "kart": 65,
