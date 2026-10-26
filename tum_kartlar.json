@@ -3254,12 +3254,16 @@
       {
         "kart": 1,
         "soru": "5411 sayılı Bankacılık Kanunu Madde 48 uyarınca bankacılıkta 'Kredi' sayılan temel işlemler nelerdir?",
-        "cevap": "Nakit krediler, gayrinakdi krediler (teminat mektubu, akreditif, kabul/aval), satın alınan senetler, depoda tutulan varlıklar, ters repo işlemleri ve tazmin edilen gayrinakdi krediler kanunen kredi sayılır."
+        "cevap": "Nakit krediler, gayrinakdi krediler (teminat mektubu, akreditif, kabul/aval), satın alınan senetler, depoda tutulan varlıklar, ters repo işlemleri ve tazmin edilen gayrinakdi krediler kanunen kredi sayılır.",
+        "q_end": 8.18,
+        "a_start": 11.48
       },
       {
         "kart": 2,
         "soru": "5411 sayılı Kanun Madde 50 uyarınca banka yönetim kurulu üyeleri, denetçiler ve çalışanlarına kredi verilmesi yasağının istisnası nedir?",
-        "cevap": "Kendi aylık net ücretlerinin toplam tutarını aşmamak kaydıyla konut, taşıt veya tüketici kredisi verilmesi bu yasağın dışındadır."
+        "cevap": "Kendi aylık net ücretlerinin toplam tutarını aşmamak kaydıyla konut, taşıt veya tüketici kredisi verilmesi bu yasağın dışındadır.",
+        "q_end": 10.01,
+        "a_start": 13.31
       },
       {
         "kart": 3,
