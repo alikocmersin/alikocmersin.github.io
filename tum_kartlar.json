@@ -702,12 +702,16 @@
       {
         "kart": 1,
         "soru": "Mevduat hesaplarında zamanaşımı süresi kaç yıldır ve ne zaman başlar?",
-        "cevap": "Zamanaşımı süresi 10 yıldır. Hak sahibinin en son talebinden, işleminden veya yazılı talimatından itibaren başlar."
+        "cevap": "Zamanaşımı süresi 10 yıldır. Hak sahibinin en son talebinden, işleminden veya yazılı talimatından itibaren başlar.",
+        "q_end": 4.9,
+        "a_start": 8.2
       },
       {
         "kart": 2,
         "soru": "5411 sayılı Kanun Madde 62 gereğince zamanaşımına uğrayan mevduat nereye devredilir?",
-        "cevap": "Tasarruf Mevduatı Sigorta Fonu’na (TMSF) devredilir."
+        "cevap": "Tasarruf Mevduatı Sigorta Fonu’na (TMSF) devredilir.",
+        "q_end": 7.51,
+        "a_start": 10.81
       },
       {
         "kart": 3,
