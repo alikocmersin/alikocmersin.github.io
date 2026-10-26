@@ -1424,102 +1424,142 @@
       {
         "kart": 23,
         "soru": "Nitelikli Yatırımcı kimdir?",
-        "cevap": "SPK düzenlemelerine göre belirli bir finansal varlık büyüklüğüne (örneğin 1 Milyon TL üzeri varlık) sahip profesyonel yatırımcılardır."
+        "cevap": "SPK düzenlemelerine göre belirli bir finansal varlık büyüklüğüne (örneğin 1 Milyon TL üzeri varlık) sahip profesyonel yatırımcılardır.",
+        "q_end": 2.57,
+        "a_start": 5.87
       },
       {
         "kart": 24,
         "soru": "Sermaye Piyasası Kurulu (SPK) temel amacı nedir?",
-        "cevap": "Sermaye piyasasının güvenli, şeffaf, etkin ve adil işlemesini sağlamak, yatırımcı haklarını korumaktır."
+        "cevap": "Sermaye piyasasının güvenli, şeffaf, etkin ve adil işlemesini sağlamak, yatırımcı haklarını korumaktır.",
+        "q_end": 4.1,
+        "a_start": 7.4
       },
       {
         "kart": 25,
         "soru": "Hazine İhalelerine 'Piyasa Yapıcısı' (PY) banka olmanın avantajı nedir?",
-        "cevap": "Hazine ihraçlarında rekabetçi olmayan teklif (ROT) verme ve ihale dışı alım hakkına sahip olmaktır."
+        "cevap": "Hazine ihraçlarında rekabetçi olmayan teklif (ROT) verme ve ihale dışı alım hakkına sahip olmaktır.",
+        "q_end": 5.42,
+        "a_start": 8.72
       },
       {
         "kart": 26,
         "soru": "Varlık Kiralama Şirketi (VKŞ) nedir?",
-        "cevap": "Kira sertifikası (sukuk) ihraç etmek amacıyla münhasıran kurulan özel bünyeli anonim şirkettir."
+        "cevap": "Kira sertifikası (sukuk) ihraç etmek amacıyla münhasıran kurulan özel bünyeli anonim şirkettir.",
+        "q_end": 3.62,
+        "a_start": 6.92
       },
       {
         "kart": 27,
         "soru": "Bono ihraçlarında vade sınırı nedir?",
-        "cevap": "Hazine bonolarında 1 yıldan az; özel sektör bonolarında 30 günden az, 365 günden fazla olamaz."
+        "cevap": "Hazine bonolarında 1 yıldan az; özel sektör bonolarında 30 günden az, 365 günden fazla olamaz.",
+        "q_end": 3.22,
+        "a_start": 6.52
       },
       {
         "kart": 28,
         "soru": "TÜFE'ye Endeksli Devlet Tahvili ne sağlar?",
-        "cevap": "Anapara ve kupon ödemelerinin enflasyona (TÜFE) göre güncellenerek reel getirinin korunmasını sağlar."
+        "cevap": "Anapara ve kupon ödemelerinin enflasyona (TÜFE) göre güncellenerek reel getirinin korunmasını sağlar.",
+        "q_end": 3.43,
+        "a_start": 6.73
       },
       {
         "kart": 29,
         "soru": "Opsiyon Primi (Option Premium) nedir?",
-        "cevap": "Opsiyon alıcısının, opsiyon hakkını satın almak için opsiyon satıcısına ödediği ücrettir."
+        "cevap": "Opsiyon alıcısının, opsiyon hakkını satın almak için opsiyon satıcısına ödediği ücrettir.",
+        "q_end": 3.48,
+        "a_start": 6.78
       },
       {
         "kart": 30,
         "soru": "Açık Piyasa İşlemleri (APİ) kim tarafından yürütülür?",
-        "cevap": "Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından piyasa likiditesini düzenlemek amacıyla yürütülür."
+        "cevap": "Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından piyasa likiditesini düzenlemek amacıyla yürütülür.",
+        "q_end": 4.2,
+        "a_start": 7.5
       },
       {
         "kart": 31,
         "soru": "Repo Piyasasında 'Ters Repo' yapan taraf faiz kazanır mı?",
-        "cevap": "Evet. Ters repo yapan taraf nakit verdiği için vade sonunda faiz kazanır."
+        "cevap": "Evet. Ters repo yapan taraf nakit verdiği için vade sonunda faiz kazanır.",
+        "q_end": 4.25,
+        "a_start": 7.55
       },
       {
         "kart": 32,
         "soru": "Hisse senetlerinde 'Rüçhan Hakkı' nedir?",
-        "cevap": "Mevcut ortakların, şirketin sermaye artırımına öncelikle katılma hakkıdır."
+        "cevap": "Mevcut ortakların, şirketin sermaye artırımına öncelikle katılma hakkıdır.",
+        "q_end": 3.24,
+        "a_start": 6.54
       },
       {
         "kart": 33,
         "soru": "Temettü (Kâr Payı) nedir?",
-        "cevap": "Şirketlerin elde ettikleri net kârın ortaklarına hisseleri oranında dağıtılmasıdır."
+        "cevap": "Şirketlerin elde ettikleri net kârın ortaklarına hisseleri oranında dağıtılmasıdır.",
+        "q_end": 2.52,
+        "a_start": 5.82
       },
       {
         "kart": 34,
         "soru": "BIST 100 Endeksi nedir?",
-        "cevap": "Pay Piyasası'nda işlem gören hacmi ve piyasa değeri en yüksek 100 hisse senedinin performans endeksidir."
+        "cevap": "Pay Piyasası'nda işlem gören hacmi ve piyasa değeri en yüksek 100 hisse senedinin performans endeksidir.",
+        "q_end": 2.5,
+        "a_start": 5.8
       },
       {
         "kart": 35,
         "soru": "VİOP'ta 'Sözleşme Büyüklüğü' ne demektir?",
-        "cevap": "Bir vadeli işlem sözleşmesinin temsil ettiği dayanak varlık miktarıdır."
+        "cevap": "Bir vadeli işlem sözleşmesinin temsil ettiği dayanak varlık miktarıdır.",
+        "q_end": 3.29,
+        "a_start": 6.59
       },
       {
         "kart": 36,
         "soru": "Eurobond'larda stopaj oranı genel olarak yüzde kaçtır?",
-        "cevap": "Devlet Eurobond ihraçlarında bireysel yatırımcılar için kupon gelirlerinde stopaj oranı %0'dır."
+        "cevap": "Devlet Eurobond ihraçlarında bireysel yatırımcılar için kupon gelirlerinde stopaj oranı %0'dır.",
+        "q_end": 4.08,
+        "a_start": 7.38
       },
       {
         "kart": 37,
         "soru": "Serbest Yatırım Fonu kimlere satılabilir?",
-        "cevap": "Yalnızca Nitelikli Yatırımcılara satılabilen fon türüdür."
+        "cevap": "Yalnızca Nitelikli Yatırımcılara satılabilen fon türüdür.",
+        "q_end": 3.26,
+        "a_start": 6.56
       },
       {
         "kart": 38,
         "soru": "Borsa İstanbul Borçlanma Araçları Piyasası (BAP) pazarları nelerdir?",
-        "cevap": "Kesin Alım Satım Pazarı, Repo-Ters Repo Pazarı, Nitelikli Yatırımcıya İhraç Pazarı."
+        "cevap": "Kesin Alım Satım Pazarı, Repo-Ters Repo Pazarı, Nitelikli Yatırımcıya İhraç Pazarı.",
+        "q_end": 4.94,
+        "a_start": 8.24
       },
       {
         "kart": 39,
         "soru": "İç Verim Oranı (IRR) finansal analizde neyi gösterir?",
-        "cevap": "Yatırımın nakit girişlerinin bugünkü değerini nakit çıkışlarına eşitleyen iskonto oranıdır."
+        "cevap": "Yatırımın nakit girişlerinin bugünkü değerini nakit çıkışlarına eşitleyen iskonto oranıdır.",
+        "q_end": 4.34,
+        "a_start": 7.64
       },
       {
         "kart": 40,
         "soru": "Döviz Kuru riskinden korunmak amacıyla yapılan işleme ne ad verilir?",
-        "cevap": "Hedging (Riske karşı korunma) işlemi ad verilir."
+        "cevap": "Hedging (Riske karşı korunma) işlemi ad verilir.",
+        "q_end": 4.75,
+        "a_start": 8.05
       },
       {
         "kart": 41,
         "soru": "Valör (İşlem Valörü) ne demektir?",
-        "cevap": "İşlemin yapıldığı tarih ile tutarın hesaba geçtiği veya faizin işlemeye başladığı tarih arasındaki farktır."
+        "cevap": "İşlemin yapıldığı tarih ile tutarın hesaba geçtiği veya faizin işlemeye başladığı tarih arasındaki farktır.",
+        "q_end": 3.02,
+        "a_start": 6.32
       },
       {
         "kart": 42,
         "soru": "Tezgahüstü türev işlemlerde 'ISDA Sözleşmesi' nedir?",
-        "cevap": "Uluslararası Türev Araçlar ve Swap Kurumu tarafından hazırlanan, tezgahüstü türev işlemlerde kullanılan çerçeve sözleşmedir."
+        "cevap": "Uluslararası Türev Araçlar ve Swap Kurumu tarafından hazırlanan, tezgahüstü türev işlemlerde kullanılan çerçeve sözleşmedir.",
+        "q_end": 4.18,
+        "a_start": 7.48
       },
       {
         "kart": 43,
