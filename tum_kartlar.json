@@ -2272,102 +2272,142 @@
       {
         "kart": 63,
         "soru": "Konut Finansmanında 'Ekspertiz Şirketinin' niteliği ne olmalıdır?",
-        "cevap": "SPK veya BDDK tarafından gayrimenkul değerleme lisansı verilmiş bağımsız değerleme kuruluşu olmalıdır."
+        "cevap": "SPK veya BDDK tarafından gayrimenkul değerleme lisansı verilmiş bağımsız değerleme kuruluşu olmalıdır.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 64,
         "soru": "Taşıt Kredilerinde kasko sigortasında 'Zeyilname' ne zaman düzenlenir?",
-        "cevap": "Poliçe şartlarında, araç plakasında veya teminat tutarında değişiklik olduğunda düzenlenir."
+        "cevap": "Poliçe şartlarında, araç plakasında veya teminat tutarında değişiklik olduğunda düzenlenir.",
+        "q_end": 5.16,
+        "a_start": 8.46
       },
       {
         "kart": 65,
         "soru": "KMH Hesabının kapatılması talebi müşteriden nasıl alınır?",
-        "cevap": "Müşterinin yazılı talebi veya dijital onayıyla KMH borcu sıfırlandıktan sonra hesap kapatılır."
+        "cevap": "Müşterinin yazılı talebi veya dijital onayıyla KMH borcu sıfırlandıktan sonra hesap kapatılır.",
+        "q_end": 4.37,
+        "a_start": 7.67
       },
       {
         "kart": 66,
         "soru": "Bireysel Kredilerde 'Müşterek Borçlu ve Müteselsil Kefil' olan kişinin hakları borçluyla aynı mıdır?",
-        "cevap": "Evet. Müteselsil kefil borçluyla aynı derecede sorumludur ve tüm bildirimler kendisine de yapılır."
+        "cevap": "Evet. Müteselsil kefil borçluyla aynı derecede sorumludur ve tüm bildirimler kendisine de yapılır.",
+        "q_end": 7.08,
+        "a_start": 10.38
       },
       {
         "kart": 67,
         "soru": "Bireysel Kredilerde 'Kredi Kapama Dekontu' ücrete tabi midir?",
-        "cevap": "Kredi borcu kapandığında verilen borcu yoktur yazısı ve kapama dekontu KANUNEN ÜCRETSİZDİR."
+        "cevap": "Kredi borcu kapandığında verilen borcu yoktur yazısı ve kapama dekontu KANUNEN ÜCRETSİZDİR.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 68,
         "soru": "Tüketici Kredilerinde 'Gecikme Bildirimi' SMS mesajı ücretlendirilebilir mi?",
-        "cevap": "Tüketiciye yapılan yasal gecikme uyarı bildirimlerinden ekstra ücret talep edilemez."
+        "cevap": "Tüketiciye yapılan yasal gecikme uyarı bildirimlerinden ekstra ücret talep edilemez.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 69,
         "soru": "Konut Kredisi ile alınan gayrimenkulün üçüncü şahsa satılması durumunda kredi devredilebilir mi?",
-        "cevap": "Bankanın onayı ve yeni alıcının kredibilitesinin uygun bulunması şartıyla kredi borcu devredilebilir."
+        "cevap": "Bankanın onayı ve yeni alıcının kredibilitesinin uygun bulunması şartıyla kredi borcu devredilebilir.",
+        "q_end": 6.14,
+        "a_start": 9.44
       },
       {
         "kart": 70,
         "soru": "Taşıt Kredisinde 'Yedek Anahtar' bankada saklanır mı?",
-        "cevap": "Hayır. Taşıt kredilerinde aracın yedek anahtarı ruhsat sahibi müşteride kalır; teminat e-rehinle sağlanır."
+        "cevap": "Hayır. Taşıt kredilerinde aracın yedek anahtarı ruhsat sahibi müşteride kalır; teminat e-rehinle sağlanır.",
+        "q_end": 3.91,
+        "a_start": 7.21
       },
       {
         "kart": 71,
         "soru": "Bireysel Kredilerde 'Yapılandırma Kredisi' kullandırıldığında KKB skoru nasıl etkilenir?",
-        "cevap": "Kredi yapılandırma kaydı KKB sistemine yansır ve finansal kurumlarca risk değerlendirmesinde dikkate alınır."
+        "cevap": "Kredi yapılandırma kaydı KKB sistemine yansır ve finansal kurumlarca risk değerlendirmesinde dikkate alınır.",
+        "q_end": 6.38,
+        "a_start": 9.68
       },
       {
         "kart": 72,
         "soru": "DASK Poliçesi adres bilgisi Tapu kayıtlarıyla uyuşmazsa ne yapılır?",
-        "cevap": "DASK poliçesinde tapu mahalle, ada, parsel ve bağımsız bölüm numaralarının birebir uyuşması şarttır; uyuşmazsa zeyil yapılır."
+        "cevap": "DASK poliçesinde tapu mahalle, ada, parsel ve bağımsız bölüm numaralarının birebir uyuşması şarttır; uyuşmazsa zeyil yapılır.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 73,
         "soru": "Bireysel Emeklilik Sisteminde (BES) emeklilik haricinde sistemden ayrılma (Ayrılma / İştira) durumunda ne kesilir?",
-        "cevap": "Sistemden erken ayrılanlardan devlet katkısı hakediş oranına göre kesinti ve neması üzerinden Gelir Vergisi (Stopaj) kesintisi yapılır."
+        "cevap": "Sistemden erken ayrılanlardan devlet katkısı hakediş oranına göre kesinti ve neması üzerinden Gelir Vergisi (Stopaj) kesintisi yapılır.",
+        "q_end": 7.66,
+        "a_start": 10.96
       },
       {
         "kart": 74,
         "soru": "BES'ten 10 yıl kalıp 56 yaşını doldurmadan ayrılan bir katılımcının elde ettiği irat (getiri) üzerinden kesilen stopaj oranı yüzde kaçtır?",
-        "cevap": "10 yıl kalıp 56 yaşını doldurmadan ayrılanlarda irat üzerinden %10 stopaj kesilir (Emekli olanlarda %5'tir)."
+        "cevap": "10 yıl kalıp 56 yaşını doldurmadan ayrılanlarda irat üzerinden %10 stopaj kesilir (Emekli olanlarda %5'tir).",
+        "q_end": 8.74,
+        "a_start": 12.04
       },
       {
         "kart": 75,
         "soru": "Otomatik Fatura Ödemelerinde fatura tutarının hatalı çekilmesi durumunda sorumluluk kımde olur?",
-        "cevap": "Fatura kurumunun sisteme hatalı bakiye iletmesi durumunda düzeltme ilgili kurum kanalıyla yapılır; banka altyapı transferini sağlar."
+        "cevap": "Fatura kurumunun sisteme hatalı bakiye iletmesi durumunda düzeltme ilgili kurum kanalıyla yapılır; banka altyapı transferini sağlar.",
+        "q_end": 5.93,
+        "a_start": 9.23
       },
       {
         "kart": 76,
         "soru": "Bireysel Kredilerde 'Kayıp/Çalıntı Sigortası' cüzdan çalınmasını kapsar mı?",
-        "cevap": "Poliçe şartlarına göre kartla birlikte çalınan cüzdan, kimlik yenileme ve nakit hırsızlığı teminatları sunulabilir."
+        "cevap": "Poliçe şartlarına göre kartla birlikte çalınan cüzdan, kimlik yenileme ve nakit hırsızlığı teminatları sunulabilir.",
+        "q_end": 5.35,
+        "a_start": 8.65
       },
       {
         "kart": 77,
         "soru": "Konut Finansmanı kredilerinde sabit faizli kredinin değişken faizli krediye dönüştürülmesi mümkün müdür?",
-        "cevap": "Tarafların karşılıklı mutabakatı ve sözleşme revizyonu ile mümkündür."
+        "cevap": "Tarafların karşılıklı mutabakatı ve sözleşme revizyonu ile mümkündür.",
+        "q_end": 7.27,
+        "a_start": 10.57
       },
       {
         "kart": 78,
         "soru": "Tüketici Kredisi cayma bildiriminde tüketicinin imza atması zorunlu mudur?",
-        "cevap": "Dilekçeyle başvuruda ıslak imza; mobil/internet bankacılığında ise güvenli dijital onay zorunludur."
+        "cevap": "Dilekçeyle başvuruda ıslak imza; mobil/internet bankacılığında ise güvenli dijital onay zorunludur.",
+        "q_end": 5.06,
+        "a_start": 8.36
       },
       {
         "kart": 79,
         "soru": "Bireysel Kredi taksitinde 'Anapara Tatili / Ödemesiz Dönem' ne demektir?",
-        "cevap": "Kredi başlangıcında belirli bir süre (örneğin 3 veya 6 ay) anapara ödemesinin ertelenip sadece faiz ödenmesi veya tamamen ödemesiz geçilmesidir."
+        "cevap": "Kredi başlangıcında belirli bir süre (örneğin 3 veya 6 ay) anapara ödemesinin ertelenip sadece faiz ödenmesi veya tamamen ödemesiz geçilmesidir.",
+        "q_end": 5.47,
+        "a_start": 8.77
       },
       {
         "kart": 80,
         "soru": "Taşıt Kredisinde kasko sigortası yenilenmezse banka ne yapabilir?",
-        "cevap": "Sözleşme hükmü uyarınca banka müşteri adına kasko poliçesini re'sen yenileyip prim tutarını müşteri hesabına borç kaydedebilir."
+        "cevap": "Sözleşme hükmü uyarınca banka müşteri adına kasko poliçesini re'sen yenileyip prim tutarını müşteri hesabına borç kaydedebilir.",
+        "q_end": 4.85,
+        "a_start": 8.15
       },
       {
         "kart": 81,
         "soru": "Konut Kredisi kullanan tüketicinin bina deprem hasarında DASK tazminatı kime ödenir?",
-        "cevap": "Dain-i mürtehin sıfatıyla öncelikle krediyi veren Bankaya ödenir; kalan bakiye konut sahibine aktarılır."
+        "cevap": "Dain-i mürtehin sıfatıyla öncelikle krediyi veren Bankaya ödenir; kalan bakiye konut sahibine aktarılır.",
+        "q_end": 6.07,
+        "a_start": 9.37
       },
       {
         "kart": 82,
         "soru": "Tüketici Kredilerinde 'Hayat Sigortası İptali' müşteri talebiyle yapılabilir mi?",
-        "cevap": "Tüketici dilerse sigortayı iptal ettirebilir; ancak banka kredi riskine karşılık yeni bir teminat veya kalıcı veri saklayıcısı onayı talep edebilir."
+        "cevap": "Tüketici dilerse sigortayı iptal ettirebilir; ancak banka kredi riskine karşılık yeni bir teminat veya kalıcı veri saklayıcısı onayı talep edebilir.",
+        "q_end": 5.16,
+        "a_start": 8.46
       },
       {
         "kart": 83,
