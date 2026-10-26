@@ -996,102 +996,142 @@
       {
         "kart": 43,
         "soru": "Reşit olmayan küçüklerin adına mevduat hesabı kim tarafından açılabilir?",
-        "cevap": "Kanuni temsilcileri (veli veya vasisi) tarafından açılabilir."
+        "cevap": "Kanuni temsilcileri (veli veya vasisi) tarafından açılabilir.",
+        "q_end": 5.11,
+        "a_start": 8.41
       },
       {
         "kart": 44,
         "soru": "Okuma yazma bilmeyenlerin banka hesap açılış ve işlem kuralı nedir?",
-        "cevap": "İki tanık huzurunda okutulup onaylatılarak parmak bastırılır veya noter onaylı imza sirküleriyle yapılır."
+        "cevap": "İki tanık huzurunda okutulup onaylatılarak parmak bastırılır veya noter onaylı imza sirküleriyle yapılır.",
+        "q_end": 5.06,
+        "a_start": 8.36
       },
       {
         "kart": 45,
         "soru": "Kör ve görme engelli müşterilerin bankacılık işlemlerindeki kuralı nedir?",
-        "cevap": "Müşterinin talebi halinde tanık aranmaksızın tek başına imza atarak işlem yapma hakkı mevcuttur."
+        "cevap": "Müşterinin talebi halinde tanık aranmaksızın tek başına imza atarak işlem yapma hakkı mevcuttur.",
+        "q_end": 5.57,
+        "a_start": 8.87
       },
       {
         "kart": 46,
         "soru": "Sınırlı ehliyetsiz kişilerin mevduat tasarruf yetkisi nedir?",
-        "cevap": "Kendi kişisel çabasıyla kazandığı mallar ve serbest bırakılan mallar üzerinde tasarruf edebilirler."
+        "cevap": "Kendi kişisel çabasıyla kazandığı mallar ve serbest bırakılan mallar üzerinde tasarruf edebilirler.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 47,
         "soru": "Hükümlülerin banka hesabı üzerindeki tasarruf yetkisi kime geçer?",
-        "cevap": "1 yıldan fazla hapis cezası alan hükümlülere atanan Vasi tarafından yürütülür."
+        "cevap": "1 yıldan fazla hapis cezası alan hükümlülere atanan Vasi tarafından yürütülür.",
+        "q_end": 4.63,
+        "a_start": 7.93
       },
       {
         "kart": 48,
         "soru": "Vefat eden müşterinin hesabındaki paranın mirasçılara ödenme şartı nedir?",
-        "cevap": "Veraset İlamı (veya Noterlik Mirasçılık Belgesi) ve Veraset Vergisi Dairesi ilişiksiz belgesi ibrazıyla ödenir."
+        "cevap": "Veraset İlamı (veya Noterlik Mirasçılık Belgesi) ve Veraset Vergisi Dairesi ilişiksiz belgesi ibrazıyla ödenir.",
+        "q_end": 5.71,
+        "a_start": 9.01
       },
       {
         "kart": 49,
         "soru": "Kasa Anahtarı kaybolduğunda kiralık kasa kilit değiştirme masrafı kime aittir?",
-        "cevap": "Kasa kilit değiştirme ve yeni anahtar temin masrafı kiracı müşteriye aittir."
+        "cevap": "Kasa kilit değiştirme ve yeni anahtar temin masrafı kiracı müşteriye aittir.",
+        "q_end": 5.3,
+        "a_start": 8.6
       },
       {
         "kart": 50,
         "soru": "İflas eden müşterinin mevduat hesabı üzerindeki tasarruf yetkisi kime geçer?",
-        "cevap": "İflasın açılmasıyla tasarruf yetkisi İflas Masasına geçer."
+        "cevap": "İflasın açılmasıyla tasarruf yetkisi İflas Masasına geçer.",
+        "q_end": 5.35,
+        "a_start": 8.65
       },
       {
         "kart": 51,
         "soru": "Mevduat Hesabı üzerine haciz müzekkeresi geldiğinde banka ne yapmakla yükümlüdür?",
-        "cevap": "İcra dairesinden gelen haciz müzekkeresi uyarınca müşterinin hesabına belirtilen tutarda derhal bloke koymak ve bildirmekle yükümlüdür."
+        "cevap": "İcra dairesinden gelen haciz müzekkeresi uyarınca müşterinin hesabına belirtilen tutarda derhal bloke koymak ve bildirmekle yükümlüdür.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 52,
         "soru": "Hesap açılışında müşteriden alınan 'İmza Beyannamesi' ne amaçla saklanır?",
-        "cevap": "Müşterinin sonraki talimatlarındaki imza tatbikatını doğrulayarak sahtecilik ve yetkisiz işlemleri önlemek amacıyla saklanır."
+        "cevap": "Müşterinin sonraki talimatlarındaki imza tatbikatını doğrulayarak sahtecilik ve yetkisiz işlemleri önlemek amacıyla saklanır.",
+        "q_end": 5.14,
+        "a_start": 8.44
       },
       {
         "kart": 53,
         "soru": "Vadesiz Döviz Tevdiat Hesaplarına (DTH) faiz işletilir mi?",
-        "cevap": "Kural olarak vadesiz DTH hesaplarına faiz işletilmez; vadeli DTH hesaplarında faiz uygulanır."
+        "cevap": "Kural olarak vadesiz DTH hesaplarına faiz işletilmez; vadeli DTH hesaplarında faiz uygulanır.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 54,
         "soru": "Mevduat Faiz oranları serbestçe belirlenebilir mi?",
-        "cevap": "Bankalar mevduat faiz oranlarını TCMB düzenlemeleri ve piyasa koşulları çerçevesinde serbestçe belirler ve ilan ederler."
+        "cevap": "Bankalar mevduat faiz oranlarını TCMB düzenlemeleri ve piyasa koşulları çerçevesinde serbestçe belirler ve ilan ederler.",
+        "q_end": 3.84,
+        "a_start": 7.14
       },
       {
         "kart": 55,
         "soru": "Kiralık kasa kiralayan müşterinin kasadaki kıymetleri sigortalanır mı?",
-        "cevap": "Kiralık kasadaki içerik kural olarak bankanın genel sigortasına dahil değildir; müşteri kendi adına özel kasa sigortası yaptırabilir."
+        "cevap": "Kiralık kasadaki içerik kural olarak bankanın genel sigortasına dahil değildir; müşteri kendi adına özel kasa sigortası yaptırabilir.",
+        "q_end": 4.75,
+        "a_start": 8.05
       },
       {
         "kart": 56,
         "soru": "Bankacılıkta 'Valör' kavramı mevduat yatırma ve çekme işlemlerinde nasıl uygulanır?",
-        "cevap": "Mevduat yatırıldığında faiz işlemeye başladığı gün; para çekildiğinde ise faizin kesildiği gündür."
+        "cevap": "Mevduat yatırıldığında faiz işlemeye başladığı gün; para çekildiğinde ise faizin kesildiği gündür.",
+        "q_end": 5.45,
+        "a_start": 8.75
       },
       {
         "kart": 57,
         "soru": "TCMB Zorunlu Karşılıklar düzenlemesi mevduatı nasıl etkiler?",
-        "cevap": "Bankalar topladıkları mevduatların belirli bir yüzdesini TCMB nezdinde zorunlu karşılık olarak tutmak zorundadır."
+        "cevap": "Bankalar topladıkları mevduatların belirli bir yüzdesini TCMB nezdinde zorunlu karşılık olarak tutmak zorundadır.",
+        "q_end": 4.75,
+        "a_start": 8.05
       },
       {
         "kart": 58,
         "soru": "Yabancı Para Mevduatlarda 'Kur Farkı' gelirleri vergilendirmeye tabi midir?",
-        "cevap": "Bireysel müşterilerde kur farkları gelir vergisi stopajına tabi tutulur veya mevzuat şartlarına göre vergilendirilir."
+        "cevap": "Bireysel müşterilerde kur farkları gelir vergisi stopajına tabi tutulur veya mevzuat şartlarına göre vergilendirilir.",
+        "q_end": 5.45,
+        "a_start": 8.75
       },
       {
         "kart": 59,
         "soru": "Mevduat Hesabına yanlışlıkla aktarılan parayı çeken müşterinin hukuki durumu nedir?",
-        "cevap": "Sebepsiz zenginleşme hükümlerine göre parayı iade etmekle yükümlüdür."
+        "cevap": "Sebepsiz zenginleşme hükümlerine göre parayı iade etmekle yükümlüdür.",
+        "q_end": 5.98,
+        "a_start": 9.28
       },
       {
         "kart": 60,
         "soru": "Tasarruf Mevduatının tanımı nedir?",
-        "cevap": "Gerçek kişiler tarafından açılan ve ticari işlemlere konu olmayan mevduat hesaplarıdır."
+        "cevap": "Gerçek kişiler tarafından açılan ve ticari işlemlere konu olmayan mevduat hesaplarıdır.",
+        "q_end": 2.95,
+        "a_start": 6.25
       },
       {
         "kart": 61,
         "soru": "Mevduat Cüzdanının kaybolması durumunda müşteriye yeni cüzdan nasıl verilir?",
-        "cevap": "Müşterinin yazılı talebi ve kimlik doğrulaması üzerine eski cüzdan iptal edilerek yenisi verilir."
+        "cevap": "Müşterinin yazılı talebi ve kimlik doğrulaması üzerine eski cüzdan iptal edilerek yenisi verilir.",
+        "q_end": 5.45,
+        "a_start": 8.75
       },
       {
         "kart": 62,
         "soru": "Kasalarda bulunan kilit mekanizmasında kaç anahtar bulunur ve kimlerde durur?",
-        "cevap": "Kiralık kasalarda iki anahtar bulunur; biri bankada, diğeri müşteride durur; ikisi birleşmeden kasa açılamaz."
+        "cevap": "Kiralık kasalarda iki anahtar bulunur; biri bankada, diğeri müşteride durur; ikisi birleşmeden kasa açılamaz.",
+        "q_end": 5.04,
+        "a_start": 8.34
       },
       {
         "kart": 63,
