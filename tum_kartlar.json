@@ -5104,102 +5104,142 @@
       {
         "kart": 75,
         "soru": "Gözetim Belgesi (Inspection Certificate) ne amaçla istenir?",
-        "cevap": "Malların yükleme öncesinde miktar, kalite ve standartlara uygunluğunun bağımsız gözetim şirketince (SGS vb.) denetlenmesidir."
+        "cevap": "Malların yükleme öncesinde miktar, kalite ve standartlara uygunluğunun bağımsız gözetim şirketince (SGS vb.) denetlenmesidir.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 76,
         "soru": "Çifte Vergilendirmeyi Önleme Anlaşmaları (ÇVÖA) dış ticarette ne sağlar?",
-        "cevap": "Aynı kazancın hem ihracat yapılan ülkede hem de yerleşik bulunulan ülkede iki kez vergilendirilmesini önler."
+        "cevap": "Aynı kazancın hem ihracat yapılan ülkede hem de yerleşik bulunulan ülkede iki kez vergilendirilmesini önler.",
+        "q_end": 5.59,
+        "a_start": 8.89
       },
       {
         "kart": 77,
         "soru": "Serbest Bölgede üretilen mal Türkiye'ye ithal edilirse gümrük rejimi nasıl uygulanır?",
-        "cevap": "Türkiye'ye ithalat rejimi hükümleri uygulanır, gümrük vergisi ve KDV tahsil edilir."
+        "cevap": "Türkiye'ye ithalat rejimi hükümleri uygulanır, gümrük vergisi ve KDV tahsil edilir.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 78,
         "soru": "Dış ticarette 'Transit Ticaret' nakit akışı ve gümrük kuralı nasıldır?",
-        "cevap": "Malın bir yabancı ülkeden alınıp gümrük hattı geçirilmeksizin veya serbest bölgeden geçirilerek başka bir yabancı ülkeye satılmasıdır (KDV ve Gümrükten muaftır)."
+        "cevap": "Malın bir yabancı ülkeden alınıp gümrük hattı geçirilmeksizin veya serbest bölgeden geçirilerek başka bir yabancı ülkeye satılmasıdır (KDV ve Gümrükten muaftır).",
+        "q_end": 5.02,
+        "a_start": 8.32
       },
       {
         "kart": 79,
         "soru": "Dış Ticaret Finansmanında 'İhracat İskonto Kredisi' nedir?",
-        "cevap": "İhracatçının akreditifli veya vesaik mukabili vadeli alacaklarının bankaca vade öncesinde iskonto edilerek ödenmesidir."
+        "cevap": "İhracatçının akreditifli veya vesaik mukabili vadeli alacaklarının bankaca vade öncesinde iskonto edilerek ödenmesidir.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 80,
         "soru": "Tedarikçi Finansmanı (Reverse Factoring) sisteminde borcun vadesinde ödenmemesi durumunda risk kime aittir?",
-        "cevap": "Tedarikçi finansmanı alıcı firmanın kredisini kullandığı için borç ödenmeme riski ANA ALICI FİRMAYA aittir."
+        "cevap": "Tedarikçi finansmanı alıcı firmanın kredisini kullandığı için borç ödenmeme riski ANA ALICI FİRMAYA aittir.",
+        "q_end": 7.18,
+        "a_start": 10.48
       },
       {
         "kart": 81,
         "soru": "Nakit Yönetimi 'Süpürme (Sweeping)' işleminde faiz geliri kime ait olur?",
-        "cevap": "Gece bakiyelerin toplandığı ana hesabın sahibine ait olur."
+        "cevap": "Gece bakiyelerin toplandığı ana hesabın sahibine ait olur.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 82,
         "soru": "DBS sisteminde fatura iptali nasıl yapılır?",
-        "cevap": "Ana firma tarafından fatura vadesinden önce sisteme iptal dosyası yüklenerek yapılabilir."
+        "cevap": "Ana firma tarafından fatura vadesinden önce sisteme iptal dosyası yüklenerek yapılabilir.",
+        "q_end": 3.67,
+        "a_start": 6.97
       },
       {
         "kart": 83,
         "soru": "Akreditifte 'Rotatif Akreditif Miktar Bazlı mı Tutar Bazlı mı' olabilir?",
-        "cevap": "Her ikisi de mümkündür; belirli bir sevkıyat miktarı veya tutarı tamamlandığında yenilenebilir."
+        "cevap": "Her ikisi de mümkündür; belirli bir sevkıyat miktarı veya tutarı tamamlandığında yenilenebilir.",
+        "q_end": 4.75,
+        "a_start": 8.05
       },
       {
         "kart": 84,
         "soru": "Akreditifte 'Poliçe Kabulü' yapan bankanın taahhüdü nedir?",
-        "cevap": "Poliçeyi kabul eden (imzalayan) banka, vadesinde borcu kayıtsız şartsız ödemekle yükümlü asal borçlu haline gelir."
+        "cevap": "Poliçeyi kabul eden (imzalayan) banka, vadesinde borcu kayıtsız şartsız ödemekle yükümlü asal borçlu haline gelir.",
+        "q_end": 4.06,
+        "a_start": 7.36
       },
       {
         "kart": 85,
         "soru": "SWIFT sisteminde 'MT199 / MT299' mesajları ne için kullanılır?",
-        "cevap": "Bankalararası serbest metinli bilgi, teyit ve haberleşme mesajlarıdır."
+        "cevap": "Bankalararası serbest metinli bilgi, teyit ve haberleşme mesajlarıdır.",
+        "q_end": 6.65,
+        "a_start": 9.95
       },
       {
         "kart": 86,
         "soru": "İhracat Bedeli Transferinde 'Farklı İsimden Gelen Döviz' kabul edilir mi?",
-        "cevap": "İhracatçı beyanı ve tevsik edici belgeler (sözleşme/fatura) ibraz edilmek kaydıyla kabul edilebilir."
+        "cevap": "İhracatçı beyanı ve tevsik edici belgeler (sözleşme/fatura) ibraz edilmek kaydıyla kabul edilebilir.",
+        "q_end": 4.92,
+        "a_start": 8.22
       },
       {
         "kart": 87,
         "soru": "Peşin İthalatta kapatılmayan transferler için bankanın bildirim yükümlülüğü nedir?",
-        "cevap": "2 yıllık süre sonunda kapatılmayan peşin ithalat transferleri banka tarafından ilgili Vergi Dairesine bildirilir."
+        "cevap": "2 yıllık süre sonunda kapatılmayan peşin ithalat transferleri banka tarafından ilgili Vergi Dairesine bildirilir.",
+        "q_end": 5.9,
+        "a_start": 9.2
       },
       {
         "kart": 88,
         "soru": "Incoterms DPU kuralında malın indirilmesi sırasında oluşacak hasar riski kime aittir?",
-        "cevap": "Boşaltma sorumluluğu satıcıda olduğu için indirme anındaki hasar riski SATICIYA aittir."
+        "cevap": "Boşaltma sorumluluğu satıcıda olduğu için indirme anındaki hasar riski SATICIYA aittir.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 89,
         "soru": "Incoterms DAP (Delivered at Place) kuralında malın araçtan indirilmesi kime aittir?",
-        "cevap": "DAP kuralında mal araçtan İNDİRİLMEDEN teslim edilir; indirme sorumluluğu alıcıya aittir."
+        "cevap": "DAP kuralında mal araçtan İNDİRİLMEDEN teslim edilir; indirme sorumluluğu alıcıya aittir.",
+        "q_end": 5.69,
+        "a_start": 8.99
       },
       {
         "kart": 90,
         "soru": "Dış Ticarette 'Koli Listesi (Packing List)' ne işe yarar?",
-        "cevap": "Sevkiyatın kap, koli, ağırlık ve ebat detaylarını göstererek gümrük muayenesini kolaylaştırır."
+        "cevap": "Sevkiyatın kap, koli, ağırlık ve ebat detaylarını göstererek gümrük muayenesini kolaylaştırır.",
+        "q_end": 4.18,
+        "a_start": 7.48
       },
       {
         "kart": 91,
         "soru": "Gümrük Beyannamesinde 'Tescil Tarihi' neyi belirler?",
-        "cevap": "Gümrük işlemlerinin resmi olarak başladığı ve uygulanacak gümrük mevzuatı ile döviz kurunun sabitlendiği tarihtir."
+        "cevap": "Gümrük işlemlerinin resmi olarak başladığı ve uygulanacak gümrük mevzuatı ile döviz kurunun sabitlendiği tarihtir.",
+        "q_end": 3.94,
+        "a_start": 7.24
       },
       {
         "kart": 92,
         "soru": "Akreditifte 'Süre Uzatımı (Amandman)' yapılabilmesi için kimlerin onayı gerekir?",
-        "cevap": "Amir, amir banka, teyit bankası (varsa) ve lehtarın tamamının onaylaması gerekir."
+        "cevap": "Amir, amir banka, teyit bankası (varsa) ve lehtarın tamamının onaylaması gerekir.",
+        "q_end": 5.47,
+        "a_start": 8.77
       },
       {
         "kart": 93,
         "soru": "L/C (Letter of Credit) işleminde bankalar vesaiki incelerken malları fiziki kontrol eder mi?",
-        "cevap": "HAYIR. UCP 600 Madde 5 uyarınca bankalar belgelerle işlem yapar, mallarla veya hizmetlerle ilgilenmez."
+        "cevap": "HAYIR. UCP 600 Madde 5 uyarınca bankalar belgelerle işlem yapar, mallarla veya hizmetlerle ilgilenmez.",
+        "q_end": 6.96,
+        "a_start": 10.26
       },
       {
         "kart": 94,
         "soru": "Nakit Yönetiminde 'Elektronik Hesap Özeti (MT940)' ne sağlar?",
-        "cevap": "Şirketlerin banka hesap hareketlerinin ERP / SAP sistemlerine otomatik aktarılmasını sağlar."
+        "cevap": "Şirketlerin banka hesap hareketlerinin ERP / SAP sistemlerine otomatik aktarılmasını sağlar.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 95,
