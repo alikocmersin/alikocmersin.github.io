@@ -2980,102 +2980,142 @@
       {
         "kart": 63,
         "soru": "Kredi Kartı Borç Taksitlendirmesinde kanuni taksit sınırları dışına çıkılabilir mi?",
-        "cevap": "BDDK tarafından belirlenen sektör bazlı azami taksit sınırlarının dışına çıkılması kanunen yasaktır."
+        "cevap": "BDDK tarafından belirlenen sektör bazlı azami taksit sınırlarının dışına çıkılması kanunen yasaktır.",
+        "q_end": 5.57,
+        "a_start": 8.87
       },
       {
         "kart": 64,
         "soru": "Ödeme Hizmetlerinde 'Açık Bankacılık (Open Banking / PSD2)' nedir?",
-        "cevap": "Müşterinin rızasıyla farklı bankalardaki hesap ve kart bilgilerinin tek bir uygulama üzerinden yönetilmesini sağlayan API altyapısıdır."
+        "cevap": "Müşterinin rızasıyla farklı bankalardaki hesap ve kart bilgilerinin tek bir uygulama üzerinden yönetilmesini sağlayan API altyapısıdır.",
+        "q_end": 5.71,
+        "a_start": 9.01
       },
       {
         "kart": 65,
         "soru": "Kredi Kartı Şifresi (PIN) üst üste kaç kez hatalı girilirse kart bloke olur?",
-        "cevap": "Güvenlik kuralı olarak PIN şifresi üst üste 3 kez hatalı girildiğinde kart bloke edilir."
+        "cevap": "Güvenlik kuralı olarak PIN şifresi üst üste 3 kez hatalı girildiğinde kart bloke edilir.",
+        "q_end": 5.66,
+        "a_start": 8.96
       },
       {
         "kart": 66,
         "soru": "Temassız Kartlarda şifresiz işlem sayısı sınırı var mıdır?",
-        "cevap": "Güvenlik amacıyla şifresiz temassız işlemler ardı ardına yapıldığında belirli bir sayı veya toplam tutar sonrasında PIN şifresi girilmesi zorunlu kılınır."
+        "cevap": "Güvenlik amacıyla şifresiz temassız işlemler ardı ardına yapıldığında belirli bir sayı veya toplam tutar sonrasında PIN şifresi girilmesi zorunlu kılınır.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 67,
         "soru": "Banka Kartı (Debit Card) ile ATM'den para çekmede günlük limit aşıldığında ne uygulanır?",
-        "cevap": "Müşteri tanımlı ek limit veya komisyonlu ilave limit çekim seçeneğini onaylayarak çekim yapabilir."
+        "cevap": "Müşteri tanımlı ek limit veya komisyonlu ilave limit çekim seçeneğini onaylayarak çekim yapabilir.",
+        "q_end": 5.78,
+        "a_start": 9.08
       },
       {
         "kart": 68,
         "soru": "Kredi Kartı ekstresindeki 'Minimum Ödeme Tutarı' nasıl hesaplanır?",
-        "cevap": "BDDK tarafından belirlenen oranlarda (%20 veya %40) dönem borcunun yüzdesi olarak hesaplanır."
+        "cevap": "BDDK tarafından belirlenen oranlarda (%20 veya %40) dönem borcunun yüzdesi olarak hesaplanır.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 69,
         "soru": "Gecikmedeki Kredi Kartı borcu nedeniyle müşteriye noter ihtarnamesi ne zaman çekilir?",
-        "cevap": "Gecikme süresi 90 günü bulduğunda kanuni takip öncesi noter kanalıyla muacceliyet ihtarnamesi çekilir."
+        "cevap": "Gecikme süresi 90 günü bulduğunda kanuni takip öncesi noter kanalıyla muacceliyet ihtarnamesi çekilir.",
+        "q_end": 6.07,
+        "a_start": 9.37
       },
       {
         "kart": 70,
         "soru": "POS cihazında 'İptal' işlemi ile 'İade' işlemi arasındaki operasyonel fark nedir?",
-        "cevap": "İptal: İşlemin yapıldığı gün gün sonu yapılmadan önce işlemin tamamen silinmesidir. İade: Gün sonu yapıldıktan sonra tutarın karta geri aktarılmasıdır."
+        "cevap": "İptal: İşlemin yapıldığı gün gün sonu yapılmadan önce işlemin tamamen silinmesidir. İade: Gün sonu yapıldıktan sonra tutarın karta geri aktarılmasıdır.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 71,
         "soru": "Üye işyerinin 'Sanal POS' başvurusunda bankanın aradığı güvenlik sertifikası nedir?",
-        "cevap": "SSL güvenlik sertifikası ve PCI-DSS (Payment Card Industry Data Security Standard) uyumluluğudur."
+        "cevap": "SSL güvenlik sertifikası ve PCI-DSS (Payment Card Industry Data Security Standard) uyumluluğudur.",
+        "q_end": 6.14,
+        "a_start": 9.44
       },
       {
         "kart": 72,
         "soru": "Soft POS uygulamasında işletmenin fiziki POS cihazı almasına gerek kalır mı?",
-        "cevap": "Hayır. İşletme NFC'li telefonuna yüklediği lisanslı yazılımla temassız ödeme alabilir."
+        "cevap": "Hayır. İşletme NFC'li telefonuna yüklediği lisanslı yazılımla temassız ödeme alabilir.",
+        "q_end": 5.16,
+        "a_start": 8.46
       },
       {
         "kart": 73,
         "soru": "ÖKC cihazlarında mali hafıza dolduğunda ne yapılması gerekir?",
-        "cevap": "Yetkili servis tarafından yeni mali hafıza takılarak Vergi Dairesine bildirimde bulunulur."
+        "cevap": "Yetkili servis tarafından yeni mali hafıza takılarak Vergi Dairesine bildirimde bulunulur.",
+        "q_end": 4.8,
+        "a_start": 8.1
       },
       {
         "kart": 74,
         "soru": "Doktor POS cihazından basılan slip Vergi Usul Kanununa göre ne sayılır?",
-        "cevap": "VUK uyarınca resmi Serbest Meslek Makbuzu sayılır."
+        "cevap": "VUK uyarınca resmi Serbest Meslek Makbuzu sayılır.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 75,
         "soru": "Kredi Kartından 'Taksitli Nakit Avans' çekiminde cayma hakkı var mıdır?",
-        "cevap": "Tüketici Kanunu uyarınca 14 gün içinde anapara ve işleyen günlük faiz ödenerek nakit avanstan cayılabilir."
+        "cevap": "Tüketici Kanunu uyarınca 14 gün içinde anapara ve işleyen günlük faiz ödenerek nakit avanstan cayılabilir.",
+        "q_end": 4.8,
+        "a_start": 8.1
       },
       {
         "kart": 76,
         "soru": "POS üye işyerinde 'Mail Order (Mektupla/Telefonla Ödeme)' yetkisi verilmesi riski artırır mı?",
-        "cevap": "Evet. Kart fiziki olarak bulunmadığı için şifresiz yapılan işlemlerde sahtecilik ve ters ibraz (chargeback) riski yüksektir."
+        "cevap": "Evet. Kart fiziki olarak bulunmadığı için şifresiz yapılan işlemlerde sahtecilik ve ters ibraz (chargeback) riski yüksektir.",
+        "q_end": 6.22,
+        "a_start": 9.52
       },
       {
         "kart": 77,
         "soru": "Kredi Kartında 'Kullanılabilir Puan' devredilebilir mi?",
-        "cevap": "Kazanılan puanlar müşterinin kendi tanımlı diğer kartlarına transfer edilebilir; üçüncü kişilere nakit olarak devredilemez."
+        "cevap": "Kazanılan puanlar müşterinin kendi tanımlı diğer kartlarına transfer edilebilir; üçüncü kişilere nakit olarak devredilemez.",
+        "q_end": 3.74,
+        "a_start": 7.04
       },
       {
         "kart": 78,
         "soru": "VakıfBank Kartlı Ödeme Sistemlerinde 'VİT' neyi temsil eder?",
-        "cevap": "VakıfBank İşlemleri ve İletişim Teknolojileri altyapısı olup şube operasyonlarının yürütüldüğü ana ekran sistemidir."
+        "cevap": "VakıfBank İşlemleri ve İletişim Teknolojileri altyapısı olup şube operasyonlarının yürütüldüğü ana ekran sistemidir.",
+        "q_end": 4.61,
+        "a_start": 7.91
       },
       {
         "kart": 79,
         "soru": "Kredi Kartı tesliminde müşterinin evde olmaması durumunda kurye ne yapar?",
-        "cevap": "Kart şubeye veya kurye acentesine iade edilir, müşteriye SMS ile bilgi verilerek ikinci teslimat veya şubeden teslim sağlanır."
+        "cevap": "Kart şubeye veya kurye acentesine iade edilir, müşteriye SMS ile bilgi verilerek ikinci teslimat veya şubeden teslim sağlanır.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 80,
         "soru": "Geçici Bloke konulan kredi kartı müşteri talebiyle hemen açılabilir mi?",
-        "cevap": "Müşteri doğrulama adımları tamamlandıktan sonra şube veya çağrı merkezi kanalıyla geçici bloke anında kaldırılır."
+        "cevap": "Müşteri doğrulama adımları tamamlandıktan sonra şube veya çağrı merkezi kanalıyla geçici bloke anında kaldırılır.",
+        "q_end": 4.87,
+        "a_start": 8.17
       },
       {
         "kart": 81,
         "soru": "Kredi Kartında 'Dönem İçi İşlemler' ile 'Bekleyen İşlemler' farkı nedir?",
-        "cevap": "Bekleyen İşlemler: Provizyon aşamasında olup henüz takaslaşmamış harcamalardır. Dönem İçi İşlemler: Takası tamamlanıp ekstreye yansıyan harcamalardır."
+        "cevap": "Bekleyen İşlemler: Provizyon aşamasında olup henüz takaslaşmamış harcamalardır. Dönem İçi İşlemler: Takası tamamlanıp ekstreye yansıyan harcamalardır.",
+        "q_end": 5.02,
+        "a_start": 8.32
       },
       {
         "kart": 82,
         "soru": "Kart Hamili 'Otomatik Ödeme Talimatını' kredi kartına bağladığında fatura ödeme tarihinde faiz işler mi?",
-        "cevap": "Hesaptan yapılan ödemeler ücretsizdir; kredi kartından yapılan fatura ödemelerinde banka şartlarına göre akdi faiz veya işlem ücreti uygulanabilir."
+        "cevap": "Hesaptan yapılan ödemeler ücretsizdir; kredi kartından yapılan fatura ödemelerinde banka şartlarına göre akdi faiz veya işlem ücreti uygulanabilir.",
+        "q_end": 6.77,
+        "a_start": 10.07
       },
       {
         "kart": 83,
