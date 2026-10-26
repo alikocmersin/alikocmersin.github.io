@@ -2132,102 +2132,142 @@
       {
         "kart": 43,
         "soru": "Bireysel Kredilerde 'Yeniden Yapılandırma (Refinansman)' yapıldığında eski sözleşme kapanır mı?",
-        "cevap": "Evet. Eski kredi borcu yeni yapılandırma kredisiyle tamamen kapatılır ve yeni ödeme planı açılır."
+        "cevap": "Evet. Eski kredi borcu yeni yapılandırma kredisiyle tamamen kapatılır ve yeni ödeme planı açılır.",
+        "q_end": 6.17,
+        "a_start": 9.47
       },
       {
         "kart": 44,
         "soru": "Tüketici Kredisinde cayma hakkı kullanıldığında 3. kişilere ödenen ekspertiz veya ipotek ücreti iade edilir mi?",
-        "cevap": "Hayır. Cayma hakkı kullanılsa dahi banka tarafından 3. kişilere (noter, tapu, ekspertiz firması) ödenmiş olan resmi masraflar tüketiciden tahsil edilir."
+        "cevap": "Hayır. Cayma hakkı kullanılsa dahi banka tarafından 3. kişilere (noter, tapu, ekspertiz firması) ödenmiş olan resmi masraflar tüketiciden tahsil edilir.",
+        "q_end": 7.46,
+        "a_start": 10.76
       },
       {
         "kart": 45,
         "soru": "Konut Kredisinde ekspertiz değerinin %75'i sınırını aşan durumlarda ilave teminat alınabilir mi?",
-        "cevap": "Evet. İlave gayrimenkul ipoteği veya teminat alınarak kredi tutarı artırılabilir."
+        "cevap": "Evet. İlave gayrimenkul ipoteği veya teminat alınarak kredi tutarı artırılabilir.",
+        "q_end": 7.03,
+        "a_start": 10.33
       },
       {
         "kart": 46,
         "soru": "Kasko Sigortasında 'Muafiyetli Kasko' ne sağlar?",
-        "cevap": "Hasarın belirli bir yüzdesini sigortalının üstlenmesi kaydıyla daha düşük primle kasko yaptırılmasını sağlar."
+        "cevap": "Hasarın belirli bir yüzdesini sigortalının üstlenmesi kaydıyla daha düşük primle kasko yaptırılmasını sağlar.",
+        "q_end": 3.84,
+        "a_start": 7.14
       },
       {
         "kart": 47,
         "soru": "TARSİM sigortasında Bitkisel Ürün Sigortası hangi riskleri kapsar?",
-        "cevap": "Dolu, fırtına, hortum, yangın, deprem, heyelan, sel ve don risklerini kapsar."
+        "cevap": "Dolu, fırtına, hortum, yangın, deprem, heyelan, sel ve don risklerini kapsar.",
+        "q_end": 4.9,
+        "a_start": 8.2
       },
       {
         "kart": 48,
         "soru": "BES'te emeklilik hakkı kazanan katılımcı birikimlerini nasıl alabilir?",
-        "cevap": "Toplu para olarak alabileceği gibi Esnek Ödeme Planı veya Yıllık Gelir Sigortası ile maaş şeklinde de alabilir."
+        "cevap": "Toplu para olarak alabileceği gibi Esnek Ödeme Planı veya Yıllık Gelir Sigortası ile maaş şeklinde de alabilir.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 49,
         "soru": "Konut Finansmanı kredilerinde faiz oranları sözleşme süresince banka tarafından tek taraflı artırılabilir mi?",
-        "cevap": "Sabit faizli konut kredilerinde faiz oranı tüketici aleyhine TEK TARAFLI DEĞİŞTİRİLEMEZ."
+        "cevap": "Sabit faizli konut kredilerinde faiz oranı tüketici aleyhine TEK TARAFLI DEĞİŞTİRİLEMEZ.",
+        "q_end": 7.18,
+        "a_start": 10.48
       },
       {
         "kart": 50,
         "soru": "Bireysel Kredilerde borçlunun adresine gönderilen hesap özetleri ücrete tabi midir?",
-        "cevap": "Finansal tüketicinin tercih ettiği elektronik ekstreler ücretsizdir; posta ile fiziki ekstre talebinde makul posta masrafı alınabilir."
+        "cevap": "Finansal tüketicinin tercih ettiği elektronik ekstreler ücretsizdir; posta ile fiziki ekstre talebinde makul posta masrafı alınabilir.",
+        "q_end": 6.5,
+        "a_start": 9.8
       },
       {
         "kart": 51,
         "soru": "Tüketici Kredisi Sözleşmesinin bir nüshasının tüketiciye verilmesi zorunlu mudur?",
-        "cevap": "Evet. İmzalı sözleşmenin bir nüshasının kağıt üzerinde veya kalıcı veri saklayıcısı ile tüketiciye verilmesi zorunludur."
+        "cevap": "Evet. İmzalı sözleşmenin bir nüshasının kağıt üzerinde veya kalıcı veri saklayıcısı ile tüketiciye verilmesi zorunludur.",
+        "q_end": 5.35,
+        "a_start": 8.65
       },
       {
         "kart": 52,
         "soru": "İhtiyaç Kredilerinde müşteri onay verirse maaş hesabı üzerine bloke/temlik konulabilir mi?",
-        "cevap": "Sözleşmede açıkça hüküm bulunması ve müşterinin rızası kaydıyla maaş hesabı üzerinden taksit kesinti muvafakati alınabilir."
+        "cevap": "Sözleşmede açıkça hüküm bulunması ve müşterinin rızası kaydıyla maaş hesabı üzerinden taksit kesinti muvafakati alınabilir.",
+        "q_end": 6.22,
+        "a_start": 9.52
       },
       {
         "kart": 53,
         "soru": "Taşıt Kredisi ile alınan aracın satılması için ne gereklidir?",
-        "cevap": "Aracın üzerindeki banka e-rehin kaydının kredi kapatılarak kaldırılması (terkin edilmesi) gereklidir."
+        "cevap": "Aracın üzerindeki banka e-rehin kaydının kredi kapatılarak kaldırılması (terkin edilmesi) gereklidir.",
+        "q_end": 4.27,
+        "a_start": 7.57
       },
       {
         "kart": 54,
         "soru": "Konut Kredisi Erken Ödeme İndirimi hesaplanırken hangi faiz esas alınır?",
-        "cevap": "Erken ödenen anapara tutarına göre VUK ve BDDK kuralı uyarınca henüz vadesi gelmemiş işlenmemiş faizler düşülür."
+        "cevap": "Erken ödenen anapara tutarına göre VUK ve BDDK kuralı uyarınca henüz vadesi gelmemiş işlenmemiş faizler düşülür.",
+        "q_end": 5.54,
+        "a_start": 8.84
       },
       {
         "kart": 55,
         "soru": "Bireysel Müşterinin KKB (Kredi Kayıt Bürosu) risk raporunda 'Gecikmedeki Hesaplar' kaç gün sonra görünür?",
-        "cevap": "30 günü aşan taksit gecikmeleri KKB raporunda gecikmeli hesap olarak görünmeye başlar."
+        "cevap": "30 günü aşan taksit gecikmeleri KKB raporunda gecikmeli hesap olarak görünmeye başlar.",
+        "q_end": 6.91,
+        "a_start": 10.21
       },
       {
         "kart": 56,
         "soru": "Bireysel Kredi kartı veya tüketici kredisi borcundan dolayı idari takibe düşen müşterinin borcu ne zaman icraya aktarılır?",
-        "cevap": "Gecikme süresi 90 günü tamamladığında ve ihtarname süresi dolduğunda kanuni takibe (icraya) aktarılır."
+        "cevap": "Gecikme süresi 90 günü tamamladığında ve ihtarname süresi dolduğunda kanuni takibe (icraya) aktarılır.",
+        "q_end": 7.94,
+        "a_start": 11.24
       },
       {
         "kart": 57,
         "soru": "Tüketici Kredisinde 'Kredi Hayat Sigortası' prim tutarı neye göre belirlenir?",
-        "cevap": "Kredi tutarı, kredi vadesi, müşterinin yaşı ve sağlık durumuna göre aktüeryal olarak belirlenir."
+        "cevap": "Kredi tutarı, kredi vadesi, müşterinin yaşı ve sağlık durumuna göre aktüeryal olarak belirlenir.",
+        "q_end": 5.5,
+        "a_start": 8.8
       },
       {
         "kart": 58,
         "soru": "BES Otomatik Katılım Sisteminde (OKS) Devlet Katkısı başlangıç bonusu ne kadardır?",
-        "cevap": "Sistemde kalan çalışanlara bir defaya mahsus 1.000 TL ilave başlangıç Devlet Katkısı verilir."
+        "cevap": "Sistemde kalan çalışanlara bir defaya mahsus 1.000 TL ilave başlangıç Devlet Katkısı verilir.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 59,
         "soru": "Konut Hesabı devlet katkısı alabilmek için konutun ne zaman alınması gerekir?",
-        "cevap": "Asgari 3 yıl düzenli birikim yapıldıktan sonra tapu alım tarihinden itibaren 6 ay içinde başvurularak alınır."
+        "cevap": "Asgari 3 yıl düzenli birikim yapıldıktan sonra tapu alım tarihinden itibaren 6 ay içinde başvurularak alınır.",
+        "q_end": 5.33,
+        "a_start": 8.63
       },
       {
         "kart": 60,
         "soru": "Çeyiz Hesabı devlet katkısı alabilmek için evlilik yaş sınırı kaçtır?",
-        "cevap": "27 yaşını doldurmadan önce ilk evliliğin yapılması şarttır."
+        "cevap": "27 yaşını doldurmadan önce ilk evliliğin yapılması şarttır.",
+        "q_end": 4.92,
+        "a_start": 8.22
       },
       {
         "kart": 61,
         "soru": "Bireysel Kredi taksit ödeme gününün tatil gününe rastlaması durumunda ne olur?",
-        "cevap": "Taksit ödeme günü takip eden ilk iş gününe sarkar ve gecikme faizi işletilmez."
+        "cevap": "Taksit ödeme günü takip eden ilk iş gününe sarkar ve gecikme faizi işletilmez.",
+        "q_end": 5.06,
+        "a_start": 8.36
       },
       {
         "kart": 62,
         "soru": "Tüketici Kredisi Sözleşmelerinde 'Haksız Şart' ne demektir?",
-        "cevap": "Tüketiciyle müzakere edilmeden sözleşmeye konulan ve tüketici aleyhine dengesizlik yaratan sözleşme maddeleri hükümsüzdür."
+        "cevap": "Tüketiciyle müzakere edilmeden sözleşmeye konulan ve tüketici aleyhine dengesizlik yaratan sözleşme maddeleri hükümsüzdür.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 63,
