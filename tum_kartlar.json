@@ -4396,102 +4396,142 @@
       {
         "kart": 65,
         "soru": "Vergi Kanunlarına göre 'Geçici Vergi' dönemleri kaçar aylıktır?",
-        "cevap": "Üçer aylık dönemler halinde (Ocak-Mart, Nisan-Haziran, Temmuz-Eylül, Ekim-Aralık) hesaplanır ve beyan edilir."
+        "cevap": "Üçer aylık dönemler halinde (Ocak-Mart, Nisan-Haziran, Temmuz-Eylül, Ekim-Aralık) hesaplanır ve beyan edilir.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 66,
         "soru": "Geçici Vergi beyan ve ödeme son günü ne zamandır?",
-        "cevap": "İlgili üç aylık dönemi takip eden 2. ayın 17. günü akşamına kadardır."
+        "cevap": "İlgili üç aylık dönemi takip eden 2. ayın 17. günü akşamına kadardır.",
+        "q_end": 4.08,
+        "a_start": 7.38
       },
       {
         "kart": 67,
         "soru": "Banka Kurumlar Vergisi Beyannamesi ne zaman verilir?",
-        "cevap": "Hesap dönemini takip eden 4. ayın (Nisan ayı) son gününe kadar verilir ve ödenir."
+        "cevap": "Hesap dönemini takip eden 4. ayın (Nisan ayı) son gününe kadar verilir ve ödenir.",
+        "q_end": 4.03,
+        "a_start": 7.33
       },
       {
         "kart": 68,
         "soru": "Damga Vergisinde 'Nispi Damga Vergisi' tavanı var mıdır?",
-        "cevap": "Evet. Nispi damga vergisine tabi kağıtlarda her yıl Hazinece belirlenen bir azami tavan tutar uygulanır."
+        "cevap": "Evet. Nispi damga vergisine tabi kağıtlarda her yıl Hazinece belirlenen bir azami tavan tutar uygulanır.",
+        "q_end": 4.13,
+        "a_start": 7.43
       },
       {
         "kart": 69,
         "soru": "Kıdem Tazminatında tavanı aşan ödemelerin vergi durumu nedir?",
-        "cevap": "Tavanı aşan kıdem tazminatı ödemeleri ücret sayılır ve Gelir Vergisi stopajına tabi tutulur."
+        "cevap": "Tavanı aşan kıdem tazminatı ödemeleri ücret sayılır ve Gelir Vergisi stopajına tabi tutulur.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 70,
         "soru": "İhbar Tazminatı ödemesi Gelir Vergisi ve Damga Vergisine tabi midir?",
-        "cevap": "Evet. İhbar tazminatı ödemelerinden hem Gelir Vergisi hem de Damga Vergisi kesintisi yapılır."
+        "cevap": "Evet. İhbar tazminatı ödemelerinden hem Gelir Vergisi hem de Damga Vergisi kesintisi yapılır.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 71,
         "soru": "Sakatlık / Engellilik İndirimi çalışan bordrosunu nasıl etkiler?",
-        "cevap": "Çalışanın gelir vergisi matrahından sakatlık derecesine göre belirlenen tutar düşülerek daha az gelir vergisi ödenmesi sağlanır."
+        "cevap": "Çalışanın gelir vergisi matrahından sakatlık derecesine göre belirlenen tutar düşülerek daha az gelir vergisi ödenmesi sağlanır.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 72,
         "soru": "Asgari Ücret Vergi İstisnası kuralı nedir?",
-        "cevap": "Tüm çalışanların ücretlerinin asgari ücrete kadar olan kısmı Gelir Vergisi ve Damga Vergisinden istisnadır."
+        "cevap": "Tüm çalışanların ücretlerinin asgari ücrete kadar olan kısmı Gelir Vergisi ve Damga Vergisinden istisnadır.",
+        "q_end": 3.74,
+        "a_start": 7.04
       },
       {
         "kart": 73,
         "soru": "Banka 'Kasa Zimmet' noksanında sorumluluk kuralı nedir?",
-        "cevap": "Kasa noksanı doğrudan veznedarın/kasadarın kişisel sorumluluğundadır; süresinde ödenmezse maaşından kesilir veya hukuki süreç başlatılır."
+        "cevap": "Kasa noksanı doğrudan veznedarın/kasadarın kişisel sorumluluğundadır; süresinde ödenmezse maaşından kesilir veya hukuki süreç başlatılır.",
+        "q_end": 4.01,
+        "a_start": 7.31
       },
       {
         "kart": 74,
         "soru": "Bankacılıkta 'Muamele Fişi' nedir?",
-        "cevap": "Muhasebe kaydına esas teşkil eden, işlem detaylarını ve yetkili imzaları içeren resmi muhasebe belgesidir."
+        "cevap": "Muhasebe kaydına esas teşkil eden, işlem detaylarını ve yetkili imzaları içeren resmi muhasebe belgesidir.",
+        "q_end": 3.0,
+        "a_start": 6.3
       },
       {
         "kart": 75,
         "soru": "Banka Muhasebesinde 'Ters Kayıt (Düzeltme Kaydı)' ne zaman yapılır?",
-        "cevap": "Hatalı yazılan muhasebe maddesinin iptali veya düzeltilmesi amacıyla zıt yönlü kayıt yapılmasıdır."
+        "cevap": "Hatalı yazılan muhasebe maddesinin iptali veya düzeltilmesi amacıyla zıt yönlü kayıt yapılmasıdır.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 76,
         "soru": "Gayrinakdi Kredi Komisyon Reeskontu nasıl yapılır?",
-        "cevap": "Peşin tahsil edilen gayrinakdi kredi komisyonlarının gelecek döneme sarkan kısmı 'Gelecek Aylara Ait Gelirler' hesabına devredilir."
+        "cevap": "Peşin tahsil edilen gayrinakdi kredi komisyonlarının gelecek döneme sarkan kısmı 'Gelecek Aylara Ait Gelirler' hesabına devredilir.",
+        "q_end": 3.79,
+        "a_start": 7.09
       },
       {
         "kart": 77,
         "soru": "Bankalarda 'Konsolide Mali Tablo' ne zaman düzenlenir?",
-        "cevap": "Banka ve bağlı ortaklıklarının finansal tablolarının tek bir kurum gibi birleştirilerek dönem sonlarında yayınlanmasıdır."
+        "cevap": "Banka ve bağlı ortaklıklarının finansal tablolarının tek bir kurum gibi birleştirilerek dönem sonlarında yayınlanmasıdır.",
+        "q_end": 4.32,
+        "a_start": 7.62
       },
       {
         "kart": 78,
         "soru": "Kamu Alacaklarında 'Tecil ve Taksitlendirme' (6183 sayılı Kanun Madde 48) nedir?",
-        "cevap": "Borçlunun çok zor durumda olması halinde vergi borcunun tecil faiziyle azami 36 aya kadar taksitlendirilmesidir."
+        "cevap": "Borçlunun çok zor durumda olması halinde vergi borcunun tecil faiziyle azami 36 aya kadar taksitlendirilmesidir.",
+        "q_end": 7.51,
+        "a_start": 10.81
       },
       {
         "kart": 79,
         "soru": "Vergi İnceleme Raporuna karşı mükellefin 'Uzlaşma' hakkı var mıdır?",
-        "cevap": "Evet. Tarhiyat öncesi veya tarhiyat sonrası Vergi Uzlaşma Komisyonlarına başvurarak vergi ve cezalarda uzlaşma talep edilebilir."
+        "cevap": "Evet. Tarhiyat öncesi veya tarhiyat sonrası Vergi Uzlaşma Komisyonlarına başvurarak vergi ve cezalarda uzlaşma talep edilebilir.",
+        "q_end": 4.66,
+        "a_start": 7.96
       },
       {
         "kart": 80,
         "soru": "Vergi Mahkemesinde dava açma süresi vergi ceza ihbarnamesinin tebliğinden itibaren kaç gündür?",
-        "cevap": "Tebliğ tarihinden itibaren AZAMİ 30 GÜN içinde Vergi Mahkemesinde dava açılması gerekir."
+        "cevap": "Tebliğ tarihinden itibaren AZAMİ 30 GÜN içinde Vergi Mahkemesinde dava açılması gerekir.",
+        "q_end": 7.49,
+        "a_start": 10.79
       },
       {
         "kart": 81,
         "soru": "Bankaların 'Karşılık Karşılığı Ayrılan İhtiyatlar' özkaynak hesaplamasında Katkı Sermayeye dahil edilir mi?",
-        "cevap": "BDDK düzenlemelerine göre genel kredi karşılıklarının belirli bir kısmı Katkı Sermaye hesaplamasına dahil edilebilir."
+        "cevap": "BDDK düzenlemelerine göre genel kredi karşılıklarının belirli bir kısmı Katkı Sermaye hesaplamasına dahil edilebilir.",
+        "q_end": 6.77,
+        "a_start": 10.07
       },
       {
         "kart": 82,
         "soru": "Banka Şube Muhasebesinde 'Kapanış İşlemleri' gün sonunda ne zaman tamamlanır?",
-        "cevap": "Kasa ve sistem mutabakatları sağlandıktan, yevmiye fişleri dökülüp denetlendikten sonra gün sonu (EOD) çalıştırılarak tamamlanır."
+        "cevap": "Kasa ve sistem mutabakatları sağlandıktan, yevmiye fişleri dökülüp denetlendikten sonra gün sonu (EOD) çalıştırılarak tamamlanır.",
+        "q_end": 5.26,
+        "a_start": 8.56
       },
       {
         "kart": 83,
         "soru": "Gider Reeskontu pasifte nasıl izlenir?",
-        "cevap": "Cari döneme ait olan ancak faturası/ödemesi gelecek döneme sarkacak giderler pasifte 'Gider Tahakkukları' hesabında izlenir."
+        "cevap": "Cari döneme ait olan ancak faturası/ödemesi gelecek döneme sarkacak giderler pasifte 'Gider Tahakkukları' hesabında izlenir.",
+        "q_end": 3.24,
+        "a_start": 6.54
       },
       {
         "kart": 84,
         "soru": "Banka Aktifinde 'Takipteki Alacaklar İskontosu' ayrılabilir mi?",
-        "cevap": "Takipten doğan alacakların net gerçekleşebilir değerle gösterilmesi için özel karşılık düşülerek netleştirilir."
+        "cevap": "Takipten doğan alacakların net gerçekleşebilir değerle gösterilmesi için özel karşılık düşülerek netleştirilir.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 85,
