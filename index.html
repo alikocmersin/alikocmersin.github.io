@@ -370,7 +370,7 @@
       opacity: 1;
     }
 
-    /* Alt İnce Çubuk (Müzik & Otomatik Oynatma) */
+    /* Alt İnce Çubuk (Müzik & Sağ Butonlar) */
     .sub-bar {
       display: flex;
       justify-content: space-between;
@@ -379,6 +379,56 @@
       max-width: 650px;
       margin: 0 auto;
       width: 100%;
+    }
+
+    .sub-bar-right {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .sub-action-pill {
+      height: 36px;
+      padding: 0 0.8rem;
+      border-radius: 18px;
+      background: var(--card-subtle);
+      border: 1.5px solid var(--border);
+      color: var(--text-sec);
+      font-size: 0.77rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.45rem;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+      flex-shrink: 0;
+    }
+
+    .sub-action-pill:active {
+      transform: scale(0.93);
+    }
+
+    /* Mute Aktif Durumu */
+    .sub-action-pill.muted {
+      background: var(--danger-light);
+      border-color: var(--danger);
+      color: var(--danger);
+    }
+
+    /* Oto-Akış Aktif Durumu */
+    .sub-action-pill.active {
+      background: var(--success-light);
+      border-color: var(--success);
+      color: var(--success);
+    }
+
+    .sub-action-svg {
+      width: 16px;
+      height: 16px;
+      stroke-width: 2.2;
+      flex-shrink: 0;
     }
 
     .music-pill {
@@ -428,38 +478,7 @@
       to { height: 13px; }
     }
 
-    .autoplay-toggle-pill {
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
-      background: var(--card-subtle);
-      border: 1px solid var(--border);
-      padding: 0.32rem 0.7rem;
-      border-radius: 20px;
-      font-size: 0.76rem;
-      font-weight: 700;
-      color: var(--text-sec);
-      cursor: pointer;
-    }
 
-    .autoplay-indicator {
-      width: 7px;
-      height: 7px;
-      border-radius: 50%;
-      background: var(--text-muted);
-      transition: all 0.2s ease;
-    }
-
-    .autoplay-toggle-pill.active {
-      background: var(--success-light);
-      border-color: var(--success);
-      color: var(--success);
-    }
-
-    .autoplay-toggle-pill.active .autoplay-indicator {
-      background: var(--success);
-      box-shadow: 0 0 6px var(--success);
-    }
 
     /* Ana Çalışma Alanı */
     main {
@@ -1308,7 +1327,7 @@
     </div>
   </header>
 
-  <!-- Alt Bar (432Hz Müzik & Kesintisiz Otomatik Akış) -->
+  <!-- Alt Bar (432Hz Müzik, Mute & Kesintisiz Otomatik Akış) -->
   <div class="sub-bar">
     <div class="music-pill" id="musicPill" title="432 Hz Alpha Waves / Lo-Fi Odaklanma Arka Plan Müziği">
       <div class="music-eq-dots">
@@ -1319,9 +1338,30 @@
       <span id="musicLabel">432 Hz Alpha</span>
     </div>
 
-    <div class="autoplay-toggle-pill active" id="autoplayBtn" title="Otomatik Sürekli Akış (Tıklamasız)">
-      <span class="autoplay-indicator"></span>
-      <span>Oto-Akış</span>
+    <div class="sub-bar-right">
+      <!-- Mute (Sessize Al / Ses Aç) Butonu -->
+      <button class="sub-action-pill" id="muteBtn" title="Sesi Aç / Kapat">
+        <span id="muteIconContainer" style="display:flex;align-items:center;">
+          <svg class="sub-action-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+          </svg>
+        </span>
+        <span id="muteLabel">Ses Açık</span>
+      </button>
+
+      <!-- Oto-Akış Butonu (Aynı boyutta, şık döngü/akış ikonuyla) -->
+      <button class="sub-action-pill active" id="autoplayBtn" title="Otomatik Sürekli Akış (Tıklamasız)">
+        <span style="display:flex;align-items:center;">
+          <svg class="sub-action-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="17 1 21 5 17 9"></polyline>
+            <path d="M3 11V9a4 4 0 0 1 4-4h14"></path>
+            <polyline points="7 23 3 19 7 15"></polyline>
+            <path d="M21 13v2a4 4 0 0 1-4 4H3"></path>
+          </svg>
+        </span>
+        <span id="autoplayLabel">Oto-Akış</span>
+      </button>
     </div>
   </div>
 
@@ -1542,6 +1582,7 @@
     let currentAudioObj = null;
     let speechTimer = null;
     let isPlaying = false;
+    let isMuted = false;
 
     // DOM Elements
     const searchBarContainer = document.getElementById('searchBarContainer');
@@ -1569,6 +1610,10 @@
     const nextBtn = document.getElementById('nextBtn');
     const statsSummary = document.getElementById('statsSummary');
     const autoplayBtn = document.getElementById('autoplayBtn');
+    const autoplayLabel = document.getElementById('autoplayLabel');
+    const muteBtn = document.getElementById('muteBtn');
+    const muteIconContainer = document.getElementById('muteIconContainer');
+    const muteLabel = document.getElementById('muteLabel');
     const themeBtn = document.getElementById('themeBtn');
     const themeIconContainer = document.getElementById('themeIconContainer');
     const metaThemeColor = document.getElementById('metaThemeColor');
@@ -1680,6 +1725,35 @@
       musicPill.classList.toggle('active', isMusicActive);
       musicLabel.textContent = isMusicActive ? 'Alpha 432Hz Açık' : '432 Hz Alpha';
     }
+
+    function updateMuteUI() {
+      muteBtn.classList.toggle('muted', isMuted);
+      if (isMuted) {
+        muteLabel.textContent = 'Sessiz';
+        muteIconContainer.innerHTML = `
+          <svg class="sub-action-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <line x1="23" y1="9" x2="17" y2="15"></line>
+            <line x1="17" y1="9" x2="23" y2="15"></line>
+          </svg>`;
+      } else {
+        muteLabel.textContent = 'Ses Açık';
+        muteIconContainer.innerHTML = `
+          <svg class="sub-action-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+          </svg>`;
+      }
+    }
+
+    muteBtn.onclick = () => {
+      isMuted = !isMuted;
+      updateMuteUI();
+      if (currentAudioObj) currentAudioObj.muted = isMuted;
+      if (isMuted && window.speechSynthesis) {
+        window.speechSynthesis.cancel();
+      }
+    };
 
     musicPill.onclick = () => {
       if (isMusicActive) stopAlphaWaves();
@@ -2204,6 +2278,7 @@
     function playPreRecordedAudio(url, card, tryCompatFallback) {
       currentAudioObj = new Audio(url);
       currentAudioObj.playbackRate = currentSpeed;
+      currentAudioObj.muted = isMuted;
 
       speakerLabel.textContent = 'Emel (Soru)';
       answerBox.classList.remove('show');
@@ -2267,6 +2342,7 @@
       uQ.lang = 'tr-TR';
       uQ.rate = currentSpeed;
       uQ.pitch = 1.05;
+      if (isMuted) uQ.volume = 0;
 
       uQ.onstart = () => {
         timelineFill.style.width = '30%';
@@ -2287,6 +2363,7 @@
           uA.lang = 'tr-TR';
           uA.rate = currentSpeed;
           uA.pitch = 0.88;
+          if (isMuted) uA.volume = 0;
 
           uA.onstart = () => {
             timelineFill.style.width = '75%';
@@ -2325,6 +2402,7 @@
     autoplayBtn.onclick = () => {
       autoplay = !autoplay;
       autoplayBtn.classList.toggle('active', autoplay);
+      autoplayLabel.textContent = autoplay ? 'Oto-Akış' : 'Durduruldu';
       if (autoplay && !isPlaying) startCardPlayback();
     };
 
