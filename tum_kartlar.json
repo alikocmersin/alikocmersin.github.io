@@ -3548,102 +3548,142 @@
       {
         "kart": 43,
         "soru": "Finansal Kiralama (Leasing) işleminde yatırım malının mülkiyeti ve kullanım hakkı kimdedir?",
-        "cevap": "Mülkiyet Leasing Şirketindedir; kullanım hakkı ise sözleşme süresince kiracı firmadadır."
+        "cevap": "Mülkiyet Leasing Şirketindedir; kullanım hakkı ise sözleşme süresince kiracı firmadadır.",
+        "q_end": 6.41,
+        "a_start": 9.71
       },
       {
         "kart": 44,
         "soru": "Kredi Garanti Fonu (KGF) kefalet oranları KOBİ'ler için genel olarak yüzde kaçtır?",
-        "cevap": "KGF genel olarak KOBİ kredilerinde %80 oranında devlet destekli kefalet sağlar."
+        "cevap": "KGF genel olarak KOBİ kredilerinde %80 oranında devlet destekli kefalet sağlar.",
+        "q_end": 5.69,
+        "a_start": 8.99
       },
       {
         "kart": 45,
         "soru": "Firma Likidite Analizinde Cari Oran (Dönen Varlıklar / Kısa Vadeli Borçlar) ideal seviyesi kaçtır?",
-        "cevap": "Cari oranın ideal kabul edilen seviyesi 1,5 ile 2,0 arasındadır."
+        "cevap": "Cari oranın ideal kabul edilen seviyesi 1,5 ile 2,0 arasındadır.",
+        "q_end": 6.77,
+        "a_start": 10.07
       },
       {
         "kart": 46,
         "soru": "Asit-Test (Likidite) Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
-        "cevap": "Stoklar çıkarılır. Formül: (Dönen Varlıklar - Stoklar) / Kısa Vadeli Yükümlülükler (İdeal seviye 1,0'dır)."
+        "cevap": "Stoklar çıkarılır. Formül: (Dönen Varlıklar - Stoklar) / Kısa Vadeli Yükümlülükler (İdeal seviye 1,0'dır).",
+        "q_end": 5.45,
+        "a_start": 8.75
       },
       {
         "kart": 47,
         "soru": "Nakit Oranı bir firmanın finansal analizinde neyi gösterir?",
-        "cevap": "Firmanın (Hazır Değerler + Menkul Kıymetler) / Kısa Vadeli Borçlar oranı olup, anında borç ödeme gücünü gösterir."
+        "cevap": "Firmanın (Hazır Değerler + Menkul Kıymetler) / Kısa Vadeli Borçlar oranı olup, anında borç ödeme gücünü gösterir.",
+        "q_end": 4.13,
+        "a_start": 7.43
       },
       {
         "kart": 48,
         "soru": "Kaldıraç Oranı (Toplam Borç / Toplam Aktif) neyi ölçer?",
-        "cevap": "Firmanın varlıklarının ne kadarının borçlarla finanse edildiğini ölçer."
+        "cevap": "Firmanın varlıklarının ne kadarının borçlarla finanse edildiğini ölçer.",
+        "q_end": 4.34,
+        "a_start": 7.64
       },
       {
         "kart": 49,
         "soru": "FAVÖK (EBITDA) bir firmanın finansal analizinde neyi gösterir?",
-        "cevap": "Faiz, Amortisman ve Vergi Öncesi Kâr olup firmanın doğrudan nakit üreten esas faaliyet kârlılığını gösterir."
+        "cevap": "Faiz, Amortisman ve Vergi Öncesi Kâr olup firmanın doğrudan nakit üreten esas faaliyet kârlılığını gösterir.",
+        "q_end": 4.34,
+        "a_start": 7.64
       },
       {
         "kart": 50,
         "soru": "Altman Z-Skoru finansal analizde neyi tahmin eder?",
-        "cevap": "Şirketlerin bilançolarındaki oranları kullanarak 2 yıl içinde İFLAS ETME RİSKİNİ tahmin eden skorlama modelidir."
+        "cevap": "Şirketlerin bilançolarındaki oranları kullanarak 2 yıl içinde İFLAS ETME RİSKİNİ tahmin eden skorlama modelidir.",
+        "q_end": 4.01,
+        "a_start": 7.31
       },
       {
         "kart": 51,
         "soru": "Sermaye Yeterliliği Rasyosu (SYR) hesaplamasında Özkaynaklar neye bölünür?",
-        "cevap": "Sermaye Yeterliliği Rasyosu = Özkaynaklar / Risk Ağırlıklı Varlıklar (BDDK asgari yasal sınırı %8, hedef oran %12'dir)."
+        "cevap": "Sermaye Yeterliliği Rasyosu = Özkaynaklar / Risk Ağırlıklı Varlıklar (BDDK asgari yasal sınırı %8, hedef oran %12'dir).",
+        "q_end": 5.59,
+        "a_start": 8.89
       },
       {
         "kart": 52,
         "soru": "Proje Finansmanı Kredisinde geri ödeme kaynağı ana teminat olarak neye dayanır?",
-        "cevap": "Firmanın mevcut bilançosundan ziyade, finanse edilen projenin GELECEKTE ÜRETECEĞİ NAKİT AKIŞINA dayanır."
+        "cevap": "Firmanın mevcut bilançosundan ziyade, finanse edilen projenin GELECEKTE ÜRETECEĞİ NAKİT AKIŞINA dayanır.",
+        "q_end": 5.57,
+        "a_start": 8.87
       },
       {
         "kart": 53,
         "soru": "Seküritizasyon (Varlıklaşma) işleminde bankanın menkul kıymetleştirdiği varlıklar nelerdir?",
-        "cevap": "İllikit olan uzun vadeli konut kredileri, kredi kartı alacakları veya havale akışları menkul kıymete dönüştürülerek uluslararası piyasalarda satılır."
+        "cevap": "İllikit olan uzun vadeli konut kredileri, kredi kartı alacakları veya havale akışları menkul kıymete dönüştürülerek uluslararası piyasalarda satılır.",
+        "q_end": 6.22,
+        "a_start": 9.52
       },
       {
         "kart": 54,
         "soru": "Sendikasyon Kredilerinde lider bankanın rolü nedir?",
-        "cevap": "Kredi konsorsiyumunu kuran, şartları müzakere eden ve kredinin kullandırımını organize eden 'Arranger / Lead Manager' bankadır."
+        "cevap": "Kredi konsorsiyumunu kuran, şartları müzakere eden ve kredinin kullandırımını organize eden 'Arranger / Lead Manager' bankadır.",
+        "q_end": 4.2,
+        "a_start": 7.5
       },
       {
         "kart": 55,
         "soru": "Rotatif Kredide faiz ödeme periyotları nasıldır?",
-        "cevap": "Kredinin ana parası esnek ödenirken, faizi genellikle 3 aylık dönem sonlarında tahakkuk ettirilerek tahsil edilir."
+        "cevap": "Kredinin ana parası esnek ödenirken, faizi genellikle 3 aylık dönem sonlarında tahakkuk ettirilerek tahsil edilir.",
+        "q_end": 3.84,
+        "a_start": 7.14
       },
       {
         "kart": 56,
         "soru": "Kredilerde 'Muacceliyet' ne demektir?",
-        "cevap": "Sözleşme şartlarının ihlali veya gecikme nedeniyle vadesi henüz gelmemiş borçların tamamının DAHİL YAPIK VE HEMEN ÖDENMESİ GEREKEN hale gelmesidir."
+        "cevap": "Sözleşme şartlarının ihlali veya gecikme nedeniyle vadesi henüz gelmemiş borçların tamamının DAHİL YAPIK VE HEMEN ÖDENMESİ GEREKEN hale gelmesidir.",
+        "q_end": 3.19,
+        "a_start": 6.49
       },
       {
         "kart": 57,
         "soru": "Kredi Müşterisine çekilen İhtarname süresi genel olarak kaç gündür?",
-        "cevap": "Muaccel kılınan borcun ödenmesi için ihtarname ile borçluya genel olarak 30 GÜNLÜK süre verilir."
+        "cevap": "Muaccel kılınan borcun ödenmesi için ihtarname ile borçluya genel olarak 30 GÜNLÜK süre verilir.",
+        "q_end": 4.82,
+        "a_start": 8.12
       },
       {
         "kart": 58,
         "soru": "Teminat Mektubunda 'Muhatap' kimdir?",
-        "cevap": "Teminat mektubunun lehine düzenlendiği, garantiden yararlanan alacaklı idare veya kurumdur."
+        "cevap": "Teminat mektubunun lehine düzenlendiği, garantiden yararlanan alacaklı idare veya kurumdur.",
+        "q_end": 3.05,
+        "a_start": 6.35
       },
       {
         "kart": 59,
         "soru": "Geçici Teminat Mektubu süresi ihalelerde genellikle ne kadardır?",
-        "cevap": "İhale kanunlarına göre geçici teminat mektupları genel olarak en az 60 veya 90 gün süreli olarak düzenlenir."
+        "cevap": "İhale kanunlarına göre geçici teminat mektupları genel olarak en az 60 veya 90 gün süreli olarak düzenlenir.",
+        "q_end": 5.18,
+        "a_start": 8.48
       },
       {
         "kart": 60,
         "soru": "Avans Teminat Mektubu nakde çevrilirse ne garanti edilmiş olur?",
-        "cevap": "Müteahhide verilen avansın geri ödenmesini veya işte kullanılacağını garanti eder."
+        "cevap": "Müteahhide verilen avansın geri ödenmesini veya işte kullanılacağını garanti eder.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 61,
         "soru": "Ticari Kredi Tahsisinde 'İstihbarat Raporu' güncelleme süresi ne kadardır?",
-        "cevap": "Kredi müşterilerinin istihbarat raporları YILDA EN AZ 1 KEZ güncellenmek zorundadır."
+        "cevap": "Kredi müşterilerinin istihbarat raporları YILDA EN AZ 1 KEZ güncellenmek zorundadır.",
+        "q_end": 5.76,
+        "a_start": 9.06
       },
       {
         "kart": 62,
         "soru": "Gayrinakdi Kredi Komisyon oranları kim tarafından belirlenir?",
-        "cevap": "TCMB düzenlemeleri çerçevesinde riske ve piyasa koşullarına göre serbestçe belirlenir."
+        "cevap": "TCMB düzenlemeleri çerçevesinde riske ve piyasa koşullarına göre serbestçe belirlenir.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 63,
