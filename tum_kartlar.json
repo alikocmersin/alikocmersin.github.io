@@ -2546,12 +2546,16 @@
       {
         "kart": 1,
         "soru": "5464 sayılı Banka Kartları ve Kredi Kartları Kanunu uyarınca, ilk defa kredi kartı sahibi olacak bir gerçek kişinin tüm bankalardaki toplam kart limiti sınırları birinci ve ikinci yıllarda nasıl uygulanır?",
-        "cevap": "İlk yıl için kart hamilinin belgelenebilir net aylık ortalama gelirinin 2 katını, ikinci ve sonraki yıllar için ise 4 katını aşamaz."
+        "cevap": "İlk yıl için kart hamilinin belgelenebilir net aylık ortalama gelirinin 2 katını, ikinci ve sonraki yıllar için ise 4 katını aşamaz.",
+        "q_end": 13.06,
+        "a_start": 16.36
       },
       {
         "kart": 2,
         "soru": "VakıfBank veya World üye işyerlerinden kazanılan Worldpuan hangi işlem ve harcama türlerinde GEÇERSİZDİR (puan kazandırmaz)?",
-        "cevap": "Casino/kumarhane harcamaları, nakit avans/çekim işlemleri, yurt dışı harcamaları ve puanla yapılan harcamalarda Worldpuan kazanılmaz."
+        "cevap": "Casino/kumarhane harcamaları, nakit avans/çekim işlemleri, yurt dışı harcamaları ve puanla yapılan harcamalarda Worldpuan kazanılmaz.",
+        "q_end": 8.28,
+        "a_start": 11.58
       },
       {
         "kart": 3,
