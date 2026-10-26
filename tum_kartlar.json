@@ -1852,102 +1852,142 @@
       {
         "kart": 3,
         "soru": "Tüketici kredisinde Erken Ödeme İndirimi kuralı nedir?",
-        "cevap": "Tüketici, kredisini vadesinden önce tamamen veya kısmen ödeyebilir. Banka, erken ödenen miktara göre gerekli tüm faiz ve diğer maliyet indirimlerini yapmakla yükümlüdür."
+        "cevap": "Tüketici, kredisini vadesinden önce tamamen veya kısmen ödeyebilir. Banka, erken ödenen miktara göre gerekli tüm faiz ve diğer maliyet indirimlerini yapmakla yükümlüdür.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 4,
         "soru": "Konut Finansmanı (Mortgage) kredilerinde tüketicinin krediyi erken kapatması durumunda bankanın talep edebileceği 'Erken Ödeme Tazminatı' üst sınırları nedir?",
-        "cevap": "Kalan vade 24 ayı aşmıyorsa erken ödenen tutarın azami %1'i; kalan vade 24 ayı aşıyorsa azami %2'sidir."
+        "cevap": "Kalan vade 24 ayı aşmıyorsa erken ödenen tutarın azami %1'i; kalan vade 24 ayı aşıyorsa azami %2'sidir.",
+        "q_end": 9.77,
+        "a_start": 13.07
       },
       {
         "kart": 5,
         "soru": "Bireysel kredi sözleşmelerinde tüketiciden alınabilecek 'Tahsis Ücreti / Dosya Masrafı' azami sınırı nedir?",
-        "cevap": "Kullandırılan kredi anaparasının BİNDE 5'İNİ (%0,5) geçemez."
+        "cevap": "Kullandırılan kredi anaparasının BİNDE 5'İNİ (%0,5) geçemez.",
+        "q_end": 7.9,
+        "a_start": 11.2
       },
       {
         "kart": 6,
         "soru": "Tüketici kredisi sözleşmelerinde Bileşik Faiz uygulanabilir mi?",
-        "cevap": "KANUNEN YASAKTIR. Tüketici kredi sözleşmelerinde (temerrüt hali dahil) kesinlikle bileşik faiz uygulanamaz, basit faiz esası uygulanır."
+        "cevap": "KANUNEN YASAKTIR. Tüketici kredi sözleşmelerinde (temerrüt hali dahil) kesinlikle bileşik faiz uygulanamaz, basit faiz esası uygulanır.",
+        "q_end": 4.51,
+        "a_start": 7.81
       },
       {
         "kart": 7,
         "soru": "Tüketici kredilerinde uygulanacak Temerrüt Faizi oranı akdi faiz oranının en fazla yüzde kaçını aşabilir?",
-        "cevap": "Temerrüt faizi oranı, sözleşmede belirlenen akdi faiz oranının %30 FAZLASINI AŞAMAZ."
+        "cevap": "Temerrüt faizi oranı, sözleşmede belirlenen akdi faiz oranının %30 FAZLASINI AŞAMAZ.",
+        "q_end": 7.27,
+        "a_start": 10.57
       },
       {
         "kart": 8,
         "soru": "Bireysel kredi taksit gecikmesinde bankanın borcu muaccel kılabilmesi (İhtarname çekebilmesi) için aranan asgari gecikme şartı nedir?",
-        "cevap": "Birbirini izleyen EN AZ İKİ TAKSİDİN ödenmemesi ve bankanın en az 30 GÜN SÜRE vererek muacceliyet uyarısında (ihtarname) bulunması gerekir."
+        "cevap": "Birbirini izleyen EN AZ İKİ TAKSİDİN ödenmemesi ve bankanın en az 30 GÜN SÜRE vererek muacceliyet uyarısında (ihtarname) bulunması gerekir.",
+        "q_end": 8.69,
+        "a_start": 11.99
       },
       {
         "kart": 9,
         "soru": "Konut Finansmanı sözleşmelerinde 'Bağlı Kredi' durumunda konutun hiç veya zamanında teslim edilmemesinden bankanın sorumluluk süresi nedir?",
-        "cevap": "Konut finansmanı kuruluşu, konutun teslim edilmemesi durumunda konutun teslim tarihinden itibaren AZAMİ 1 YIL SÜREYLE müteselsilen sorumludur."
+        "cevap": "Konut finansmanı kuruluşu, konutun teslim edilmemesi durumunda konutun teslim tarihinden itibaren AZAMİ 1 YIL SÜREYLE müteselsilen sorumludur.",
+        "q_end": 8.86,
+        "a_start": 12.16
       },
       {
         "kart": 10,
         "soru": "Tüketici kredilerinde üçüncü şahıslar tarafından verilen şahsi teminatlar (kefaletler) hukuken hangi kefalet türünde sayılır?",
-        "cevap": "Tüketici Kanunu uyarınca aksi açıkça belirtilmedikçe verilen şahsi teminatlar 'ADİ KEFALET' sayılır."
+        "cevap": "Tüketici Kanunu uyarınca aksi açıkça belirtilmedikçe verilen şahsi teminatlar 'ADİ KEFALET' sayılır.",
+        "q_end": 7.97,
+        "a_start": 11.27
       },
       {
         "kart": 11,
         "soru": "Adi Kefalet durumunda banka doğrudan kefile başvurabilir mi?",
-        "cevap": "HAYIR. Banka önce asıl borçluya başvurmak ve takip yapmak zorundadır; borç asıl borçludan tahsil edilemezse kefile başvurulabilir."
+        "cevap": "HAYIR. Banka önce asıl borçluya başvurmak ve takip yapmak zorundadır; borç asıl borçludan tahsil edilemezse kefile başvurulabilir.",
+        "q_end": 4.2,
+        "a_start": 7.5
       },
       {
         "kart": 12,
         "soru": "Bireysel kredi değerlendirmesinde 'Gelir Tespiti' yapılırken esas alınan kural nedir?",
-        "cevap": "Resmi olarak belgelenebilir ve doğrulanabilir gelir (maaş bordrosu, SGK dökümü, vergi levhası vb.) esas alınır. Belgelenemeyen beyan usulü gelirler KESİNLİKLE dikkate alınmaz."
+        "cevap": "Resmi olarak belgelenebilir ve doğrulanabilir gelir (maaş bordrosu, SGK dökümü, vergi levhası vb.) esas alınır. Belgelenemeyen beyan usulü gelirler KESİNLİKLE dikkate alınmaz.",
+        "q_end": 6.31,
+        "a_start": 9.61
       },
       {
         "kart": 13,
         "soru": "Konut Kredilerinde kullandırılacak azami kredi tutarı konutun ekspertiz değerinin en fazla yüzde kaçı olabilir?",
-        "cevap": "Gayrimenkulün BDDK/SPK yetkili değerleme uzmanlarınca belirlenen ekspertiz değerinin AZAMİ %75'İ kadar kredi kullandırılabilir."
+        "cevap": "Gayrimenkulün BDDK/SPK yetkili değerleme uzmanlarınca belirlenen ekspertiz değerinin AZAMİ %75'İ kadar kredi kullandırılabilir.",
+        "q_end": 7.27,
+        "a_start": 10.57
       },
       {
         "kart": 14,
         "soru": "Konut Kredilerinde hazırlanan Ekspertiz Raporunun bir örneği müşteriye ne zaman verilmelidir?",
-        "cevap": "Müşterinin talebi üzerine ekspertiz raporunun bir örneği EN GEÇ 2 İŞ GÜNÜ İÇİNDE müşteriye verilmek zorundadır."
+        "cevap": "Müşterinin talebi üzerine ekspertiz raporunun bir örneği EN GEÇ 2 İŞ GÜNÜ İÇİNDE müşteriye verilmek zorundadır.",
+        "q_end": 6.19,
+        "a_start": 9.49
       },
       {
         "kart": 15,
         "soru": "Taşıt Kredilerinde satın alınan araç üzerine teminat tesisi ve sigorta işlemleri nasıl yürütülür?",
-        "cevap": "E-rehin sistemi üzerinden araç ruhsatına banka lehine rehin işlenir ve araç üzerine 'Dain ve Mürtehin' sıfatıyla Kasko sigortası yaptırılır."
+        "cevap": "E-rehin sistemi üzerinden araç ruhsatına banka lehine rehin işlenir ve araç üzerine 'Dain ve Mürtehin' sıfatıyla Kasko sigortası yaptırılır.",
+        "q_end": 6.5,
+        "a_start": 9.8
       },
       {
         "kart": 16,
         "soru": "Ek Hesap (KMH - Kredili Mevduat Hesabı) faiz işletim esası nasıldır?",
-        "cevap": "Kullanılan anapara bakiyesi üzerinden GÜNLÜK BAZDA akdi faiz işletilir. İlgili faiz tutarı üzerinden BSMV (%5 veya güncel oran) ve KKDF (%15) vergileri kesilir."
+        "cevap": "Kullanılan anapara bakiyesi üzerinden GÜNLÜK BAZDA akdi faiz işletilir. İlgili faiz tutarı üzerinden BSMV (%5 veya güncel oran) ve KKDF (%15) vergileri kesilir.",
+        "q_end": 5.38,
+        "a_start": 8.68
       },
       {
         "kart": 17,
         "soru": "OYAK üyelerine sağlanan özel bireysel kredi avantajları nelerdir?",
-        "cevap": "Protokol kapsamında OYAK üyelerine özel düşük faizli ihtiyaç kredisi ve OYAK birikimi/maaşı teminatlı Ek Hesap imkanları sunulmaktadır."
+        "cevap": "Protokol kapsamında OYAK üyelerine özel düşük faizli ihtiyaç kredisi ve OYAK birikimi/maaşı teminatlı Ek Hesap imkanları sunulmaktadır.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 18,
         "soru": "Cebe Para Gönder (Kartsız ATM Çekimi) işleminde alıcının parayı çekebilmesi için hangi bilgileri ATM'ye girmesi gerekir?",
-        "cevap": "Alıcının kendi TCKN'si, gönderenin cep telefonu numarası, SMS ile gelen geçici şifre ve çekilecek tutar bilgilerini girmesi gerekir."
+        "cevap": "Alıcının kendi TCKN'si, gönderenin cep telefonu numarası, SMS ile gelen geçici şifre ve çekilecek tutar bilgilerini girmesi gerekir.",
+        "q_end": 7.94,
+        "a_start": 11.24
       },
       {
         "kart": 19,
         "soru": "Çeyiz Hesabı ve Konut Hesabı devlet katkısı teşviklerinden kimler yararlanabilir?",
-        "cevap": "Düzenli birikim yapan Türk vatandaşları; ilk evliliklerinde (Çeyiz Hesabı) veya ilk konut alımlarında (Konut Hesabı) Devlet Katkısı teşvikinden yararlanabilir."
+        "cevap": "Düzenli birikim yapan Türk vatandaşları; ilk evliliklerinde (Çeyiz Hesabı) veya ilk konut alımlarında (Konut Hesabı) Devlet Katkısı teşvikinden yararlanabilir.",
+        "q_end": 5.78,
+        "a_start": 9.08
       },
       {
         "kart": 20,
         "soru": "Tüketici Sözleşmelerinde 'Zorunlu Sigorta' yaptırılması kuralı nedir?",
-        "cevap": "Tüketicinin yazılı veya kalıcı veri saklayıcısı aracılığıyla AÇIK TALEBİ OLMAKSIZIN krediyle ilgili sigorta yaptırılamaz."
+        "cevap": "Tüketicinin yazılı veya kalıcı veri saklayıcısı aracılığıyla AÇIK TALEBİ OLMAKSIZIN krediyle ilgili sigorta yaptırılamaz.",
+        "q_end": 5.09,
+        "a_start": 8.39
       },
       {
         "kart": 21,
         "soru": "Tüketici kredi çekerken bankanın sunduğu sigorta yerine dışarıdan sigorta getirebilir mi?",
-        "cevap": "EVET. Tüketici, kredinin teminatı olarak bankanın sunduğu sigorta poliçesi yerine aynı teminatları içeren dışarıdan aldığı poliçeyi getirebilir ve banka kabul etmek zorundadır."
+        "cevap": "EVET. Tüketici, kredinin teminatı olarak bankanın sunduğu sigorta poliçesi yerine aynı teminatları içeren dışarıdan aldığı poliçeyi getirebilir ve banka kabul etmek zorundadır.",
+        "q_end": 5.98,
+        "a_start": 9.28
       },
       {
         "kart": 22,
         "soru": "Kredi Hayat Sigortasının temel amacı nedir?",
-        "cevap": "Kredi kullanan sigortalının vefatı veya maluliyeti halinde kalan kredi borcunun sigorta şirketi tarafından kapatılarak mirasçıların borç yükünden korunmasıdır."
+        "cevap": "Kredi kullanan sigortalının vefatı veya maluliyeti halinde kalan kredi borcunun sigorta şirketi tarafından kapatılarak mirasçıların borç yükünden korunmasıdır.",
+        "q_end": 3.46,
+        "a_start": 6.76
       },
       {
         "kart": 23,
