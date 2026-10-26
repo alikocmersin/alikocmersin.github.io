@@ -2840,102 +2840,142 @@
       {
         "kart": 43,
         "soru": "Sanal Kart işlemlerinde toplam limite erişim riski var mıdır?",
-        "cevap": "Hayır. Sanal kart limiti anlık olarak ayarlanabildiği için fiziki kartın ana limitini riske atmadan güvenli alışveriş sağlar."
+        "cevap": "Hayır. Sanal kart limiti anlık olarak ayarlanabildiği için fiziki kartın ana limitini riske atmadan güvenli alışveriş sağlar.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 44,
         "soru": "Temassız ödemelerde şifresiz işlem limiti aşıldığında POS cihazı ne talep eder?",
-        "cevap": "İşlemin gerçekleşmesi için kart hamilinden 4 haneli PIN şifresini girmesini talep eder."
+        "cevap": "İşlemin gerçekleşmesi için kart hamilinden 4 haneli PIN şifresini girmesini talep eder.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 45,
         "soru": "Üye işyerinin müşteriden kredi kartı tek çekim ödemelerinde komisyon veya fark talep etmesi yasal mıdır?",
-        "cevap": "5464 sayılı Kanun uyarınca YASAKTIR. Üye işyeri kart hamilinden komisyon veya ilave fiyat farkı talep edemez."
+        "cevap": "5464 sayılı Kanun uyarınca YASAKTIR. Üye işyeri kart hamilinden komisyon veya ilave fiyat farkı talep edemez.",
+        "q_end": 7.51,
+        "a_start": 10.81
       },
       {
         "kart": 46,
         "soru": "Kredi kartlarında 'Hesap Kesim Tarihi' neyi belirler?",
-        "cevap": "Bir önceki dönem harcamalarının sonlandığı ve ödenmesi gereken ekstre borcunun oluştuğu tarihi belirler."
+        "cevap": "Bir önceki dönem harcamalarının sonlandığı ve ödenmesi gereken ekstre borcunun oluştuğu tarihi belirler.",
+        "q_end": 3.84,
+        "a_start": 7.14
       },
       {
         "kart": 47,
         "soru": "Kredi kartı hesap özetinde yer alan 'Son Ödeme Tarihi' hesabı kesildikten kaç gün sonradır?",
-        "cevap": "Hesap kesim tarihinden itibaren en az 10 gün sonraki tarihtir."
+        "cevap": "Hesap kesim tarihinden itibaren en az 10 gün sonraki tarihtir.",
+        "q_end": 6.74,
+        "a_start": 10.04
       },
       {
         "kart": 48,
         "soru": "Üye işyeri POS cihazından 'Gün Sonu' yapılmamasının cezai/operasyonel sonucu nedir?",
-        "cevap": "Gün sonu yapılmayan işlemler takasa iletilemez, ciro üye işyerinin hesabına zamanında aktarılamaz."
+        "cevap": "Gün sonu yapılmayan işlemler takasa iletilemez, ciro üye işyerinin hesabına zamanında aktarılamaz.",
+        "q_end": 6.7,
+        "a_start": 10.0
       },
       {
         "kart": 49,
         "soru": "POS cihazından basılan 'Slip' nüshaları kimlerde kalır ve saklama süresi ne kadardır?",
-        "cevap": "Bir nüshası kart hamiline, bir nüshası üye işyerine verilir. Üye işyeri slipleri yasal zaman aşımı süresince saklamakla yükümlüdür."
+        "cevap": "Bir nüshası kart hamiline, bir nüshası üye işyerine verilir. Üye işyeri slipleri yasal zaman aşımı süresince saklamakla yükümlüdür.",
+        "q_end": 6.29,
+        "a_start": 9.59
       },
       {
         "kart": 50,
         "soru": "NFC (Near Field Communication) Teknolojisinin bankacılık ödemelerindeki işlevi nedir?",
-        "cevap": "Yakın alan iletişimi sağlayan çipler sayesinde kartın veya akıllı telefonun POS cihazına yaklaştırılmasıyla temassız ödeme sağlar."
+        "cevap": "Yakın alan iletişimi sağlayan çipler sayesinde kartın veya akıllı telefonun POS cihazına yaklaştırılmasıyla temassız ödeme sağlar.",
+        "q_end": 6.38,
+        "a_start": 9.68
       },
       {
         "kart": 51,
         "soru": "Kredi Kartı Harcama Sözü kampanyalarında müşteri taahhüdünü bozarsa ne yapılır?",
-        "cevap": "Kazandırılan puan veya indirim tutarı kart ekstresine borç olarak yansıtılır."
+        "cevap": "Kazandırılan puan veya indirim tutarı kart ekstresine borç olarak yansıtılır.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 52,
         "soru": "6493 sayılı Kanun uyarınca Ödeme ve Elektronik Para Kuruluşlarının denetim yetkisi kime verilmiştir?",
-        "cevap": "Türkiye Cumhuriyet Merkez Bankası'na (TCMB) verilmiştir."
+        "cevap": "Türkiye Cumhuriyet Merkez Bankası'na (TCMB) verilmiştir.",
+        "q_end": 7.73,
+        "a_start": 11.03
       },
       {
         "kart": 53,
         "soru": "Yurt dışı seyahat ve konaklama harcamalarında kredi kartı taksitlendirmesi yapılabilir mi?",
-        "cevap": "BDDK kararları uyarınca yurt dışı seyahat, havayolu ve konaklama harcamalarında taksit yasağı uygulanmaktadır."
+        "cevap": "BDDK kararları uyarınca yurt dışı seyahat, havayolu ve konaklama harcamalarında taksit yasağı uygulanmaktadır.",
+        "q_end": 5.86,
+        "a_start": 9.16
       },
       {
         "kart": 54,
         "soru": "POS İşlemlerinde 'Ortak POS' ne demektir?",
-        "cevap": "Tek bir fiziki POS cihazı üzerinden birden fazla bankanın kart uygulamalarının çalıştırılmasıdır."
+        "cevap": "Tek bir fiziki POS cihazı üzerinden birden fazla bankanın kart uygulamalarının çalıştırılmasıdır.",
+        "q_end": 3.5,
+        "a_start": 6.8
       },
       {
         "kart": 55,
         "soru": "Harcama İtirazı (Dispute) başvurusunda kart sahibinin hakları nedir?",
-        "cevap": "Hatalı işlem bildiriminde banka inceleme süresince tutarı geçici olarak müşteri hesabına alabilir."
+        "cevap": "Hatalı işlem bildiriminde banka inceleme süresince tutarı geçici olarak müşteri hesabına alabilir.",
+        "q_end": 5.11,
+        "a_start": 8.41
       },
       {
         "kart": 56,
         "soru": "Kredi Kartı Ekstresi e-posta ile gönderilebilir mi?",
-        "cevap": "Müşterinin muvafakatıyla dijital ekstre (e-ekstre) olarak gönderilebilir."
+        "cevap": "Müşterinin muvafakatıyla dijital ekstre (e-ekstre) olarak gönderilebilir.",
+        "q_end": 3.89,
+        "a_start": 7.19
       },
       {
         "kart": 57,
         "soru": "Mastercard ve Visa logosu taşıyan kartların uluslararası kullanımı nasıl sağlanır?",
-        "cevap": "Uluslararası lisans ve takas ağları üzerinden tüm uyumlu POS ve ATM'lerde işlem yapar."
+        "cevap": "Uluslararası lisans ve takas ağları üzerinden tüm uyumlu POS ve ATM'lerde işlem yapar.",
+        "q_end": 5.52,
+        "a_start": 8.82
       },
       {
         "kart": 58,
         "soru": "Kredi Kartı Limiti düşürme talebi ne sürede yapılmalıdır?",
-        "cevap": "Kart hamilinin limit düşürme talepleri banka tarafından derhal ve en geç 7 gün içinde yerine getirilir."
+        "cevap": "Kart hamilinin limit düşürme talepleri banka tarafından derhal ve en geç 7 gün içinde yerine getirilir.",
+        "q_end": 4.15,
+        "a_start": 7.45
       },
       {
         "kart": 59,
         "soru": "Üye İşyeri POS Komisyon Oranı neye göre belirlenir?",
-        "cevap": "TCMB tarafından belirlenen azami oranlar tavanı dahilinde piyasa koşullarına göre belirlenir."
+        "cevap": "TCMB tarafından belirlenen azami oranlar tavanı dahilinde piyasa koşullarına göre belirlenir.",
+        "q_end": 3.91,
+        "a_start": 7.21
       },
       {
         "kart": 60,
         "soru": "Mobil Cüzdan (Digital Wallet) uygulamaları nedir?",
-        "cevap": "Kart bilgilerinin güvenli saklanarak akıllı telefonlar üzerinden QR kod veya NFC ile ödeme yapılmasıdır."
+        "cevap": "Kart bilgilerinin güvenli saklanarak akıllı telefonlar üzerinden QR kod veya NFC ile ödeme yapılmasıdır.",
+        "q_end": 3.79,
+        "a_start": 7.09
       },
       {
         "kart": 61,
         "soru": "Kredi kartı borcunun tamamı son ödeme tarihinde ödenirse faiz işler mi?",
-        "cevap": "Dönem borcunun tamamı son ödeme tarihinde ödendiğinde alışveriş harcamalarına HİÇBİR FAİZ İŞLETİLMEZ."
+        "cevap": "Dönem borcunun tamamı son ödeme tarihinde ödendiğinde alışveriş harcamalarına HİÇBİR FAİZ İŞLETİLMEZ.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 62,
         "soru": "Nakit Avans çekiminde 'Erken Ödeme' yapılması faizi düşürür mü?",
-        "cevap": "Nakit avansta faiz günlük işletildiği için erken ödeme yapıldığında işleyen gün sayısı azalır ve ödenen faiz düşer."
+        "cevap": "Nakit avansta faiz günlük işletildiği için erken ödeme yapıldığında işleyen gün sayısı azalır ve ödenen faiz düşer.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 63,
