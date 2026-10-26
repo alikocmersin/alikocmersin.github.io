@@ -2700,102 +2700,142 @@
       {
         "kart": 23,
         "soru": "Onaylanan kredi kartlarının müşterilerin ev/iş adreslerine ve şubelere gönderiminde kullanılan kurye/kargo firmaları hangileridir?",
-        "cevap": "Müşteri ev/iş adresine gönderimler Kuryenet, AGT ve PTT Kurye ile; Şubelere gönderilen kartlar ise DHL Kargo ile taşınır."
+        "cevap": "Müşteri ev/iş adresine gönderimler Kuryenet, AGT ve PTT Kurye ile; Şubelere gönderilen kartlar ise DHL Kargo ile taşınır.",
+        "q_end": 8.95,
+        "a_start": 12.25
       },
       {
         "kart": 24,
         "soru": "Şubeden kayıp/çalıntı ve geçici bloke işlemleri VIT sisteminde hangi menüden yapılır?",
-        "cevap": "VIT > Kredi Kartları > Kart Statü Güncelleme İşlemleri altında 'Şubeden Kayıp/Çalıntı ve Geçici Bloke' menüsünden yapılır."
+        "cevap": "VIT > Kredi Kartları > Kart Statü Güncelleme İşlemleri altında 'Şubeden Kayıp/Çalıntı ve Geçici Bloke' menüsünden yapılır.",
+        "q_end": 6.26,
+        "a_start": 9.56
       },
       {
         "kart": 25,
         "soru": "Yurt dışı kredi kartı harcamalarında ekstre ödeme seçenekleri nelerdir?",
-        "cevap": "Yurt dışı harcamaları için TL ve USD ekstre ödeme seçenekleri bulunmaktadır."
+        "cevap": "Yurt dışı harcamaları için TL ve USD ekstre ödeme seçenekleri bulunmaktadır.",
+        "q_end": 5.4,
+        "a_start": 8.7
       },
       {
         "kart": 26,
         "soru": "Üye işyeri tek ödeme işlemlerinde 'Komisyonlu Çalışma' ile 'Valörlü Çalışma' farkı nedir?",
-        "cevap": "Komisyonlu Çalışma: Banka komisyon keserek ciro bedelini ertesi gün öder. Valörlü Çalışma: Komisyon kesilmez, ciro belirlenen bloke gün süresi sonunda ödenir."
+        "cevap": "Komisyonlu Çalışma: Banka komisyon keserek ciro bedelini ertesi gün öder. Valörlü Çalışma: Komisyon kesilmez, ciro belirlenen bloke gün süresi sonunda ödenir.",
+        "q_end": 6.14,
+        "a_start": 9.44
       },
       {
         "kart": 27,
         "soru": "VakıfBank Ticari Kredi Kartları artı taksit kampanyalarından yararlanabilir mi?",
-        "cevap": "HAYIR. VakıfBank Ticari Kredi Kartları artı taksit kampanyalarından faydalandırılmamaktadır."
+        "cevap": "HAYIR. VakıfBank Ticari Kredi Kartları artı taksit kampanyalarından faydalandırılmamaktadır.",
+        "q_end": 5.4,
+        "a_start": 8.7
       },
       {
         "kart": 28,
         "soru": "Mevcutta Yapı Kredi (YKB) World POS'u bulunan üye işyerine VakıfBank tarafından POS tahsisi nasıl yapılır?",
-        "cevap": "World özelliği bulunmayan VakıfBank Üye İşyeri kapsamında diğer banka kartlarının kabulüne yönelik POS tahsisi yapılabilir."
+        "cevap": "World özelliği bulunmayan VakıfBank Üye İşyeri kapsamında diğer banka kartlarının kabulüne yönelik POS tahsisi yapılabilir.",
+        "q_end": 6.91,
+        "a_start": 10.21
       },
       {
         "kart": 29,
         "soru": "Mobil POS cihazının kullanım alanı ve altyapı özelliği nedir?",
-        "cevap": "Yazarkasa POS mükellefiyeti olmayan (fatura kesen) ve adreste satış yapan firmalarda (toptancılar) GSM/GPRS üzerinden kablosuz kullanılır."
+        "cevap": "Yazarkasa POS mükellefiyeti olmayan (fatura kesen) ve adreste satış yapan firmalarda (toptancılar) GSM/GPRS üzerinden kablosuz kullanılır.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 30,
         "soru": "Yeni Nesil Ödeme Kaydedici Cihazlarda (ÖKC / Yazarkasa POS) cihaz mülkiyeti kime aittir?",
-        "cevap": "Eski POS'larda cihaz sahibi banka iken, ÖKC cihazlarında mülkiyet ÜYE İŞYERİNE aittir."
+        "cevap": "Eski POS'larda cihaz sahibi banka iken, ÖKC cihazlarında mülkiyet ÜYE İŞYERİNE aittir.",
+        "q_end": 6.67,
+        "a_start": 9.97
       },
       {
         "kart": 31,
         "soru": "Doctor POS cihazı hangi tarihten itibaren kimler için zorunlu kılınmıştır?",
-        "cevap": "1 Haziran 2008 tarihinden itibaren serbest çalışan Doktor, Diş Hekimi ve Veteriner Hekimler için zorunludur."
+        "cevap": "1 Haziran 2008 tarihinden itibaren serbest çalışan Doktor, Diş Hekimi ve Veteriner Hekimler için zorunludur.",
+        "q_end": 5.4,
+        "a_start": 8.7
       },
       {
         "kart": 32,
         "soru": "Doctor POS sliplerinde standart POS sliplerinden farklı olarak hangi bilgiler yer alır?",
-        "cevap": "Vergi no, sıra no, stopaj, KDV, muayene ücreti bilgileri yer alır ve bu slip resmi serbest meslek makbuzu yerine geçer."
+        "cevap": "Vergi no, sıra no, stopaj, KDV, muayene ücreti bilgileri yer alır ve bu slip resmi serbest meslek makbuzu yerine geçer.",
+        "q_end": 5.86,
+        "a_start": 9.16
       },
       {
         "kart": 33,
         "soru": "5464 sayılı Kanun uyarınca kart hamilinin kayıp/çalıntı bildiriminden önceki zararlardan sorumluluk kuralı nedir?",
-        "cevap": "Bildirimden önceki 24 saat içindeki hukuka aykırı kullanımlardan doğan zararlardan 150 TL ile sınırlı sorumludur (ağır kusuru yoksa)."
+        "cevap": "Bildirimden önceki 24 saat içindeki hukuka aykırı kullanımlardan doğan zararlardan 150 TL ile sınırlı sorumludur (ağır kusuru yoksa).",
+        "q_end": 8.74,
+        "a_start": 12.04
       },
       {
         "kart": 34,
         "soru": "Kart hamilinin kredi kartı iptal talebi banka tarafından en geç kaç gün içinde yerine getirilmelidir?",
-        "cevap": "Müşterinin kart iptal talebinden itibaren en geç 7 gün içerisinde kartın iptal edilmesi zorunludur."
+        "cevap": "Müşterinin kart iptal talebinden itibaren en geç 7 gün içerisinde kartın iptal edilmesi zorunludur.",
+        "q_end": 6.84,
+        "a_start": 10.14
       },
       {
         "kart": 35,
         "soru": "Kredi kartında 1 takvim yılında kaç kez asgari ödeme yapılmazsa nakit çekim kapatılır, kaç kez yapılmazsa kart tamamen kapatılır?",
-        "cevap": "1 takvim yılı içinde 3 kez asgari ödeme yapılmazsa nakit çekim kapatılır; üst üste 3 kez ödenmezse mal ve hizmet alımına da (tamamen) kapatılır."
+        "cevap": "1 takvim yılı içinde 3 kez asgari ödeme yapılmazsa nakit çekim kapatılır; üst üste 3 kez ödenmezse mal ve hizmet alımına da (tamamen) kapatılır.",
+        "q_end": 7.94,
+        "a_start": 11.24
       },
       {
         "kart": 36,
         "soru": "Kartlı Ödeme Sistemlerinde 'Issuer Bank' ile 'Acquirer Bank' rolleri nelerdir?",
-        "cevap": "Issuer Bank: Müşteriye kartı basıp veren bankadır. Acquirer Bank: Üye işyerine POS cihazı sağlayan ve hesap takasını yürüten bankadır."
+        "cevap": "Issuer Bank: Müşteriye kartı basıp veren bankadır. Acquirer Bank: Üye işyerine POS cihazı sağlayan ve hesap takasını yürüten bankadır.",
+        "q_end": 5.57,
+        "a_start": 8.87
       },
       {
         "kart": 37,
         "soru": "Kartlı Ödeme Sistemlerinde Takas Komisyonu (Interchange Fee) kimden kime ödenir?",
-        "cevap": "Üye işyerinin bankasından (Acquirer) kart sahibinin bankasına (Issuer) ödenen komisyon oranını ifade eder."
+        "cevap": "Üye işyerinin bankasından (Acquirer) kart sahibinin bankasına (Issuer) ödenen komisyon oranını ifade eder.",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 38,
         "soru": "Ters İbraz (Chargeback) işleminde kart hamilinin itiraz hakkı hangi durumlarda doğar?",
-        "cevap": "Kart hamilinin bilgisi dışında yapılan sahte harcamalarda, bedeli ödendiği halde mal/hizmet teslim edilmediğinde veya hatalı çekimlerde doğar."
+        "cevap": "Kart hamilinin bilgisi dışında yapılan sahte harcamalarda, bedeli ödendiği halde mal/hizmet teslim edilmediğinde veya hatalı çekimlerde doğar.",
+        "q_end": 5.9,
+        "a_start": 9.2
       },
       {
         "kart": 39,
         "soru": "TROY markasının açılımı nedir ve kurucusu kimdir?",
-        "cevap": "Türkiye Ödeme Yöntemi'dir. BKM (Bankalararası Kart Merkezi) tarafından geliştirilmiştir."
+        "cevap": "Türkiye Ödeme Yöntemi'dir. BKM (Bankalararası Kart Merkezi) tarafından geliştirilmiştir.",
+        "q_end": 3.77,
+        "a_start": 7.07
       },
       {
         "kart": 40,
         "soru": "BKM (Bankalararası Kart Merkezi) hisse yapısında en büyük yetkili/düzenleyici otorite kimdir?",
-        "cevap": "Türkiye Cumhuriyet Merkez Bankası (TCMB) BKM'nin hakim ortağı ve düzenleyicisidir."
+        "cevap": "Türkiye Cumhuriyet Merkez Bankası (TCMB) BKM'nin hakim ortağı ve düzenleyicisidir.",
+        "q_end": 7.56,
+        "a_start": 10.86
       },
       {
         "kart": 41,
         "soru": "EMV Standardı neyi ifade eder?",
-        "cevap": "Eurocard, Mastercard ve Visa tarafından geliştirilen, kart basımında çip ve PIN güvenlik standartlarını belirleyen protokolüdür."
+        "cevap": "Eurocard, Mastercard ve Visa tarafından geliştirilen, kart basımında çip ve PIN güvenlik standartlarını belirleyen protokolüdür.",
+        "q_end": 3.19,
+        "a_start": 6.49
       },
       {
         "kart": 42,
         "soru": "3D Secure protokolünün temel amacı nedir?",
-        "cevap": "İnternet alışverişlerinde kart sahibinin cep telefonuna gelen SMS tek kullanımlık şifre ile kimlik doğrulayıp sahteciliği önlemektir."
+        "cevap": "İnternet alışverişlerinde kart sahibinin cep telefonuna gelen SMS tek kullanımlık şifre ile kimlik doğrulayıp sahteciliği önlemektir.",
+        "q_end": 3.65,
+        "a_start": 6.95
       },
       {
         "kart": 43,
