@@ -428,102 +428,142 @@
       {
         "kart": 61,
         "soru": "Disiplin cezaları türleri nelerdir?",
-        "cevap": "Uyarma, Kınama, Yükselmenin Durdurulması, Unvan İndirilmesi, İşten Çıkarma."
+        "cevap": "Uyarma, Kınama, Yükselmenin Durdurulması, Unvan İndirilmesi, İşten Çıkarma.",
+        "q_end": 3.05,
+        "a_start": 6.35
       },
       {
         "kart": 62,
         "soru": "Disiplin cezalarından hangileri unvan yükselmesini durdurmaz?",
-        "cevap": "Uyarma ve Kınama cezaları yükselmeyi durdurmaz."
+        "cevap": "Uyarma ve Kınama cezaları yükselmeyi durdurmaz.",
+        "q_end": 4.61,
+        "a_start": 7.91
       },
       {
         "kart": 63,
         "soru": "Yükselmenin Durdurulması disiplin cezasının süresi ne kadardır?",
-        "cevap": "Bulunduğu unvan bakımından yükselmenin 1 yıldan 2 yıla kadar durdurulmasıdır."
+        "cevap": "Bulunduğu unvan bakımından yükselmenin 1 yıldan 2 yıla kadar durdurulmasıdır.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 64,
         "soru": "İşten çıkarılan bir personelin mali hakları nasıl etkilenir?",
-        "cevap": "Çalıştığı dönemle ilişkili olarak ödenecek temettü, jestiyon ve sair ödemelerden yararlandırılmaz."
+        "cevap": "Çalıştığı dönemle ilişkili olarak ödenecek temettü, jestiyon ve sair ödemelerden yararlandırılmaz.",
+        "q_end": 4.27,
+        "a_start": 7.57
       },
       {
         "kart": 65,
         "soru": "01.05.2009 tarihinden sonra işe başlayan personelin kıdemine göre Yıllık Ücretli İzin süreleri nasıldır?",
-        "cevap": "1-5 yıl arası (5 dahil): 16 iş günü | 5 yıldan fazla 15 yıldan az: 22 iş günü | 15 yıl (dahil) ve üzeri: 26 iş günü."
+        "cevap": "1-5 yıl arası (5 dahil): 16 iş günü | 5 yıldan fazla 15 yıldan az: 22 iş günü | 15 yıl (dahil) ve üzeri: 26 iş günü.",
+        "q_end": 8.09,
+        "a_start": 11.39
       },
       {
         "kart": 66,
         "soru": "Banka personeline verilen Avans İzin kullanım şartı ve süresi nedir?",
-        "cevap": "6 hizmet ayını dolduran personele, 1 yılın sonunda hak edeceği iznin yarısı kadar (en fazla 8 iş günü) verilebilir."
+        "cevap": "6 hizmet ayını dolduran personele, 1 yılın sonunda hak edeceği iznin yarısı kadar (en fazla 8 iş günü) verilebilir.",
+        "q_end": 5.18,
+        "a_start": 8.48
       },
       {
         "kart": 67,
         "soru": "Yıllık izin sürelerinin hesabında resmi ve haftalık tatil günlerinin durum kuralı ne zaman değişmiştir?",
-        "cevap": "01.01.2023 tarihinden itibaren geçerli olmak üzere resmi tatil, genel tatil ve hafta tatilleri izin süresinden sayılmaz."
+        "cevap": "01.01.2023 tarihinden itibaren geçerli olmak üzere resmi tatil, genel tatil ve hafta tatilleri izin süresinden sayılmaz.",
+        "q_end": 6.65,
+        "a_start": 9.95
       },
       {
         "kart": 68,
         "soru": "Mazeret İzinleri gün sayıları nasıldır? (Evlenme, Doğum, Vefat, Taşıma)",
-        "cevap": "Evlenme: 5 iş günü | Eşin Doğumu: 10 iş günü | 1. Derece Yakın/Eş/Çocuk Vefatı: 7 iş günü | Eşin Anne/Babasının Vefatı: 3 iş günü | İl içi ev taşıma: 2 iş günü."
+        "cevap": "Evlenme: 5 iş günü | Eşin Doğumu: 10 iş günü | 1. Derece Yakın/Eş/Çocuk Vefatı: 7 iş günü | Eşin Anne/Babasının Vefatı: 3 iş günü | İl içi ev taşıma: 2 iş günü.",
+        "q_end": 5.42,
+        "a_start": 8.72
       },
       {
         "kart": 69,
         "soru": "Refakatçi Sağlık İzni süresi ve şartı nedir?",
-        "cevap": "Anne, baba, eş, çocuk ve kardeşlerin ağır hastalığında/kazasında doktor raporuyla belgelenmek kaydıyla 1 takvim yılında toplam 20 iş gününe kadar verilebilir."
+        "cevap": "Anne, baba, eş, çocuk ve kardeşlerin ağır hastalığında/kazasında doktor raporuyla belgelenmek kaydıyla 1 takvim yılında toplam 20 iş gününe kadar verilebilir.",
+        "q_end": 3.74,
+        "a_start": 7.04
       },
       {
         "kart": 70,
         "soru": "Mazeret ve idari izinlerin kullanımıyla ilgili 3 temel kural nedir?",
-        "cevap": "1. Yarım gün kullanılamaz. | 2. Parçalı olarak bölümler halinde kullanılamaz. | 3. Yıllık izinlerden mahsup edilemez."
+        "cevap": "1. Yarım gün kullanılamaz. | 2. Parçalı olarak bölümler halinde kullanılamaz. | 3. Yıllık izinlerden mahsup edilemez.",
+        "q_end": 5.11,
+        "a_start": 8.41
       },
       {
         "kart": 71,
         "soru": "3 Aralık Dünya Engelliler Günü idari izin kuralı nedir?",
-        "cevap": "Tüm engelli çalışanlara 3 Aralık Dünya Engelliler Gününde 1 iş günü ücretli idari izin verilebilir."
+        "cevap": "Tüm engelli çalışanlara 3 Aralık Dünya Engelliler Gününde 1 iş günü ücretli idari izin verilebilir.",
+        "q_end": 4.39,
+        "a_start": 7.69
       },
       {
         "kart": 72,
         "soru": "Şehit yakınları ve Gazilerin idari izin günleri hangileridir?",
-        "cevap": "Şehit yakınları 18 Mart Şehitler Gününde; Malul gaziler ve eşleri 19 Eylül Gaziler Gününde izinlidir."
+        "cevap": "Şehit yakınları 18 Mart Şehitler Gününde; Malul gaziler ve eşleri 19 Eylül Gaziler Gününde izinlidir.",
+        "q_end": 4.58,
+        "a_start": 7.88
       },
       {
         "kart": 73,
         "soru": "Müdürler tarafından zorunlu hallerde çalışanlara verilebilecek idari izin sınırı nedir?",
-        "cevap": "Bir defada 2 iş gününü geçmemek üzere 1 yılda toplam 10 iş gününe kadar verilebilir."
+        "cevap": "Bir defada 2 iş gününü geçmemek üzere 1 yılda toplam 10 iş gününe kadar verilebilir.",
+        "q_end": 6.43,
+        "a_start": 9.73
       },
       {
         "kart": 74,
         "soru": "Atanmış olan banka içi eğitimlerin sisteme giriş şekli nedir?",
-        "cevap": "Sistem üzerinden eğitim süresi kadar 'Banka İçi Eğitim İzni' olarak girilmesi gerekmektedir."
+        "cevap": "Sistem üzerinden eğitim süresi kadar 'Banka İçi Eğitim İzni' olarak girilmesi gerekmektedir.",
+        "q_end": 4.58,
+        "a_start": 7.88
       },
       {
         "kart": 75,
         "soru": "CDP (Carbon Disclosure Project) neleri ölçer?",
-        "cevap": "Şirketlerin çevresel etkilerini (sera gazı emisyonu, su kullanımı, iklim riski) ölçer ve raporlar."
+        "cevap": "Şirketlerin çevresel etkilerini (sera gazı emisyonu, su kullanımı, iklim riski) ölçer ve raporlar.",
+        "q_end": 3.94,
+        "a_start": 7.24
       },
       {
         "kart": 76,
         "soru": "Yeşil Varlık Oranı nedir?",
-        "cevap": "Sürdürülebilir/Yeşil faaliyetlerin finansmanına ayrılan varlıkların Bankanın Toplam Varlıklarına oranıdır."
+        "cevap": "Sürdürülebilir/Yeşil faaliyetlerin finansmanına ayrılan varlıkların Bankanın Toplam Varlıklarına oranıdır.",
+        "q_end": 2.52,
+        "a_start": 5.82
       },
       {
         "kart": 77,
         "soru": "KVKK (6698 Sayılı Kanun) gereğince Kişisel Veri tanımı nedir?",
-        "cevap": "Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgidir."
+        "cevap": "Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgidir.",
+        "q_end": 6.91,
+        "a_start": 10.21
       },
       {
         "kart": 78,
         "soru": "KVKK uyarınca Özel Nitelikli Kişisel Veriler nelerdir?",
-        "cevap": "Irk, etnik köken, siyasi düşünce, din, mezhep, kılık-kıyafet, dernek/sendika üyeliği, sağlık, cinsel hayat, ceza mahkumiyeti, biyometrik ve genetik verilerdir."
+        "cevap": "Irk, etnik köken, siyasi düşünce, din, mezhep, kılık-kıyafet, dernek/sendika üyeliği, sağlık, cinsel hayat, ceza mahkumiyeti, biyometrik ve genetik verilerdir.",
+        "q_end": 4.49,
+        "a_start": 7.79
       },
       {
         "kart": 79,
         "soru": "Açık rıza aranmaksızın kişisel veri işleme halleri nelerdir?",
-        "cevap": "Kanunda açıkça öngörülmesi, fiili imkansızlık, sözleşmenin kurulması/ifası, hukuki yükümlülük, alenileştirilme, hak tesisi ve meşru menfaatler."
+        "cevap": "Kanunda açıkça öngörülmesi, fiili imkansızlık, sözleşmenin kurulması/ifası, hukuki yükümlülük, alenileştirilme, hak tesisi ve meşru menfaatler.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 80,
         "soru": "VERBİS kayıt zorunluluğu kime aittir?",
-        "cevap": "KVKK uyarınca kişisel veri işleyen veri sorumlusu olan gerçek ve tüzel kişilere aittir."
+        "cevap": "KVKK uyarınca kişisel veri işleyen veri sorumlusu olan gerçek ve tüzel kişilere aittir.",
+        "q_end": 3.12,
+        "a_start": 6.42
       },
       {
         "kart": 81,
