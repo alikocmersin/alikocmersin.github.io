@@ -4684,102 +4684,142 @@
       {
         "kart": 15,
         "soru": "Vesaik Mukabili Ödeme (Cash Against Documents - CAD) işleminde uygulanan uluslararası ICC kuralları broşürü hangisidir?",
-        "cevap": "URC 522 (Uniform Rules for Collections) broşürüdür."
+        "cevap": "URC 522 (Uniform Rules for Collections) broşürüdür.",
+        "q_end": 8.33,
+        "a_start": 11.63
       },
       {
         "kart": 16,
         "soru": "Kabul Kredili Vesaik Mukabili Ödeme (D/A - Documents Against Acceptance) işleminde vesaik ithalatçıya nasıl teslim edilir?",
-        "cevap": "İthalatçı vesaik ekindeki Poliçeyi kabul edip imzalayarak (vadesinde ödemeyi taahhüt ederek) vesaiki bankadan teslim alır."
+        "cevap": "İthalatçı vesaik ekindeki Poliçeyi kabul edip imzalayarak (vadesinde ödemeyi taahhüt ederek) vesaiki bankadan teslim alır.",
+        "q_end": 8.57,
+        "a_start": 11.87
       },
       {
         "kart": 17,
         "soru": "Akreditif türlerinden 'Red Clause Akreditif' ile 'Green Clause Akreditif' arasındaki peşin avans ödeme şartı farkı nedir?",
-        "cevap": "Red Clause'da ihracatçıya sevk öncesi hiçbir şart aranmaksızın peşin avans ödenir. Green Clause'da ise avans ödenmesi için malın sevk öncesi bağımsız bir depoya teslim edilip ambar teslim makbuzunun ibrazı şarttır."
+        "cevap": "Red Clause'da ihracatçıya sevk öncesi hiçbir şart aranmaksızın peşin avans ödenir. Green Clause'da ise avans ödenmesi için malın sevk öncesi bağımsız bir depoya teslim edilip ambar teslim makbuzunun ibrazı şarttır.",
+        "q_end": 7.8,
+        "a_start": 11.1
       },
       {
         "kart": 18,
         "soru": "Transit ticarette aracı firmanın (ilk lehtar) asıl alıcıdan kendi lehine açtırdığı akreditifi teminat göstererek imalatçı lehine ikinci bir akreditif açtırmasına ne ad verilir?",
-        "cevap": "Back-to-Back (Karşılıklı) Akreditif adı verilir."
+        "cevap": "Back-to-Back (Karşılıklı) Akreditif adı verilir.",
+        "q_end": 10.2,
+        "a_start": 13.5
       },
       {
         "kart": 19,
         "soru": "Devredilebilir Akreditif (Transferable L/C) şartı nedir?",
-        "cevap": "İlk lehtarın akreditiften doğan hak ve yükümlülüklerini kısmen veya tamamen ikinci lehtarlara (üreticilere) devretmesine imkan tanıyan akreditiftir."
+        "cevap": "İlk lehtarın akreditiften doğan hak ve yükümlülüklerini kısmen veya tamamen ikinci lehtarlara (üreticilere) devretmesine imkan tanıyan akreditiftir.",
+        "q_end": 4.7,
+        "a_start": 8.0
       },
       {
         "kart": 20,
         "soru": "Belirli bir süre ve tutar dahilinde, her sevkıyat ve kullanım sonrasında yeni bir akreditif açılmasına gerek kalmadan otomatik olarak yenilenen akreditif türü hangisidir?",
-        "cevap": "Rotatif Akreditif (Revolving L/C)."
+        "cevap": "Rotatif Akreditif (Revolving L/C).",
+        "q_end": 10.06,
+        "a_start": 13.36
       },
       {
         "kart": 21,
         "soru": "Standby Letter of Credit (Teminat Akreditifi) temel işlevi nedir?",
-        "cevap": "Bir ticari ödeme aracından ziyade, borcun veya taahhüdün yerine getirilmemesi durumunda devreye giren bir banka teminat mektubu niteliğindeki garanti akreditifidir."
+        "cevap": "Bir ticari ödeme aracından ziyade, borcun veya taahhüdün yerine getirilmemesi durumunda devreye giren bir banka teminat mektubu niteliğindeki garanti akreditifidir.",
+        "q_end": 4.87,
+        "a_start": 8.17
       },
       {
         "kart": 22,
         "soru": "UCP 600 kuralları uyarınca bankaların ibraz edilen akreditif vesaikini inceleyip uygunluk veya rezerv (discrepancy) bildirmesi için azami süre kaç iş günüdür?",
-        "cevap": "İbraz gününü takip eden günden itibaren AZAMİ 5 İŞ GÜNÜ'dür."
+        "cevap": "İbraz gününü takip eden günden itibaren AZAMİ 5 İŞ GÜNÜ'dür.",
+        "q_end": 10.39,
+        "a_start": 13.69
       },
       {
         "kart": 23,
         "soru": "Akreditifli işlemlerde ibraz edilen belgelerin akreditif şartlarına veya UCP 600 kurallarına uyumsuz olması durumuna ne ad verilir?",
-        "cevap": "Rezerv (Discrepancy) adı verilir."
+        "cevap": "Rezerv (Discrepancy) adı verilir.",
+        "q_end": 8.86,
+        "a_start": 12.16
       },
       {
         "kart": 24,
         "soru": "Akreditif vesaik kontrolünde UCP 600 kurallarının uluslararası standartlarda yeknesak yorumlanmasını sağlayan kılavuz broşür hangisidir?",
-        "cevap": "ISBP 745 (International Standard Banking Practice) kılavuzudur."
+        "cevap": "ISBP 745 (International Standard Banking Practice) kılavuzudur.",
+        "q_end": 9.1,
+        "a_start": 12.4
       },
       {
         "kart": 25,
         "soru": "İBKB (İhracat Bedeli Kabul Belgesi) nedir ve hangi mevzuat uyarınca düzenlenir?",
-        "cevap": "İhracat bedellerinin yurda getirilip bankalara satıldığını tevsik eden belgedir; Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karar ve İhracat Genelgesi uyarınca düzenlenir."
+        "cevap": "İhracat bedellerinin yurda getirilip bankalara satıldığını tevsik eden belgedir; Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karar ve İhracat Genelgesi uyarınca düzenlenir.",
+        "q_end": 6.48,
+        "a_start": 9.78
       },
       {
         "kart": 26,
         "soru": "Kambiyo mevzuatı uyarınca ihracat bedellerinin yurda getirilme süresi fiili ihraç tarihinden itibaren azami kaç gündür?",
-        "cevap": "Fiili ihraç tarihinden itibaren AZAMİ 180 GÜNDÜR."
+        "cevap": "Fiili ihraç tarihinden itibaren AZAMİ 180 GÜNDÜR.",
+        "q_end": 8.4,
+        "a_start": 11.7
       },
       {
         "kart": 27,
         "soru": "Peşin İthalat transferi yapıldıktan sonra malın Türkiye'ye ithal edilmesi için yasal azami süre kaç yıldır?",
-        "cevap": "Transfer tarihinden itibaren AZAMİ 2 YIL içinde malın ithal edilmesi veya paranın yurda iade getirilmesi zorunludur."
+        "cevap": "Transfer tarihinden itibaren AZAMİ 2 YIL içinde malın ithal edilmesi veya paranın yurda iade getirilmesi zorunludur.",
+        "q_end": 7.34,
+        "a_start": 10.64
       },
       {
         "kart": 28,
         "soru": "Kredili (Vadeli / Mal Mukabili / Kabul Kredili) İthalat işlemlerinde uygulanan KKDF kesintisi oranı yüzde kaçtır?",
-        "cevap": "%6 oranında Kaynak Kullanımını Destekleme Fonu (KKDF) kesintisi uygulanır. (Peşin ithalatta KKDF %0'dır)."
+        "cevap": "%6 oranında Kaynak Kullanımını Destekleme Fonu (KKDF) kesintisi uygulanır. (Peşin ithalatta KKDF %0'dır).",
+        "q_end": 7.94,
+        "a_start": 11.24
       },
       {
         "kart": 29,
         "soru": "Orta ve uzun vadeli kredili mal ihracatından doğan poliçe ve bonoya bağlanmış alacakların rücusuz (risksiz) olarak banka/kurum tarafından satın alınmasına ne ad verilir?",
-        "cevap": "Forfaiting adı verilir."
+        "cevap": "Forfaiting adı verilir.",
+        "q_end": 10.66,
+        "a_start": 13.96
       },
       {
         "kart": 30,
         "soru": "Forfaiting ile Factoring arasındaki temel farklar nelerdir?",
-        "cevap": "Factoring kısa vadeli ve mal mukabili alacaklarda uygulanır; Forfaiting ise orta/uzun vadeli ve kambiyo senedine (poliçe/bono) bağlanmış alacaklarda uygulanır."
+        "cevap": "Factoring kısa vadeli ve mal mukabili alacaklarda uygulanır; Forfaiting ise orta/uzun vadeli ve kambiyo senedine (poliçe/bono) bağlanmış alacaklarda uygulanır.",
+        "q_end": 4.3,
+        "a_start": 7.6
       },
       {
         "kart": 31,
         "soru": "SWIFT sisteminde Müşteri Fon Transferi mesaj kodu ile Bankalararası Fon Transferi mesaj kodları sırasıyla hangileridir?",
-        "cevap": "Müşteri Fon Transferi: MT103 | Bankalararası Fon Transferi ve Kaplama: MT202 / MT202 COV."
+        "cevap": "Müşteri Fon Transferi: MT103 | Bankalararası Fon Transferi ve Kaplama: MT202 / MT202 COV.",
+        "q_end": 7.78,
+        "a_start": 11.08
       },
       {
         "kart": 32,
         "soru": "SWIFT gPI (Global Payments Innovation) teknolojisi banka müşterilerine ne tür bir kolaylık sağlar?",
-        "cevap": "Uluslararası para transferlerinin hangi muhabir bankada olduğunu, kesilen komisyonları ve alıcıya ulaşma süresini canlı uçtan uca takip etme imkanı sağlar."
+        "cevap": "Uluslararası para transferlerinin hangi muhabir bankada olduğunu, kesilen komisyonları ve alıcıya ulaşma süresini canlı uçtan uca takip etme imkanı sağlar.",
+        "q_end": 6.31,
+        "a_start": 9.61
       },
       {
         "kart": 33,
         "soru": "Mikro İhracat (ETGB - Elektronik Ticaret Gümrük Beyannamesi) sınırları tutar ve ağırlık olarak nedir?",
-        "cevap": "Gümrük müşaviri olmaksızın hızlı kargo firmalarınca düzenlenen ETGB ile 15.000 EURO tutar ve 300 KG ağırlık sınırına kadar olan ihracatlar Mikro İhracattır."
+        "cevap": "Gümrük müşaviri olmaksızın hızlı kargo firmalarınca düzenlenen ETGB ile 15.000 EURO tutar ve 300 KG ağırlık sınırına kadar olan ihracatlar Mikro İhracattır.",
+        "q_end": 7.18,
+        "a_start": 10.48
       },
       {
         "kart": 34,
         "soru": "Kambiyo Mevzuatı uyarınca 'Görünmeyen İşlemler' neleri kapsar?",
-        "cevap": "Mal ihracatı ve ithalatı dışındaki hizmet gelir/giderleri, turizm, taşımacılık, navlun, sigorta, sermaye hareketleri ve kâr transferleridir."
+        "cevap": "Mal ihracatı ve ithalatı dışındaki hizmet gelir/giderleri, turizm, taşımacılık, navlun, sigorta, sermaye hareketleri ve kâr transferleridir.",
+        "q_end": 4.44,
+        "a_start": 7.74
       },
       {
         "kart": 35,
