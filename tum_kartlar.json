@@ -4116,102 +4116,142 @@
       {
         "kart": 25,
         "soru": "Ticari Kredi Sözleşmeleri ve Teminat Belgeleri Damga Vergisine tabi midir?",
-        "cevap": "HAYIR. Bankacılık Kanunu ve Damga Vergisi Kanunu uyarınca ticari kredi sözleşmeleri ve teminat belgeleri Damga Vergisinden MUAFTIR."
+        "cevap": "HAYIR. Bankacılık Kanunu ve Damga Vergisi Kanunu uyarınca ticari kredi sözleşmeleri ve teminat belgeleri Damga Vergisinden MUAFTIR.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 26,
         "soru": "Motorlu Taşıtlar Vergisi (MTV) ile Emlak Vergisi taksit ödeme ayları hangileridir?",
-        "cevap": "MTV Taksitleri: OCAK ve TEMMUZ aylarıdır. Emlak Vergisi Taksitleri: MAYIS ve KASIM aylarıdır."
+        "cevap": "MTV Taksitleri: OCAK ve TEMMUZ aylarıdır. Emlak Vergisi Taksitleri: MAYIS ve KASIM aylarıdır.",
+        "q_end": 6.12,
+        "a_start": 9.42
       },
       {
         "kart": 27,
         "soru": "Bankalar için uygulanan Kurumlar Vergisi oranı genel şirketler oranından farklı mıdır?",
-        "cevap": "EVET. Finansal kurumlar ve bankalar için Kurumlar Vergisi oranı genel orandan daha yüksek (%30) olarak uygulanmaktadır."
+        "cevap": "EVET. Finansal kurumlar ve bankalar için Kurumlar Vergisi oranı genel orandan daha yüksek (%30) olarak uygulanmaktadır.",
+        "q_end": 5.95,
+        "a_start": 9.25
       },
       {
         "kart": 28,
         "soru": "Vergi Usul Kanunu (VUK) uyarınca banka yevmiye maddelerinin defterlere kayıt süresi azami kaç gündür?",
-        "cevap": "İşlemlerin en geç 10 GÜN içinde defterlere kaydedilmesi zorunludur (Muhasebe fişlerine dayanıyorsa azami 45 gündür)."
+        "cevap": "İşlemlerin en geç 10 GÜN içinde defterlere kaydedilmesi zorunludur (Muhasebe fişlerine dayanıyorsa azami 45 gündür).",
+        "q_end": 7.61,
+        "a_start": 10.91
       },
       {
         "kart": 29,
         "soru": "Enflasyon Muhasebesi hangi ekonomik şartlar gerçekleştiğinde uygulanır?",
-        "cevap": "Son 3 yılda Yİ-ÜFE / TÜFE artışının %100'ü ve içinde bulunulan yılda %10'u aşması durumunda finansal tablolar enflasyon düzeltmesine tabi tutulur."
+        "cevap": "Son 3 yılda Yİ-ÜFE / TÜFE artışının %100'ü ve içinde bulunulan yılda %10'u aşması durumunda finansal tablolar enflasyon düzeltmesine tabi tutulur.",
+        "q_end": 5.23,
+        "a_start": 8.53
       },
       {
         "kart": 30,
         "soru": "Şubeler Cari Hesabı (390 / 490) ne amaçla kullanılır?",
-        "cevap": "Bankanın Genel Müdürlüğü ile şubeleri veya şubelerin kendi arasındaki para ve yetki transferlerinin muhasebeleştirilmesinde kullanılır."
+        "cevap": "Bankanın Genel Müdürlüğü ile şubeleri veya şubelerin kendi arasındaki para ve yetki transferlerinin muhasebeleştirilmesinde kullanılır.",
+        "q_end": 5.81,
+        "a_start": 9.11
       },
       {
         "kart": 31,
         "soru": "Kıdem Tazminatı Tavanı yılda kaç kez ve hangi tarihlerde güncellenir?",
-        "cevap": "Yılda 2 KEZ, 1 OCAK ve 1 TEMMUZ tarihlerinde devlet memurları katsayı artışına paralel güncellenir."
+        "cevap": "Yılda 2 KEZ, 1 OCAK ve 1 TEMMUZ tarihlerinde devlet memurları katsayı artışına paralel güncellenir.",
+        "q_end": 5.18,
+        "a_start": 8.48
       },
       {
         "kart": 32,
         "soru": "Kıdem Tazminatı Karşılığı TMS 19 uyarınca nasıl hesaplanır?",
-        "cevap": "Aktüeryal değerleme yöntemleriyle gelecekte ödenecek kıdem tazminatlarının bugünkü değeri hesaplanarak Karşılık Gideri yazılır."
+        "cevap": "Aktüeryal değerleme yöntemleriyle gelecekte ödenecek kıdem tazminatlarının bugünkü değeri hesaplanarak Karşılık Gideri yazılır.",
+        "q_end": 5.02,
+        "a_start": 8.32
       },
       {
         "kart": 33,
         "soru": "Amortisman ayırma yöntemi bankalarda nasıl uygulanır?",
-        "cevap": "Duran varlıkların faydalı ömürlerine göre Eşit Paylı (Normal) veya Azalan Bakiyeler yöntemleriyle amortisman ayrılarak gider yazılır."
+        "cevap": "Duran varlıkların faydalı ömürlerine göre Eşit Paylı (Normal) veya Azalan Bakiyeler yöntemleriyle amortisman ayrılarak gider yazılır.",
+        "q_end": 3.94,
+        "a_start": 7.24
       },
       {
         "kart": 34,
         "soru": "Vergi Ziyaı Cezası hangi durumda ve ne oranda kesilir?",
-        "cevap": "Verginin zamanında beyan edilmemesi veya eksik beyan edilmesi durumunda ziyaa uğratılan verginin 1 katı oranında kesilir."
+        "cevap": "Verginin zamanında beyan edilmemesi veya eksik beyan edilmesi durumunda ziyaa uğratılan verginin 1 katı oranında kesilir.",
+        "q_end": 4.46,
+        "a_start": 7.76
       },
       {
         "kart": 35,
         "soru": "Gecikme Faizi ile Gecikme Zammı farkı nedir?",
-        "cevap": "Gecikme Faizi: Vergi tarhiyatı anında vadesine kadar geçen süre için uygulanır. Gecikme Zammı: Amme alacağının vadesinde ödenmemesi durumunda uygulanır."
+        "cevap": "Gecikme Faizi: Vergi tarhiyatı anında vadesine kadar geçen süre için uygulanır. Gecikme Zammı: Amme alacağının vadesinde ödenmemesi durumunda uygulanır.",
+        "q_end": 3.67,
+        "a_start": 6.97
       },
       {
         "kart": 36,
         "soru": "Katma Değer Vergisi (KDV) karşısında bankacılık hizmetlerinin durumu nedir?",
-        "cevap": "Bankaların BSMV konusuna giren tüm bankacılık muameleleri KDV’den KANUNEN İSTİSNADIR."
+        "cevap": "Bankaların BSMV konusuna giren tüm bankacılık muameleleri KDV’den KANUNEN İSTİSNADIR.",
+        "q_end": 6.24,
+        "a_start": 9.54
       },
       {
         "kart": 37,
         "soru": "Şüpheli Ticari Alacaklar Karşılığı VUK uyarınca ne zaman ayrılabilir?",
-        "cevap": "Alacağın dava veya icra safhasında olması ve protesto edilmiş olması şartıyla ayrılabilir."
+        "cevap": "Alacağın dava veya icra safhasında olması ve protesto edilmiş olması şartıyla ayrılabilir.",
+        "q_end": 5.23,
+        "a_start": 8.53
       },
       {
         "kart": 38,
         "soru": "Tekdüzen Hesap Planında 'Gelecek Aylara Ait Gelirler' (280/380) nasıl çalışır?",
-        "cevap": "Tahsil edilen ancak gelecek aylara/yıllara ait olan gelirlerin pasifte ertelenerek bekletildiği hesaptır."
+        "cevap": "Tahsil edilen ancak gelecek aylara/yıllara ait olan gelirlerin pasifte ertelenerek bekletildiği hesaptır.",
+        "q_end": 6.86,
+        "a_start": 10.16
       },
       {
         "kart": 39,
         "soru": "Banka Yevmiye Defteri ve Kebir Defteri onay zamanı ne zamandır?",
-        "cevap": "Açılış onayları kullanım yılından önceki son ayda (Aralık ayı); Kapanış onayları ise izleyen yılın sonuna kadar notere yaptırılır."
+        "cevap": "Açılış onayları kullanım yılından önceki son ayda (Aralık ayı); Kapanış onayları ise izleyen yılın sonuna kadar notere yaptırılır.",
+        "q_end": 4.9,
+        "a_start": 8.2
       },
       {
         "kart": 40,
         "soru": "Vergi Usul Kanununa göre 'Yeniden Değerleme Oranı' neye göre belirlenir?",
-        "cevap": "TÜİK tarafından yayımlanan Yİ-ÜFE oranlarına göre Hazine ve Maliye Bakanlığınca ilan edilir."
+        "cevap": "TÜİK tarafından yayımlanan Yİ-ÜFE oranlarına göre Hazine ve Maliye Bakanlığınca ilan edilir.",
+        "q_end": 5.06,
+        "a_start": 8.36
       },
       {
         "kart": 41,
         "soru": "Özel İletişim Vergisi (ÖİV) banka haberleşmelerinde nasıl vergilendirilir?",
-        "cevap": "Telekomünikasyon operatörlerinden alınan veri ve telefon hizmet faturalarında ÖİV kesintisi yapılır."
+        "cevap": "Telekomünikasyon operatörlerinden alınan veri ve telefon hizmet faturalarında ÖİV kesintisi yapılır.",
+        "q_end": 5.78,
+        "a_start": 9.08
       },
       {
         "kart": 42,
         "soru": "5. Grup Zarar Niteliğindeki Kredilerde karşılık oranı kaçtır?",
-        "cevap": "%100 oranında özel karşılık ayrılması BDDK kuralıdır."
+        "cevap": "%100 oranında özel karşılık ayrılması BDDK kuralıdır.",
+        "q_end": 4.58,
+        "a_start": 7.88
       },
       {
         "kart": 43,
         "soru": "BDDK ve SPK Finansal Raporlama Standartlarına uygunluk denetimini kim yapar?",
-        "cevap": "KGK yetkili Bağımsız Denetim Kuruluşları ve Bağımsız Denetçiler yapar."
+        "cevap": "KGK yetkili Bağımsız Denetim Kuruluşları ve Bağımsız Denetçiler yapar.",
+        "q_end": 5.9,
+        "a_start": 9.2
       },
       {
         "kart": 44,
         "soru": "Banka Muhasebesinde 'Kasa Fazlası' zamanaşımı süresi sonunda nereye aktarılır?",
-        "cevap": "Yasal süresi içinde sahibi çıkmayan kasa fazlaları Bankanın 'Diğer Olağanüstü Gelirler' hesabına gelir kaydedilir."
+        "cevap": "Yasal süresi içinde sahibi çıkmayan kasa fazlaları Bankanın 'Diğer Olağanüstü Gelirler' hesabına gelir kaydedilir.",
+        "q_end": 5.21,
+        "a_start": 8.51
       },
       {
         "kart": 45,
