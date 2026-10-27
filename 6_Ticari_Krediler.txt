@@ -1,0 +1,398 @@
+================================================================================
+VAKIFBANK ÜNVANDA YÜKSELME VE YETERLİK SINAVI 2026
+BÖLÜM VI: TİCARİ KREDİLER (MÜKEMMEL SINAV REHBERİ - 100 SORU TAM SET)
+TOPLAM DETAYLI SORU SAYISI: 98
+================================================================================
+
+SORU 1: 5411 sayılı Bankacılık Kanunu Madde 48 uyarınca bankacılıkta 'Kredi' sayılan temel işlemler nelerdir?
+CEVAP 1: Nakit krediler, gayrinakdi krediler (teminat mektubu, akreditif, kabul/aval), satın alınan senetler, depoda tutulan varlıklar, ters repo işlemleri ve tazmin edilen gayrinakdi krediler kanunen kredi sayılır.
+------------------------------------------------------------
+
+SORU 2: 5411 sayılı Kanun Madde 50 uyarınca banka yönetim kurulu üyeleri, denetçiler ve çalışanlarına kredi verilmesi yasağının istisnası nedir?
+CEVAP 2: Kendi aylık net ücretlerinin toplam tutarını aşmamak kaydıyla konut, taşıt veya tüketici kredisi verilmesi bu yasağın dışındadır.
+------------------------------------------------------------
+
+SORU 3: 5411 sayılı Bankacılık Kanunu Madde 54 uyarınca bir bankanın bir gerçek veya tüzel kişiye verebileceği kredi sınırı özkaynaklarının yüzde kaçıdır?
+CEVAP 3: Bir gerçek veya tüzel kişiye verilecek kredi tutarı banka özkaynaklarının %25'ini AŞAMAZ.
+------------------------------------------------------------
+
+SORU 4: 5411 sayılı Kanun uyarınca 'Risk Grubu'na verilebilecek kredi sınırı özkaynakların yüzde kaçıdır?
+CEVAP 4: Bir Risk Grubuna verilebilecek kredi tutarı banka özkaynaklarının %20'sini AŞAMAZ.
+------------------------------------------------------------
+
+SORU 5: Bankacılık Kanunu uyarınca 'Büyük Kredi' ne demektir ve bir bankanın verebileceği büyük kredilerin toplamı özkaynakların kaç katını aşamaz?
+CEVAP 5: Banka özkaynaklarının %10'u veya daha fazlasını teşkil eden krediler 'Büyük Kredi' sayılır. Büyük kredilerin toplamı banka özkaynaklarının 8 KATINI AŞAMAZ.
+------------------------------------------------------------
+
+SORU 6: Kredilendirmede 5C Kuralı neleri ifade eder?
+CEVAP 6: 1. Character (Karakter/Niyet) | 2. Capacity (Kapasite/Nakit Akışı) | 3. Capital (Sermaye/Özkaynak) | 4. Collateral (Teminat) | 5. Conditions (Ekonomik Koşullar).
+------------------------------------------------------------
+
+SORU 7: Kredilendirmede 5P Kuralı bileşenleri nelerdir?
+CEVAP 7: 1. People (İnsanlar/Yönetim) | 2. Purpose (Kredi Amacı) | 3. Payment (Ödeme Kaynağı) | 4. Protection (Güvence/Teminat) | 5. Perspective (Gelecek Vizyonu).
+------------------------------------------------------------
+
+SORU 8: Kredi Değerlendirmesinde 'İstihbarat Raporu' ne zaman güncellenmelidir?
+CEVAP 8: Kredi müşterilerinin istihbarat raporları en az YILDA 1 KEZ güncellenmek zorundadır.
+------------------------------------------------------------
+
+SORU 9: Kredi derecelendirmesinde PD (Probability of Default) ne demektir?
+CEVAP 9: Borçlunun 1 yıl içinde borcunu ödeyemeyip temerrüde düşme olasılığıdır.
+------------------------------------------------------------
+
+SORU 10: Kredi derecelendirmesinde EAD (Exposure at Default) ne anlama gelir?
+CEVAP 10: Borçlunun temerrüde düştüğü anda bankaya olan toplam borç ve risk tutarıdır.
+------------------------------------------------------------
+
+SORU 11: Kredi derecelendirmesinde LGD (Loss Given Default) neyi temsil eder?
+CEVAP 11: Temerrüt gerçekleştiğinde teminatlar düşüldükten sonra bankanın uğrayacağı net kayıp yüzdesidir.
+------------------------------------------------------------
+
+SORU 12: VakıfBank kredi organizasyonunda kredi tahsis yetki kademeleri nelerdir?
+CEVAP 12: Şube Kredi Yetkilileri, Bölge Kredi Komitesi, Genel Müdürlük Kredi Komitesi ve Yönetim Kurulu'dur.
+------------------------------------------------------------
+
+SORU 13: Borçlu Cari Hesap (BCH) nakdi kredisinin faiz tahakkuk ve tahsilat dönemleri yılın hangi aylarının sonundadır?
+CEVAP 13: BCH kredilerinde faiz 3 aylık devre sonları olan MART, HAZİRAN, EYLÜL ve ARALIK aylarının sonunda tahakkuk ettirilir.
+------------------------------------------------------------
+
+SORU 14: İskonto Kredisi ile İştira Kredisi arasındaki belediye sınırı farkı nedir?
+CEVAP 14: İskonto Kredisi borçlusu bankanın yer aldığı BELEDİYE SINIRLARI İÇİNDE bulunan senetlerin kırılmasıdır. İştira Kredisi ise borçlusu belediye sınırları DIŞINDA bulunan senetlerin satın alınmasıdır.
+------------------------------------------------------------
+
+SORU 15: Spot Kredi ile Rotatif (Rotosman) Kredi arasındaki temel faiz ve vade farkı nedir?
+CEVAP 15: Spot Kredi: Anapara, faiz oranı ve vadesi kredi kullanım anında sabitlenen ve vade sonunda tek seferde ödenen kredidir. Rotatif Kredi: Limit dahilinde istenildiği an çekilip kapatılabilen esnek kredidir.
+------------------------------------------------------------
+
+SORU 16: Taksitli Ticari Kredilerde (TTK) erken kapatma yapıldığında faiz indirimi yapılır mı?
+CEVAP 16: Evet. Erken kapatılan veya ara ödeme yapılan tutara göre iş işlememiş faiz indirimi yapılarak kredi kapatılır.
+------------------------------------------------------------
+
+SORU 17: Dövize Endeksli Kredilerde (DEK) kur artış riski kime aittir ve kredi hangi para biriminde ödenir?
+CEVAP 17: Kredi TL olarak kullandırılır ve TL ödenir; ancak kur artış riski TAMAMEN KREDİ MÜŞTERİSİNE aittir.
+------------------------------------------------------------
+
+SORU 18: Gayrinakdi Kredilerden Teminat Mektubu 'Tazmin Edildiğinde' muhasebe ve kredi riski açısından neye dönüşür?
+CEVAP 18: Muhatabın talebiyle teminat mektubu nakde çevrildiğinde, ödenen tutar banka nezdinde derhal NAKDİ KREDİYE (BCH/Tahsili Gecikmiş Alacak) dönüşür.
+------------------------------------------------------------
+
+SORU 19: Kontr-Garanti (Counter-Guarantee) mekanizması ne zaman devreye girer?
+CEVAP 19: Yurt dışındaki bir muhataba verilecek teminat mektubunda, yerel bankanın riskini garanti etmek amacıyla amir bankanın yerel bankaya verdiği karşı garantidir.
+------------------------------------------------------------
+
+SORU 20: Teminat Mektuplarında 'Süreli (Vadeli)' ile 'Süresiz (Vadesiz)' mektup farkı nedir?
+CEVAP 20: Süreli Mektup: Belirtilen son tarihe kadar tazmin edilmezse mektup hükümsüz kalır. Süresiz Mektup: Vade içermez, muhatap ibra edene kadar geçerliliğini korur.
+------------------------------------------------------------
+
+SORU 21: Geçici Teminat Mektubu ne amaçla verilir?
+CEVAP 21: İhaleye katılan firmanın ihaleyi kazanması halinde sözleşmeyi imzalamaktan vazgeçmemesini garanti etmek amacıyla verilir.
+------------------------------------------------------------
+
+SORU 22: Kesin Teminat Mektubu ne amaçla verilir?
+CEVAP 22: İhale kazanıldıktan sonra, taahhüt edilen işin veya sözleşmenin şartlara uygun yerine getirileceğini garanti etmek amacıyla verilir.
+------------------------------------------------------------
+
+SORU 23: Avans Teminat Mektubu nakde çevrilirse ne garanti edilmiş olur?
+CEVAP 23: Müteahhide verilen ön avansın amacına uygun kullanılacağını veya iş yapılmazsa avansın iade edileceğini garanti eder.
+------------------------------------------------------------
+
+SORU 24: Gümrük Teminat Mektubu nerede kullanılır?
+CEVAP 24: İthalat işlemlerinde doğacak gümrük vergisi ve resimlerin ödenmesini garanti etmek amacıyla gümrük idarelerine verilir.
+------------------------------------------------------------
+
+SORU 25: Akreditifli Ödemede (L/C) Amir, Lehtar ve Amir Banka kimlerdir?
+CEVAP 25: Amir: İthalatçı. Lehtar: İhracatçı. Amir Banka: İthalatçı adına akreditifi açan ve şartlar sağlandığında ödeme garantisi veren bankadır.
+------------------------------------------------------------
+
+SORU 26: Kabul Kredili Akreditifte bankanın üstlendiği sorumluluk nedir?
+CEVAP 26: İhracatçı tarafından çekilen vadeli poliçeyi imzalayarak (kabul ederek) vadede poliçe bedelini kayıtsız şartsız ödeyeceğini taahhüt etmesidir.
+------------------------------------------------------------
+
+SORU 27: Anapara İpoteği ile Üst Sınır İpoteği arasındaki hukuki fark nedir?
+CEVAP 27: Anapara İpoteği: Borç tutarı kesin olarak belli olan alacaklar için kurulur. Üst Sınır İpoteği: İleride doğacak, dalgalanan borçlar için azami bir limit belirlenerek kurulur.
+------------------------------------------------------------
+
+SORU 28: Gayrimenkul İpoteklerinde banka lehine tesis edilecek kredilerde azami kredi ekspertiz oranı yüzde kaçtır?
+CEVAP 28: Gayrimenkulün ekspertiz değerinin en fazla %75'i oranında kredi tahsis edilebilir.
+------------------------------------------------------------
+
+SORU 29: Ticari İşletme Rehni (TİRK) hangi sicile tescil edilerek kurulur ve neleri kapsar?
+CEVAP 29: Ticaret Siciline tescil edilerek kurulur. İşletmenin unvanı, tesisatı, araçları, makine/teçhizatı ve sınai mülkiyet haklarını kapsar.
+------------------------------------------------------------
+
+SORU 30: Taşınır Rehni (Menkul Rehni) kurulmasında zilyetlik kuralı nedir?
+CEVAP 30: Kural olarak taşınır rehninin geçerli olması için rehne konu malın zilyetliğinin alacaklı bankaya devredilmesi gerekir (Sicilli rehinler hariç).
+------------------------------------------------------------
+
+SORU 31: Müteselsil Kefalet yükümlülüğünde banka asıl borçluya başvurmadan kefile gidebilir mi? Eşin yazılı rızası şart mıdır?
+CEVAP 31: EVET, banka asıl borçluya başvurmadan doğrudan müteselsil kefilden borcun tamamını isteyebilir. Borçlar Kanunu uyarınca kefalette EŞİN YAZILI RIZASI ZORUNLUDUR.
+------------------------------------------------------------
+
+SORU 32: Adi Kefalet ile Müteselsil Kefalet arasındaki temel fark nedir?
+CEVAP 32: Adi kefalette banka önce asıl borçluya başvurup icra takibi yapmak zorundadır. Müteselsil kefalette ise doğrudan kefile başvurulabilir.
+------------------------------------------------------------
+
+SORU 33: Genel Kredi Sözleşmesi (GKS) temel niteliği nedir?
+CEVAP 33: Banka ile kredi müşterisi arasında imzalanan, açılacak tüm kredi türlerinin genel şartlarını, teminatlarını ve borçlu yükümlülüklerini kapsayan çerçeve sözleşmedir.
+------------------------------------------------------------
+
+SORU 34: Kredi sözleşmelerinde yer alan 'Cevaz Maddesi' ne imkan tanır?
+CEVAP 34: Bankaya krediyi dilediği zaman geri çağırma, dondurma ve limitleri iptal etme yetkisi verir.
+------------------------------------------------------------
+
+SORU 35: Kredi Sözleşmelerinde yer alan 'Covenant' kısıtlamaları ihlal edilirse bankanın hakkı nedir?
+CEVAP 35: Covenant ihlali durumunda banka krediyi muaccel kılma (derhal geri çağırma) ve teminatları paraya çevirme hakkına sahip olur.
+------------------------------------------------------------
+
+SORU 36: Kredilerin Sınıflandırılması Yönetmeliği uyarınca 1. Grup (Standart Krediler) gecikme süresi sınır nedir?
+CEVAP 36: Anapara veya faiz ödemesi vadesinden itibaren gecikmesi olmayan veya en fazla 30 güne kadar geciken kredilerdir.
+------------------------------------------------------------
+
+SORU 37: Kredilerin Sınıflandırılması Yönetmeliği uyarınca 2. Grup (Yakın İzlemedeki Krediler) gecikme süresi kaç gündür?
+CEVAP 37: Anapara veya faiz ödemesi vadesinden itibaren 31 GÜN İLE 90 GÜN ARASINDA geciken krediler 2. Gruba aktarılır.
+------------------------------------------------------------
+
+SORU 38: Tahsili Gecikmiş Alacak (Takipteki Kredi / NPL) statüsü kaç günlük gecikmeyle başlar ve kaçıncı gruba aktarılır?
+CEVAP 38: Gecikme süresi 90 GÜNÜ AŞTIĞINDA başlar ve kredi 3. Gruba (Tahsil İmkânı Sınırlı Krediler) aktarılır.
+------------------------------------------------------------
+
+SORU 39: Kredi Sınıflandırmasında 4. Grup Kredilerin tanımı ve gecikme süresi nedir?
+CEVAP 39: Tahsili Şüpheli Krediler olup gecikme süresi 181 GÜN İLE 365 GÜN ARASINDA olan kredilerdir.
+------------------------------------------------------------
+
+SORU 40: Kredi Sınıflandırmasında 5. Grup 'Zarar Niteliğindeki Krediler' gecikme süresi ne kadardır ve ayrılacak özel karşılık oranı yüzde kaçtır?
+CEVAP 40: Gecikme süresi 1 YILI AŞAN kredilerdir ve bu krediler için %100 ÖZEL KARŞILIK ayrılması zorunludur.
+------------------------------------------------------------
+
+SORU 41: Bankaların ayırdığı 'Özel Karşılıklar' Kurumlar Vergisi matrahından gider yazılabilir mi?
+CEVAP 41: EVET. BDDK yönetmeliğine göre ayrılan özel karşılık tutarları Kurumlar Vergisi matrahının tespitinde gider olarak indirilebilir.
+------------------------------------------------------------
+
+SORU 42: Faktoring işleminde 'Rüculu Faktoring' ile 'Rücusuz Faktoring' farkı nedir?
+CEVAP 42: Rüculu Faktoring: Alacağın ödenmeme riskinin satıcı firmaya ait olduğu faktoringtir. Rücusuz Faktoring: Alacağın ödenmeme riskini faktoring şirketinin üstlendiği türdür.
+------------------------------------------------------------
+
+SORU 43: Finansal Kiralama (Leasing) işleminde yatırım malının mülkiyeti ve kullanım hakkı kimdedir?
+CEVAP 43: Mülkiyet Leasing Şirketindedir; kullanım hakkı ise sözleşme süresince kiracı firmadadır.
+------------------------------------------------------------
+
+SORU 44: Kredi Garanti Fonu (KGF) kefalet oranları KOBİ'ler için genel olarak yüzde kaçtır?
+CEVAP 44: KGF genel olarak KOBİ kredilerinde %80 oranında devlet destekli kefalet sağlar.
+------------------------------------------------------------
+
+SORU 45: Firma Likidite Analizinde Cari Oran (Dönen Varlıklar / Kısa Vadeli Borçlar) ideal seviyesi kaçtır?
+CEVAP 45: Cari oranın ideal kabul edilen seviyesi 1,5 ile 2,0 arasındadır.
+------------------------------------------------------------
+
+SORU 46: Asit-Test (Likidite) Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?
+CEVAP 46: Stoklar çıkarılır. Formül: (Dönen Varlıklar - Stoklar) / Kısa Vadeli Yükümlülükler (İdeal seviye 1,0'dır).
+------------------------------------------------------------
+
+SORU 47: Nakit Oranı bir firmanın finansal analizinde neyi gösterir?
+CEVAP 47: Firmanın (Hazır Değerler + Menkul Kıymetler) / Kısa Vadeli Borçlar oranı olup, anında borç ödeme gücünü gösterir.
+------------------------------------------------------------
+
+SORU 48: Kaldıraç Oranı (Toplam Borç / Toplam Aktif) neyi ölçer?
+CEVAP 48: Firmanın varlıklarının ne kadarının borçlarla finanse edildiğini ölçer.
+------------------------------------------------------------
+
+SORU 49: FAVÖK (EBITDA) bir firmanın finansal analizinde neyi gösterir?
+CEVAP 49: Faiz, Amortisman ve Vergi Öncesi Kâr olup firmanın doğrudan nakit üreten esas faaliyet kârlılığını gösterir.
+------------------------------------------------------------
+
+SORU 50: Altman Z-Skoru finansal analizde neyi tahmin eder?
+CEVAP 50: Şirketlerin bilançolarındaki oranları kullanarak 2 yıl içinde İFLAS ETME RİSKİNİ tahmin eden skorlama modelidir.
+------------------------------------------------------------
+
+SORU 51: Sermaye Yeterliliği Rasyosu (SYR) hesaplamasında Özkaynaklar neye bölünür?
+CEVAP 51: Sermaye Yeterliliği Rasyosu = Özkaynaklar / Risk Ağırlıklı Varlıklar (BDDK asgari yasal sınırı %8, hedef oran %12'dir).
+------------------------------------------------------------
+
+SORU 52: Proje Finansmanı Kredisinde geri ödeme kaynağı ana teminat olarak neye dayanır?
+CEVAP 52: Firmanın mevcut bilançosundan ziyade, finanse edilen projenin GELECEKTE ÜRETECEĞİ NAKİT AKIŞINA dayanır.
+------------------------------------------------------------
+
+SORU 53: Seküritizasyon (Varlıklaşma) işleminde bankanın menkul kıymetleştirdiği varlıklar nelerdir?
+CEVAP 53: İllikit olan uzun vadeli konut kredileri, kredi kartı alacakları veya havale akışları menkul kıymete dönüştürülerek uluslararası piyasalarda satılır.
+------------------------------------------------------------
+
+SORU 54: Sendikasyon Kredilerinde lider bankanın rolü nedir?
+CEVAP 54: Kredi konsorsiyumunu kuran, şartları müzakere eden ve kredinin kullandırımını organize eden 'Arranger / Lead Manager' bankadır.
+------------------------------------------------------------
+
+SORU 55: Rotatif Kredide faiz ödeme periyotları nasıldır?
+CEVAP 55: Kredinin ana parası esnek ödenirken, faizi genellikle 3 aylık dönem sonlarında tahakkuk ettirilerek tahsil edilir.
+------------------------------------------------------------
+
+SORU 56: Kredilerde 'Muacceliyet' ne demektir?
+CEVAP 56: Sözleşme şartlarının ihlali veya gecikme nedeniyle vadesi henüz gelmemiş borçların tamamının DAHİL YAPIK VE HEMEN ÖDENMESİ GEREKEN hale gelmesidir.
+------------------------------------------------------------
+
+SORU 57: Kredi Müşterisine çekilen İhtarname süresi genel olarak kaç gündür?
+CEVAP 57: Muaccel kılınan borcun ödenmesi için ihtarname ile borçluya genel olarak 30 GÜNLÜK süre verilir.
+------------------------------------------------------------
+
+SORU 58: Teminat Mektubunda 'Muhatap' kimdir?
+CEVAP 58: Teminat mektubunun lehine düzenlendiği, garantiden yararlanan alacaklı idare veya kurumdur.
+------------------------------------------------------------
+
+SORU 59: Geçici Teminat Mektubu süresi ihalelerde genellikle ne kadardır?
+CEVAP 59: İhale kanunlarına göre geçici teminat mektupları genel olarak en az 60 veya 90 gün süreli olarak düzenlenir.
+------------------------------------------------------------
+
+SORU 60: Avans Teminat Mektubu nakde çevrilirse ne garanti edilmiş olur?
+CEVAP 60: Müteahhide verilen avansın geri ödenmesini veya işte kullanılacağını garanti eder.
+------------------------------------------------------------
+
+SORU 61: Ticari Kredi Tahsisinde 'İstihbarat Raporu' güncelleme süresi ne kadardır?
+CEVAP 61: Kredi müşterilerinin istihbarat raporları YILDA EN AZ 1 KEZ güncellenmek zorundadır.
+------------------------------------------------------------
+
+SORU 62: Gayrinakdi Kredi Komisyon oranları kim tarafından belirlenir?
+CEVAP 62: TCMB düzenlemeleri çerçevesinde riske ve piyasa koşullarına göre serbestçe belirlenir.
+------------------------------------------------------------
+
+SORU 63: Kredilerin Revizyonunda (Yenilenmesinde) kararı hangi merci verir?
+CEVAP 63: Krediyi ilk tahsis eden yetkili kredi komitesi veya onay mercii verir.
+------------------------------------------------------------
+
+SORU 64: Kredilerin Kanuni Takibe aktarılması kararını kim onaylar?
+CEVAP 64: Kredi Takip ve Hukuk birimleri değerlendirmesiyle yetkili Kredi Komitesi/Yönetim Kurulu onaylar.
+------------------------------------------------------------
+
+SORU 65: Kredi Risk Kayıtları hangi kurum nezdinde toplanır?
+CEVAP 65: Türkiye Bankalar Birliği Risk Merkezi nezdinde toplanır.
+------------------------------------------------------------
+
+SORU 66: Çek karnesi verilen ticari müşterilerin karşılıksız çek incelemesi nereden yapılır?
+CEVAP 66: TCMB ve TBB Risk Merkezi karşılıksız çek sorgulama sistemlerinden yapılır.
+------------------------------------------------------------
+
+SORU 67: Müteselsil Kefilin borçtan kurtulma zamanaşımı süresi kaç yıldır?
+CEVAP 67: Borçlar Kanunu uyarınca kefaletten doğan borçlarda zamanaşımı genel kural olarak 10 yıldır.
+------------------------------------------------------------
+
+SORU 68: İpotek tesisinde Tapu Müdürlüğüne giden banka yetkilisinin yetkisi nasıl tevsik edilir?
+CEVAP 68: Bankanın imza sirküleri ve yetki belgesi ile tevsik edilir.
+------------------------------------------------------------
+
+SORU 69: Ticari Kredi Tahsisinde 'Karşılık Ayırma' işlemi banka kârlılığını nasıl etkiler?
+CEVAP 69: Ayrılan karşılıklar gider yazıldığı için bankanın dönem net kârını doğrudan azaltır.
+------------------------------------------------------------
+
+SORU 70: Firma mali tablolarının 'Bağımsız Denetim'den geçmiş olması neyi garantiler?
+CEVAP 70: Mali tabloların Kamu Gözetimi Kurumu (KGK) ve TFRS standartlarına uygun, doğru ve güvenilir olduğunu tevsik eder.
+------------------------------------------------------------
+
+SORU 71: Kredilendirmede 'Konsantrasyon Riski' nedir?
+CEVAP 71: Kredilerin tek bir sektöre, gruba veya firmaya aşırı yoğunlaşması sonucu oluşan risktir.
+------------------------------------------------------------
+
+SORU 72: Kredi Tahsisinde 'Çapraz Satış' imkanı bankaya ne sağlar?
+CEVAP 72: Müşteriye kredi yanında POS, dışı ticaret, sigorta ve maaş protokolü satarak toplam müşteri getirisini artırmayı sağlar.
+------------------------------------------------------------
+
+SORU 73: Teminat Mektubunda 'Hükümsüzlük / İbra' ne demektir?
+CEVAP 73: Mektup süresinin dolması veya taahhüdün tamamlanması üzerine muhatabın mektup aslı iade ederek bankayı riski ihraç etmesidir.
+------------------------------------------------------------
+
+SORU 74: Gümrük Teminat Mektubu nerede kullanılır?
+CEVAP 74: İthalat işlemlerinde doğacak gümrük vergisi ve resimlerin ödenmesini garanti etmek için gümrük idarelerine verilir.
+------------------------------------------------------------
+
+SORU 75: Kredi Müşterisinin İflas etmesi durumunda bankanın alacağı ne olur?
+CEVAP 75: Tüm krediler muaccel hale gelir ve banka alacağını İflas Masasına kaydettirir; rehincilerin önceliği vardır.
+------------------------------------------------------------
+
+SORU 76: Kredi Müşterisine 'Konkordato Mühleti' verilirse banka icra takibi yapabilir mi?
+CEVAP 76: Geçici veya kesin konkordato mühleti içinde borçluya karşı kural olarak yeni icra takibi yapılamaz ve başlamış takipler durur.
+------------------------------------------------------------
+
+SORU 77: İpotekli Gayrimenkulün Sigortalanmasında 'Dain-i Mürtehin' kaydı kime düşülür?
+CEVAP 77: Krediyi veren Banka adına düşülür; yangın/afet anında tazminat öncelikle bankaya ödenir.
+------------------------------------------------------------
+
+SORU 78: Ticari Kredilerde 'Faiz Reeskontu' muhasebe kaydı ne zaman yapılır?
+CEVAP 78: Dönem sonlarında (örneğin ay veya üç aylık bilanço dönemlerinde) henüz tahsil edilmeyen işlemiş faizler için yapılır.
+------------------------------------------------------------
+
+SORU 79: Gayrinakdi Kredi Limitleri nakdi krediye dönüştürülebilir mi?
+CEVAP 79: Yetkili kredi komitesi onayı alınmak kaydıyla gayrinakdi kredi limitleri nakdi kredi limitine çevrilebilir.
+------------------------------------------------------------
+
+SORU 80: Kreditör Bankalar Konsorsiyumu tarafından sağlanan Kredi Kulübü (Club Loan) nedir?
+CEVAP 80: Sendikasyona göre daha az sayıda bankanın katılımıyla sağlanan ortak ticari kredidir.
+------------------------------------------------------------
+
+SORU 81: Kredi Tahsisinde 'Memleket İçi İtibar' ne anlama gelir?
+CEVAP 81: Firmanın piyasadaki tedarikçilerine, bankalara ve rakiplerine karşı ödeme ahlakı ve güvenirliğidir.
+------------------------------------------------------------
+
+SORU 82: Finansal Kiralama (Leasing) Kredilerinde KDV teşviki var mıdır?
+CEVAP 82: Evet. Bazı yatırım mallarının leasingle alımında indirimli KDV oranları uygulanır.
+------------------------------------------------------------
+
+SORU 83: KGF Kefaletli Kredilerde temerrüt durumunda tazmin talebi kime yapılır?
+CEVAP 83: Banka kanuni takibe başladıktan sonra kefalet tutarı kadar ödeme yapılması için KGF'ye başvurur.
+------------------------------------------------------------
+
+SORU 84: Ticari İşletme Rehninde (TİRK) işletmenin hammadde ve mamul stokları rehne dahil edilebilir mi?
+CEVAP 84: Evet, sözleşmede açıkça belirtilmek kaydıyla stoklar da rehne dahil edilebilir.
+------------------------------------------------------------
+
+SORU 85: Kredi Müşterisinin Şahıs Şirketi olması durumunda ortakların sorumluluğu nasıldır?
+CEVAP 85: Kolektif şirket ortakları şirket borçlarından şahsen ve sınırsız müteselsilen sorumludur.
+------------------------------------------------------------
+
+SORU 86: Limited Şirket ortaklarının şirket borçlarından sorumluluk sınırı nedir?
+CEVAP 86: Ortaklar şirket borçlarından sadece koymayı taahhüt ettikleri sermaye payı kadar sorumludur (Kamu borçları hariç).
+------------------------------------------------------------
+
+SORU 87: Anonim Şirketlerde yönetim kurulu üyelerinin amme alacaklarından (vergi/SGK) sorumluluğu nasıldır?
+CEVAP 87: A.Ş. yönetim kurulu üyeleri kanuni temsilci sıfatıyla ödenmeyen kamu borçlarından şahsen sorumludur.
+------------------------------------------------------------
+
+SORU 88: Kredilerde 'Karşılıklı İbraname' ne zaman düzenlenir?
+CEVAP 88: Kredi borcunun ve ferilerinin tamamen tasfiye edilip teminatların iade edilmesinden sonra tarafların birbiriyle alacak kalmadığını tevsik etmesidir.
+------------------------------------------------------------
+
+SORU 89: Ticari Kredilerde 'Kur Riski' kimin üzerindedir?
+CEVAP 89: Dövizli ve dövize endeksli kredilerde kur riski tamamen borçlu firmanın üzerindedir.
+------------------------------------------------------------
+
+SORU 90: Kredilerde 'Faiz Riski' banka açısından nasıl ortaya çıkar?
+CEVAP 90: Sabit faizli uzun vadeli kredilerin maliyetlerinin piyasa faiz artışları nedeniyle yükselmesi sonucu doğar.
+------------------------------------------------------------
+
+SORU 91: BDDK Kredi Riski Yönetmeliğinde 'Stres Testi' ne amaçla uygulanır?
+CEVAP 91: Olağanüstü makroekonomik şokların (kur/faiz artışı) banka kredi portföyü üzerindeki olası zararlarını simüle etmek amacıyla uygulanır.
+------------------------------------------------------------
+
+SORU 92: Kredi Sözleşmelerinde 'Damga Vergisi' muafiyeti var mıdır?
+CEVAP 92: Ticari kredi sözleşmeleri ve teminat belgeleri Damga Vergisinden KANUNEN MUAFTIR.
+------------------------------------------------------------
+
+SORU 93: Müteahhitlik / Taahhüt İşlerinde 'Hakediş Blokesi / Temliki' ne demektir?
+CEVAP 93: Yüklenicinin idareden alacağı gelecekteki hakediş ödemelerini bankaya kredi teminatı olarak devretmesidir (temlik).
+------------------------------------------------------------
+
+SORU 94: Kredilendirmede 'Grup Riski' izlemesi neden zorunludur?
+CEVAP 94: Aynı kontrol altında bulunan grup şirketlerinin birindeki mali krizin tüm gruba sıçrama riskini (bulaşma riski) engellemek için zorunludur.
+------------------------------------------------------------
+
+SORU 95: Ticari Kredi Tahsisinde 'Nakit Akış Projeksiyonu' neyi gösterir?
+CEVAP 95: Firmanın gelecek dönemlerdeki tahmini nakit giriş ve çıkışlarını göstererek kredinin geri ödeme kapasitesini tevsik eder.
+------------------------------------------------------------
+
+SORU 96: Kreditör Bankanın 'Hapis Hakkı' ne demektir?
+CEVAP 96: Müşterinin banka nezdindeki mevduat, menkul kıymet ve alacakları üzerinde borç ödeninceye kadar el koyma/alıkoyma hakkıdır.
+------------------------------------------------------------
+
+SORU 97: Kredi Müşterisine 'İflas Erteleme / Konkordato' ilanında bankaca ayrılacak karşılık oranı ne olur?
+CEVAP 97: Gecikme süresine ve risk grubuna göre 3., 4. veya 5. grup özel karşılık oranları uygulanır.
+------------------------------------------------------------
+
+SORU 98: VakıfBank Ticari Kredi Tahsis Biriminin ana ilkesi nedir?
+CEVAP 98: Ülke ekonomisine, üretime ve ihracata katma değer sağlayan firmaların finansman ihtiyacını basiretli bankacılık ilkeleriyle karşılamaktır.
+------------------------------------------------------------
+

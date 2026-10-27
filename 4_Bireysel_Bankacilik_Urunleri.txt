@@ -1,0 +1,406 @@
+================================================================================
+VAKIFBANK ÜNVANDA YÜKSELME VE YETERLİK SINAVI 2026
+BÖLÜM IV: BİREYSEL BANKACILIK ÜRÜNLERİ (MÜKEMMEL SINAV REHBERİ - 100 SORU TAM SET)
+TOPLAM DETAYLI SORU SAYISI: 100
+================================================================================
+
+SORU 1: 6502 sayılı Tüketicinin Korunması Hakkında Kanun (TKK) uyarınca, bireysel kredi kullanan tüketicinin Cayma Hakkı süresi kaç gündür?
+CEVAP 1: Sözleşmenin imzalandığı tarihten itibaren 14 GÜNDÜR. Tüketici hiçbir gerekçe göstermeden ve cezai şart ödemeden sözleşmeden cayabilir.
+------------------------------------------------------------
+
+SORU 2: Tüketici kredisinde cayma hakkını kullanan tüketici, anapara ve işleyen akdi faizi en geç kaç gün içinde bankaya ödemekle yükümlüdür?
+CEVAP 2: Cayma bildirimini bankaya yönelttiği tarihten itibaren EN GEÇ 30 GÜN İÇİNDE anapara ve geçen günlerin akdi faizini ödemek zorundadır.
+------------------------------------------------------------
+
+SORU 3: Tüketici kredisinde Erken Ödeme İndirimi kuralı nedir?
+CEVAP 3: Tüketici, kredisini vadesinden önce tamamen veya kısmen ödeyebilir. Banka, erken ödenen miktara göre gerekli tüm faiz ve diğer maliyet indirimlerini yapmakla yükümlüdür.
+------------------------------------------------------------
+
+SORU 4: Konut Finansmanı (Mortgage) kredilerinde tüketicinin krediyi erken kapatması durumunda bankanın talep edebileceği 'Erken Ödeme Tazminatı' üst sınırları nedir?
+CEVAP 4: Kalan vade 24 ayı aşmıyorsa erken ödenen tutarın azami %1'i; kalan vade 24 ayı aşıyorsa azami %2'sidir.
+------------------------------------------------------------
+
+SORU 5: Bireysel kredi sözleşmelerinde tüketiciden alınabilecek 'Tahsis Ücreti / Dosya Masrafı' azami sınırı nedir?
+CEVAP 5: Kullandırılan kredi anaparasının BİNDE 5'İNİ (%0,5) geçemez.
+------------------------------------------------------------
+
+SORU 6: Tüketici kredisi sözleşmelerinde Bileşik Faiz uygulanabilir mi?
+CEVAP 6: KANUNEN YASAKTIR. Tüketici kredi sözleşmelerinde (temerrüt hali dahil) kesinlikle bileşik faiz uygulanamaz, basit faiz esası uygulanır.
+------------------------------------------------------------
+
+SORU 7: Tüketici kredilerinde uygulanacak Temerrüt Faizi oranı akdi faiz oranının en fazla yüzde kaçını aşabilir?
+CEVAP 7: Temerrüt faizi oranı, sözleşmede belirlenen akdi faiz oranının %30 FAZLASINI AŞAMAZ.
+------------------------------------------------------------
+
+SORU 8: Bireysel kredi taksit gecikmesinde bankanın borcu muaccel kılabilmesi (İhtarname çekebilmesi) için aranan asgari gecikme şartı nedir?
+CEVAP 8: Birbirini izleyen EN AZ İKİ TAKSİDİN ödenmemesi ve bankanın en az 30 GÜN SÜRE vererek muacceliyet uyarısında (ihtarname) bulunması gerekir.
+------------------------------------------------------------
+
+SORU 9: Konut Finansmanı sözleşmelerinde 'Bağlı Kredi' durumunda konutun hiç veya zamanında teslim edilmemesinden bankanın sorumluluk süresi nedir?
+CEVAP 9: Konut finansmanı kuruluşu, konutun teslim edilmemesi durumunda konutun teslim tarihinden itibaren AZAMİ 1 YIL SÜREYLE müteselsilen sorumludur.
+------------------------------------------------------------
+
+SORU 10: Tüketici kredilerinde üçüncü şahıslar tarafından verilen şahsi teminatlar (kefaletler) hukuken hangi kefalet türünde sayılır?
+CEVAP 10: Tüketici Kanunu uyarınca aksi açıkça belirtilmedikçe verilen şahsi teminatlar 'ADİ KEFALET' sayılır.
+------------------------------------------------------------
+
+SORU 11: Adi Kefalet durumunda banka doğrudan kefile başvurabilir mi?
+CEVAP 11: HAYIR. Banka önce asıl borçluya başvurmak ve takip yapmak zorundadır; borç asıl borçludan tahsil edilemezse kefile başvurulabilir.
+------------------------------------------------------------
+
+SORU 12: Bireysel kredi değerlendirmesinde 'Gelir Tespiti' yapılırken esas alınan kural nedir?
+CEVAP 12: Resmi olarak belgelenebilir ve doğrulanabilir gelir (maaş bordrosu, SGK dökümü, vergi levhası vb.) esas alınır. Belgelenemeyen beyan usulü gelirler KESİNLİKLE dikkate alınmaz.
+------------------------------------------------------------
+
+SORU 13: Konut Kredilerinde kullandırılacak azami kredi tutarı konutun ekspertiz değerinin en fazla yüzde kaçı olabilir?
+CEVAP 13: Gayrimenkulün BDDK/SPK yetkili değerleme uzmanlarınca belirlenen ekspertiz değerinin AZAMİ %75'İ kadar kredi kullandırılabilir.
+------------------------------------------------------------
+
+SORU 14: Konut Kredilerinde hazırlanan Ekspertiz Raporunun bir örneği müşteriye ne zaman verilmelidir?
+CEVAP 14: Müşterinin talebi üzerine ekspertiz raporunun bir örneği EN GEÇ 2 İŞ GÜNÜ İÇİNDE müşteriye verilmek zorundadır.
+------------------------------------------------------------
+
+SORU 15: Taşıt Kredilerinde satın alınan araç üzerine teminat tesisi ve sigorta işlemleri nasıl yürütülür?
+CEVAP 15: E-rehin sistemi üzerinden araç ruhsatına banka lehine rehin işlenir ve araç üzerine 'Dain ve Mürtehin' sıfatıyla Kasko sigortası yaptırılır.
+------------------------------------------------------------
+
+SORU 16: Ek Hesap (KMH - Kredili Mevduat Hesabı) faiz işletim esası nasıldır?
+CEVAP 16: Kullanılan anapara bakiyesi üzerinden GÜNLÜK BAZDA akdi faiz işletilir. İlgili faiz tutarı üzerinden BSMV (%5 veya güncel oran) ve KKDF (%15) vergileri kesilir.
+------------------------------------------------------------
+
+SORU 17: OYAK üyelerine sağlanan özel bireysel kredi avantajları nelerdir?
+CEVAP 17: Protokol kapsamında OYAK üyelerine özel düşük faizli ihtiyaç kredisi ve OYAK birikimi/maaşı teminatlı Ek Hesap imkanları sunulmaktadır.
+------------------------------------------------------------
+
+SORU 18: Cebe Para Gönder (Kartsız ATM Çekimi) işleminde alıcının parayı çekebilmesi için hangi bilgileri ATM'ye girmesi gerekir?
+CEVAP 18: Alıcının kendi TCKN'si, gönderenin cep telefonu numarası, SMS ile gelen geçici şifre ve çekilecek tutar bilgilerini girmesi gerekir.
+------------------------------------------------------------
+
+SORU 19: Çeyiz Hesabı ve Konut Hesabı devlet katkısı teşviklerinden kimler yararlanabilir?
+CEVAP 19: Düzenli birikim yapan Türk vatandaşları; ilk evliliklerinde (Çeyiz Hesabı) veya ilk konut alımlarında (Konut Hesabı) Devlet Katkısı teşvikinden yararlanabilir.
+------------------------------------------------------------
+
+SORU 20: Tüketici Sözleşmelerinde 'Zorunlu Sigorta' yaptırılması kuralı nedir?
+CEVAP 20: Tüketicinin yazılı veya kalıcı veri saklayıcısı aracılığıyla AÇIK TALEBİ OLMAKSIZIN krediyle ilgili sigorta yaptırılamaz.
+------------------------------------------------------------
+
+SORU 21: Tüketici kredi çekerken bankanın sunduğu sigorta yerine dışarıdan sigorta getirebilir mi?
+CEVAP 21: EVET. Tüketici, kredinin teminatı olarak bankanın sunduğu sigorta poliçesi yerine aynı teminatları içeren dışarıdan aldığı poliçeyi getirebilir ve banka kabul etmek zorundadır.
+------------------------------------------------------------
+
+SORU 22: Kredi Hayat Sigortasının temel amacı nedir?
+CEVAP 22: Kredi kullanan sigortalının vefatı veya maluliyeti halinde kalan kredi borcunun sigorta şirketi tarafından kapatılarak mirasçıların borç yükünden korunmasıdır.
+------------------------------------------------------------
+
+SORU 23: Zorunlu Deprem Sigortası (DASK) poliçesi olmadan konut kredisi kullandırılabilir mi?
+CEVAP 23: HAYIR. Konut finansmanı ve konut kredisi kullandırımında DASK poliçesinin bulunması KANUNİ ZORUNLULUKTUR.
+------------------------------------------------------------
+
+SORU 24: Tarım Sigortaları Havuzu (TARSİM) kapsamında Devlet Prim Desteği oranı genel olarak yüzde kaçtır?
+CEVAP 24: TARSİM sigorta priminin %50'si (don riskinde %60'a kadar) Devlet tarafından hibe olarak karşılanır.
+------------------------------------------------------------
+
+SORU 25: Bireysel Emeklilik Sisteminde (BES) Devlet Katkısı oranı yüzde kaçtır ve bir yılda alınabilecek azami katkı sınırı nedir?
+CEVAP 25: Katılımcının ödediği katkı payının %30'u oranında Devlet Katkısı ödenir. Yıllık azami devlet katkısı tutarı o yılki YILLIK BRÜT ASGARİ ÜCRETİN %30'UNU AŞAMAZ.
+------------------------------------------------------------
+
+SORU 26: BES'te Devlet Katkısının tamamına (%100) hak kazanabilmek için sistemde aranan şartlar nelerdir?
+CEVAP 26: Sistemde en az 10 YIL kalmak ve 56 YAŞINI DOLDURMAKTIR (veya vefat/maluliyet hali).
+------------------------------------------------------------
+
+SORU 27: BES'te devlet katkısı kademeli hakediş oranları 3., 6. ve 10. yıllarda yüzde kaçtır?
+CEVAP 27: 3 yıl kalanlar: %15 | 6 yıl kalanlar: %35 | 10 yıl kalanlar (56 yaş dolmadan): %60 hakediş elde eder.
+------------------------------------------------------------
+
+SORU 28: BES katılımcısının 1 takvim yılı içinde kaç kez fon dağılımı değiştirme hakkı vardır?
+CEVAP 28: Katılımcının 1 yılda AZAMİ 12 KEZ fon dağılımını değiştirme hakkı bulunmaktadır.
+------------------------------------------------------------
+
+SORU 29: BES Otomatik Katılım Sistemine (OKS) kimler dahil edilir ve maaştan kesinti oranı nedir?
+CEVAP 29: 45 yaşını doldurmamış tüm çalışanlar işverenleri aracılığıyla otomatik dahil edilir. Çalışanın prime esas kazancının (PEK) EN AZ %3'Ü oranında kesinti yapılır.
+------------------------------------------------------------
+
+SORU 30: BES Otomatik Katılım Sisteminde (OKS) çalışanın sistemden 'Cayma Hakkı' süresi kaç aydır?
+CEVAP 30: Çalışanın sisteme dahil edildiği bildirimden itibaren 2 AY içinde cayma hakkı bulunmaktadır (2 ay içinde cayarsa kesintiler iade edilir).
+------------------------------------------------------------
+
+SORU 31: Bireysel Kredilerde 'Kredi Tahsis Ücreti / Dosya Masrafı' iadesi hangi durumlarda talep edilebilir?
+CEVAP 31: Kanuni binde 5 (%0,5) tavanı aşan tutarlar veya haksız alınan masraflar Tüketici Hakem Heyeti veya mahkeme kararıyla iade alınabilir.
+------------------------------------------------------------
+
+SORU 32: Tüketici Hakem Heyetine başvuru kararları bağlayıcı mıdır?
+CEVAP 32: EVET. Tüketici Hakem Heyetlerinin kararları ilam (mahkeme kararı) niteliğindedir ve taraflar için bağlayıcıdır; 15 gün içinde Tüketici Mahkemesine itiraz edilebilir.
+------------------------------------------------------------
+
+SORU 33: İhtiyaç Kredilerinde BDDK tarafından belirlenen azami vade sınırları kredinin tutarına göre nasıl uygulanır?
+CEVAP 33: BDDK kararları doğrultusunda kredi tutarına göre (örneğin 50 bin TL altı 36 ay, 50-100 bin TL arası 24 ay, 100 bin TL üzeri 12 ay) azami vade sınırları uygulanır.
+------------------------------------------------------------
+
+SORU 34: Eşit taksitli tüketici kredisi ödeme planlarında ilk taksitlerde ve son taksitlerde anapara/faiz dağılımı nasıldır?
+CEVAP 34: İlk taksitlerde toplam borç yüksek olduğu için faiz payı yüksek anapara payı düşüktür; sona doğru anapara düştükçe faiz payı azalır ve anapara payı yükselir.
+------------------------------------------------------------
+
+SORU 35: Kredi kartından veya KMH'dan Nakit Avans çekildiğinde faiz ne zaman işlemeye başlar?
+CEVAP 35: Nakit çekimin yapıldığı GÜNDEN İTİBAREN günlük faiz işletilmeye başlar.
+------------------------------------------------------------
+
+SORU 36: Konut Finansmanında Değişken Faizli Kredi seçeneğinde faiz oranları neye göre güncellenir?
+CEVAP 36: TCMB veya TÜİK tarafından ilan edilen resmi endekslere (TÜFE/Yİ-ÜFE) bağlı olarak sözleşmede belirlenen periyotlarda güncellenir.
+------------------------------------------------------------
+
+SORU 37: İkinci el taşıt kredisinde kaskolu araçların kredi tutarı oranları kaskonun değerine göre nasıl uygulanır?
+CEVAP 37: BDDK kararları doğrultusunda aracın kasko değerine göre kademeli (örneğin 400 bin TL'ye kadar %70, üzeri için düşen oranlarda) kredi kullandırılır.
+------------------------------------------------------------
+
+SORU 38: Bireysel Kredi borçlusunun vefatı halinde Kredi Hayat Sigortası yoksa borç kime kalır?
+CEVAP 38: Vefat eden kişinin borcu yasal mirasçılarına geçer (Mirasçılar reddi miras yapmamışsa borçtan sorumludurlar).
+------------------------------------------------------------
+
+SORU 39: Tüketici Kredisi Ön Bilgilendirme Formunun verilmesi sözleşme yapma zorunluluğu getirir mi?
+CEVAP 39: HAYIR. Ön bilgilendirme formu tüketiciye teklif niteliğindedir; tüketiciyi sözleşme yapmaya zorlamaz.
+------------------------------------------------------------
+
+SORU 40: Konut Kredilerinde 'Dain-i Mürtehin' kaydı poliçede ne sağlar?
+CEVAP 40: Hasar veya vefat durumunda sigorta tazminatının öncelikle kredi alacaklısı olan Bankaya ödenmesini sağlar.
+------------------------------------------------------------
+
+SORU 41: KMH borcunun ödenmemesi durumunda hesaba uygulanan faiz oranı nedir?
+CEVAP 41: KMH borcunun ödenmeyen kısmı için TCMB tarafından belirlenen azami gecikme faizi uygulanır.
+------------------------------------------------------------
+
+SORU 42: Bireysel Kredilerde Hakem Heyetine e-Devlet üzerinden hangi sistemle başvuru yapılır?
+CEVAP 42: Tüketici Bilgi Sistemi (TÜBİS) üzerinden e-Devlet kapısıyla başvuru yapılır.
+------------------------------------------------------------
+
+SORU 43: Bireysel Kredilerde 'Yeniden Yapılandırma (Refinansman)' yapıldığında eski sözleşme kapanır mı?
+CEVAP 43: Evet. Eski kredi borcu yeni yapılandırma kredisiyle tamamen kapatılır ve yeni ödeme planı açılır.
+------------------------------------------------------------
+
+SORU 44: Tüketici Kredisinde cayma hakkı kullanıldığında 3. kişilere ödenen ekspertiz veya ipotek ücreti iade edilir mi?
+CEVAP 44: Hayır. Cayma hakkı kullanılsa dahi banka tarafından 3. kişilere (noter, tapu, ekspertiz firması) ödenmiş olan resmi masraflar tüketiciden tahsil edilir.
+------------------------------------------------------------
+
+SORU 45: Konut Kredisinde ekspertiz değerinin %75'i sınırını aşan durumlarda ilave teminat alınabilir mi?
+CEVAP 45: Evet. İlave gayrimenkul ipoteği veya teminat alınarak kredi tutarı artırılabilir.
+------------------------------------------------------------
+
+SORU 46: Kasko Sigortasında 'Muafiyetli Kasko' ne sağlar?
+CEVAP 46: Hasarın belirli bir yüzdesini sigortalının üstlenmesi kaydıyla daha düşük primle kasko yaptırılmasını sağlar.
+------------------------------------------------------------
+
+SORU 47: TARSİM sigortasında Bitkisel Ürün Sigortası hangi riskleri kapsar?
+CEVAP 47: Dolu, fırtına, hortum, yangın, deprem, heyelan, sel ve don risklerini kapsar.
+------------------------------------------------------------
+
+SORU 48: BES'te emeklilik hakkı kazanan katılımcı birikimlerini nasıl alabilir?
+CEVAP 48: Toplu para olarak alabileceği gibi Esnek Ödeme Planı veya Yıllık Gelir Sigortası ile maaş şeklinde de alabilir.
+------------------------------------------------------------
+
+SORU 49: Konut Finansmanı kredilerinde faiz oranları sözleşme süresince banka tarafından tek taraflı artırılabilir mi?
+CEVAP 49: Sabit faizli konut kredilerinde faiz oranı tüketici aleyhine TEK TARAFLI DEĞİŞTİRİLEMEZ.
+------------------------------------------------------------
+
+SORU 50: Bireysel Kredilerde borçlunun adresine gönderilen hesap özetleri ücrete tabi midir?
+CEVAP 50: Finansal tüketicinin tercih ettiği elektronik ekstreler ücretsizdir; posta ile fiziki ekstre talebinde makul posta masrafı alınabilir.
+------------------------------------------------------------
+
+SORU 51: Tüketici Kredisi Sözleşmesinin bir nüshasının tüketiciye verilmesi zorunlu mudur?
+CEVAP 51: Evet. İmzalı sözleşmenin bir nüshasının kağıt üzerinde veya kalıcı veri saklayıcısı ile tüketiciye verilmesi zorunludur.
+------------------------------------------------------------
+
+SORU 52: İhtiyaç Kredilerinde müşteri onay verirse maaş hesabı üzerine bloke/temlik konulabilir mi?
+CEVAP 52: Sözleşmede açıkça hüküm bulunması ve müşterinin rızası kaydıyla maaş hesabı üzerinden taksit kesinti muvafakati alınabilir.
+------------------------------------------------------------
+
+SORU 53: Taşıt Kredisi ile alınan aracın satılması için ne gereklidir?
+CEVAP 53: Aracın üzerindeki banka e-rehin kaydının kredi kapatılarak kaldırılması (terkin edilmesi) gereklidir.
+------------------------------------------------------------
+
+SORU 54: Konut Kredisi Erken Ödeme İndirimi hesaplanırken hangi faiz esas alınır?
+CEVAP 54: Erken ödenen anapara tutarına göre VUK ve BDDK kuralı uyarınca henüz vadesi gelmemiş işlenmemiş faizler düşülür.
+------------------------------------------------------------
+
+SORU 55: Bireysel Müşterinin KKB (Kredi Kayıt Bürosu) risk raporunda 'Gecikmedeki Hesaplar' kaç gün sonra görünür?
+CEVAP 55: 30 günü aşan taksit gecikmeleri KKB raporunda gecikmeli hesap olarak görünmeye başlar.
+------------------------------------------------------------
+
+SORU 56: Bireysel Kredi kartı veya tüketici kredisi borcundan dolayı idari takibe düşen müşterinin borcu ne zaman icraya aktarılır?
+CEVAP 56: Gecikme süresi 90 günü tamamladığında ve ihtarname süresi dolduğunda kanuni takibe (icraya) aktarılır.
+------------------------------------------------------------
+
+SORU 57: Tüketici Kredisinde 'Kredi Hayat Sigortası' prim tutarı neye göre belirlenir?
+CEVAP 57: Kredi tutarı, kredi vadesi, müşterinin yaşı ve sağlık durumuna göre aktüeryal olarak belirlenir.
+------------------------------------------------------------
+
+SORU 58: BES Otomatik Katılım Sisteminde (OKS) Devlet Katkısı başlangıç bonusu ne kadardır?
+CEVAP 58: Sistemde kalan çalışanlara bir defaya mahsus 1.000 TL ilave başlangıç Devlet Katkısı verilir.
+------------------------------------------------------------
+
+SORU 59: Konut Hesabı devlet katkısı alabilmek için konutun ne zaman alınması gerekir?
+CEVAP 59: Asgari 3 yıl düzenli birikim yapıldıktan sonra tapu alım tarihinden itibaren 6 ay içinde başvurularak alınır.
+------------------------------------------------------------
+
+SORU 60: Çeyiz Hesabı devlet katkısı alabilmek için evlilik yaş sınırı kaçtır?
+CEVAP 60: 27 yaşını doldurmadan önce ilk evliliğin yapılması şarttır.
+------------------------------------------------------------
+
+SORU 61: Bireysel Kredi taksit ödeme gününün tatil gününe rastlaması durumunda ne olur?
+CEVAP 61: Taksit ödeme günü takip eden ilk iş gününe sarkar ve gecikme faizi işletilmez.
+------------------------------------------------------------
+
+SORU 62: Tüketici Kredisi Sözleşmelerinde 'Haksız Şart' ne demektir?
+CEVAP 62: Tüketiciyle müzakere edilmeden sözleşmeye konulan ve tüketici aleyhine dengesizlik yaratan sözleşme maddeleri hükümsüzdür.
+------------------------------------------------------------
+
+SORU 63: Konut Finansmanında 'Ekspertiz Şirketinin' niteliği ne olmalıdır?
+CEVAP 63: SPK veya BDDK tarafından gayrimenkul değerleme lisansı verilmiş bağımsız değerleme kuruluşu olmalıdır.
+------------------------------------------------------------
+
+SORU 64: Taşıt Kredilerinde kasko sigortasında 'Zeyilname' ne zaman düzenlenir?
+CEVAP 64: Poliçe şartlarında, araç plakasında veya teminat tutarında değişiklik olduğunda düzenlenir.
+------------------------------------------------------------
+
+SORU 65: KMH Hesabının kapatılması talebi müşteriden nasıl alınır?
+CEVAP 65: Müşterinin yazılı talebi veya dijital onayıyla KMH borcu sıfırlandıktan sonra hesap kapatılır.
+------------------------------------------------------------
+
+SORU 66: Bireysel Kredilerde 'Müşterek Borçlu ve Müteselsil Kefil' olan kişinin hakları borçluyla aynı mıdır?
+CEVAP 66: Evet. Müteselsil kefil borçluyla aynı derecede sorumludur ve tüm bildirimler kendisine de yapılır.
+------------------------------------------------------------
+
+SORU 67: Bireysel Kredilerde 'Kredi Kapama Dekontu' ücrete tabi midir?
+CEVAP 67: Kredi borcu kapandığında verilen borcu yoktur yazısı ve kapama dekontu KANUNEN ÜCRETSİZDİR.
+------------------------------------------------------------
+
+SORU 68: Tüketici Kredilerinde 'Gecikme Bildirimi' SMS mesajı ücretlendirilebilir mi?
+CEVAP 68: Tüketiciye yapılan yasal gecikme uyarı bildirimlerinden ekstra ücret talep edilemez.
+------------------------------------------------------------
+
+SORU 69: Konut Kredisi ile alınan gayrimenkulün üçüncü şahsa satılması durumunda kredi devredilebilir mi?
+CEVAP 69: Bankanın onayı ve yeni alıcının kredibilitesinin uygun bulunması şartıyla kredi borcu devredilebilir.
+------------------------------------------------------------
+
+SORU 70: Taşıt Kredisinde 'Yedek Anahtar' bankada saklanır mı?
+CEVAP 70: Hayır. Taşıt kredilerinde aracın yedek anahtarı ruhsat sahibi müşteride kalır; teminat e-rehinle sağlanır.
+------------------------------------------------------------
+
+SORU 71: Bireysel Kredilerde 'Yapılandırma Kredisi' kullandırıldığında KKB skoru nasıl etkilenir?
+CEVAP 71: Kredi yapılandırma kaydı KKB sistemine yansır ve finansal kurumlarca risk değerlendirmesinde dikkate alınır.
+------------------------------------------------------------
+
+SORU 72: DASK Poliçesi adres bilgisi Tapu kayıtlarıyla uyuşmazsa ne yapılır?
+CEVAP 72: DASK poliçesinde tapu mahalle, ada, parsel ve bağımsız bölüm numaralarının birebir uyuşması şarttır; uyuşmazsa zeyil yapılır.
+------------------------------------------------------------
+
+SORU 73: Bireysel Emeklilik Sisteminde (BES) emeklilik haricinde sistemden ayrılma (Ayrılma / İştira) durumunda ne kesilir?
+CEVAP 73: Sistemden erken ayrılanlardan devlet katkısı hakediş oranına göre kesinti ve neması üzerinden Gelir Vergisi (Stopaj) kesintisi yapılır.
+------------------------------------------------------------
+
+SORU 74: BES'ten 10 yıl kalıp 56 yaşını doldurmadan ayrılan bir katılımcının elde ettiği irat (getiri) üzerinden kesilen stopaj oranı yüzde kaçtır?
+CEVAP 74: 10 yıl kalıp 56 yaşını doldurmadan ayrılanlarda irat üzerinden %10 stopaj kesilir (Emekli olanlarda %5'tir).
+------------------------------------------------------------
+
+SORU 75: Otomatik Fatura Ödemelerinde fatura tutarının hatalı çekilmesi durumunda sorumluluk kımde olur?
+CEVAP 75: Fatura kurumunun sisteme hatalı bakiye iletmesi durumunda düzeltme ilgili kurum kanalıyla yapılır; banka altyapı transferini sağlar.
+------------------------------------------------------------
+
+SORU 76: Bireysel Kredilerde 'Kayıp/Çalıntı Sigortası' cüzdan çalınmasını kapsar mı?
+CEVAP 76: Poliçe şartlarına göre kartla birlikte çalınan cüzdan, kimlik yenileme ve nakit hırsızlığı teminatları sunulabilir.
+------------------------------------------------------------
+
+SORU 77: Konut Finansmanı kredilerinde sabit faizli kredinin değişken faizli krediye dönüştürülmesi mümkün müdür?
+CEVAP 77: Tarafların karşılıklı mutabakatı ve sözleşme revizyonu ile mümkündür.
+------------------------------------------------------------
+
+SORU 78: Tüketici Kredisi cayma bildiriminde tüketicinin imza atması zorunlu mudur?
+CEVAP 78: Dilekçeyle başvuruda ıslak imza; mobil/internet bankacılığında ise güvenli dijital onay zorunludur.
+------------------------------------------------------------
+
+SORU 79: Bireysel Kredi taksitinde 'Anapara Tatili / Ödemesiz Dönem' ne demektir?
+CEVAP 79: Kredi başlangıcında belirli bir süre (örneğin 3 veya 6 ay) anapara ödemesinin ertelenip sadece faiz ödenmesi veya tamamen ödemesiz geçilmesidir.
+------------------------------------------------------------
+
+SORU 80: Taşıt Kredisinde kasko sigortası yenilenmezse banka ne yapabilir?
+CEVAP 80: Sözleşme hükmü uyarınca banka müşteri adına kasko poliçesini re'sen yenileyip prim tutarını müşteri hesabına borç kaydedebilir.
+------------------------------------------------------------
+
+SORU 81: Konut Kredisi kullanan tüketicinin bina deprem hasarında DASK tazminatı kime ödenir?
+CEVAP 81: Dain-i mürtehin sıfatıyla öncelikle krediyi veren Bankaya ödenir; kalan bakiye konut sahibine aktarılır.
+------------------------------------------------------------
+
+SORU 82: Tüketici Kredilerinde 'Hayat Sigortası İptali' müşteri talebiyle yapılabilir mi?
+CEVAP 82: Tüketici dilerse sigortayı iptal ettirebilir; ancak banka kredi riskine karşılık yeni bir teminat veya kalıcı veri saklayıcısı onayı talep edebilir.
+------------------------------------------------------------
+
+SORU 83: Bireysel Emeklilik Sisteminde 'Devlet Katkısı Hesabı' fonları nasıl yatırıma yönlendirilir?
+CEVAP 83: Devlet katkısı fonları Hazine borçlanma araçları ve TL mevduat/katılım hesaplarından oluşan güvenli devlet katkısı fonlarında değerlendirilir.
+------------------------------------------------------------
+
+SORU 84: BES'te 'Toplu Para' yerine 'Yıllık Gelir Sigortası' seçilirse avantajı nedir?
+CEVAP 84: Katılımcıya ömür boyu veya belirli bir süre düzenli emekli aylığı ödenmesini garanti eder.
+------------------------------------------------------------
+
+SORU 85: Kredi Kartından çekilen 'Taksitli Nakit Avans' ihtiyaç kredisi sayılır mı?
+CEVAP 85: Tüketici Kanunu uyarınca taksitli nakit avans işlemleri tüketici kredisi hükümlerine tabidir.
+------------------------------------------------------------
+
+SORU 86: Bireysel Kredide 'Vefat Eden Borçlunun Borcu' Hayat Sigortası limitini aşarsa ne olur?
+CEVAP 86: Aşan borç kısmı yasal mirasçılara kalır.
+------------------------------------------------------------
+
+SORU 87: Konut Kredisi kullandırımında tapuda 'İpotek Tesis Ücreti' alınabilir mi?
+CEVAP 87: Yalnızca Tapu Müdürlüğü'ne 3. şahıs resmi masrafı olarak ödenen döner sermaye harcı tüketiciden alınır.
+------------------------------------------------------------
+
+SORU 88: Tüketici Kredilerinde 'Erken Kapama Dekontunda' BSMV ve KKDF nasıl yer alır?
+CEVAP 88: Erken kapama anındaki net anapara ve işleyen günün faizi üzerinden vergi ve fon tahakkuk ettirilir.
+------------------------------------------------------------
+
+SORU 89: Bireysel Müşterinin bankaya beyan ettiği adresin 'MERNİS Adresi' ile uyuşması şart mıdır?
+CEVAP 89: Hesap ve kredi açılışlarında MERNİS adresi resmi yerleşim yeri adresi olarak esas alınır.
+------------------------------------------------------------
+
+SORU 90: Tüketici Kredisinde 'Kullanım Tarihi ile İlk Taktis Tarihi' arasındaki azami süre kaç gündür?
+CEVAP 90: İlk taksit tarihi genellikle kredi kullanım tarihinden itibaren azami 30 ila 45 gün sonrası olarak belirlenir.
+------------------------------------------------------------
+
+SORU 91: Konut Finansmanı kredilerinde gayrimenkulün 'Mesken / Konut' ruhsatlı olması şart mıdır?
+CEVAP 91: Evet. Tapuda mesken/konut niteliği taşımayan büro/arsa gibi gayrimenkullere konut kredisi verilemez.
+------------------------------------------------------------
+
+SORU 92: Tüketici Hakem Heyetine başvuruda zaman aşımı süresi var mıdır?
+CEVAP 92: Tüketici işlemlerinden doğan uyuşmazlıklarda genel hak arama zamanaşımı süreleri uygulanır.
+------------------------------------------------------------
+
+SORU 93: Bireysel Kredilerde 'Maaş Muvafakatı' icra dairesi olmaksızın geçerli midir?
+CEVAP 93: Yargıtay kararları uyarınca kredi ödenirken verilen önceden maaş haczi muvafakatleri geçersizdir; haciz ancak icra takibi aşamasında konulabilir.
+------------------------------------------------------------
+
+SORU 94: BES Otomatik Katılım Sisteminde çalışan katkı payını artırabilir mi?
+CEVAP 94: Evet. Çalışan dilerse maaşından kesilecek katkı payı oranını %3'ün üzerine çıkarabilir.
+------------------------------------------------------------
+
+SORU 95: Taşıt Kredisi ile alınan ticari araçlar bireysel tüketici kredisi sayılır mı?
+CEVAP 95: Hayır. Ruhsatında ticari araç yazan veya şirket adına alınan araçlar Ticari Taşıt Kredisi sayılır.
+------------------------------------------------------------
+
+SORU 96: Konut Kredilerinde gayrimenkulün üzerinde başka bir hipotek varsa kredi verilebilir mi?
+CEVAP 96: Kural olarak 1. derece ve 1. sırada ipotek tesis edilmesi şarttır; önceki ipotek kapatılmadan kredi kullandırılmaz.
+------------------------------------------------------------
+
+SORU 97: Bireysel Kredi Ödeme Planının bir nüshası müşteriye ücretsiz verilmek zorunda mıdır?
+CEVAP 97: Evet. Ödeme planı sözleşmenin ayrılmaz parçası olup müşteriye ücretsiz verilmesi zorunludur.
+------------------------------------------------------------
+
+SORU 98: BES sisteminde fon değişikliği talebi kaç gün içinde gerçekleşir?
+CEVAP 98: Seçilen fonun valör yapısına göre (T+1 veya T+2) fon alım/satımı gerçekleşir.
+------------------------------------------------------------
+
+SORU 99: Tüketici Kredisinde 'Cayma Hakkı' kullanan tüketiciden hediye/puan geri alınır mı?
+CEVAP 99: Evet. Kredi kullanımı nedeniyle verilen ödül, puan veya promosyonlar cayma durumunda iade alınır.
+------------------------------------------------------------
+
+SORU 100: VakıfBank Bireysel Bankacılık vizyonu nedir?
+CEVAP 100: Müşterilerin tüm finansal ihtiyaçlarına doğru zamanda, esnek ödeme koşullarıyla ve dijital kolaylıkla ulaşmalarını sağlamaktır.
+------------------------------------------------------------
+

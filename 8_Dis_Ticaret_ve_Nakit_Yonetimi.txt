@@ -1,0 +1,402 @@
+================================================================================
+VAKIFBANK ÜNVANDA YÜKSELME VE YETERLİK SINAVI 2026
+BÖLÜM VIII: DIŞ TİCARET VE NAKİT YÖNETİMİ (MÜKEMMEL SINAV REHBERİ - 100 SORU TAM SET)
+TOPLAM DETAYLI SORU SAYISI: 99
+================================================================================
+
+SORU 1: Dış ticarette ihracatçı (satıcı) açısından en riskli, ithalatçı (alıcı) açısından ise en avantajlı ödeme yöntemi hangisidir?
+CEVAP 1: Mal Mukabili Ödeme (Goods Against Payment). İhracatçı malı gönderir, bedelini mal ithalatçı tarafından çekildikten sonra tahsil eder.
+------------------------------------------------------------
+
+SORU 2: Dış ticarette alıcı ve satıcı arasındaki riski en dengeli bölen, şartlı banka garantisi içeren ödeme yöntemi hangisidir?
+CEVAP 2: Akreditifli Ödeme (Letter of Credit - L/C).
+------------------------------------------------------------
+
+SORU 3: Akreditif işlemlerinde uluslararası geçerli kurallar broşürü hangisidir ve hangi kurum tarafından yayımlanır?
+CEVAP 3: UCP 600 (Uniform Customs and Practice for Documentary Credits) broşürüdür; Milletlerarası Ticaret Odası (ICC) tarafından yayımlanır.
+------------------------------------------------------------
+
+SORU 4: UCP 600 kurallarına göre Akreditiflerde 'Dönülebilirlik (Revocability)' varsayımı kuralı nasıldır?
+CEVAP 4: UCP 600 uyarınca aksi açıkça belirtilmedikçe tüm akreditifler DÖNÜLEMEZ (Irrevocable) kabul edilir. (Dönülebilir akreditif kavramı kaldırılmıştır).
+------------------------------------------------------------
+
+SORU 5: Incoterms 2020 teslim şekillerinden EXW (Ex Works - İşyerinde Teslim) kurallarında tüm nakliye, gümrük ve sigorta riski kime aittir?
+CEVAP 5: Tüm taşıma, gümrükleme, sigorta ve hasar riskleri İTHALATÇIYA (Alıcıya) aittir. Satıcı malı kendi fabrikasında alıcının tasarrufuna bırakır.
+------------------------------------------------------------
+
+SORU 6: Incoterms 2020 kurallarında satıcının azami sorumluluk üstlendiği, ithalat gümrük vergileri dahil malı alıcının kapısına kadar getirdiği teslim şekli hangisidir?
+CEVAP 6: DDP (Delivered Duty Paid - Gümrük Vergileri Ödenmiş Teslim) şeklidir.
+------------------------------------------------------------
+
+SORU 7: Incoterms 2020 teslim şekillerinden CIP ile CIF kurallarında satıcının yaptırmak zorunda olduğu asgari sigorta teminatı oranı yüzde kaçtır?
+CEVAP 7: Satıcı en az mal bedelinin %110'u (Mal bedeli + %10) tutarında geniş teminatlı sigorta poliçesi yaptırmak zorundadır.
+------------------------------------------------------------
+
+SORU 8: Incoterms DPU (Delivered at Place Unloaded - Belirlenen Yerde Boşaltılmış Teslim) kuralının diğer 'D'li kurallardan temel farkı nedir?
+CEVAP 8: DPU kuralında satıcı malı varış yerinde taşıma aracından BOŞALTARAK teslim etmekle yükümlüdür (Boşaltma sorumluluğu satıcıdadır).
+------------------------------------------------------------
+
+SORU 9: Incoterms FOB (Free on Board) ile CFR (Cost and Freight) teslim şekilleri arasındaki temel fark nedir?
+CEVAP 9: FOB'da navlun (taşıma ücreti) ithalatçıya aittir. CFR'de ise navlunu ihracatçı (satıcı) öder; ancak her ikisinde de deniz taşıma sigortası ithalatçıya aittir.
+------------------------------------------------------------
+
+SORU 10: Deniz taşımasında taşıyan tarafından düzenlenen, malların teslim alındığını tevsik eden ve malı temsil eden ciro edilebilir kıymetli evrak niteliğindeki belge hangisidir?
+CEVAP 10: Konşimento (Bill of Lading - B/L).
+------------------------------------------------------------
+
+SORU 11: Charter Party Bill of Lading (C/P B/L) ne tür konşimentodur?
+CEVAP 11: Bir geminin tamamının veya bir kısmının kiralanmasına ilişkin Gemi Kiralama Sözleşmesine (Charter Party) dayalı olarak düzenlenen konşimentodur.
+------------------------------------------------------------
+
+SORU 12: Türkiye ile Avrupa Birliği arasındaki Gümrük Birliği kapsamındaki sanayi ürünleri ticaretinde gümrük vergisi muafiyetinden yararlanmak için hangi belge düzenlenir?
+CEVAP 12: A.TR Dolaşım Belgesi düzenlenir.
+------------------------------------------------------------
+
+SORU 13: Türkiye'nin Serbest Ticaret Anlaşması (STA) imzaladığı ülkelerle yapılan tercihsiz ticarette gümrük indiriminden yararlanmak için hangi belge düzenlenir?
+CEVAP 13: EUR.1 Dolaşım Sertifikası düzenlenir.
+------------------------------------------------------------
+
+SORU 14: İhraç edilen malın hangi ülkede üretildiğini veya imal edildiğini belgeleyen resmi doküman hangisidir?
+CEVAP 14: Menşe Şahadetnamesi (Certificate of Origin).
+------------------------------------------------------------
+
+SORU 15: Vesaik Mukabili Ödeme (Cash Against Documents - CAD) işleminde uygulanan uluslararası ICC kuralları broşürü hangisidir?
+CEVAP 15: URC 522 (Uniform Rules for Collections) broşürüdür.
+------------------------------------------------------------
+
+SORU 16: Kabul Kredili Vesaik Mukabili Ödeme (D/A - Documents Against Acceptance) işleminde vesaik ithalatçıya nasıl teslim edilir?
+CEVAP 16: İthalatçı vesaik ekindeki Poliçeyi kabul edip imzalayarak (vadesinde ödemeyi taahhüt ederek) vesaiki bankadan teslim alır.
+------------------------------------------------------------
+
+SORU 17: Akreditif türlerinden 'Red Clause Akreditif' ile 'Green Clause Akreditif' arasındaki peşin avans ödeme şartı farkı nedir?
+CEVAP 17: Red Clause'da ihracatçıya sevk öncesi hiçbir şart aranmaksızın peşin avans ödenir. Green Clause'da ise avans ödenmesi için malın sevk öncesi bağımsız bir depoya teslim edilip ambar teslim makbuzunun ibrazı şarttır.
+------------------------------------------------------------
+
+SORU 18: Transit ticarette aracı firmanın (ilk lehtar) asıl alıcıdan kendi lehine açtırdığı akreditifi teminat göstererek imalatçı lehine ikinci bir akreditif açtırmasına ne ad verilir?
+CEVAP 18: Back-to-Back (Karşılıklı) Akreditif adı verilir.
+------------------------------------------------------------
+
+SORU 19: Devredilebilir Akreditif (Transferable L/C) şartı nedir?
+CEVAP 19: İlk lehtarın akreditiften doğan hak ve yükümlülüklerini kısmen veya tamamen ikinci lehtarlara (üreticilere) devretmesine imkan tanıyan akreditiftir.
+------------------------------------------------------------
+
+SORU 20: Belirli bir süre ve tutar dahilinde, her sevkıyat ve kullanım sonrasında yeni bir akreditif açılmasına gerek kalmadan otomatik olarak yenilenen akreditif türü hangisidir?
+CEVAP 20: Rotatif Akreditif (Revolving L/C).
+------------------------------------------------------------
+
+SORU 21: Standby Letter of Credit (Teminat Akreditifi) temel işlevi nedir?
+CEVAP 21: Bir ticari ödeme aracından ziyade, borcun veya taahhüdün yerine getirilmemesi durumunda devreye giren bir banka teminat mektubu niteliğindeki garanti akreditifidir.
+------------------------------------------------------------
+
+SORU 22: UCP 600 kuralları uyarınca bankaların ibraz edilen akreditif vesaikini inceleyip uygunluk veya rezerv (discrepancy) bildirmesi için azami süre kaç iş günüdür?
+CEVAP 22: İbraz gününü takip eden günden itibaren AZAMİ 5 İŞ GÜNÜ'dür.
+------------------------------------------------------------
+
+SORU 23: Akreditifli işlemlerde ibraz edilen belgelerin akreditif şartlarına veya UCP 600 kurallarına uyumsuz olması durumuna ne ad verilir?
+CEVAP 23: Rezerv (Discrepancy) adı verilir.
+------------------------------------------------------------
+
+SORU 24: Akreditif vesaik kontrolünde UCP 600 kurallarının uluslararası standartlarda yeknesak yorumlanmasını sağlayan kılavuz broşür hangisidir?
+CEVAP 24: ISBP 745 (International Standard Banking Practice) kılavuzudur.
+------------------------------------------------------------
+
+SORU 25: İBKB (İhracat Bedeli Kabul Belgesi) nedir ve hangi mevzuat uyarınca düzenlenir?
+CEVAP 25: İhracat bedellerinin yurda getirilip bankalara satıldığını tevsik eden belgedir; Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karar ve İhracat Genelgesi uyarınca düzenlenir.
+------------------------------------------------------------
+
+SORU 26: Kambiyo mevzuatı uyarınca ihracat bedellerinin yurda getirilme süresi fiili ihraç tarihinden itibaren azami kaç gündür?
+CEVAP 26: Fiili ihraç tarihinden itibaren AZAMİ 180 GÜNDÜR.
+------------------------------------------------------------
+
+SORU 27: Peşin İthalat transferi yapıldıktan sonra malın Türkiye'ye ithal edilmesi için yasal azami süre kaç yıldır?
+CEVAP 27: Transfer tarihinden itibaren AZAMİ 2 YIL içinde malın ithal edilmesi veya paranın yurda iade getirilmesi zorunludur.
+------------------------------------------------------------
+
+SORU 28: Kredili (Vadeli / Mal Mukabili / Kabul Kredili) İthalat işlemlerinde uygulanan KKDF kesintisi oranı yüzde kaçtır?
+CEVAP 28: %6 oranında Kaynak Kullanımını Destekleme Fonu (KKDF) kesintisi uygulanır. (Peşin ithalatta KKDF %0'dır).
+------------------------------------------------------------
+
+SORU 29: Orta ve uzun vadeli kredili mal ihracatından doğan poliçe ve bonoya bağlanmış alacakların rücusuz (risksiz) olarak banka/kurum tarafından satın alınmasına ne ad verilir?
+CEVAP 29: Forfaiting adı verilir.
+------------------------------------------------------------
+
+SORU 30: Forfaiting ile Factoring arasındaki temel farklar nelerdir?
+CEVAP 30: Factoring kısa vadeli ve mal mukabili alacaklarda uygulanır; Forfaiting ise orta/uzun vadeli ve kambiyo senedine (poliçe/bono) bağlanmış alacaklarda uygulanır.
+------------------------------------------------------------
+
+SORU 31: SWIFT sisteminde Müşteri Fon Transferi mesaj kodu ile Bankalararası Fon Transferi mesaj kodları sırasıyla hangileridir?
+CEVAP 31: Müşteri Fon Transferi: MT103 | Bankalararası Fon Transferi ve Kaplama: MT202 / MT202 COV.
+------------------------------------------------------------
+
+SORU 32: SWIFT gPI (Global Payments Innovation) teknolojisi banka müşterilerine ne tür bir kolaylık sağlar?
+CEVAP 32: Uluslararası para transferlerinin hangi muhabir bankada olduğunu, kesilen komisyonları ve alıcıya ulaşma süresini canlı uçtan uca takip etme imkanı sağlar.
+------------------------------------------------------------
+
+SORU 33: Mikro İhracat (ETGB - Elektronik Ticaret Gümrük Beyannamesi) sınırları tutar ve ağırlık olarak nedir?
+CEVAP 33: Gümrük müşaviri olmaksızın hızlı kargo firmalarınca düzenlenen ETGB ile 15.000 EURO tutar ve 300 KG ağırlık sınırına kadar olan ihracatlar Mikro İhracattır.
+------------------------------------------------------------
+
+SORU 34: Kambiyo Mevzuatı uyarınca 'Görünmeyen İşlemler' neleri kapsar?
+CEVAP 34: Mal ihracatı ve ithalatı dışındaki hizmet gelir/giderleri, turizm, taşımacılık, navlun, sigorta, sermaye hareketleri ve kâr transferleridir.
+------------------------------------------------------------
+
+SORU 35: Nakit Yönetimi ürünü olan DBS (Doğrudan Borçlandırma Sistemi) mekanizmasında Garanti Kredi Limiti kime tahsis edilir?
+CEVAP 35: Garanti Kredi Limiti ana firmaya değil, ana firmadan mal alan BAYİYE / ALICIYA tahsis edilir.
+------------------------------------------------------------
+
+SORU 36: Havuz Yönetimi (Cash Sweeping / Zero Balancing) sisteminde gün sonunda alt hesaplardaki bakiyeler nasıl işleme tabi tutulur?
+CEVAP 36: Grup şirketlerinin alt hesaplarındaki tüm artı bakiyeler otomatik olarak ana toplama hesabına aktarılır (sıfırlanır) ve tek merkezden nemalandırılır.
+------------------------------------------------------------
+
+SORU 37: Tedarikçi Finansmanı (Reverse Factoring) sisteminde ana alıcı firmanın bankaya sağladığı avantaj nedir?
+CEVAP 37: Ana alıcı firmanın yüksek kredisinden yararlanılarak, tedarikçi firmaların alacak faturalarını vadesinden önce düşük iskonto oranıyla tahsil etmesini sağlar.
+------------------------------------------------------------
+
+SORU 38: Sanal Hesap (Virtual Account) uygulamasının kurumsal şirketlere sağladığı temel operasyonel fayda nedir?
+CEVAP 38: Ana hesaba bağlı tanımlanan sanal alt hesap numaraları sayesinde, bayi veya müşterilerden gelen havale/EFT'lerin anında otomatik muhasebe eşleştirmesinin yapılmasıdır.
+------------------------------------------------------------
+
+SORU 39: Nakit Yönetiminde Otomatik Maaş Ödeme Protokolü çerçevesinde kurum çalışanlarına sağlanan imkanlar nelerdir?
+CEVAP 39: Maaş promosyonu, muafiyetli hesap/kart hizmetleri ve maaş gününde otomatik toplu hesaba geçiş imkanlarıdır.
+------------------------------------------------------------
+
+SORU 40: Türk Eximbank tarafından ihracatçılara sağlanan sevk öncesi ve sevk sonrası kredilerde bankaların rolü nedir?
+CEVAP 40: Bankalar Eximbank kaynaklı kredilerde aracı kurum olarak risk üstlenir ve ihracatçıya krediyi kullandırır.
+------------------------------------------------------------
+
+SORU 41: Sınır Ticareti kapsamında yapılan ithalat ve ihracatta yetkili kılınan organ hangisidir?
+CEVAP 41: Sınır komşusu illerde valilikler bünyesindeki Sınır Ticareti Yetkili Kurulları ve yetkili gümrük kapılarıdır.
+------------------------------------------------------------
+
+SORU 42: Serbest Bölgelerde (Free Zone) yapılan üretim ve ihracat faaliyetlerinin sağladığı vergi avantajları nelerdir?
+CEVAP 42: Üretilen ürünlerin ihracatından doğan kazançlar Kurumlar/Gelir Vergisinden, gümrük vergisinden ve KDV'den muaftır.
+------------------------------------------------------------
+
+SORU 43: İhracat Bedellerinin TCMB'ye Satış Zorunluluğu oranını belirleme yetkisi kime aittir?
+CEVAP 43: Hazine ve Maliye Bakanlığı ile Türkiye Cumhuriyet Merkez Bankası'na (TCMB) aittir.
+------------------------------------------------------------
+
+SORU 44: Incoterms 2020 kuralı uyarınca deniz yoluna özel teslim şekilleri hangileridir?
+CEVAP 44: FAS, FOB, CFR ve CIF teslim şekilleri sadece deniz ve iç su yolu taşımacılığında kullanılır.
+------------------------------------------------------------
+
+SORU 45: Multimodal (çok araçlı) taşımacılıkta kullanılan Incoterms kuralları hangileridir?
+CEVAP 45: EXW, FCA, CPT, CIP, DAP, DPU ve DDP tüm taşıma türlerinde ve multimodal taşımada kullanılır.
+------------------------------------------------------------
+
+SORU 46: Akreditifte 'Teyit Bankası (Confirming Bank)' sorumluluğu nedir?
+CEVAP 46: Amir bankanın ödeme taahhüdüne ek olarak lehtara karşı birinci dereceden bağımsız ve kesin ödeme garantisi üstlenen bankadır.
+------------------------------------------------------------
+
+SORU 47: Akreditif İştira (Negotiation) İşlemi ne demektir?
+CEVAP 47: Gerekli vesaiki ibraz eden lehtara poliçe veya vesaik bedelinin teyit/iştira bankası tarafından vade öncesinde iskonto edilerek ödenmesidir.
+------------------------------------------------------------
+
+SORU 48: Vesaik Mukabili (CAD) ödemede ithalatçı vesaiki alıp malı çekmezse doğacak risk kime aittir?
+CEVAP 48: Tüm navlun, ardiye, tasfiye ve geri getirme riskleri İHRACATÇIYA aittir (Banka ödeme garantisi vermez).
+------------------------------------------------------------
+
+SORU 49: Poliçede 'Keşideci (Drawer)', 'Muhatap (Drawee)' ve 'Lehtar (Payee)' kimlerdir?
+CEVAP 49: Keşideci: Poliçeyi düzenleyen (İhracatçı). Muhatap: Poliçeyi ödeyecek olan (İthalatçı/Banka). Lehtar: Poliçe bedelini tahsil edecek olan kişidir.
+------------------------------------------------------------
+
+SORU 50: SWIFT sisteminde 'BİK Kodu (Bank Identifier Code)' kaç karakterden oluşur?
+CEVAP 50: 8 veya 11 karakterden oluşur (Banka kodu, ülke kodu, şehir kodu ve şube kodu).
+------------------------------------------------------------
+
+SORU 51: Nakit Yönetiminde 'Likidite Yönetimi' bankaya ve kuruma ne sağlar?
+CEVAP 51: Atıl fonların minimuma indirilmesini, nakit açığı/fazlasının anlık optimize edilerek faiz maliyetlerinin düşürülmesini sağlar.
+------------------------------------------------------------
+
+SORU 52: Doğrudan Borçlandırma Sisteminde (DBS) fatura ödeme günü geldiğinde bayinin hesabında para yoksa ne olur?
+CEVAP 52: Bayiye tahsis edilen DBS Garanti Kredi Limiti otomatik devreye girer ve fatura tutarı ana firmaya ödenir.
+------------------------------------------------------------
+
+SORU 53: Akreditifte 'İkame Vesaik (Substituted Documents)' kullanımı hangi akreditif türünde görülür?
+CEVAP 53: Devredilebilir (Transferable) ve Back-to-Back akreditiflerde ilk lehtarın kendi faturasını ve poliçesini koyması işlemidir.
+------------------------------------------------------------
+
+SORU 54: İhracat Kredisi Garanti Sigortası (Eximbank İhracat Sigortası) hangi riskleri kapsar?
+CEVAP 54: Ticari riskleri (alıcının iflası/ödememesi) ve Politik riskleri (savaş, kamulaştırma, transfer yasağı) kapsar.
+------------------------------------------------------------
+
+SORU 55: Kambiyo Senetlerinde 'Protesto (Ödememe Protestosu)' çekilmesi neden gereklidir?
+CEVAP 55: Poliçe veya bononun vadesinde ödenmemesi durumunda hamilin müracaat hakkını (keşideci ve cirantalara başvurma hakkını) koruması için noterden çekilmesi zorunludur.
+------------------------------------------------------------
+
+SORU 56: Dış ticarette 'Konsinye İhracat' nedir?
+CEVAP 56: Kesin satışı yapılmaksızın, yurt dışındaki alıcıya veya komisyoncuya satılmak üzere mal gönderilmesi işlemidir (1 yıl içinde satılması esastır).
+------------------------------------------------------------
+
+SORU 57: Incoterms FCA (Free Carrier) kuralında teslim yeri neresidir?
+CEVAP 57: Satıcının malı kendi tesislerinde veya belirlenen başka bir yerde alıcının taşıyıcısına teslim etmesidir.
+------------------------------------------------------------
+
+SORU 58: Incoterms CPT (Carriage Paid To) kuralında navlun ve sigorta kime aittir?
+CEVAP 58: Navlunu satıcı öder; taşıma sigortası yaptırma yükümlülüğü alıcıya aittir.
+------------------------------------------------------------
+
+SORU 59: Konşimentoda 'Clean Bill of Lading (Temiz Konşimento)' ne anlama gelir?
+CEVAP 59: Kaptanın malların dış ambalajında veya durumunda hiçbir hasar veya kusur olmadığını belirten şerhsiz konşimentodur.
+------------------------------------------------------------
+
+SORU 60: Gümrük Antreposu nedir?
+CEVAP 60: Gümrük gözetimi altındaki eşyanın konulduğu, gümrük vergileri ödenmeden malların muhafaza edildiği izinli depolardır.
+------------------------------------------------------------
+
+SORU 61: Dış ticarette 'Ordino (Delivery Order)' belgesi ne işe yarar?
+CEVAP 61: Taşıyanın (acentenin) gümrükteki malın ithalatçıya teslim edilmesine izin verdiğini gösteren teslim talimatıdır.
+------------------------------------------------------------
+
+SORU 62: Akreditifte 'Kabul Akreditifi (Acceptance L/C)' ne demektir?
+CEVAP 62: Ödemenin vesaik ibrazında değil, ibraz edilen vadeli poliçenin bankaca kabul edilerek vadesinde yapıldığı akreditiftir.
+------------------------------------------------------------
+
+SORU 63: Akreditifte 'Gayri Kabili Rucu (Irrevocable)' kuralı uyarınca akreditif şartları nasıl değiştirilebilir?
+CEVAP 63: Amir banka, teyit bankası ve lehtarın (tüm tarafların) OY BİRLİĞİ VE ONAYI ile değiştirilebilir.
+------------------------------------------------------------
+
+SORU 64: Gümrük Beyannamesi kapanma tarihi neyi ifade eder?
+CEVAP 64: İhracatta malın fiilen gümrük hattını terk ettiğini ve fiili ihracın gerçekleştiğini tevsik eden tarihtir.
+------------------------------------------------------------
+
+SORU 65: Dış Ticarette 'Bedelsiz İhracat' ne demektir?
+CEVAP 65: Karşılığında yurda döviz getirme zorunluluğu olmayan numune, hediye veya garanti kapsamındaki parça gönderimleridir.
+------------------------------------------------------------
+
+SORU 66: SWIFT sisteminde 'MT700' mesaj tipi ne için kullanılır?
+CEVAP 66: Uluslararası Akreditif Açılış Mesajı (Issue of a Documentary Credit) için kullanılır.
+------------------------------------------------------------
+
+SORU 67: SWIFT sisteminde 'MT760' mesaj tipi ne amaçla çekilir?
+CEVAP 67: Uluslararası Garanti Mektubu / Teminat Akreditifi (Issue of a Guarantee / Standby L/C) düzenleme mesajıdır.
+------------------------------------------------------------
+
+SORU 68: Nakit Yönetiminde 'Konsolide Hesap Özeti' ne sağlar?
+CEVAP 68: Farklı bankalardaki tüm şirket hesaplarının tek ekrandan anlık izlenmesini sağlar.
+------------------------------------------------------------
+
+SORU 69: DBS sisteminde ana firma sisteme fatura yüklemesini en geç ne zaman yapmalıdır?
+CEVAP 69: Fatura son ödeme tarihinden önce bankaca belirlenen son yükleme saatine kadar yapmakla yükümlüdür.
+------------------------------------------------------------
+
+SORU 70: İhracat bedelinin tahsilinde 'Terkin' sınırı nedir?
+CEVAP 70: Mevzuat uyarınca belirli bir tutara kadar (örneğin 15.000 USD'ye kadar) eksik getirilen ihracat bedelleri bankalarca terkin edilerek kapatılabilir.
+------------------------------------------------------------
+
+SORU 71: Kredili İthalatta matraha eklenen KKDF kesintisi Gümrük Vergisini etkiler mi?
+CEVAP 71: EVET. Ödenen %6 KKDF tutarı ithalatta Gümrük KDV'si ve gümrük vergisi matrahına eklenir.
+------------------------------------------------------------
+
+SORU 72: A.TR Dolaşım Belgesi sadece AB ülkeleri için mi geçerlidir?
+CEVAP 72: Evet. Türkiye-AB Gümrük Birliği sanayi ürünleri kapsasındaki ticarette geçerlidir (Tarım ve işlenmiş tarım ürünlerinde EUR.1 kullanılır).
+------------------------------------------------------------
+
+SORU 73: Gümrük Birliği kapsamında 'Serbest Dolaşımdaki Eşya' ne demektir?
+CEVAP 73: Türkiye veya AB'de üretilen ya da üçüncü ülkelerden ithal edilip gümrük vergileri ödenmiş eşyadır.
+------------------------------------------------------------
+
+SORU 74: Dış Ticarette 'Navlun Faturası' ne zaman düzenlenir?
+CEVAP 74: Taşıma ücretinin (navlun) ödendiğini tevsik etmek amacıyla taşıyan veya nakliyeci tarafından düzenlenir.
+------------------------------------------------------------
+
+SORU 75: Gözetim Belgesi (Inspection Certificate) ne amaçla istenir?
+CEVAP 75: Malların yükleme öncesinde miktar, kalite ve standartlara uygunluğunun bağımsız gözetim şirketince (SGS vb.) denetlenmesidir.
+------------------------------------------------------------
+
+SORU 76: Çifte Vergilendirmeyi Önleme Anlaşmaları (ÇVÖA) dış ticarette ne sağlar?
+CEVAP 76: Aynı kazancın hem ihracat yapılan ülkede hem de yerleşik bulunulan ülkede iki kez vergilendirilmesini önler.
+------------------------------------------------------------
+
+SORU 77: Serbest Bölgede üretilen mal Türkiye'ye ithal edilirse gümrük rejimi nasıl uygulanır?
+CEVAP 77: Türkiye'ye ithalat rejimi hükümleri uygulanır, gümrük vergisi ve KDV tahsil edilir.
+------------------------------------------------------------
+
+SORU 78: Dış ticarette 'Transit Ticaret' nakit akışı ve gümrük kuralı nasıldır?
+CEVAP 78: Malın bir yabancı ülkeden alınıp gümrük hattı geçirilmeksizin veya serbest bölgeden geçirilerek başka bir yabancı ülkeye satılmasıdır (KDV ve Gümrükten muaftır).
+------------------------------------------------------------
+
+SORU 79: Dış Ticaret Finansmanında 'İhracat İskonto Kredisi' nedir?
+CEVAP 79: İhracatçının akreditifli veya vesaik mukabili vadeli alacaklarının bankaca vade öncesinde iskonto edilerek ödenmesidir.
+------------------------------------------------------------
+
+SORU 80: Tedarikçi Finansmanı (Reverse Factoring) sisteminde borcun vadesinde ödenmemesi durumunda risk kime aittir?
+CEVAP 80: Tedarikçi finansmanı alıcı firmanın kredisini kullandığı için borç ödenmeme riski ANA ALICI FİRMAYA aittir.
+------------------------------------------------------------
+
+SORU 81: Nakit Yönetimi 'Süpürme (Sweeping)' işleminde faiz geliri kime ait olur?
+CEVAP 81: Gece bakiyelerin toplandığı ana hesabın sahibine ait olur.
+------------------------------------------------------------
+
+SORU 82: DBS sisteminde fatura iptali nasıl yapılır?
+CEVAP 82: Ana firma tarafından fatura vadesinden önce sisteme iptal dosyası yüklenerek yapılabilir.
+------------------------------------------------------------
+
+SORU 83: Akreditifte 'Rotatif Akreditif Miktar Bazlı mı Tutar Bazlı mı' olabilir?
+CEVAP 83: Her ikisi de mümkündür; belirli bir sevkıyat miktarı veya tutarı tamamlandığında yenilenebilir.
+------------------------------------------------------------
+
+SORU 84: Akreditifte 'Poliçe Kabulü' yapan bankanın taahhüdü nedir?
+CEVAP 84: Poliçeyi kabul eden (imzalayan) banka, vadesinde borcu kayıtsız şartsız ödemekle yükümlü asal borçlu haline gelir.
+------------------------------------------------------------
+
+SORU 85: SWIFT sisteminde 'MT199 / MT299' mesajları ne için kullanılır?
+CEVAP 85: Bankalararası serbest metinli bilgi, teyit ve haberleşme mesajlarıdır.
+------------------------------------------------------------
+
+SORU 86: İhracat Bedeli Transferinde 'Farklı İsimden Gelen Döviz' kabul edilir mi?
+CEVAP 86: İhracatçı beyanı ve tevsik edici belgeler (sözleşme/fatura) ibraz edilmek kaydıyla kabul edilebilir.
+------------------------------------------------------------
+
+SORU 87: Peşin İthalatta kapatılmayan transferler için bankanın bildirim yükümlülüğü nedir?
+CEVAP 87: 2 yıllık süre sonunda kapatılmayan peşin ithalat transferleri banka tarafından ilgili Vergi Dairesine bildirilir.
+------------------------------------------------------------
+
+SORU 88: Incoterms DPU kuralında malın indirilmesi sırasında oluşacak hasar riski kime aittir?
+CEVAP 88: Boşaltma sorumluluğu satıcıda olduğu için indirme anındaki hasar riski SATICIYA aittir.
+------------------------------------------------------------
+
+SORU 89: Incoterms DAP (Delivered at Place) kuralında malın araçtan indirilmesi kime aittir?
+CEVAP 89: DAP kuralında mal araçtan İNDİRİLMEDEN teslim edilir; indirme sorumluluğu alıcıya aittir.
+------------------------------------------------------------
+
+SORU 90: Dış Ticarette 'Koli Listesi (Packing List)' ne işe yarar?
+CEVAP 90: Sevkiyatın kap, koli, ağırlık ve ebat detaylarını göstererek gümrük muayenesini kolaylaştırır.
+------------------------------------------------------------
+
+SORU 91: Gümrük Beyannamesinde 'Tescil Tarihi' neyi belirler?
+CEVAP 91: Gümrük işlemlerinin resmi olarak başladığı ve uygulanacak gümrük mevzuatı ile döviz kurunun sabitlendiği tarihtir.
+------------------------------------------------------------
+
+SORU 92: Akreditifte 'Süre Uzatımı (Amandman)' yapılabilmesi için kimlerin onayı gerekir?
+CEVAP 92: Amir, amir banka, teyit bankası (varsa) ve lehtarın tamamının onaylaması gerekir.
+------------------------------------------------------------
+
+SORU 93: L/C (Letter of Credit) işleminde bankalar vesaiki incelerken malları fiziki kontrol eder mi?
+CEVAP 93: HAYIR. UCP 600 Madde 5 uyarınca bankalar belgelerle işlem yapar, mallarla veya hizmetlerle ilgilenmez.
+------------------------------------------------------------
+
+SORU 94: Nakit Yönetiminde 'Elektronik Hesap Özeti (MT940)' ne sağlar?
+CEVAP 94: Şirketlerin banka hesap hareketlerinin ERP / SAP sistemlerine otomatik aktarılmasını sağlar.
+------------------------------------------------------------
+
+SORU 95: DBS sisteminde bayi limiti yetersizse faturanın kısmi ödenmesi mümkün müdür?
+CEVAP 95: Sistem kurgusuna göre bayinin kalan limiti oranında kısmi ödeme yapılabilir veya işlem reddedilebilir.
+------------------------------------------------------------
+
+SORU 96: Kambiyo Senetlerinde 'Aval Veren' kişinin hukuki konumu nedir?
+CEVAP 96: Kefil olduğu kişinin borcundan müteselsilen sorumlu olan kambiyo garantörüdür.
+------------------------------------------------------------
+
+SORU 97: İhracat bedellerinin yurda getirilmesinde 'İptal / Terkin' yetkisi Hazinece kime verilmiştir?
+CEVAP 97: Belirli limitler dahilinde aracı bankalara ve Vergi Dairelerine verilmiştir.
+------------------------------------------------------------
+
+SORU 98: Dış Ticarette 'Kombine Taşımacılık (Multimodal)' ne demektir?
+CEVAP 98: En az iki farklı taşıma modunun (Örn: Deniz + Karayolu + Demiryolu) tek bir taşıma sözleşmesiyle kullanılmasıdır.
+------------------------------------------------------------
+
+SORU 99: VakıfBank Dış Ticaret ve Nakit Yönetimi birimlerinin ana hedefi nedir?
+CEVAP 99: Müşterilerin uluslararası ticaret risklerini sıfırlamak, küresel nakit akışını optimize etmek ve uçtan uca finansman sağlamaktır.
+------------------------------------------------------------
+

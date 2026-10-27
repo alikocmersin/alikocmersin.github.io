@@ -1,0 +1,406 @@
+================================================================================
+VAKIFBANK ÜNVANDA YÜKSELME VE YETERLİK SINAVI 2026
+BÖLÜM V: ÖDEME SİSTEMLERİ (MÜKEMMEL SINAV REHBERİ - 100 SORU TAM SET)
+TOPLAM DETAYLI SORU SAYISI: 100
+================================================================================
+
+SORU 1: 5464 sayılı Banka Kartları ve Kredi Kartları Kanunu uyarınca, ilk defa kredi kartı sahibi olacak bir gerçek kişinin tüm bankalardaki toplam kart limiti sınırları birinci ve ikinci yıllarda nasıl uygulanır?
+CEVAP 1: İlk yıl için kart hamilinin belgelenebilir net aylık ortalama gelirinin 2 katını, ikinci ve sonraki yıllar için ise 4 katını aşamaz.
+------------------------------------------------------------
+
+SORU 2: VakıfBank veya World üye işyerlerinden kazanılan Worldpuan hangi işlem ve harcama türlerinde GEÇERSİZDİR (puan kazandırmaz)?
+CEVAP 2: Casino/kumarhane harcamaları, nakit avans/çekim işlemleri, yurt dışı harcamaları ve puanla yapılan harcamalarda Worldpuan kazanılmaz.
+------------------------------------------------------------
+
+SORU 3: VakıfBank Worldpuan'ların geçerlilik süresi ve kullanım yeri kuralı nedir?
+CEVAP 3: Kazanılan Worldpuan'lar para yerine World üye işyerlerinde alışverişte kullanılabilir; kampanya kazanımı puanların kullanım süreleri kampanya şartlarında belirtilir.
+------------------------------------------------------------
+
+SORU 4: Bireysel kredi kartlarında 'Sanal Limit' belirleme kuralı nedir?
+CEVAP 4: Bireysel kredi kartı müşterilerinin sanal limiti kartlarının kullanılabilir genel limitine eşittir; müşteriler bireysel kartlarında genel limitten bağımsız ayrı bir sanal limit belirleyemez.
+------------------------------------------------------------
+
+SORU 5: Genel limitten farklı özel sanal limit belirleme talepleri hangi kart türü için ve nereden gerçekleştirilebilir?
+CEVAP 5: Genel limitten farklı özel sanal limit belirleme talepleri SADECE Ticari Kredi Kartları için Şubelerimizce gerçekleştirilmektedir.
+------------------------------------------------------------
+
+SORU 6: VakıfBank'ın aidatsız meslek kartları hangileridir ve harcamalardan sosyal sorumluluk payı aktarılan kurumlar nelerdir?
+CEVAP 6: Öğretmenim, ASES ve Kamusen kartlarından yıllık aidat alınmaz. Öğretmenim Kart harcamalarından MEB 'Eğitime %100 Destek' kampanyasına, Kamusen Kart harcamalarından Kamu-Sen'e pay aktarılır.
+------------------------------------------------------------
+
+SORU 7: Platinum Plus Metal Kredi Kartı verilebilmesi için kart limitinin en az kaç TL olması şarttır?
+CEVAP 7: Platinum Plus Metal kart verilebilmesi için kart limitinin en az 750.000 TL olması gerekmektedir.
+------------------------------------------------------------
+
+SORU 8: Milplus Seyahat Programı kapsamında kart sahiplerine sağlanan temel ayrıcalıklar nelerdir?
+CEVAP 8: Worldpuan'ların seyahatte 2 kat daha değerli kullanılması, avans puan özelliği, ücretsiz tren garı lounge hizmeti ve ücretsiz seyahat sigortası ayrıcalıkları sunulur.
+------------------------------------------------------------
+
+SORU 9: VakıfBank'ın sadece Özel Bankacılık müşterileri için tasarladığı üst segment kredi kartı hangisidir?
+CEVAP 9: Private Card / Private Metal Card'dır.
+------------------------------------------------------------
+
+SORU 10: Spor kulüpleri taraftarları için özel olarak çıkarılan ve alışveriş harcamaları üzerinden kulübe pay aktarılan kart ürünü hangisidir?
+CEVAP 10: Taraftar Kredi Kartlarıdır.
+------------------------------------------------------------
+
+SORU 11: %100 geri dönüşümlü materyal kullanılarak üretilen çevre dostu VakıfBank kart ürünü hangisidir?
+CEVAP 11: Recycle Card'dır.
+------------------------------------------------------------
+
+SORU 12: Ön Ödemeli Kartlarda (Prepaid Cards) hesap takibi nasıl yapılır ve tanımlama portali hangisidir?
+CEVAP 12: Ürün bazında bir gölge hesaba bağlı olarak kart numarası bazında takip yapılır. Kurum kullanıcıları tarafından VIT Web Portal üzerinden isimsiz veya anında tanımlanır.
+------------------------------------------------------------
+
+SORU 13: Adalet Bakanlığı ceza infaz kurumlarındaki tutuklu ve mahkumlar için çıkarılan Ön Ödemeli Kartlardan para çekme kuralı nedir?
+CEVAP 13: Sadece VakıfBank ATM’lerinden ve TAM ATM’lerden para çekilebilmektedir.
+------------------------------------------------------------
+
+SORU 14: Farklı bir kişiye 'Ek Bankomat Kart' verilmesi şartı nedir?
+CEVAP 14: Ek Bankomat kart verilecek kişinin VakıfBank müşteri numarasının bulunması şarttır; kart sınırları ve yetkileri sınırlandırılabilir.
+------------------------------------------------------------
+
+SORU 15: Kredi kartı başvurusu yapan müşteriden alınması gereken zorunlu resmi evrak nedir? İkametgah veya gelir belgesi istenir mi?
+CEVAP 15: Sadece geçerli bir kimlik belgesinin (nüfus cüzdanı, ehliyet, pasaport) aslı görülerek okunaklı fotokopisi alınır. İkametgah, fatura veya gelir belgesi KESİNLİKLE istenmez.
+------------------------------------------------------------
+
+SORU 16: BDDK'nın 25.09.2020 tarihli düzenlemesine göre teminatlı (karşılığı nakit/kıymetli maden olan) kredi kartı çıkarılmasında hangi şart aranır?
+CEVAP 16: Karşılık olan tutarı geçmemek kaydıyla müşteriden Rehin Sözleşmesi alınması şartıyla teminatlı kredi kartı çıkarılabilir.
+------------------------------------------------------------
+
+SORU 17: Kart aidatına itiraz eden müşteriler için şube personeli VIT sisteminde hangi menüyü kullanmalıdır?
+CEVAP 17: VIT > Kredi Kartları > İşlem menüsü altında yer alan 'Kart Aidat İtirazı Yap' menüsünden değerlendirme yapılır.
+------------------------------------------------------------
+
+SORU 18: Kredi kartlarında statüsü iptal, kayıp veya normal olan kartlardaki artı bakiyenin müşteriye aktarımı hangi ekrandan yapılır?
+CEVAP 18: VIT > Kredi Kartları > İşlem menüsü altındaki 'Kredi Kartı Artı Bakiye Transferi' ekranından nakit kısıtı veya statüye bakılmaksızın yapılır.
+------------------------------------------------------------
+
+SORU 19: Kredi kartlarında son ödeme tarihinde asgari ödeme tutarının ödenmesi halinde kalan dönem borcuna hangi faiz işletilir?
+CEVAP 19: Kalan dönem borcu tutarı için Akdi Faiz (alışveriş faizi) işletilir.
+------------------------------------------------------------
+
+SORU 20: Asgari ödeme tutarının altında ödeme yapılması veya hiç ödenmemesi durumunda asgari tutarın ödenmeyen kısmına hangi faiz işletilir?
+CEVAP 20: Asgari tutarın ödenmeyen kısmı için Gecikme Faizi işletilir.
+------------------------------------------------------------
+
+SORU 21: Kredi kartı faiz oranlarında (akdi, gecikme, nakit) üst sınır belirleme yetkisi kime aittir?
+CEVAP 21: Türkiye Cumhuriyet Merkez Bankası'na (TCMB) aittir; bankalar TCMB azami oranlarının üzerine çıkamaz.
+------------------------------------------------------------
+
+SORU 22: Kredi kartı faiz hesaplamalarında bileşik faiz uygulanabilir mi?
+CEVAP 22: KANUNEN YASAKTIR. Kredi kartı faiz hesaplamalarında kesinlikle bileşik faiz uygulanamaz.
+------------------------------------------------------------
+
+SORU 23: Onaylanan kredi kartlarının müşterilerin ev/iş adreslerine ve şubelere gönderiminde kullanılan kurye/kargo firmaları hangileridir?
+CEVAP 23: Müşteri ev/iş adresine gönderimler Kuryenet, AGT ve PTT Kurye ile; Şubelere gönderilen kartlar ise DHL Kargo ile taşınır.
+------------------------------------------------------------
+
+SORU 24: Şubeden kayıp/çalıntı ve geçici bloke işlemleri VIT sisteminde hangi menüden yapılır?
+CEVAP 24: VIT > Kredi Kartları > Kart Statü Güncelleme İşlemleri altında 'Şubeden Kayıp/Çalıntı ve Geçici Bloke' menüsünden yapılır.
+------------------------------------------------------------
+
+SORU 25: Yurt dışı kredi kartı harcamalarında ekstre ödeme seçenekleri nelerdir?
+CEVAP 25: Yurt dışı harcamaları için TL ve USD ekstre ödeme seçenekleri bulunmaktadır.
+------------------------------------------------------------
+
+SORU 26: Üye işyeri tek ödeme işlemlerinde 'Komisyonlu Çalışma' ile 'Valörlü Çalışma' farkı nedir?
+CEVAP 26: Komisyonlu Çalışma: Banka komisyon keserek ciro bedelini ertesi gün öder. Valörlü Çalışma: Komisyon kesilmez, ciro belirlenen bloke gün süresi sonunda ödenir.
+------------------------------------------------------------
+
+SORU 27: VakıfBank Ticari Kredi Kartları artı taksit kampanyalarından yararlanabilir mi?
+CEVAP 27: HAYIR. VakıfBank Ticari Kredi Kartları artı taksit kampanyalarından faydalandırılmamaktadır.
+------------------------------------------------------------
+
+SORU 28: Mevcutta Yapı Kredi (YKB) World POS'u bulunan üye işyerine VakıfBank tarafından POS tahsisi nasıl yapılır?
+CEVAP 28: World özelliği bulunmayan VakıfBank Üye İşyeri kapsamında diğer banka kartlarının kabulüne yönelik POS tahsisi yapılabilir.
+------------------------------------------------------------
+
+SORU 29: Mobil POS cihazının kullanım alanı ve altyapı özelliği nedir?
+CEVAP 29: Yazarkasa POS mükellefiyeti olmayan (fatura kesen) ve adreste satış yapan firmalarda (toptancılar) GSM/GPRS üzerinden kablosuz kullanılır.
+------------------------------------------------------------
+
+SORU 30: Yeni Nesil Ödeme Kaydedici Cihazlarda (ÖKC / Yazarkasa POS) cihaz mülkiyeti kime aittir?
+CEVAP 30: Eski POS'larda cihaz sahibi banka iken, ÖKC cihazlarında mülkiyet ÜYE İŞYERİNE aittir.
+------------------------------------------------------------
+
+SORU 31: Doctor POS cihazı hangi tarihten itibaren kimler için zorunlu kılınmıştır?
+CEVAP 31: 1 Haziran 2008 tarihinden itibaren serbest çalışan Doktor, Diş Hekimi ve Veteriner Hekimler için zorunludur.
+------------------------------------------------------------
+
+SORU 32: Doctor POS sliplerinde standart POS sliplerinden farklı olarak hangi bilgiler yer alır?
+CEVAP 32: Vergi no, sıra no, stopaj, KDV, muayene ücreti bilgileri yer alır ve bu slip resmi serbest meslek makbuzu yerine geçer.
+------------------------------------------------------------
+
+SORU 33: 5464 sayılı Kanun uyarınca kart hamilinin kayıp/çalıntı bildiriminden önceki zararlardan sorumluluk kuralı nedir?
+CEVAP 33: Bildirimden önceki 24 saat içindeki hukuka aykırı kullanımlardan doğan zararlardan 150 TL ile sınırlı sorumludur (ağır kusuru yoksa).
+------------------------------------------------------------
+
+SORU 34: Kart hamilinin kredi kartı iptal talebi banka tarafından en geç kaç gün içinde yerine getirilmelidir?
+CEVAP 34: Müşterinin kart iptal talebinden itibaren en geç 7 gün içerisinde kartın iptal edilmesi zorunludur.
+------------------------------------------------------------
+
+SORU 35: Kredi kartında 1 takvim yılında kaç kez asgari ödeme yapılmazsa nakit çekim kapatılır, kaç kez yapılmazsa kart tamamen kapatılır?
+CEVAP 35: 1 takvim yılı içinde 3 kez asgari ödeme yapılmazsa nakit çekim kapatılır; üst üste 3 kez ödenmezse mal ve hizmet alımına da (tamamen) kapatılır.
+------------------------------------------------------------
+
+SORU 36: Kartlı Ödeme Sistemlerinde 'Issuer Bank' ile 'Acquirer Bank' rolleri nelerdir?
+CEVAP 36: Issuer Bank: Müşteriye kartı basıp veren bankadır. Acquirer Bank: Üye işyerine POS cihazı sağlayan ve hesap takasını yürüten bankadır.
+------------------------------------------------------------
+
+SORU 37: Kartlı Ödeme Sistemlerinde Takas Komisyonu (Interchange Fee) kimden kime ödenir?
+CEVAP 37: Üye işyerinin bankasından (Acquirer) kart sahibinin bankasına (Issuer) ödenen komisyon oranını ifade eder.
+------------------------------------------------------------
+
+SORU 38: Ters İbraz (Chargeback) işleminde kart hamilinin itiraz hakkı hangi durumlarda doğar?
+CEVAP 38: Kart hamilinin bilgisi dışında yapılan sahte harcamalarda, bedeli ödendiği halde mal/hizmet teslim edilmediğinde veya hatalı çekimlerde doğar.
+------------------------------------------------------------
+
+SORU 39: TROY markasının açılımı nedir ve kurucusu kimdir?
+CEVAP 39: Türkiye Ödeme Yöntemi'dir. BKM (Bankalararası Kart Merkezi) tarafından geliştirilmiştir.
+------------------------------------------------------------
+
+SORU 40: BKM (Bankalararası Kart Merkezi) hisse yapısında en büyük yetkili/düzenleyici otorite kimdir?
+CEVAP 40: Türkiye Cumhuriyet Merkez Bankası (TCMB) BKM'nin hakim ortağı ve düzenleyicisidir.
+------------------------------------------------------------
+
+SORU 41: EMV Standardı neyi ifade eder?
+CEVAP 41: Eurocard, Mastercard ve Visa tarafından geliştirilen, kart basımında çip ve PIN güvenlik standartlarını belirleyen protokolüdür.
+------------------------------------------------------------
+
+SORU 42: 3D Secure protokolünün temel amacı nedir?
+CEVAP 42: İnternet alışverişlerinde kart sahibinin cep telefonuna gelen SMS tek kullanımlık şifre ile kimlik doğrulayıp sahteciliği önlemektir.
+------------------------------------------------------------
+
+SORU 43: Sanal Kart işlemlerinde toplam limite erişim riski var mıdır?
+CEVAP 43: Hayır. Sanal kart limiti anlık olarak ayarlanabildiği için fiziki kartın ana limitini riske atmadan güvenli alışveriş sağlar.
+------------------------------------------------------------
+
+SORU 44: Temassız ödemelerde şifresiz işlem limiti aşıldığında POS cihazı ne talep eder?
+CEVAP 44: İşlemin gerçekleşmesi için kart hamilinden 4 haneli PIN şifresini girmesini talep eder.
+------------------------------------------------------------
+
+SORU 45: Üye işyerinin müşteriden kredi kartı tek çekim ödemelerinde komisyon veya fark talep etmesi yasal mıdır?
+CEVAP 45: 5464 sayılı Kanun uyarınca YASAKTIR. Üye işyeri kart hamilinden komisyon veya ilave fiyat farkı talep edemez.
+------------------------------------------------------------
+
+SORU 46: Kredi kartlarında 'Hesap Kesim Tarihi' neyi belirler?
+CEVAP 46: Bir önceki dönem harcamalarının sonlandığı ve ödenmesi gereken ekstre borcunun oluştuğu tarihi belirler.
+------------------------------------------------------------
+
+SORU 47: Kredi kartı hesap özetinde yer alan 'Son Ödeme Tarihi' hesabı kesildikten kaç gün sonradır?
+CEVAP 47: Hesap kesim tarihinden itibaren en az 10 gün sonraki tarihtir.
+------------------------------------------------------------
+
+SORU 48: Üye işyeri POS cihazından 'Gün Sonu' yapılmamasının cezai/operasyonel sonucu nedir?
+CEVAP 48: Gün sonu yapılmayan işlemler takasa iletilemez, ciro üye işyerinin hesabına zamanında aktarılamaz.
+------------------------------------------------------------
+
+SORU 49: POS cihazından basılan 'Slip' nüshaları kimlerde kalır ve saklama süresi ne kadardır?
+CEVAP 49: Bir nüshası kart hamiline, bir nüshası üye işyerine verilir. Üye işyeri slipleri yasal zaman aşımı süresince saklamakla yükümlüdür.
+------------------------------------------------------------
+
+SORU 50: NFC (Near Field Communication) Teknolojisinin bankacılık ödemelerindeki işlevi nedir?
+CEVAP 50: Yakın alan iletişimi sağlayan çipler sayesinde kartın veya akıllı telefonun POS cihazına yaklaştırılmasıyla temassız ödeme sağlar.
+------------------------------------------------------------
+
+SORU 51: Kredi Kartı Harcama Sözü kampanyalarında müşteri taahhüdünü bozarsa ne yapılır?
+CEVAP 51: Kazandırılan puan veya indirim tutarı kart ekstresine borç olarak yansıtılır.
+------------------------------------------------------------
+
+SORU 52: 6493 sayılı Kanun uyarınca Ödeme ve Elektronik Para Kuruluşlarının denetim yetkisi kime verilmiştir?
+CEVAP 52: Türkiye Cumhuriyet Merkez Bankası'na (TCMB) verilmiştir.
+------------------------------------------------------------
+
+SORU 53: Yurt dışı seyahat ve konaklama harcamalarında kredi kartı taksitlendirmesi yapılabilir mi?
+CEVAP 53: BDDK kararları uyarınca yurt dışı seyahat, havayolu ve konaklama harcamalarında taksit yasağı uygulanmaktadır.
+------------------------------------------------------------
+
+SORU 54: POS İşlemlerinde 'Ortak POS' ne demektir?
+CEVAP 54: Tek bir fiziki POS cihazı üzerinden birden fazla bankanın kart uygulamalarının çalıştırılmasıdır.
+------------------------------------------------------------
+
+SORU 55: Harcama İtirazı (Dispute) başvurusunda kart sahibinin hakları nedir?
+CEVAP 55: Hatalı işlem bildiriminde banka inceleme süresince tutarı geçici olarak müşteri hesabına alabilir.
+------------------------------------------------------------
+
+SORU 56: Kredi Kartı Ekstresi e-posta ile gönderilebilir mi?
+CEVAP 56: Müşterinin muvafakatıyla dijital ekstre (e-ekstre) olarak gönderilebilir.
+------------------------------------------------------------
+
+SORU 57: Mastercard ve Visa logosu taşıyan kartların uluslararası kullanımı nasıl sağlanır?
+CEVAP 57: Uluslararası lisans ve takas ağları üzerinden tüm uyumlu POS ve ATM'lerde işlem yapar.
+------------------------------------------------------------
+
+SORU 58: Kredi Kartı Limiti düşürme talebi ne sürede yapılmalıdır?
+CEVAP 58: Kart hamilinin limit düşürme talepleri banka tarafından derhal ve en geç 7 gün içinde yerine getirilir.
+------------------------------------------------------------
+
+SORU 59: Üye İşyeri POS Komisyon Oranı neye göre belirlenir?
+CEVAP 59: TCMB tarafından belirlenen azami oranlar tavanı dahilinde piyasa koşullarına göre belirlenir.
+------------------------------------------------------------
+
+SORU 60: Mobil Cüzdan (Digital Wallet) uygulamaları nedir?
+CEVAP 60: Kart bilgilerinin güvenli saklanarak akıllı telefonlar üzerinden QR kod veya NFC ile ödeme yapılmasıdır.
+------------------------------------------------------------
+
+SORU 61: Kredi kartı borcunun tamamı son ödeme tarihinde ödenirse faiz işler mi?
+CEVAP 61: Dönem borcunun tamamı son ödeme tarihinde ödendiğinde alışveriş harcamalarına HİÇBİR FAİZ İŞLETİLMEZ.
+------------------------------------------------------------
+
+SORU 62: Nakit Avans çekiminde 'Erken Ödeme' yapılması faizi düşürür mü?
+CEVAP 62: Nakit avansta faiz günlük işletildiği için erken ödeme yapıldığında işleyen gün sayısı azalır ve ödenen faiz düşer.
+------------------------------------------------------------
+
+SORU 63: Kredi Kartı Borç Taksitlendirmesinde kanuni taksit sınırları dışına çıkılabilir mi?
+CEVAP 63: BDDK tarafından belirlenen sektör bazlı azami taksit sınırlarının dışına çıkılması kanunen yasaktır.
+------------------------------------------------------------
+
+SORU 64: Ödeme Hizmetlerinde 'Açık Bankacılık (Open Banking / PSD2)' nedir?
+CEVAP 64: Müşterinin rızasıyla farklı bankalardaki hesap ve kart bilgilerinin tek bir uygulama üzerinden yönetilmesini sağlayan API altyapısıdır.
+------------------------------------------------------------
+
+SORU 65: Kredi Kartı Şifresi (PIN) üst üste kaç kez hatalı girilirse kart bloke olur?
+CEVAP 65: Güvenlik kuralı olarak PIN şifresi üst üste 3 kez hatalı girildiğinde kart bloke edilir.
+------------------------------------------------------------
+
+SORU 66: Temassız Kartlarda şifresiz işlem sayısı sınırı var mıdır?
+CEVAP 66: Güvenlik amacıyla şifresiz temassız işlemler ardı ardına yapıldığında belirli bir sayı veya toplam tutar sonrasında PIN şifresi girilmesi zorunlu kılınır.
+------------------------------------------------------------
+
+SORU 67: Banka Kartı (Debit Card) ile ATM'den para çekmede günlük limit aşıldığında ne uygulanır?
+CEVAP 67: Müşteri tanımlı ek limit veya komisyonlu ilave limit çekim seçeneğini onaylayarak çekim yapabilir.
+------------------------------------------------------------
+
+SORU 68: Kredi Kartı ekstresindeki 'Minimum Ödeme Tutarı' nasıl hesaplanır?
+CEVAP 68: BDDK tarafından belirlenen oranlarda (%20 veya %40) dönem borcunun yüzdesi olarak hesaplanır.
+------------------------------------------------------------
+
+SORU 69: Gecikmedeki Kredi Kartı borcu nedeniyle müşteriye noter ihtarnamesi ne zaman çekilir?
+CEVAP 69: Gecikme süresi 90 günü bulduğunda kanuni takip öncesi noter kanalıyla muacceliyet ihtarnamesi çekilir.
+------------------------------------------------------------
+
+SORU 70: POS cihazında 'İptal' işlemi ile 'İade' işlemi arasındaki operasyonel fark nedir?
+CEVAP 70: İptal: İşlemin yapıldığı gün gün sonu yapılmadan önce işlemin tamamen silinmesidir. İade: Gün sonu yapıldıktan sonra tutarın karta geri aktarılmasıdır.
+------------------------------------------------------------
+
+SORU 71: Üye işyerinin 'Sanal POS' başvurusunda bankanın aradığı güvenlik sertifikası nedir?
+CEVAP 71: SSL güvenlik sertifikası ve PCI-DSS (Payment Card Industry Data Security Standard) uyumluluğudur.
+------------------------------------------------------------
+
+SORU 72: Soft POS uygulamasında işletmenin fiziki POS cihazı almasına gerek kalır mı?
+CEVAP 72: Hayır. İşletme NFC'li telefonuna yüklediği lisanslı yazılımla temassız ödeme alabilir.
+------------------------------------------------------------
+
+SORU 73: ÖKC cihazlarında mali hafıza dolduğunda ne yapılması gerekir?
+CEVAP 73: Yetkili servis tarafından yeni mali hafıza takılarak Vergi Dairesine bildirimde bulunulur.
+------------------------------------------------------------
+
+SORU 74: Doktor POS cihazından basılan slip Vergi Usul Kanununa göre ne sayılır?
+CEVAP 74: VUK uyarınca resmi Serbest Meslek Makbuzu sayılır.
+------------------------------------------------------------
+
+SORU 75: Kredi Kartından 'Taksitli Nakit Avans' çekiminde cayma hakkı var mıdır?
+CEVAP 75: Tüketici Kanunu uyarınca 14 gün içinde anapara ve işleyen günlük faiz ödenerek nakit avanstan cayılabilir.
+------------------------------------------------------------
+
+SORU 76: POS üye işyerinde 'Mail Order (Mektupla/Telefonla Ödeme)' yetkisi verilmesi riski artırır mı?
+CEVAP 76: Evet. Kart fiziki olarak bulunmadığı için şifresiz yapılan işlemlerde sahtecilik ve ters ibraz (chargeback) riski yüksektir.
+------------------------------------------------------------
+
+SORU 77: Kredi Kartında 'Kullanılabilir Puan' devredilebilir mi?
+CEVAP 77: Kazanılan puanlar müşterinin kendi tanımlı diğer kartlarına transfer edilebilir; üçüncü kişilere nakit olarak devredilemez.
+------------------------------------------------------------
+
+SORU 78: VakıfBank Kartlı Ödeme Sistemlerinde 'VİT' neyi temsil eder?
+CEVAP 78: VakıfBank İşlemleri ve İletişim Teknolojileri altyapısı olup şube operasyonlarının yürütüldüğü ana ekran sistemidir.
+------------------------------------------------------------
+
+SORU 79: Kredi Kartı tesliminde müşterinin evde olmaması durumunda kurye ne yapar?
+CEVAP 79: Kart şubeye veya kurye acentesine iade edilir, müşteriye SMS ile bilgi verilerek ikinci teslimat veya şubeden teslim sağlanır.
+------------------------------------------------------------
+
+SORU 80: Geçici Bloke konulan kredi kartı müşteri talebiyle hemen açılabilir mi?
+CEVAP 80: Müşteri doğrulama adımları tamamlandıktan sonra şube veya çağrı merkezi kanalıyla geçici bloke anında kaldırılır.
+------------------------------------------------------------
+
+SORU 81: Kredi Kartında 'Dönem İçi İşlemler' ile 'Bekleyen İşlemler' farkı nedir?
+CEVAP 81: Bekleyen İşlemler: Provizyon aşamasında olup henüz takaslaşmamış harcamalardır. Dönem İçi İşlemler: Takası tamamlanıp ekstreye yansıyan harcamalardır.
+------------------------------------------------------------
+
+SORU 82: Kart Hamili 'Otomatik Ödeme Talimatını' kredi kartına bağladığında fatura ödeme tarihinde faiz işler mi?
+CEVAP 82: Hesaptan yapılan ödemeler ücretsizdir; kredi kartından yapılan fatura ödemelerinde banka şartlarına göre akdi faiz veya işlem ücreti uygulanabilir.
+------------------------------------------------------------
+
+SORU 83: Üye İşyeri Sözleşmesinde 'Sorumluluk Maddesi' üye işyerine ne yükler?
+CEVAP 83: İşyerinin sahte kart kullanılmasına göz yumması veya şifresiz işlem yapması durumunda doğacak tüm zararı tazmin etme yükümlülüğü yükler.
+------------------------------------------------------------
+
+SORU 84: Kredi Kartı Yıllık Ücreti (Aidat) yasal mıdır?
+CEVAP 84: Yargıtay ve Tüketici Mevzuatı uyarınca sözleşmede açıkça belirtilmek ve aidatsız bir kart seçeneği sunulmak kaydıyla kart aidatı alınması yasaldır.
+------------------------------------------------------------
+
+SORU 85: Kredi Kartı Ekstresi geciktiğinde müşterinin 'Ekstre Gelmedi' gerekçesiyle faizden muafiyet talebi kabul edilir mi?
+CEVAP 85: Hayır. Kart hamili ekstre eline ulaşmasa dahi son ödeme tarihini ve borcunu takip etmekle yükümlüdür.
+------------------------------------------------------------
+
+SORU 86: Banka Kartı (Debit Card) ile internetten alışveriş yapmak için ne gereklidir?
+CEVAP 86: Kartın internet alışverişi yetkisinin (e-ticaret onayı) açık olması gereklidir.
+------------------------------------------------------------
+
+SORU 87: Kartlı Ödeme Sistemlerinde '3D Secure 2.0' sürümü ne getirmiştir?
+CEVAP 87: Biyometrik doğrulama (yüz tanıma/parmak izi) ve daha hızlı arka plan risk analizi imkanı getirmiştir.
+------------------------------------------------------------
+
+SORU 88: Üye işyerinin POS cihazını başka bir firmaya devretmesi yasal mıdır?
+CEVAP 88: YASAKTIR. Üye işyeri kendisine tahsis edilen POS cihazını veya sanal POS anahtarlarını üçüncü kişilere devredemez veya kiralayamaz.
+------------------------------------------------------------
+
+SORU 89: Kredi Kartı 'Sanal Limit' düşürüldüğünde genel limit etkilenir mi?
+CEVAP 89: Hayır. Sanal limitin düşürülmesi veya sıfırlanması fiziki kartın genel limitini etkilemez.
+------------------------------------------------------------
+
+SORU 90: Ön Ödemeli Kartlara (Prepaid) para yükleme kanalları nelerdir?
+CEVAP 90: ATM, mobil bankacılık, internet bankacılığı ve yetkili yükleme noktalarından nakit veya hesaptan transferle para yüklenebilir.
+------------------------------------------------------------
+
+SORU 91: Kredi Kartı Asgari Ödeme Oranı %40 hangi limit seviyesindeki kartlar için uygulanır?
+CEVAP 91: BDDK kararları uyarınca genellikle yüksek limitli (örneğin 50.000 TL ve üzeri) kredi kartlarında asgari ödeme oranı %40 olarak uygulanır.
+------------------------------------------------------------
+
+SORU 92: Kredi Kartı ile Yapılan Harcamanın 'İptal' edilmesi durumunda limit ne zaman açılır?
+CEVAP 92: POS cihazından yapılan iptal işlemi anında karta yansır ve harcanan limit anında tekrar kullanıma açılır.
+------------------------------------------------------------
+
+SORU 93: İade işlemlerinde para doğrudan nakit verilebilir mi?
+CEVAP 93: Hayır. Kartla yapılan alışverişlerin iadesi kart kuralları gereğince harcamanın yapıldığı karta geri yatırılmak zorundadır.
+------------------------------------------------------------
+
+SORU 94: Kredi Kartı borcundan dolayı 'Kanuni Takip' başlatılan müşterinin VakıfBank'taki diğer hesaplarına ne yapılır?
+CEVAP 94: GKS ve Kredi Kartı Sözleşmesi uyarınca bankanın takas, mahsup ve hapis hakkı devreye girerek diğer hesaplara bloke konulabilir.
+------------------------------------------------------------
+
+SORU 95: Üye işyerinin 'Gözaltı / Sahtecilik' şüphesiyle takibe alınması durumunda POS blokesi ne kadar sürer?
+CEVAP 95: İnceleme ve hukuki tahkikat tamamlanıncaya kadar POS ciroları ve cihaz kullanımı süresiz bloke edilebilir.
+------------------------------------------------------------
+
+SORU 96: Kredi Kartı harcamalarında 'Valörlü Taksit' uygulaması nedir?
+CEVAP 96: İşlemin üye işyeri hesabına hemen geçmeyip belirlenen vadeli taksit tarihlerinde aşamalı aktarılmasıdır.
+------------------------------------------------------------
+
+SORU 97: Kart üzerindeki 16 haneli 'PAN (Primary Account Number)' neyi temsil eder?
+CEVAP 97: Kartın bin kodu, müşteri hesap bilgisi ve kontrol rakamını içeren benzersiz kart numarasıdır.
+------------------------------------------------------------
+
+SORU 98: Kredi Kartı teslimatında teslim alan kişinin kimlik kontrolü zorunlu mudur?
+CEVAP 98: Evet. Kart sadece kart sahibine veya yetkili kılınan kişiye kimlik doğrulaması yapılarak imza karşılığı teslim edilir.
+------------------------------------------------------------
+
+SORU 99: Üye İşyeri POS cihazında 'Şifre Girilmeden' işlem yapılması durumunda tüm sahtecilik riski kime aittir?
+CEVAP 99: Tüm sahtecilik ve ters ibraz (chargeback) riski kuralları ihlal eden ÜYE İŞYERİNE aittir.
+------------------------------------------------------------
+
+SORU 100: VakıfBank Ödeme Sistemleri ana vizyonu nedir?
+CEVAP 100: Müşterilere en son teknolojiye sahip, hızlı, güvenli, çevre dostu ve kesintisiz ödeme çözümleri sunmaktır.
+------------------------------------------------------------
+

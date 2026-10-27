@@ -1,0 +1,371 @@
+================================================================================
+VAKIFBANK ÜNVANDA YÜKSELME VE YETERLİK SINAVI 2026
+BÖLÜM VII: BANKA MUHASEBESİ VE MALİ MEVZUAT (MÜKEMMEL SINAV REHBERİ - 100 SORU TAM SET)
+TOPLAM DETAYLI SORU SAYISI: 90
+================================================================================
+
+SORU 1: Banka Muhasebesinin temel amaçları nelerdir?
+CEVAP 1: Bankanın finansal durumunu ve faaliyet sonuçlarını doğru tespit etmek, yönetim kararlarına veri sağlamak, yasal/mali denetimlere esas oluşturmak ve risk yönetimini desteklemektir.
+------------------------------------------------------------
+
+SORU 2: Muhasebenin 'İşletmenin Sürekliliği İlkesi' ne anlama gelir?
+CEVAP 2: İşletmenin faaliyetlerini herhangi bir zaman sınırlamasına tabi olmaksızın süresiz olarak yürüteceği kabulüdür; varlıkların tasfiye değeriyle değil maliyet değeriyle değerlenmesine temel oluşturur.
+------------------------------------------------------------
+
+SORU 3: Muhasebenin 'Dönemsellik İlkesi' uyarınca faaliyet sonuçları nasıl tespit edilir?
+CEVAP 3: İşletmenin sınırsız kabul edilen ömrünün belirli dönemlere (genellikle 1 yıl) bölünmesi ve her dönemin gelir-giderinin diğer dönemlerden bağımsız olarak tespit edilmesidir.
+------------------------------------------------------------
+
+SORU 4: Muhasebede 'Tahakkuk Esası' kuralı nedir?
+CEVAP 4: Bir gelir veya giderin miktar ve mahiyet itibariyle kesinleşmiş olması halinde, tahsil edilmese veya ödenmese dahi doğduğu dönemin muhasebe kaydına alınmasıdır.
+------------------------------------------------------------
+
+SORU 5: Muhasebenin 'İhtiyatlılık İlkesi' banka bilançosunda kendini nasıl gösterir?
+CEVAP 5: Gelecekte doğabilecek muhtemel riskler ve takipli krediler için Karşılık Ayrılması, gerçekleşmemiş gelirlerin gösterilmemesi esasıyla kendini gösterir.
+------------------------------------------------------------
+
+SORU 6: Muhasebenin 'Özün Önceliği İlkesi' ne demektir?
+CEVAP 6: İşlemlerin muhasebeleştirilmesinde ve değerlendirilmesinde hukuki biçimlerinden ziyade ekonomik özlerinin ve gerçek mahiyetlerinin esas alınmasıdır.
+------------------------------------------------------------
+
+SORU 7: Muhasebenin 'Tutarlılık İlkesi' neyi zorunlu kılar?
+CEVAP 7: Uygulanan muhasebe politikaları ve değerleme esaslarının yıldan yıla değiştirilmeden sürdürülmesini; değişiklik yapıldığında mali tablo dipnotlarında açıklanmasını gerektirir.
+------------------------------------------------------------
+
+SORU 8: Muhasebenin 'Önemlilik İlkesi' ne anlama gelir?
+CEVAP 8: Bir kalemin mali tabloda yer almasının veya açıklanmasının, finansal tablo kullanıcılarının kararlarını etkileyecek nicelik veya nitelikte olmasıdır.
+------------------------------------------------------------
+
+SORU 9: BDDK Tekdüzen Hesap Planı'nda (THP) 1'den 6'ya kadar olan Hesap Sınıfı Kodları sırasıyla neleri temsil eder?
+CEVAP 9: 1: Dönen ve Duran Varlıklar (Aktif)
+2: Yükümlülükler (Pasif)
+3: Özkaynaklar (Pasif)
+4: Gelirler
+5: Giderler
+6: Bilanço Dışı Hesaplar (Nazım Hesaplar)
+------------------------------------------------------------
+
+SORU 10: Tekdüzen Hesap Planı'nda Gayrinakdi Krediler, İpotekli Teminatlar ve Türev İşlemler hangi hesap sınıfında izlenir?
+CEVAP 10: 6 no'lu grupta yer alan 'Bilanço Dışı / Nazım Hesaplar' sınıfında izlenir.
+------------------------------------------------------------
+
+SORU 11: Aktifi Düzenleyici Pasif Hesaplar nasıl çalışır ve bilanchoda nasıl gösterilir?
+CEVAP 11: Aktifte yer almalarına rağmen eksi (-) karakterli çalışırlar ve bağlı oldukları aktif varlık kaleminin değerini netleştirirler (Örn: Şüpheli Alacaklar Karşılığı, Amortismanlar).
+------------------------------------------------------------
+
+SORU 12: Banka Bilanço Denklemi nasıldır?
+CEVAP 12: Varlıklar (Aktif) = Yükümlülükler (Borçlar) + Özkaynaklar (Pasif)
+------------------------------------------------------------
+
+SORU 13: Banka Bilançosunun Aktif tarafında yer alan Dönen Varlıklar ile Duran Varlıklar arasındaki fark nedir?
+CEVAP 13: Dönen Varlıklar: 1 yıl içinde nakde çevrilmesi beklenen varlıklardır (Kasa, Bankalar, Menkul Değerler, Kısa Vadeli Krediler). Duran Varlıklar: 1 yıldan uzun vadeli kullanılan varlıklardır (Binalar, Demirbaşlar, İştirakler).
+------------------------------------------------------------
+
+SORU 14: Gelir Tablosunda 'Net Dönem Kârı' hangi işlem adımlarıyla hesaplanır?
+CEVAP 14: Faaliyet Gelirleri - Faaliyet Giderleri = Faaliyet Kârı; Finansman Gelir/Giderleri ve Karşılık/Vergi Giderleri düşüldükten sonra Net Dönem Kârına ulaşılır.
+------------------------------------------------------------
+
+SORU 15: Mizan tablosu muhasebede ne amaçla düzenlenir?
+CEVAP 15: Yevmiye defteri kayıtlarının Defter-i Kebir (Büyük Defter) hesaplarına doğru aktarılıp aktarılmadığını denetleyen matematiksel denetim çizelgesidir.
+------------------------------------------------------------
+
+SORU 16: Geçici Mizan ile Kesin Mizan arasındaki fark nedir?
+CEVAP 16: Geçici Mizan: Dönem sonu ayarlama ve reeskont kayıtları yapılmadan önce çıkarılan mizan. Kesin Mizan: Dönem sonu envanter ve düzeltme kayıtları tamamlandıktan sonra çıkarılan nihai mizandır.
+------------------------------------------------------------
+
+SORU 17: Nakit Akış Tablosu nakit akımlarını hangi 3 ana faaliyet grubunda gösterir?
+CEVAP 17: 1. İşletme (Faaliyet) Nakit Akışları | 2. Yatırım Faaliyetleri Nakit Akışları | 3. Finansman Faaliyetleri Nakit Akışları.
+------------------------------------------------------------
+
+SORU 18: Özkaynak Değişim Tablosu neyi gösterir?
+CEVAP 18: Ödenmiş sermaye, kâr/sermaye yedekleri, geçmiş yıl kâr/zararları ve dönem net kârındaki hesap dönemleri arası değişimleri gösterir.
+------------------------------------------------------------
+
+SORU 19: BSMV (Banka ve Sigorta Muameleleri Vergisi) mükellefi kimdir ve verginin matrahı nedir?
+CEVAP 19: Mükellef: Bankalardır. Matrah: Bankanın yaptığı işlemler sonucunda kendi lehine aldığı PARA (faiz, komisyon, ücret tutarı) miktarıdır.
+------------------------------------------------------------
+
+SORU 20: BSMV Beyannamesi hangi tarihe kadar ve nereye beyan edilip ödenir?
+CEVAP 20: İşlem yapılan ayı takip eden ERTESİ AYIN 15. GÜNÜ AKŞAMINA KADAR yetkili Vergi Dairesine beyan edilir ve ödenir.
+------------------------------------------------------------
+
+SORU 21: İhracat Kredileri ve İhracata ilişkin Gayrinakdi Krediler BSMV ve KKDF'ye tabi midir?
+CEVAP 21: HAYIR. İhracatı teşvik amacıyla ihracat kredileri BSMV ve KKDF'den KANUNEN MUAFTIR.
+------------------------------------------------------------
+
+SORU 22: KKDF (Kaynak Kullanımını Destekleme Fonu) oranları Tüketici Kredilerinde ve Kredili İthalatta yüzde kaçtır?
+CEVAP 22: Tüketici Kredilerinde %15; Kredili (Vadeli) İthalat işlemlerinde ise %6 oranında KKDF kesintisi uygulanır.
+------------------------------------------------------------
+
+SORU 23: Mevduat Faiz ödemelerinde yapılan Gelir Vergisi Stopajı kim tarafından kesilir ve ödenir?
+CEVAP 23: Banka tarafından faiz tahakkuk anında kaynakta kesilerek (stopaj) ertesi ay Vergi Dairesine ödenir.
+------------------------------------------------------------
+
+SORU 24: Damga Vergisi ve Muhtasar Beyanname ertesi ayın hangi gününe kadar beyan edilir ve ödenir?
+CEVAP 24: İzleyen ayın 26. GÜNÜ AKŞAMINA KADAR beyan edilir ve 26. günü akşamına kadar ödenir.
+------------------------------------------------------------
+
+SORU 25: Ticari Kredi Sözleşmeleri ve Teminat Belgeleri Damga Vergisine tabi midir?
+CEVAP 25: HAYIR. Bankacılık Kanunu ve Damga Vergisi Kanunu uyarınca ticari kredi sözleşmeleri ve teminat belgeleri Damga Vergisinden MUAFTIR.
+------------------------------------------------------------
+
+SORU 26: Motorlu Taşıtlar Vergisi (MTV) ile Emlak Vergisi taksit ödeme ayları hangileridir?
+CEVAP 26: MTV Taksitleri: OCAK ve TEMMUZ aylarıdır. Emlak Vergisi Taksitleri: MAYIS ve KASIM aylarıdır.
+------------------------------------------------------------
+
+SORU 27: Bankalar için uygulanan Kurumlar Vergisi oranı genel şirketler oranından farklı mıdır?
+CEVAP 27: EVET. Finansal kurumlar ve bankalar için Kurumlar Vergisi oranı genel orandan daha yüksek (%30) olarak uygulanmaktadır.
+------------------------------------------------------------
+
+SORU 28: Vergi Usul Kanunu (VUK) uyarınca banka yevmiye maddelerinin defterlere kayıt süresi azami kaç gündür?
+CEVAP 28: İşlemlerin en geç 10 GÜN içinde defterlere kaydedilmesi zorunludur (Muhasebe fişlerine dayanıyorsa azami 45 gündür).
+------------------------------------------------------------
+
+SORU 29: Enflasyon Muhasebesi hangi ekonomik şartlar gerçekleştiğinde uygulanır?
+CEVAP 29: Son 3 yılda Yİ-ÜFE / TÜFE artışının %100'ü ve içinde bulunulan yılda %10'u aşması durumunda finansal tablolar enflasyon düzeltmesine tabi tutulur.
+------------------------------------------------------------
+
+SORU 30: Şubeler Cari Hesabı (390 / 490) ne amaçla kullanılır?
+CEVAP 30: Bankanın Genel Müdürlüğü ile şubeleri veya şubelerin kendi arasındaki para ve yetki transferlerinin muhasebeleştirilmesinde kullanılır.
+------------------------------------------------------------
+
+SORU 31: Kıdem Tazminatı Tavanı yılda kaç kez ve hangi tarihlerde güncellenir?
+CEVAP 31: Yılda 2 KEZ, 1 OCAK ve 1 TEMMUZ tarihlerinde devlet memurları katsayı artışına paralel güncellenir.
+------------------------------------------------------------
+
+SORU 32: Kıdem Tazminatı Karşılığı TMS 19 uyarınca nasıl hesaplanır?
+CEVAP 32: Aktüeryal değerleme yöntemleriyle gelecekte ödenecek kıdem tazminatlarının bugünkü değeri hesaplanarak Karşılık Gideri yazılır.
+------------------------------------------------------------
+
+SORU 33: Amortisman ayırma yöntemi bankalarda nasıl uygulanır?
+CEVAP 33: Duran varlıkların faydalı ömürlerine göre Eşit Paylı (Normal) veya Azalan Bakiyeler yöntemleriyle amortisman ayrılarak gider yazılır.
+------------------------------------------------------------
+
+SORU 34: Vergi Ziyaı Cezası hangi durumda ve ne oranda kesilir?
+CEVAP 34: Verginin zamanında beyan edilmemesi veya eksik beyan edilmesi durumunda ziyaa uğratılan verginin 1 katı oranında kesilir.
+------------------------------------------------------------
+
+SORU 35: Gecikme Faizi ile Gecikme Zammı farkı nedir?
+CEVAP 35: Gecikme Faizi: Vergi tarhiyatı anında vadesine kadar geçen süre için uygulanır. Gecikme Zammı: Amme alacağının vadesinde ödenmemesi durumunda uygulanır.
+------------------------------------------------------------
+
+SORU 36: Katma Değer Vergisi (KDV) karşısında bankacılık hizmetlerinin durumu nedir?
+CEVAP 36: Bankaların BSMV konusuna giren tüm bankacılık muameleleri KDV’den KANUNEN İSTİSNADIR.
+------------------------------------------------------------
+
+SORU 37: Şüpheli Ticari Alacaklar Karşılığı VUK uyarınca ne zaman ayrılabilir?
+CEVAP 37: Alacağın dava veya icra safhasında olması ve protesto edilmiş olması şartıyla ayrılabilir.
+------------------------------------------------------------
+
+SORU 38: Tekdüzen Hesap Planında 'Gelecek Aylara Ait Gelirler' (280/380) nasıl çalışır?
+CEVAP 38: Tahsil edilen ancak gelecek aylara/yıllara ait olan gelirlerin pasifte ertelenerek bekletildiği hesaptır.
+------------------------------------------------------------
+
+SORU 39: Banka Yevmiye Defteri ve Kebir Defteri onay zamanı ne zamandır?
+CEVAP 39: Açılış onayları kullanım yılından önceki son ayda (Aralık ayı); Kapanış onayları ise izleyen yılın sonuna kadar notere yaptırılır.
+------------------------------------------------------------
+
+SORU 40: Vergi Usul Kanununa göre 'Yeniden Değerleme Oranı' neye göre belirlenir?
+CEVAP 40: TÜİK tarafından yayımlanan Yİ-ÜFE oranlarına göre Hazine ve Maliye Bakanlığınca ilan edilir.
+------------------------------------------------------------
+
+SORU 41: Özel İletişim Vergisi (ÖİV) banka haberleşmelerinde nasıl vergilendirilir?
+CEVAP 41: Telekomünikasyon operatörlerinden alınan veri ve telefon hizmet faturalarında ÖİV kesintisi yapılır.
+------------------------------------------------------------
+
+SORU 42: 5. Grup Zarar Niteliğindeki Kredilerde karşılık oranı kaçtır?
+CEVAP 42: %100 oranında özel karşılık ayrılması BDDK kuralıdır.
+------------------------------------------------------------
+
+SORU 43: BDDK ve SPK Finansal Raporlama Standartlarına uygunluk denetimini kim yapar?
+CEVAP 43: KGK yetkili Bağımsız Denetim Kuruluşları ve Bağımsız Denetçiler yapar.
+------------------------------------------------------------
+
+SORU 44: Banka Muhasebesinde 'Kasa Fazlası' zamanaşımı süresi sonunda nereye aktarılır?
+CEVAP 44: Yasal süresi içinde sahibi çıkmayan kasa fazlaları Bankanın 'Diğer Olağanüstü Gelirler' hesabına gelir kaydedilir.
+------------------------------------------------------------
+
+SORU 45: Muhtasar Beyannamede vergi kesintisi yapılan temel kalemler nelerdir?
+CEVAP 45: Çalışan bordro gelir vergisi kesintileri, kira ödemeleri ve serbest meslek ödemesi stopajlarıdır.
+------------------------------------------------------------
+
+SORU 46: E-Defter Beratı GİB sistemine ne zaman yüklenir?
+CEVAP 46: İlgili ayı takip eden 3. ayın son gününe kadar GİB sistemine yüklenmesi zorunludur.
+------------------------------------------------------------
+
+SORU 47: Reeskont İşleminde 'Faiz Reeskontu' bilanço aktifini nasıl etkiler?
+CEVAP 47: Gelecek döneme ait faiz gelirleri aktifteki reeskont hesabıyla düşülerek ilgili dönemin net gelirine dönüştürülür.
+------------------------------------------------------------
+
+SORU 48: Bankacılıkta 'Sermaye Yeterliliği Rasyosu' hesaplanırken Özkaynaklar hangi sermaye unsurlarından oluşur?
+CEVAP 48: Ana Sermaye (Çekirdek Sermaye + İlave Ana Sermaye) ve Katkı Sermaye unsurlarından oluşur.
+------------------------------------------------------------
+
+SORU 49: Vadesiz Reeskont Karşılığı ayrılması kuralı nedir?
+CEVAP 49: Vadesiz hesaplara faiz işletilmediği için vadesiz mevduatlar reeskont işlemine tabi tutulmaz.
+------------------------------------------------------------
+
+SORU 50: Reeskont İşleminde iskonto faiz oranı olarak hangi oran kullanılır?
+CEVAP 50: TCMB tarafından ilan edilen avans/reoskont faiz oranları veya piyasa cari faiz oranları esas alınır.
+------------------------------------------------------------
+
+SORU 51: Banka Aktifinde 'Şüpheli Alacaklar' hesabına aktarma kriteri nedir?
+CEVAP 51: Anapara veya faiz ödemesi 90 günden fazla geciken krediler Şüpheli Alacaklar hesabına aktarılır.
+------------------------------------------------------------
+
+SORU 52: Karşılık Giderleri Gelir Tablosunda hangi grupta yer alır?
+CEVAP 52: Faaliyet Giderleri altında 'Karşılık Giderleri' kalemi olarak izlenir.
+------------------------------------------------------------
+
+SORU 53: İptal Edilen veya Tahsil Edilen Karşılıklar nereye gelir yazılır?
+CEVAP 53: Daha önce gider yazılan karşılıklar tahsil edildiğinde 'Konusu Kalmayan Karşılıklar' gelir hesabına kaydedilir.
+------------------------------------------------------------
+
+SORU 54: Yabancı Para Hesapların Bilanço Tarihindeki Değerlemesi nasıl yapılır?
+CEVAP 54: TCMB tarafından ilan edilen bilanço günü döviz alış kurları esas alınarak değerlenir ve kur farkı kambiyo kâr/zararına yansıtılır.
+------------------------------------------------------------
+
+SORU 55: Kambiyo Kârı ve Kambiyo Zararı Gelir Tablosunda nerede gösterilir?
+CEVAP 55: Finansal İşlemler Kâr/Zararı altında 'Kambiyo İşlemleri Kârı/Zararı' kaleminde net veya brüt olarak izlenir.
+------------------------------------------------------------
+
+SORU 56: Bankalarda 'Menkul Değerler Değerleme Farkları' özkaynaklarda izlenebilir mi?
+CEVAP 56: Evet. Gerçeğe uygun değer farkı özkaynaklara yansıtılan finansal varlıkların değerleme farkları Özkaynaklar altında izlenir.
+------------------------------------------------------------
+
+SORU 57: Mevduat Reeskontu pasifte nasıl izlenir?
+CEVAP 57: Vadeli mevduatların bilanço gününe kadar işleyen ancak henüz ödenmeyen faizleri pasifte 'Mevduat Faiz Reeskontu' hesabında borç olarak tutulur.
+------------------------------------------------------------
+
+SORU 58: Kredi Reeskontu aktifte nasıl izlenir?
+CEVAP 58: Kredilerin bilanço gününe kadar işleyen ancak henüz tahsil edilmeyen faizleri aktifte 'Kredi Faiz Reeskontu' hesabında alacak olarak tutulur.
+------------------------------------------------------------
+
+SORU 59: Bankaların 'Kanuni Yedek Akçe' ayırma zorunluluğu Türk Ticaret Kanunu uyarınca nasıldır?
+CEVAP 59: Dönem net kârının %5'i ödenmiş sermayenin %20'sine ulaşıncaya kadar I. Tertip Kanuni Yedek Akçe olarak ayrılır.
+------------------------------------------------------------
+
+SORU 60: II. Tertip Kanuni Yedek Akçe ne zaman ayrılır?
+CEVAP 60: Ortaklara %5 kâr payı dağıtıldıktan sonra dağıtılması kararlaştırılan tutarın %10'u II. Tertip Kanuni Yedek Akçe olarak ayrılır.
+------------------------------------------------------------
+
+SORU 61: Geçmiş Yıllar Kârları sermayeye eklenebilir mi?
+CEVAP 61: Evet. Genel Kurul kararıyla geçmiş yıl kârları sermayeye eklenerek bedelsiz sermaye artırımı yapılabilir.
+------------------------------------------------------------
+
+SORU 62: Banka Maddi Duran Varlıklarında 'Yeniden Değerleme' yapılması durumunda fon nerede izlenir?
+CEVAP 62: Değer artış tutarı Özkaynaklar altında 'Yeniden Değerleme Değer Artış Fonu' hesabında izlenir.
+------------------------------------------------------------
+
+SORU 63: Maddi Olmayan Duran Varlıklar (Yazılım, Lisans, Şerefiye) nasıl amorti edilir?
+CEVAP 63: Faydalı ömürleri boyunca itfa (amortisman) payı ayrılarak gider yazılır.
+------------------------------------------------------------
+
+SORU 64: Gelecek Yıllara Ait Giderler (180/280) hesabı aktifte nasıl çalışır?
+CEVAP 64: Peşin ödenen ancak gelecek dönemlere ait olan sigorta, kira vb. giderlerin aktifte bekletilip dönemi geldikçe gider yazılmasıdır.
+------------------------------------------------------------
+
+SORU 65: Vergi Kanunlarına göre 'Geçici Vergi' dönemleri kaçar aylıktır?
+CEVAP 65: Üçer aylık dönemler halinde (Ocak-Mart, Nisan-Haziran, Temmuz-Eylül, Ekim-Aralık) hesaplanır ve beyan edilir.
+------------------------------------------------------------
+
+SORU 66: Geçici Vergi beyan ve ödeme son günü ne zamandır?
+CEVAP 66: İlgili üç aylık dönemi takip eden 2. ayın 17. günü akşamına kadardır.
+------------------------------------------------------------
+
+SORU 67: Banka Kurumlar Vergisi Beyannamesi ne zaman verilir?
+CEVAP 67: Hesap dönemini takip eden 4. ayın (Nisan ayı) son gününe kadar verilir ve ödenir.
+------------------------------------------------------------
+
+SORU 68: Damga Vergisinde 'Nispi Damga Vergisi' tavanı var mıdır?
+CEVAP 68: Evet. Nispi damga vergisine tabi kağıtlarda her yıl Hazinece belirlenen bir azami tavan tutar uygulanır.
+------------------------------------------------------------
+
+SORU 69: Kıdem Tazminatında tavanı aşan ödemelerin vergi durumu nedir?
+CEVAP 69: Tavanı aşan kıdem tazminatı ödemeleri ücret sayılır ve Gelir Vergisi stopajına tabi tutulur.
+------------------------------------------------------------
+
+SORU 70: İhbar Tazminatı ödemesi Gelir Vergisi ve Damga Vergisine tabi midir?
+CEVAP 70: Evet. İhbar tazminatı ödemelerinden hem Gelir Vergisi hem de Damga Vergisi kesintisi yapılır.
+------------------------------------------------------------
+
+SORU 71: Sakatlık / Engellilik İndirimi çalışan bordrosunu nasıl etkiler?
+CEVAP 71: Çalışanın gelir vergisi matrahından sakatlık derecesine göre belirlenen tutar düşülerek daha az gelir vergisi ödenmesi sağlanır.
+------------------------------------------------------------
+
+SORU 72: Asgari Ücret Vergi İstisnası kuralı nedir?
+CEVAP 72: Tüm çalışanların ücretlerinin asgari ücrete kadar olan kısmı Gelir Vergisi ve Damga Vergisinden istisnadır.
+------------------------------------------------------------
+
+SORU 73: Banka 'Kasa Zimmet' noksanında sorumluluk kuralı nedir?
+CEVAP 73: Kasa noksanı doğrudan veznedarın/kasadarın kişisel sorumluluğundadır; süresinde ödenmezse maaşından kesilir veya hukuki süreç başlatılır.
+------------------------------------------------------------
+
+SORU 74: Bankacılıkta 'Muamele Fişi' nedir?
+CEVAP 74: Muhasebe kaydına esas teşkil eden, işlem detaylarını ve yetkili imzaları içeren resmi muhasebe belgesidir.
+------------------------------------------------------------
+
+SORU 75: Banka Muhasebesinde 'Ters Kayıt (Düzeltme Kaydı)' ne zaman yapılır?
+CEVAP 75: Hatalı yazılan muhasebe maddesinin iptali veya düzeltilmesi amacıyla zıt yönlü kayıt yapılmasıdır.
+------------------------------------------------------------
+
+SORU 76: Gayrinakdi Kredi Komisyon Reeskontu nasıl yapılır?
+CEVAP 76: Peşin tahsil edilen gayrinakdi kredi komisyonlarının gelecek döneme sarkan kısmı 'Gelecek Aylara Ait Gelirler' hesabına devredilir.
+------------------------------------------------------------
+
+SORU 77: Bankalarda 'Konsolide Mali Tablo' ne zaman düzenlenir?
+CEVAP 77: Banka ve bağlı ortaklıklarının finansal tablolarının tek bir kurum gibi birleştirilerek dönem sonlarında yayınlanmasıdır.
+------------------------------------------------------------
+
+SORU 78: Kamu Alacaklarında 'Tecil ve Taksitlendirme' (6183 sayılı Kanun Madde 48) nedir?
+CEVAP 78: Borçlunun çok zor durumda olması halinde vergi borcunun tecil faiziyle azami 36 aya kadar taksitlendirilmesidir.
+------------------------------------------------------------
+
+SORU 79: Vergi İnceleme Raporuna karşı mükellefin 'Uzlaşma' hakkı var mıdır?
+CEVAP 79: Evet. Tarhiyat öncesi veya tarhiyat sonrası Vergi Uzlaşma Komisyonlarına başvurarak vergi ve cezalarda uzlaşma talep edilebilir.
+------------------------------------------------------------
+
+SORU 80: Vergi Mahkemesinde dava açma süresi vergi ceza ihbarnamesinin tebliğinden itibaren kaç gündür?
+CEVAP 80: Tebliğ tarihinden itibaren AZAMİ 30 GÜN içinde Vergi Mahkemesinde dava açılması gerekir.
+------------------------------------------------------------
+
+SORU 81: Bankaların 'Karşılık Karşılığı Ayrılan İhtiyatlar' özkaynak hesaplamasında Katkı Sermayeye dahil edilir mi?
+CEVAP 81: BDDK düzenlemelerine göre genel kredi karşılıklarının belirli bir kısmı Katkı Sermaye hesaplamasına dahil edilebilir.
+------------------------------------------------------------
+
+SORU 82: Banka Şube Muhasebesinde 'Kapanış İşlemleri' gün sonunda ne zaman tamamlanır?
+CEVAP 82: Kasa ve sistem mutabakatları sağlandıktan, yevmiye fişleri dökülüp denetlendikten sonra gün sonu (EOD) çalıştırılarak tamamlanır.
+------------------------------------------------------------
+
+SORU 83: Gider Reeskontu pasifte nasıl izlenir?
+CEVAP 83: Cari döneme ait olan ancak faturası/ödemesi gelecek döneme sarkacak giderler pasifte 'Gider Tahakkukları' hesabında izlenir.
+------------------------------------------------------------
+
+SORU 84: Banka Aktifinde 'Takipteki Alacaklar İskontosu' ayrılabilir mi?
+CEVAP 84: Takipten doğan alacakların net gerçekleşebilir değerle gösterilmesi için özel karşılık düşülerek netleştirilir.
+------------------------------------------------------------
+
+SORU 85: Sermaye Yedekleri kaleminde hangi hesaplar yer alır?
+CEVAP 85: Hisse Senedi İhraç Primleri, Hisse Senedi İptal Kârları ve Yeniden Değerleme Değer Artış Fonları.
+------------------------------------------------------------
+
+SORU 86: Kâr Yedekleri kaleminde nelerin bulunması zorunludur?
+CEVAP 86: I. ve II. Tertip Kanuni Yedek Akçeler, Statü Yedekleri ve Olağanüstü Yedek Akçeler.
+------------------------------------------------------------
+
+SORU 87: Banka Mali Tablolarında 'Karşılaştırılabilirlik' ne demektir?
+CEVAP 87: Finansal tabloların önceki dönemlerle ve diğer bankaların tablolarıyla kıyaslanabilir standartta hazırlanmasıdır.
+------------------------------------------------------------
+
+SORU 88: Vergi Mevzuatına göre 'Yenileme Fonu' pasifte kaç yıl tutulabilir?
+CEVAP 88: Satılan duran varlığın yenisini almak amacıyla ayrılan kâr fonu pasifte AZAMİ 3 YIL tutulabilir; 3 yıl içinde kullanılmazsa kâra eklenir.
+------------------------------------------------------------
+
+SORU 89: Bankacılıkta 'Operasyonel Risk Karşılığı' SYR hesaplamasına dahil edilir mi?
+CEVAP 89: Evet. Risk Ağırlıklı Varlıklar hesaplanırken Kredi Riski, Piyasa Riski ve Operasyonel Risk için sermaye yükümlülüğü hesaplanır.
+------------------------------------------------------------
+
+SORU 90: VakıfBank Muhasebe ve Mali İşler Başkanlığı ana hedefi nedir?
+CEVAP 90: Bankanın tüm finansal işlemlerini BDDK, VUK ve TFRS standartlarına uygun, doğru, şeffaf ve zamanında muhasebeleştirip raporlamaktır.
+------------------------------------------------------------
+
