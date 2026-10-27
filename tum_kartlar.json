@@ -5812,102 +5812,142 @@
       {
         "kart": 76,
         "soru": "Taşınmaz Yükü (Gayrimenkul Mükellefiyeti) nedir?",
-        "cevap": "Bir taşınmaz malikinin, taşınmazı teminat oluşturmak üzere başkasına bir şey yapma veya verme yükümlülüğü altına girmesidir."
+        "cevap": "Bir taşınmaz malikinin, taşınmazı teminat oluşturmak üzere başkasına bir şey yapma veya verme yükümlülüğü altına girmesidir.",
+        "q_end": 3.79,
+        "a_start": 7.09
       },
       {
         "kart": 77,
         "soru": "Rehnin Paraya Çevrilmesi Yoluyla Takipte borçlu ödeme emrine kaç gün içinde itiraz edebilir?",
-        "cevap": "Ödeme emrinin tebliğ tarihinden itibaren 7 GÜN içinde icra dairesine itiraz edebilir."
+        "cevap": "Ödeme emrinin tebliğ tarihinden itibaren 7 GÜN içinde icra dairesine itiraz edebilir.",
+        "q_end": 6.53,
+        "a_start": 9.83
       },
       {
         "kart": 78,
         "soru": "İcra Takibinde 'Haczedilen Malların Satış İsteme Süresi' ne kadardır?",
-        "cevap": "Alacaklı haczedilen taşınır ve taşınmaz malların satışını haciz tarihinden itibaren 1 YIL içinde istemek zorundadır."
+        "cevap": "Alacaklı haczedilen taşınır ve taşınmaz malların satışını haciz tarihinden itibaren 1 YIL içinde istemek zorundadır.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 79,
         "soru": "Konkordato Mühleti içinde borçluya karşı ihtiyati haciz kararı uygulanabilir mi?",
-        "cevap": "HAYIR. Konkordato mühleti boyunca borçluya karşı hiçbir icra takibi yapılamaz ve ihtiyati haciz uygulanamaz."
+        "cevap": "HAYIR. Konkordato mühleti boyunca borçluya karşı hiçbir icra takibi yapılamaz ve ihtiyati haciz uygulanamaz.",
+        "q_end": 5.5,
+        "a_start": 8.8
       },
       {
         "kart": 80,
         "soru": "Aşırı İfa Güçlüğünde (Uyarlama) borçlu borcunu ifa etmeden önce ne hakkına sahiptir?",
-        "cevap": "Sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün değilse sözleşmeden dönme hakkına sahiptir."
+        "cevap": "Sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün değilse sözleşmeden dönme hakkına sahiptir.",
+        "q_end": 6.22,
+        "a_start": 9.52
       },
       {
         "kart": 81,
         "soru": "Borçlar Kanununa göre 'Alacağın Devri (Temlik)' geçerliliği neye bağlıdır?",
-        "cevap": "Alacağın devri sözleşmesinin YAZILI ŞEKİLDE yapılması yasal geçerlilik şartıdır."
+        "cevap": "Alacağın devri sözleşmesinin YAZILI ŞEKİLDE yapılması yasal geçerlilik şartıdır.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 82,
         "soru": "Borcun Üstlenilmesi (Borcun Nakli) sözleşmesinde alacaklının onayı gerekir mi?",
-        "cevap": "EVET. Borçlu ile yeni borçlu arasındaki üstlenme sözleşmesinin alacaklıyı bağlaması için alacaklının ONAY VERMESİ zorunludur."
+        "cevap": "EVET. Borçlu ile yeni borçlu arasındaki üstlenme sözleşmesinin alacaklıyı bağlaması için alacaklının ONAY VERMESİ zorunludur.",
+        "q_end": 5.54,
+        "a_start": 8.84
       },
       {
         "kart": 83,
         "soru": "Kambiyo Senetlerinde 'Ciro Eden (Ciranta)' kimdir?",
-        "cevap": "Senet üzerindeki alacak hakkını ciro yoluyla başkasına devreden kişidir."
+        "cevap": "Senet üzerindeki alacak hakkını ciro yoluyla başkasına devreden kişidir.",
+        "q_end": 3.94,
+        "a_start": 7.24
       },
       {
         "kart": 84,
         "soru": "Poliçede 'Ödememe Protestosu' ne zaman çekilmelidir?",
-        "cevap": "Poliçenin ödeme gününü takip eden iki iş günü içinde noter vasıtasıyla çekilmelidir."
+        "cevap": "Poliçenin ödeme gününü takip eden iki iş günü içinde noter vasıtasıyla çekilmelidir.",
+        "q_end": 4.01,
+        "a_start": 7.31
       },
       {
         "kart": 85,
         "soru": "Çekte 'Keşide Yeri' belirtilmemişse çek ne sayılır?",
-        "cevap": "Keşidecinin adının yanında gösterilen yer keşide yeri sayılır; o da yoksa çek geçersiz olur."
+        "cevap": "Keşidecinin adının yanında gösterilen yer keşide yeri sayılır; o da yoksa çek geçersiz olur.",
+        "q_end": 3.79,
+        "a_start": 7.09
       },
       {
         "kart": 86,
         "soru": "Çekte 'Süreçte Karşılıksızdır' işlemi yapılan hamilin cirantalara başvurabilmesi için ne yapması gerekir?",
-        "cevap": "İbraz süresi içinde çekin muhatap bankaya ibraz edilip karşılıksızdır işleminin yapılmış olması yeterlidir."
+        "cevap": "İbraz süresi içinde çekin muhatap bankaya ibraz edilip karşılıksızdır işleminin yapılmış olması yeterlidir.",
+        "q_end": 6.74,
+        "a_start": 10.04
       },
       {
         "kart": 87,
         "soru": "İcra Takibinde 'Takibin İptali ve Ertelenmesi' kararlarını hangi mahkeme verir?",
-        "cevap": "İcra Hukuk Mahkemesi verir."
+        "cevap": "İcra Hukuk Mahkemesi verir.",
+        "q_end": 5.62,
+        "a_start": 8.92
       },
       {
         "kart": 88,
         "soru": "İflas eden borçlu adına gelen mektup ve tebligatları açma yetkisi kime aittir?",
-        "cevap": "İflas Masası Organlarına (İflas İdaresine) aittir."
+        "cevap": "İflas Masası Organlarına (İflas İdaresine) aittir.",
+        "q_end": 5.52,
+        "a_start": 8.82
       },
       {
         "kart": 89,
         "soru": "Tüketici Uyuşmazlıklarında 'Arabuluculuk' mahkeme öncesi dava şartı mıdır?",
-        "cevap": "EVET. Tüketici Mahkemesinde dava açmadan önce arabulucuya başvurulması yasal DAVA ŞARTIDIR."
+        "cevap": "EVET. Tüketici Mahkemesinde dava açmadan önce arabulucuya başvurulması yasal DAVA ŞARTIDIR.",
+        "q_end": 5.21,
+        "a_start": 8.51
       },
       {
         "kart": 90,
         "soru": "Banka Personelinin sır saklama yükümlülüğü görevden ayrıldıktan sonra da devam eder mi?",
-        "cevap": "EVET. Sır saklama yükümlülüğü personelin bankadan ayrılmasından sonra da SÜRESİZ olarak devam eder."
+        "cevap": "EVET. Sır saklama yükümlülüğü personelin bankadan ayrılmasından sonra da SÜRESİZ olarak devam eder.",
+        "q_end": 5.81,
+        "a_start": 9.11
       },
       {
         "kart": 91,
         "soru": "Hukuki İşlemlerde 'Mutlak Butlan' ile 'Nisbi Butlan (İptal Edilebilirlik)' farkı nedir?",
-        "cevap": "Mutlak Butlan: İşlem baştan itibaren kesin olarak geçersizdir. Nisbi Butlan: İşlem sakat kurulmuştur; iradesi fesada uğrayan tarafça iptal edilene kadar geçerlidir."
+        "cevap": "Mutlak Butlan: İşlem baştan itibaren kesin olarak geçersizdir. Nisbi Butlan: İşlem sakat kurulmuştur; iradesi fesada uğrayan tarafça iptal edilene kadar geçerlidir.",
+        "q_end": 5.88,
+        "a_start": 9.18
       },
       {
         "kart": 92,
         "soru": "Akitlerde 'İrade Bozuklukları' nelerdir?",
-        "cevap": "Yanılma (Hata), Aldatma (Hile) ve Korkutma (Ikrâh)'tır. Mağdur taraf 1 yıl içinde sözleşmeyi iptal edebilir."
+        "cevap": "Yanılma (Hata), Aldatma (Hile) ve Korkutma (Ikrâh)'tır. Mağdur taraf 1 yıl içinde sözleşmeyi iptal edebilir.",
+        "q_end": 3.24,
+        "a_start": 6.54
       },
       {
         "kart": 93,
         "soru": "Temsilci Yetkisinin Sona Ermesi durumunda dürüst iyiniyetli 3. kişilerin durumu nedir?",
-        "cevap": "Temsil yetkisinin geri alındığı 3. kişilere bildirilmemişse, iyiniyetli 3. kişilerin temsilciyle yaptığı işlemler geçerlidir."
+        "cevap": "Temsil yetkisinin geri alındığı 3. kişilere bildirilmemişse, iyiniyetli 3. kişilerin temsilciyle yaptığı işlemler geçerlidir.",
+        "q_end": 6.31,
+        "a_start": 9.61
       },
       {
         "kart": 94,
         "soru": "Bileşik Faiz Yasağı Türk Ticaret Kanununda tacirler arası ticari işlerde uygulanır mı?",
-        "cevap": "Ticari işlerde kural olarak serbesttir; ancak tüketici işlemlerinde kesinlikle yasaktır."
+        "cevap": "Ticari işlerde kural olarak serbesttir; ancak tüketici işlemlerinde kesinlikle yasaktır.",
+        "q_end": 5.9,
+        "a_start": 9.2
       },
       {
         "kart": 95,
         "soru": "Hukuk yargılamasında 'Kesin Delil' niteliğinde olan belgeler nelerdir?",
-        "cevap": "Sened, Yemin ve Kesin Hüküm kesin delil niteliğindedir."
+        "cevap": "Sened, Yemin ve Kesin Hüküm kesin delil niteliğindedir.",
+        "q_end": 4.9,
+        "a_start": 8.2
       },
       {
         "kart": 96,
