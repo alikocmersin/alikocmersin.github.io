@@ -5287,77 +5287,107 @@
       {
         "kart": 1,
         "soru": "Hukuk kurallarını din, ahlak ve görgü kurallarından ayıran temel fark nedir?",
-        "cevap": "Hukuk kurallarının yaptırımı (müeyyidesi) devlet gücüyle desteklenmiş MADDİ YAPTIRIM'dır (ceza, cebri icra, tazminat, hükümsüzlük). Diğer kuralların yaptırımı manevidir."
+        "cevap": "Hukuk kurallarının yaptırımı (müeyyidesi) devlet gücüyle desteklenmiş MADDİ YAPTIRIM'dır (ceza, cebri icra, tazminat, hükümsüzlük). Diğer kuralların yaptırımı manevidir.",
+        "q_end": 5.4,
+        "a_start": 8.7
       },
       {
         "kart": 2,
         "soru": "Hukuk kurallarının türlerinden 'Emredici Hukuk Kuralları' ne anlama gelir?",
-        "cevap": "Aksine sözleşme yapılması KANUNEN YASAK OLAN, kamu düzenini, genel ahlakı ve zayıfları korumayı amaçlayan kesin kurallardır. Aksine yapılan sözleşmeler kesin olarak hükümsüzdür."
+        "cevap": "Aksine sözleşme yapılması KANUNEN YASAK OLAN, kamu düzenini, genel ahlakı ve zayıfları korumayı amaçlayan kesin kurallardır. Aksine yapılan sözleşmeler kesin olarak hükümsüzdür.",
+        "q_end": 4.85,
+        "a_start": 8.15
       },
       {
         "kart": 3,
         "soru": "Hukuk kurallarından 'Tamamlayıcı (Yedek) Hukuk Kuralları' ne zaman devreye girer?",
-        "cevap": "Tarafların sözleşmede düzenlemedikleri veya unuttukları hususlarda boşluğu doldurmak amacıyla devreye girer."
+        "cevap": "Tarafların sözleşmede düzenlemedikleri veya unuttukları hususlarda boşluğu doldurmak amacıyla devreye girer.",
+        "q_end": 5.11,
+        "a_start": 8.41
       },
       {
         "kart": 4,
         "soru": "Hak Ehliyeti ile Fiil Ehliyeti arasındaki temel fark nedir?",
-        "cevap": "Hak Ehliyeti: Haklara ve borçlara sahip olabilme pasif ehliyetidir. Fiil Ehliyeti: Kendi fiil ve işlemleriyle hak edinebilme ve borç altına girebilme aktif ehliyetidir."
+        "cevap": "Hak Ehliyeti: Haklara ve borçlara sahip olabilme pasif ehliyetidir. Fiil Ehliyeti: Kendi fiil ve işlemleriyle hak edinebilme ve borç altına girebilme aktif ehliyetidir.",
+        "q_end": 4.42,
+        "a_start": 7.72
       },
       {
         "kart": 5,
         "soru": "Medeni Kanun uyarınca Hak Ehliyeti ne zaman başlar ve ne zaman sona erer?",
-        "cevap": "Sağ ve tam doğmak kaydıyla ANA RAHMİNE DÜŞÜLDÜĞÜ ANDAN başlar ve ÖLÜM (veya gaiplik) ile sona erer."
+        "cevap": "Sağ ve tam doğmak kaydıyla ANA RAHMİNE DÜŞÜLDÜĞÜ ANDAN başlar ve ÖLÜM (veya gaiplik) ile sona erer.",
+        "q_end": 5.28,
+        "a_start": 8.58
       },
       {
         "kart": 6,
         "soru": "Fiil Ehliyetinin 3 temel kanuni şartı nelerdir?",
-        "cevap": "1. Ayırt etme gücüne (sezgisine) sahip olmak | 2. Ergin (reşit) olmak (18 yaşını doldurmak) | 3. Kısıtlı olmamak."
+        "cevap": "1. Ayırt etme gücüne (sezgisine) sahip olmak | 2. Ergin (reşit) olmak (18 yaşını doldurmak) | 3. Kısıtlı olmamak.",
+        "q_end": 4.03,
+        "a_start": 7.33
       },
       {
         "kart": 7,
         "soru": "Ergin olma (Rüşt) yaş sınırlaması ve yasal istisnaları nelerdir?",
-        "cevap": "Genel erginlik yaşı 18'dir. İstisnalar: Evlenme ile erginlik (17 yaş, olağanüstü 16 yaş) ve Mahkeme kararıyla ergin kılınma (Kazai Rüşt - en az 15 yaşın doldurulması)."
+        "cevap": "Genel erginlik yaşı 18'dir. İstisnalar: Evlenme ile erginlik (17 yaş, olağanüstü 16 yaş) ve Mahkeme kararıyla ergin kılınma (Kazai Rüşt - en az 15 yaşın doldurulması).",
+        "q_end": 4.82,
+        "a_start": 8.12
       },
       {
         "kart": 8,
         "soru": "Ayırt etme gücü (sezginlik) bulunmayan kişilerin hukuki ehliyet statüsü nedir ve yaptıkları hukuki işlemlerin geçerliliği nasıldır?",
-        "cevap": "Bunlar 'Sınırsız Ehliyetsiz' sayılır. Ayırt etme gücü olmayan kişilerin yaptıkları tüm hukuki işlemler KESİN HÜKÜMSÜZDÜR (Bâtıldır). Haksız fiillerinden de kural olarak sorumlu değillerdir."
+        "cevap": "Bunlar 'Sınırsız Ehliyetsiz' sayılır. Ayırt etme gücü olmayan kişilerin yaptıkları tüm hukuki işlemler KESİN HÜKÜMSÜZDÜR (Bâtıldır). Haksız fiillerinden de kural olarak sorumlu değillerdir.",
+        "q_end": 7.94,
+        "a_start": 11.24
       },
       {
         "kart": 9,
         "soru": "Ayırt etme gücüne sahip ancak 18 yaşını doldurmamış küçükler veya kısıtlılar hangi ehliyet grubuna girer ve tasarruf yetkileri nasıldır?",
-        "cevap": "Bunlar 'Sınırlı Ehliyetsiz' sayılır. Tek başlarına borç altına giremezler (veli/vasi onayı gerekir); ancak kişiye sıkı sıkıya bağlı hakları ve karşılıksız kazandırmaları (bağış kabulü) tek başlarına yapabilirler."
+        "cevap": "Bunlar 'Sınırlı Ehliyetsiz' sayılır. Tek başlarına borç altına giremezler (veli/vasi onayı gerekir); ancak kişiye sıkı sıkıya bağlı hakları ve karşılıksız kazandırmaları (bağış kabulü) tek başlarına yapabilirler.",
+        "q_end": 8.95,
+        "a_start": 12.25
       },
       {
         "kart": 10,
         "soru": "Kendilerine 'Yasal Danışman' atanan kişiler hangi ehliyet grubundadır?",
-        "cevap": "Bunlar 'Sınırlı Ehliyetli' sayılır. Yasal danışmanın onayı olmadan dava açamaz, gayrimenkul satamaz, kefil olamaz ve bağış yapamazlar."
+        "cevap": "Bunlar 'Sınırlı Ehliyetli' sayılır. Yasal danışmanın onayı olmadan dava açamaz, gayrimenkul satamaz, kefil olamaz ve bağış yapamazlar.",
+        "q_end": 5.04,
+        "a_start": 8.34
       },
       {
         "kart": 11,
         "soru": "Tüzel Kişilerin Hak Ehliyeti ve Fiil Ehliyeti ne zaman başlar?",
-        "cevap": "Hak Ehliyeti: Kanuna uygun olarak kuruldukları andan itibaren başlar. Fiil Ehliyeti: Zorunlu organlarına (yönetim kuruluna) sahip oldukları anda başlar."
+        "cevap": "Hak Ehliyeti: Kanuna uygun olarak kuruldukları andan itibaren başlar. Fiil Ehliyeti: Zorunlu organlarına (yönetim kuruluna) sahip oldukları anda başlar.",
+        "q_end": 4.51,
+        "a_start": 7.81
       },
       {
         "kart": 12,
         "soru": "Miras Hukukunda 'Yasal Mirasçılar' kimlerdir ve 'Zümre (Sınıf) Sistemi' nasıl işler?",
-        "cevap": "Yasal mirasçılar kan akrabaları, evlatlık, sağ kalan eş ve devlettir. 1. Zümre: Altsoy (çocuklar, torunlar); 2. Zümre: Ana-baba ve kardeşler; 3. Zümre: Büyükanne ve büyükbabadır. Önceki zümrede mirasçı varsa sonraki zümreye miras düşmez."
+        "cevap": "Yasal mirasçılar kan akrabaları, evlatlık, sağ kalan eş ve devlettir. 1. Zümre: Altsoy (çocuklar, torunlar); 2. Zümre: Ana-baba ve kardeşler; 3. Zümre: Büyükanne ve büyükbabadır. Önceki zümrede mirasçı varsa sonraki zümreye miras düşmez.",
+        "q_end": 5.71,
+        "a_start": 9.01
       },
       {
         "kart": 13,
         "soru": "Mirasbırakanın ölüme bağlı tasarruflarla (vasiyetname vb.) ortadan kaldıramayacağı korunmuş miras payına ne ad verilir?",
-        "cevap": "Saklı Pay adı verilir. Altsoy, ana-baba ve sağ kalan eş saklı paylı mirasçılardır."
+        "cevap": "Saklı Pay adı verilir. Altsoy, ana-baba ve sağ kalan eş saklı paylı mirasçılardır.",
+        "q_end": 8.21,
+        "a_start": 11.51
       },
       {
         "kart": 14,
         "soru": "Mirasın Reddi (Redd-i Miras) süresi ne kadardır ve nereye başvurulur?",
-        "cevap": "Mirasçılar mirası, ölümün öğrenildiği tarihten itibaren 3 AY İÇİNDE Sulh Hukuk Mahkemesine başvurarak reddedebilirler."
+        "cevap": "Mirasçılar mirası, ölümün öğrenildiği tarihten itibaren 3 AY İÇİNDE Sulh Hukuk Mahkemesine başvurarak reddedebilirler.",
+        "q_end": 5.02,
+        "a_start": 8.32
       },
       {
         "kart": 15,
         "soru": "Mülkiyet Türlerinden 'Paylı (Müşterek) Mülkiyet' ile 'Elbirliği (İştirak halinde) Mülkiyeti' arasındaki temel fark nedir?",
-        "cevap": "Paylı Mülkiyet: Hisseler belirli oranlarda ayrılmıştır, paydaş kendi payını satabilir. Elbirliği Mülkiyeti: Hisseler belirsizdir, tüm malvarlığı ortakların tamamına aittir (Örn: Miras Ortaklığı)."
+        "cevap": "Paylı Mülkiyet: Hisseler belirli oranlarda ayrılmıştır, paydaş kendi payını satabilir. Elbirliği Mülkiyeti: Hisseler belirsizdir, tüm malvarlığı ortakların tamamına aittir (Örn: Miras Ortaklığı).",
+        "q_end": 7.56,
+        "a_start": 10.86
       },
       {
         "kart": 16,
