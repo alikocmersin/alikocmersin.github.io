@@ -5672,102 +5672,142 @@
       {
         "kart": 56,
         "soru": "İİK 89/2 uyarınca gönderilen ikinci haciz ihbarnamesine de 7 gün içinde itiraz edilmezse borçlu ne yapabilir?",
-        "cevap": "Borçlu üçüncü şahsa 3. Haciz İhbarhanesi gönderilerek 15 gün içinde Menfi Tespit Davası açması ihtar edilir."
+        "cevap": "Borçlu üçüncü şahsa 3. Haciz İhbarhanesi gönderilerek 15 gün içinde Menfi Tespit Davası açması ihtar edilir.",
+        "q_end": 8.74,
+        "a_start": 12.04
       },
       {
         "kart": 57,
         "soru": "Rehnin Paraya Çevrilmesi Yoluyla Takipte 'Önce Rehine Başvurma Kuralı' ne anlama gelir?",
-        "cevap": "Alacağı rehin veya ipotekle temin edilmiş olan alacaklı, borçluya karşı doğrudan genel haciz takibi yapamaz; ÖNCE REHNİN PARAYA ÇEVRİLMESİ yoluna başvurmak zorundadır."
+        "cevap": "Alacağı rehin veya ipotekle temin edilmiş olan alacaklı, borçluya karşı doğrudan genel haciz takibi yapamaz; ÖNCE REHNİN PARAYA ÇEVRİLMESİ yoluna başvurmak zorundadır.",
+        "q_end": 6.05,
+        "a_start": 9.35
       },
       {
         "kart": 58,
         "soru": "Rehnin Paraya Çevrilmesinde Ödeme Emri süreleri menkul rehninde ve gayrimenkul ipoteğinde kaç gündür?",
-        "cevap": "Menkul rehninde ödeme süresi 15 GÜN; Gayrimenkul ipoteğinde ise 30 GÜNDÜR."
+        "cevap": "Menkul rehninde ödeme süresi 15 GÜN; Gayrimenkul ipoteğinde ise 30 GÜNDÜR.",
+        "q_end": 7.51,
+        "a_start": 10.81
       },
       {
         "kart": 59,
         "soru": "İhtiyati Haciz nedir ve şartları nelerdir?",
-        "cevap": "Rehinle temin edilmemiş, vadesi gelmiş para alacağını güvenceye almak için mahkeme kararıyla borçlunun mallarına geçici el konulmasıdır."
+        "cevap": "Rehinle temin edilmemiş, vadesi gelmiş para alacağını güvenceye almak için mahkeme kararıyla borçlunun mallarına geçici el konulmasıdır.",
+        "q_end": 3.5,
+        "a_start": 6.8
       },
       {
         "kart": 60,
         "soru": "Konkordato nedir ve borçluya verilen geçici/kesin mühlet süreleri kaç aydır?",
-        "cevap": "Borçlunun alacaklılarıyla anlaşıp borçlarını yeniden yapılandırmasını sağlayan hukuki imkandır. Mahkeme önce 3 AY geçici mühlet, ardından 1 YIL kesin mühlet verir."
+        "cevap": "Borçlunun alacaklılarıyla anlaşıp borçlarını yeniden yapılandırmasını sağlayan hukuki imkandır. Mahkeme önce 3 AY geçici mühlet, ardından 1 YIL kesin mühlet verir.",
+        "q_end": 6.17,
+        "a_start": 9.47
       },
       {
         "kart": 61,
         "soru": "İflas Kararı verilmesiyle borçlunun malvarlığı üzerinde oluşan yapıya ne ad verilir?",
-        "cevap": "İflas Masası adı verilir. Borçlu malvarlığı üzerindeki tasarruf yetkisini kaybeder."
+        "cevap": "İflas Masası adı verilir. Borçlu malvarlığı üzerindeki tasarruf yetkisini kaybeder.",
+        "q_end": 5.88,
+        "a_start": 9.18
       },
       {
         "kart": 62,
         "soru": "5411 sayılı Bankacılık Kanunu Madde 159 uyarınca Müşteri Sırrını ve Banka Sırrını açıklayanlar hakkında ne uygulanır?",
-        "cevap": "1 yıldan 3 yıla kadar hapis ve adli para cezası uygulanır."
+        "cevap": "1 yıldan 3 yıla kadar hapis ve adli para cezası uygulanır.",
+        "q_end": 8.88,
+        "a_start": 12.18
       },
       {
         "kart": 63,
         "soru": "Açık Artırma yoluyla icradan satılan gayrimenkullerde ihale bedeli ödeme süresi kaç gündür?",
-        "cevap": "İhale alıcısı ihale bedelini en geç 10 GÜN İÇİNDE icra dairesine ödemekle yükümlüdür."
+        "cevap": "İhale alıcısı ihale bedelini en geç 10 GÜN İÇİNDE icra dairesine ödemekle yükümlüdür.",
+        "q_end": 7.13,
+        "a_start": 10.43
       },
       {
         "kart": 64,
         "soru": "Medeni Kanun uyarınca 'Dürüstlük Kuralı (Madde 2)' ne anlama gelir?",
-        "cevap": "Herkes haklarını kullanırken ve borçlarını ifa ederken dürüstlük kurallarına uymakla yükümlüdür; bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz."
+        "cevap": "Herkes haklarını kullanırken ve borçlarını ifa ederken dürüstlük kurallarına uymakla yükümlüdür; bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz.",
+        "q_end": 5.04,
+        "a_start": 8.34
       },
       {
         "kart": 65,
         "soru": "Medeni Kanunda 'İyiniyet (Madde 3)' ilkesi ne zaman devreye girer?",
-        "cevap": "Kanunun iyiniyete sonuç bağladığı durumlarda, hakkın kazanılmasındaki engeli bilmeyen veya bilmesi gerekmeyen kişi iyiniyetli sayılır ve korunur."
+        "cevap": "Kanunun iyiniyete sonuç bağladığı durumlarda, hakkın kazanılmasındaki engeli bilmeyen veya bilmesi gerekmeyen kişi iyiniyetli sayılır ve korunur.",
+        "q_end": 4.82,
+        "a_start": 8.12
       },
       {
         "kart": 66,
         "soru": "Gaiplik kararı verilebilmesi için aranan süre şartları nelerdir?",
-        "cevap": "Ölüm tehlikesi içinde kaybolmada kaybolma tarihinden itibaren 1 YIL; uzun süreden beri haber alınamama durumunda en son haber tarihinden itibaren 5 YIL geçmesi gerekir."
+        "cevap": "Ölüm tehlikesi içinde kaybolmada kaybolma tarihinden itibaren 1 YIL; uzun süreden beri haber alınamama durumunda en son haber tarihinden itibaren 5 YIL geçmesi gerekir.",
+        "q_end": 4.63,
+        "a_start": 7.93
       },
       {
         "kart": 67,
         "soru": "Gaiplik kararını vermeye yetkili mahkeme hangisidir?",
-        "cevap": "Kişinin son yerleşim yerindeki Sulh Hukuk Mahkemesi'dir."
+        "cevap": "Kişinin son yerleşim yerindeki Sulh Hukuk Mahkemesi'dir.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 68,
         "soru": "Derneklerin kurulabilmesi için en az kaç gerçek veya tüzel kişinin bir araya gelmesi gerekir?",
-        "cevap": "En az 7 gerçek veya tüzel kişinin bir araya gelmesi şarttır."
+        "cevap": "En az 7 gerçek veya tüzel kişinin bir araya gelmesi şarttır.",
+        "q_end": 6.62,
+        "a_start": 9.92
       },
       {
         "kart": 69,
         "soru": "Vakıflar tüzel kişilik kazanabilmek için nereye tescil edilmelidir?",
-        "cevap": "Yerleşim yeri Asliye Hukuk Mahkemesi nezdindeki sicile tescil ile tüzel kişilik kazanırlar."
+        "cevap": "Yerleşim yeri Asliye Hukuk Mahkemesi nezdindeki sicile tescil ile tüzel kişilik kazanırlar.",
+        "q_end": 4.68,
+        "a_start": 7.98
       },
       {
         "kart": 70,
         "soru": "Mirasbırakanın vefatı halinde mirasın reddi süresi kaç aydır?",
-        "cevap": "Ölümün öğrenildiği tarihten itibaren 3 AYDIR."
+        "cevap": "Ölümün öğrenildiği tarihten itibaren 3 AYDIR.",
+        "q_end": 4.97,
+        "a_start": 8.27
       },
       {
         "kart": 71,
         "soru": "Resmi Vasiyetname kimlerin huzurunda düzenlenir?",
-        "cevap": "Resmi memur (Noter veya Sulh Hakimi) ve iki tanık huzurunda düzenlenir."
+        "cevap": "Resmi memur (Noter veya Sulh Hakimi) ve iki tanık huzurunda düzenlenir.",
+        "q_end": 3.98,
+        "a_start": 7.28
       },
       {
         "kart": 72,
         "soru": "Elyazılı Vasiyetnamenin geçerlilik şartları nelerdir?",
-        "cevap": "Vasiyetnamenin başından sonuna kadar mirasbırakanın el yazısı ile yazılmış olması, düzenleme tarihinin ve ıslak imzasının bulunması zorunludur."
+        "cevap": "Vasiyetnamenin başından sonuna kadar mirasbırakanın el yazısı ile yazılmış olması, düzenleme tarihinin ve ıslak imzasının bulunması zorunludur.",
+        "q_end": 3.96,
+        "a_start": 7.26
       },
       {
         "kart": 73,
         "soru": "Taşınmaz Mülkiyetinin kazanılmasında geçerli olan temel tescil türü nedir?",
-        "cevap": "Tapu kütüğüne Tescil ile kazanılır (İstisnalar: Miras, mahkeme kararı, cebri icra, kamulaştırma tescilden önce mülkiyet kazandırır)."
+        "cevap": "Tapu kütüğüne Tescil ile kazanılır (İstisnalar: Miras, mahkeme kararı, cebri icra, kamulaştırma tescilden önce mülkiyet kazandırır).",
+        "q_end": 5.64,
+        "a_start": 8.94
       },
       {
         "kart": 74,
         "soru": "İrtifak Haklarından 'İntifa Hakkı' sahibine ne yetkisi verir?",
-        "cevap": "Başkasına ait bir taşınmaz veya taşınır üzerinde tam kullanma ve yararlanma (semelerinden faydalanma) yetkisi verir."
+        "cevap": "Başkasına ait bir taşınmaz veya taşınır üzerinde tam kullanma ve yararlanma (semelerinden faydalanma) yetkisi verir.",
+        "q_end": 4.25,
+        "a_start": 7.55
       },
       {
         "kart": 75,
         "soru": "İrtifak Haklarından 'Oturma (Sükna) Hakkı' nedir?",
-        "cevap": "Bir binada veya onun bir bölümünde oturma yetkisi veren, başkasına devredilemeyen kişiye bağlı ayni haktır."
+        "cevap": "Bir binada veya onun bir bölümünde oturma yetkisi veren, başkasına devredilemeyen kişiye bağlı ayni haktır.",
+        "q_end": 3.67,
+        "a_start": 6.97
       },
       {
         "kart": 76,
