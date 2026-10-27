@@ -5952,17 +5952,23 @@
       {
         "kart": 96,
         "soru": "Mahkeme Kararlarının kesinleşmesi için ne gereklidir?",
-        "cevap": "Karara karşı kanun yollarına (İstinaf/Yargıtay) başvurulmaması veya kanun yolu incelemesinin tamamlanması gerekir."
+        "cevap": "Karara karşı kanun yollarına (İstinaf/Yargıtay) başvurulmaması veya kanun yolu incelemesinin tamamlanması gerekir.",
+        "q_end": 3.91,
+        "a_start": 7.21
       },
       {
         "kart": 97,
         "soru": "İcra Mahkemesi kararlarına karşı İtiraz/İstinaf süresi kaç gündür?",
-        "cevap": "Tebliğ veya tefhim tarihinden itibaren 10 GÜNDÜR."
+        "cevap": "Tebliğ veya tefhim tarihinden itibaren 10 GÜNDÜR.",
+        "q_end": 5.3,
+        "a_start": 8.6
       },
       {
         "kart": 98,
         "soru": "VakıfBank Hukuk Müşavirliği ana hedefi nedir?",
-        "cevap": "Bankanın tüm operasyonel ve ticari faaliyetlerinin meri mevzuata uygunluğunu sağlamak, banka alacaklarını icra/dava kanalıyla eksiksiz tahsil etmektir."
+        "cevap": "Bankanın tüm operasyonel ve ticari faaliyetlerinin meri mevzuata uygunluğunu sağlamak, banka alacaklarını icra/dava kanalıyla eksiksiz tahsil etmektir.",
+        "q_end": 3.62,
+        "a_start": 6.92
       }
     ]
   }
