@@ -5532,102 +5532,142 @@
       {
         "kart": 36,
         "soru": "Kolektif Şirket ortaklarının şirket borçlarından sorumluluğu nasıldır?",
-        "cevap": "Kolektif şirket ortakları şirket borçlarından şahsen, sınırsız ve müteselsilen sorumludur."
+        "cevap": "Kolektif şirket ortakları şirket borçlarından şahsen, sınırsız ve müteselsilen sorumludur.",
+        "q_end": 4.7,
+        "a_start": 8.0
       },
       {
         "kart": 37,
         "soru": "Anonim ve Limited Şirket ortaklarının borç sorumluluğu nasıldır?",
-        "cevap": "Ortaklar şirket borçlarından sadece koymayı taahhüt ettikleri sermaye payları kadar sorumludur (A.Ş. ve LTD kamu borçlarında kanuni temsilciler sorumludur)."
+        "cevap": "Ortaklar şirket borçlarından sadece koymayı taahhüt ettikleri sermaye payları kadar sorumludur (A.Ş. ve LTD kamu borçlarında kanuni temsilciler sorumludur).",
+        "q_end": 4.27,
+        "a_start": 7.57
       },
       {
         "kart": 38,
         "soru": "Ticari Temsilci (Mümessil) ile Ticari Vekil yetki sınırı farkı nedir?",
-        "cevap": "Ticari Temsilci işletmenin tüm işlerini yürütmeye ve imza atmaya geniş yetkilidir (gayrimenkul devri hariç). Ticari Vekil ise işletmenin olağan belirli işlerini yürütmekle görevli sınırlı yetkilidir."
+        "cevap": "Ticari Temsilci işletmenin tüm işlerini yürütmeye ve imza atmaya geniş yetkilidir (gayrimenkul devri hariç). Ticari Vekil ise işletmenin olağan belirli işlerini yürütmekle görevli sınırlı yetkilidir.",
+        "q_end": 5.26,
+        "a_start": 8.56
       },
       {
         "kart": 39,
         "soru": "Kıymetli Evrak tanımı nedir?",
-        "cevap": "Hakkın senede bağlandığı, senetsiz ileri sürülemeyen ve devredilemeyen resmi senetlerdir."
+        "cevap": "Hakkın senede bağlandığı, senetsiz ileri sürülemeyen ve devredilemeyen resmi senetlerdir.",
+        "q_end": 2.62,
+        "a_start": 5.92
       },
       {
         "kart": 40,
         "soru": "Kambiyo Senetleri hangileridir?",
-        "cevap": "Çek, Bono (Senet) ve Poliçe'dir."
+        "cevap": "Çek, Bono (Senet) ve Poliçe'dir.",
+        "q_end": 2.88,
+        "a_start": 6.18
       },
       {
         "kart": 41,
         "soru": "Çek ile Bono arasındaki temel işlev farkı nedir?",
-        "cevap": "Çek bir ÖDEME ARACIDIR (vade içermez, görüldüğünde ödenir). Bono ise bir KREDİ/BORÇ TAAHHÜT ARACIDIR (vade içerir)."
+        "cevap": "Çek bir ÖDEME ARACIDIR (vade içermez, görüldüğünde ödenir). Bono ise bir KREDİ/BORÇ TAAHHÜT ARACIDIR (vade içerir).",
+        "q_end": 3.72,
+        "a_start": 7.02
       },
       {
         "kart": 42,
         "soru": "Poliçede yer alan 3 taraf kimlerdir?",
-        "cevap": "1. Keşideci (Düzenleyen) | 2. Muhatap (Borçlu/Ödeyecek olan) | 3. Lehtar (Alacaklı)."
+        "cevap": "1. Keşideci (Düzenleyen) | 2. Muhatap (Borçlu/Ödeyecek olan) | 3. Lehtar (Alacaklı).",
+        "q_end": 3.19,
+        "a_start": 6.49
       },
       {
         "kart": 43,
         "soru": "Poliçede 'Kabul' işlemi ne anlama gelir?",
-        "cevap": "Muhatabın poliçe üzerine kabulüm yazıp imzalamasıyla poliçenin asıl borçlusu haline gelmesidir."
+        "cevap": "Muhatabın poliçe üzerine kabulüm yazıp imzalamasıyla poliçenin asıl borçlusu haline gelmesidir.",
+        "q_end": 3.17,
+        "a_start": 6.47
       },
       {
         "kart": 44,
         "soru": "Kambiyo Senetlerinde 'Ciro' türleri ve amaçları nelerdir?",
-        "cevap": "1. Temlik Ciro (Alacağı ve mülkiyeti devretmek için) | 2. Tahsil Ciro (Bankaya tahsil yetkisi vermek için) | 3. Rehin Ciro (Rehin hakkı kurmak için)."
+        "cevap": "1. Temlik Ciro (Alacağı ve mülkiyeti devretmek için) | 2. Tahsil Ciro (Bankaya tahsil yetkisi vermek için) | 3. Rehin Ciro (Rehin hakkı kurmak için).",
+        "q_end": 4.18,
+        "a_start": 7.48
       },
       {
         "kart": 45,
         "soru": "Kambiyo Senetlerinde verilen garanti/kefalete ne ad verilir?",
-        "cevap": "Aval adı verilir. Aval veren kişi kimin için aval vermişse onun gibi sorumlu olur."
+        "cevap": "Aval adı verilir. Aval veren kişi kimin için aval vermişse onun gibi sorumlu olur.",
+        "q_end": 4.85,
+        "a_start": 8.15
       },
       {
         "kart": 46,
         "soru": "Çekte İbraz Süreleri nelerdir?",
-        "cevap": "Çek düzenlendiği yerde ödenecekse: 10 GÜN | Düzenlendiği yerden başka yerde ödenecekse: 1 AY | Farklı kıtalarda ödenecekse: 3 AY."
+        "cevap": "Çek düzenlendiği yerde ödenecekse: 10 GÜN | Düzenlendiği yerden başka yerde ödenecekse: 1 AY | Farklı kıtalarda ödenecekse: 3 AY.",
+        "q_end": 2.88,
+        "a_start": 6.18
       },
       {
         "kart": 47,
         "soru": "Çekte zamanaşımı süresi ne kadardır ve ne zaman başlar?",
-        "cevap": "İbraz süresinin bitiminden itibaren 3 YILDIR."
+        "cevap": "İbraz süresinin bitiminden itibaren 3 YILDIR.",
+        "q_end": 4.22,
+        "a_start": 7.52
       },
       {
         "kart": 48,
         "soru": "Gününde ibraz edilen çekin karşılığının çıkmaması halinde bankanın yasal yükümlülüğü nedir?",
-        "cevap": "Bankaca Kanuni Ödeme Yükümlülüğü Tutarı hamile ödenir ve çekin arkasına 'Karşılıksızdır' kaşesi vurulur."
+        "cevap": "Bankaca Kanuni Ödeme Yükümlülüğü Tutarı hamile ödenir ve çekin arkasına 'Karşılıksızdır' kaşesi vurulur.",
+        "q_end": 6.65,
+        "a_start": 9.95
       },
       {
         "kart": 49,
         "soru": "Kıymetli Evrakta 'Mutlak Def'i' ne demektir?",
-        "cevap": "Senet metninden anlaşılan (vade yokluğu, sahtecilik, ehliyetsizlik) ve senedi elinde bulunduran HERKESE KARŞI ileri sürülebilen def'ilerdir."
+        "cevap": "Senet metninden anlaşılan (vade yokluğu, sahtecilik, ehliyetsizlik) ve senedi elinde bulunduran HERKESE KARŞI ileri sürülebilen def'ilerdir.",
+        "q_end": 3.34,
+        "a_start": 6.64
       },
       {
         "kart": 50,
         "soru": "Kıymetli Evrakta 'Nisbi (Kişisel) Def'i' ne demektir?",
-        "cevap": "Sadece belirli şahıslar arasındaki temel ilişkiden doğan (borcun ödenmiş olması, malın teslim edilmemesi) ve yalnızca İLGİLİ ŞAHSA KARŞI ileri sürülebilen def'ilerdir."
+        "cevap": "Sadece belirli şahıslar arasındaki temel ilişkiden doğan (borcun ödenmiş olması, malın teslim edilmemesi) ve yalnızca İLGİLİ ŞAHSA KARŞI ileri sürülebilen def'ilerdir.",
+        "q_end": 4.03,
+        "a_start": 7.33
       },
       {
         "kart": 51,
         "soru": "İlamlı İcra Takibi ile İlamsız İcra Takibi arasındaki fark nedir?",
-        "cevap": "İlamlı Takip: Bir mahkeme kararına (ilama) dayanarak başlatılır. İlamsız Takip: Mahkeme kararı olmaksızın doğrudan icra dairesinden başlatılır."
+        "cevap": "İlamlı Takip: Bir mahkeme kararına (ilama) dayanarak başlatılır. İlamsız Takip: Mahkeme kararı olmaksızın doğrudan icra dairesinden başlatılır.",
+        "q_end": 5.26,
+        "a_start": 8.56
       },
       {
         "kart": 52,
         "soru": "İlamsız İcra Takibinde ödeme emri tebliğ edilen borçlunun İtiraz Süresi kaç gündür?",
-        "cevap": "Tebliğ tarihinden itibaren 7 GÜNDÜR. 7 gün içinde itiraz edilmezse takip kesinleşir."
+        "cevap": "Tebliğ tarihinden itibaren 7 GÜNDÜR. 7 gün içinde itiraz edilmezse takip kesinleşir.",
+        "q_end": 6.5,
+        "a_start": 9.8
       },
       {
         "kart": 53,
         "soru": "İlamsız takibe borçlu tarafından itiraz edilirse alacaklı ne yapmalıdır?",
-        "cevap": "Alacaklı takibe devam edebilmek için İcra Mahkemesinde 'İtirazın Kaldırılması' veya Genel Mahkemede 'İtirazın İptali Davası' açmalıdır."
+        "cevap": "Alacaklı takibe devam edebilmek için İcra Mahkemesinde 'İtirazın Kaldırılması' veya Genel Mahkemede 'İtirazın İptali Davası' açmalıdır.",
+        "q_end": 5.38,
+        "a_start": 8.68
       },
       {
         "kart": 54,
         "soru": "İcra ve İflas Kanunu Madde 82 uyarınca Borçlunun kesinlikle haczedilemeyen mal ve hakları nelerdir?",
-        "cevap": "Emekli aylıkları (5510 sayılı Kanun), öğrenci bursları, borçlunun mesleğini icra etmesi için gerekli asgari eşyalar haczedilemez."
+        "cevap": "Emekli aylıkları (5510 sayılı Kanun), öğrenci bursları, borçlunun mesleğini icra etmesi için gerekli asgari eşyalar haczedilemez.",
+        "q_end": 7.56,
+        "a_start": 10.86
       },
       {
         "kart": 55,
         "soru": "3. Şahıslardaki Alacakların Haczinde İcra Dairesince gönderilen 'Birinci Haciz İhbarlamasına (İİK 89/1)' itiraz süresi kaç gündür?",
-        "cevap": "Tebliğ tarihinden itibaren 7 GÜNDÜR. 7 gün içinde itiraz edilmezse borç 3. şahsın zimmetinde sayılır."
+        "cevap": "Tebliğ tarihinden itibaren 7 GÜNDÜR. 7 gün içinde itiraz edilmezse borç 3. şahsın zimmetinde sayılır.",
+        "q_end": 9.55,
+        "a_start": 12.85
       },
       {
         "kart": 56,
