@@ -1,5 +1,5 @@
 /* ==========================================================================
-   METİN SESLENDİRME & KARAOKE OKUMA UYGULAMASI (İÇ SCROLL SENKRONİZASYON)
+   METİN SESLENDİRME & KARAOKE OKUMA UYGULAMASI (SF PRO & MEDIA SESSION API)
    ========================================================================== */
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const currentTopicTitle = document.getElementById("currentTopicTitle");
 
   // Özel İstenen Sıralama
-  const topicOrder = ["genelbilgiler", "mevduat", "yatirim", "bireysel", "odemesistemleri", "bankamuhasebesi"];
+  const topicOrder = ["genelbilgiler", "mevduat", "yatirim", "bireysel", "odemesistemleri", "bankamuhasebesi", "disticaret"];
 
   // Uygulama Durumu
   let appData = {};
@@ -57,7 +57,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // 1. TEMA YÖNETİMİ
-  const themeCycle = ["light", "sepya", "dark"];
   const themeIcons = {
     light: "☀️",
     sepya: "📜",
@@ -65,13 +64,13 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   let currentTheme = localStorage.getItem("theme") || "light";
-  if (!themeCycle.includes(currentTheme)) {
+  if (!themeIcons[currentTheme]) {
     currentTheme = "light";
   }
   setTheme(currentTheme);
 
   function setTheme(theme) {
-    if (!themeCycle.includes(theme)) theme = "light";
+    if (!themeIcons[theme]) theme = "light";
     currentTheme = theme;
     document.documentElement.setAttribute("data-theme", theme);
     localStorage.setItem("theme", theme);
@@ -84,19 +83,15 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  if (themeToggleBtn) {
-    themeToggleBtn.addEventListener("click", () => {
-      let idx = themeCycle.indexOf(currentTheme);
-      if (idx === -1) idx = 0;
-      const nextTheme = themeCycle[(idx + 1) % themeCycle.length];
-      setTheme(nextTheme);
-    });
-  }
+  themeToggleBtn.addEventListener("click", () => {
+    const themeCycle = ["light", "sepya", "dark"];
+    const currentIndex = themeCycle.indexOf(currentTheme);
+    const nextTheme = themeCycle[(currentIndex + 1) % themeCycle.length];
+    setTheme(nextTheme);
+  });
 
   if (themeSelect) {
-    themeSelect.addEventListener("change", (e) => {
-      setTheme(e.target.value);
-    });
+    themeSelect.addEventListener("change", (e) => setTheme(e.target.value));
   }
 
   // METİN BOYUTU YÖNETİMİ
@@ -111,7 +106,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // 2. DOĞRUDAN .PDF İNDİRME ENGINE (html2pdf.js)
+  // 2. SADE, BÜYÜK FONT LU VE SAĞ ALTTA SAYFA NUMARALI PDF İNDİRME ENGINE
   if (printPdfBtn) {
     printPdfBtn.addEventListener("click", () => {
       generatePdf();
@@ -410,11 +405,9 @@ document.addEventListener("DOMContentLoaded", () => {
           updateLockScreenMetadata(currentTopic.title, paragraphText);
         }
 
-        // İç kutu (.content-area) içinde otomatik merkeze kaydır
         if ((autoScrollCheck.checked && !isUserScrolling) || forceScroll) {
           isAutoScrolling = true;
 
-          // İç konteyner ortalaması
           const containerTop = contentArea.getBoundingClientRect().top;
           const cardTop = card.getBoundingClientRect().top;
           const containerHeight = contentArea.clientHeight;
@@ -465,7 +458,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  // 8. İÇ KUTUCUK KAYDIRMA SENKRONİZASYONU (CONTENT AREA SCROLL)
+  // 8. İÇ KUTUCUK KAYDIRMA SENKRONİZASYONU
   contentArea.addEventListener("scroll", () => {
     if (isAutoScrolling) return;
 
