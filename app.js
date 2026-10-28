@@ -1,10 +1,13 @@
 /* ==========================================================================
-   METİN SESLENDİRME & KARAOKE OKUMA UYGULAMASI (SF PRO & MEDIA SESSION API)
+   METİN SESLENDİRME & KARAOKE OKUMA UYGULAMASI (AŞAĞI AÇILIR KONU MENÜSÜ)
    ========================================================================== */
 
 document.addEventListener("DOMContentLoaded", () => {
   // DOM Öğeleri
-  const topicsNav = document.getElementById("topicsNav");
+  const topicDropdownBtn = document.getElementById("topicDropdownBtn");
+  const topicDropdownMenu = document.getElementById("topicDropdownMenu");
+  const selectedTopicIcon = document.getElementById("selectedTopicIcon");
+  const selectedTopicTitle = document.getElementById("selectedTopicTitle");
   const contentArea = document.getElementById("contentArea");
   const audioPlayer = document.getElementById("audioPlayer");
   const playToggleBtn = document.getElementById("playToggleBtn");
@@ -57,6 +60,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // 1. TEMA YÖNETİMİ
+  const themeCycle = ["light", "sepya", "dark"];
   const themeIcons = {
     light: "☀️",
     sepya: "📜",
@@ -64,13 +68,13 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   let currentTheme = localStorage.getItem("theme") || "light";
-  if (!themeIcons[currentTheme]) {
+  if (!themeCycle.includes(currentTheme)) {
     currentTheme = "light";
   }
   setTheme(currentTheme);
 
   function setTheme(theme) {
-    if (!themeIcons[theme]) theme = "light";
+    if (!themeCycle.includes(theme)) theme = "light";
     currentTheme = theme;
     document.documentElement.setAttribute("data-theme", theme);
     localStorage.setItem("theme", theme);
@@ -84,14 +88,16 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   themeToggleBtn.addEventListener("click", () => {
-    const themeCycle = ["light", "sepya", "dark"];
-    const currentIndex = themeCycle.indexOf(currentTheme);
-    const nextTheme = themeCycle[(currentIndex + 1) % themeCycle.length];
+    let idx = themeCycle.indexOf(currentTheme);
+    if (idx === -1) idx = 0;
+    const nextTheme = themeCycle[(idx + 1) % themeCycle.length];
     setTheme(nextTheme);
   });
 
   if (themeSelect) {
-    themeSelect.addEventListener("change", (e) => setTheme(e.target.value));
+    themeSelect.addEventListener("change", (e) => {
+      setTheme(e.target.value);
+    });
   }
 
   // METİN BOYUTU YÖNETİMİ
@@ -106,7 +112,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // 2. SADE, BÜYÜK FONT LU VE SAĞ ALTTA SAYFA NUMARALI PDF İNDİRME ENGINE
+  // 2. DOĞRUDAN .PDF İNDİRME ENGINE (html2pdf.js)
   if (printPdfBtn) {
     printPdfBtn.addEventListener("click", () => {
       generatePdf();
@@ -196,7 +202,7 @@ document.addEventListener("DOMContentLoaded", () => {
     .then((res) => res.json())
     .then((data) => {
       appData = data;
-      initNavigation();
+      initDropdownNavigation();
       loadTopic(currentTopicId);
     })
     .catch((err) => {
@@ -206,9 +212,24 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>`;
     });
 
-  // 5. KONU NAVİGASYON
-  function initNavigation() {
-    topicsNav.innerHTML = "";
+  // 5. ŞIK AŞAĞI AÇILIR KONU MENÜSÜ YÖNETİMİ
+  const dropdownContainer = document.querySelector(".topic-dropdown-container");
+
+  if (topicDropdownBtn) {
+    topicDropdownBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      dropdownContainer.classList.toggle("open");
+    });
+  }
+
+  document.addEventListener("click", (e) => {
+    if (dropdownContainer && !dropdownContainer.contains(e.target)) {
+      dropdownContainer.classList.remove("open");
+    }
+  });
+
+  function initDropdownNavigation() {
+    topicDropdownMenu.innerHTML = "";
 
     const availableKeys = topicOrder.filter(key => appData[key]);
     Object.keys(appData).forEach(key => {
@@ -218,16 +239,19 @@ document.addEventListener("DOMContentLoaded", () => {
     availableKeys.forEach((topicId) => {
       const topic = appData[topicId];
       const btn = document.createElement("button");
-      btn.className = `topic-btn ${topicId === currentTopicId ? "active" : ""}`;
+      btn.className = `topic-dropdown-item ${topicId === currentTopicId ? "active" : ""}`;
       btn.dataset.id = topicId;
       btn.innerHTML = `<span>${topic.icon}</span> <span>${topic.title}</span>`;
+
       btn.addEventListener("click", () => {
         if (currentTopicId !== topicId) {
           clearSearch();
           loadTopic(topicId);
         }
+        dropdownContainer.classList.remove("open");
       });
-      topicsNav.appendChild(btn);
+
+      topicDropdownMenu.appendChild(btn);
     });
   }
 
@@ -238,12 +262,17 @@ document.addEventListener("DOMContentLoaded", () => {
     currentTopicId = topicId;
     activeParagraphIndex = -1;
 
-    document.querySelectorAll(".topic-btn").forEach((btn) => {
-      btn.classList.toggle("active", btn.dataset.id === topicId);
-    });
-
+    // Dropdown Buton Metnini ve İkonunu Güncelle
     const topic = appData[topicId];
     if (!topic) return;
+
+    if (selectedTopicIcon) selectedTopicIcon.textContent = topic.icon;
+    if (selectedTopicTitle) selectedTopicTitle.textContent = topic.title;
+
+    // Dropdown Öğelerinin Aktiflik Durumunu Güncelle
+    document.querySelectorAll(".topic-dropdown-item").forEach((btn) => {
+      btn.classList.toggle("active", btn.dataset.id === topicId);
+    });
 
     currentTopicTitle.textContent = topic.title;
 
