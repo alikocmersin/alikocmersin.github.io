@@ -1,68 +1,142 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="tr" data-theme="light">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yapım Aşamasındadır</title>
-  <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
-      background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-      color: #f8fafc;
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 24px;
-      text-align: center;
-    }
-    .card {
-      background: rgba(30, 41, 59, 0.7);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: 24px;
-      padding: 48px 32px;
-      max-width: 440px;
-      width: 100%;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
-    }
-    .icon {
-      font-size: 56px;
-      margin-bottom: 20px;
-      display: inline-block;
-      animation: pulse 2s infinite ease-in-out;
-    }
-    @keyframes pulse {
-      0%, 100% { transform: scale(1); }
-      50% { transform: scale(1.08); }
-    }
-    h1 {
-      font-size: 26px;
-      font-weight: 800;
-      margin-bottom: 12px;
-      color: #f8fafc;
-      letter-spacing: -0.02em;
-    }
-    p {
-      font-size: 15px;
-      color: #94a3b8;
-      line-height: 1.6;
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Sesli Notlar</title>
+
+  <!-- iOS Web App Meta Tags -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="theme-color" content="#f8fafc">
+
+  <!-- Cache-Busting Version String -->
+  <link rel="stylesheet" href="style.css?v=1.2">
+
+  <!-- html2pdf.js (Doğrudan PDF İndirme Kütüphanesi) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 </head>
 <body>
 
-  <div class="card">
-    <div class="icon">🚧</div>
-    <h1>Yapım Aşamasındadır</h1>
-    <p>Sitemiz şu anda güncellenmektedir. Çok yakında hizmetinizdeyiz.</p>
+  <!-- SABİT ÜST BÖLÜM (HEADER & KONULAR) -->
+  <div class="header-wrapper">
+    <header class="header-bar">
+      <!-- Sol Arama Çubuğu -->
+      <div class="search-container">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" class="search-input" placeholder="Konularda Ara..." autocomplete="off">
+        <button id="clearSearchBtn" class="clear-search-btn" title="Aramayı Temizle" style="display:none;">&times;</button>
+      </div>
+
+      <!-- Sağ Aksiyon İkonları -->
+      <div class="header-actions">
+        <!-- PDF İndir İkonu -->
+        <button id="printPdfBtn" class="icon-btn" title="Ders Notunu PDF Olarak İndir">📄</button>
+        <!-- Tema Değiştirme İkonu (Aydınlık / Sepya / Karanlık) -->
+        <button id="themeToggleBtn" class="icon-btn" title="Tema Değiştir (Aydınlık / Sepya / Karanlık)">🌙</button>
+        <!-- Ayarlar İkonu -->
+        <button id="settingsBtn" class="icon-btn" title="Ayarlar">⚙️</button>
+      </div>
+    </header>
+
+    <!-- ARAMA BİLGİ VE DİĞER KONU ÖNERİ BARI -->
+    <div id="searchInfoBar" class="search-info-bar" style="display: none;">
+      <span id="searchResultCount">0 sonuç bulundu</span>
+      <div id="otherTopicSuggestions" class="other-topic-suggestions"></div>
+    </div>
+
+    <!-- KONU KATALOG BUTONLARI (Kategori İsimleri 1 Tık Küçültüldü) -->
+    <nav class="topics-nav" id="topicsNav">
+      <!-- JavaScript ile Dinamik Doldurulur -->
+    </nav>
   </div>
 
+  <!-- ORTA KUTUCUK (SABİT DİKELERDE İÇERİDEN KAYDIRILABİLİR YAZILAR) -->
+  <main class="content-area" id="contentArea">
+    <!-- Dinamik Metin Kartları (Paragraflar) Burada Görünür -->
+  </main>
+
+  <!-- OKUNAN SATIRA HIZLI ODAKLANMA BUTONU -->
+  <button id="focusActiveBtn" class="focus-active-btn" style="display: none;">
+    🎯 Okunan Satıra Odaklan
+  </button>
+
+  <!-- SABİT ALT SES KONTROL BARI -->
+  <div class="audio-bar">
+    <!-- İlerleme Çubuğu & Süre -->
+    <div class="progress-container">
+      <span id="currentTimeLabel">00:00</span>
+      <input type="range" id="progressSlider" class="progress-slider" min="0" max="100" value="0">
+      <span id="totalTimeLabel">00:00</span>
+    </div>
+
+    <!-- Ana Kontroller -->
+    <div class="controls-main">
+      <div class="current-topic-label" id="currentTopicTitle">Genel Bilgiler</div>
+
+      <!-- Ana Başlat / Bekle Tuşu -->
+      <button id="playToggleBtn" class="play-toggle-btn">
+        <span id="playIcon">⏸️</span>
+        <span id="playText">Bekle</span>
+      </button>
+
+      <!-- Mute Tuşu -->
+      <button id="muteBtn" class="mute-btn" title="Sesi Aç/Kapat">🔊</button>
+    </div>
+  </div>
+
+  <!-- AYARLAR MODAL PANELSİ -->
+  <div class="modal-overlay" id="settingsModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title">Okuma & Ses Ayarları</h3>
+        <button class="modal-close-btn" id="closeModalBtn">&times;</button>
+      </div>
+
+      <!-- Tema Seçeneği (Aydınlık / Sepya / Karanlık) -->
+      <div class="setting-option">
+        <span class="setting-label">Görünüm Teması</span>
+        <select id="themeSelect" class="speed-select">
+          <option value="light">☀️ Aydınlık</option>
+          <option value="sepya">📜 Sepya (Göz Yakmayan Kitap)</option>
+          <option value="dark">🌙 Karanlık (Gece)</option>
+        </select>
+      </div>
+
+      <!-- Metin Boyutu Seçimi -->
+      <div class="setting-option">
+        <span class="setting-label">Metin Boyutu</span>
+        <select id="fontSizeSelect" class="speed-select">
+          <option value="14px">Küçük (14px)</option>
+          <option value="16.5px" selected>Normal (16.5px)</option>
+          <option value="19px">Büyük (19px)</option>
+          <option value="22px">Çok Büyük (22px)</option>
+        </select>
+      </div>
+
+      <!-- Okuma Hızı Seçimi -->
+      <div class="setting-option">
+        <span class="setting-label">Okuma Hızı</span>
+        <select id="speedSelect" class="speed-select">
+          <option value="0.8">0.8x (Daha Yavaş)</option>
+          <option value="0.9">0.9x (Sakin)</option>
+          <option value="1.0" selected>1.0x (Normal)</option>
+          <option value="1.1">1.1x (Hızlı)</option>
+          <option value="1.25">1.25x (Çok Hızlı)</option>
+        </select>
+      </div>
+
+      <!-- Otomatik Kaydırma Seçeneği -->
+      <div class="setting-option">
+        <span class="setting-label">Otomatik Kaydırma</span>
+        <input type="checkbox" id="autoScrollCheck" checked style="width: 20px; height: 20px;">
+      </div>
+    </div>
+  </div>
+
+  <!-- Gizli Ses Öğesi -->
+  <audio id="audioPlayer" preload="auto"></audio>
+
+  <script src="app.js?v=1.2"></script>
 </body>
 </html>
